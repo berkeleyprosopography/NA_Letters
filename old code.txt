@@ -1,0 +1,201 @@
+THE FOLLOWING CONTAINS OLDER CODE from different attempts at forming text vectors. But I'm keeping it for now in case I need it.
+
+4 Syls Material
+
+Now let's try to apply a quantitative method to figure out the level of mixed distribution which orthographic variants bear within word forms. The steps here are:
+<ol>
+<li>Create a dictionary that hashes each syllable to a list of its orthographic variants</li>
+<li>Count up the number of instances of one orthographic variant being used in each word form</li>
+<li>Match up the word forms with either variant and see the total numbers of that one word form with both variants together</li>
+</ol>
+
+df_agg = pd.DataFrame(df_ortho_signs.groupby(['str_part','b'])['a'].agg('count')).reset_index()
+df_agg.columns = ['str_part','b','count']
+ortho_list_tuples = {}
+for i, row in df_agg.iterrows():
+    if row['str_part'] in ortho_list_tuples:
+        ortho_list_tuples[row['str_part']].append(row['b'])
+    else:
+        ortho_list_tuples[row['str_part']] = [row['b']]
+
+#clean up the u and ṭe directly. It is easier
+ortho_list_tuples['u1'] = ['u','u₂']
+ortho_list_tuples['u2'] = ['u','u₃']
+ortho_list_tuples['u3'] = ['u₂','u₃']
+ortho_list_tuples['ṭe1'] = ['ṭe','ṭe₂']
+ortho_list_tuples['ṭe2'] = ['ṭe','ṭe₃']
+ortho_list_tuples['ṭe3'] = ['ṭe₂','ṭe₃']
+ortho_list_tuples
+
+df_form_counts = pd.DataFrame(df_ortho_signs.groupby(['str_part','b','form'])['a'].agg('count'))
+df_form_counts = df_form_counts.reset_index()
+df_form_counts = df_form_counts.sort_values(by=['b','a'],ascending=[True,False])
+df_form_counts
+
+l_mixed = []
+for k in ortho_list_tuples:
+    if(len(ortho_list_tuples[k]) == 2):
+        df_ortho1 = df_form_counts[df_form_counts['b'] == ortho_list_tuples[k][0]]
+        df_ortho2 = df_form_counts[df_form_counts['b'] == ortho_list_tuples[k][1]]
+        total_count = 0
+        mixed_count = 0
+        for i, row1 in df_ortho1.iterrows():
+            form1 = re.sub(r'' + k + '[₁₂₃₄₅₆₇₈₉₀]+',k,row1['form'])
+            for j, row2 in df_ortho2.iterrows():
+                total_count += 1
+                form2 = re.sub(r'' + k + '[₁₂₃₄₅₆₇₈₉₀]+',k,row2['form'])
+                if form1 == form2:
+                    data = {
+                        'str_part': k,
+                        'form1': row1['form'],
+                        'form1_c': row1['a'],
+                        'form2': row2['form'],
+                        'form2_c': row2['a'],
+                        'form_base': form1,
+                    }
+                    l_mixed.append(data)
+
+df_mixed = pd.DataFrame(l_mixed)
+df_mixed['total_mixed'] = df_mixed['form1_c'] * df_mixed['form2_c']
+df_mixed
+
+This is the chart to look at to see which orthographic variants are being employed in a meaningful mixed distribution.
+<p>(A note here about perhaps having a cutoff point for total instances for one syllable)</p>
+<p>(A note here about the important orthographic variation included in this chart and how to employ it in our text vector. Do we want to look at the variants only within the word forms with sufficient number of instances or across the whole text? I would say across the whole text. Do we want to restrict the dimensions of the text vectors to only orthographic variants that we select from the chart or employ a kind of weighting system which places more importance on the syllables that are important here? For now, I'm just going to limit it to particular syllables)</p>
+<p>(ALSO, do we want to match up orthographic variants in the context of word forms OR in the context of 2-grams, per David's suggestion. I did entire word forms here, because I found the programming to be easier.)</p>
+
+df_4_syls = df_ortho_signs[df_ortho_signs['str_part'].isin(['šu','ša','ia','li'])]
+df_4_syls = pd.DataFrame(df_4_syls.groupby(['file','str_part','b'])['a'].agg('count')).reset_index()
+df_4_syls
+
+d_file_4_syls = {}
+file_names = df_ortho_signs['file'].unique()
+for f in file_names:
+    d = {}
+    for s in ['ia','ia₂','šu','šu₂','ša','ša₂','li','li₂']:
+        try:
+            n = int(df_4_syls[(df_4_syls['file'] == f) & (df_4_syls['b'] == s)]['a']) + 1
+        except TypeError:
+            n = 1
+        d[s] = n
+    
+    ia_tot = d['ia'] + d['ia₂']
+    su_tot = d['šu'] + d['šu₂']
+    sa_tot = d['ša'] + d['ša₂']
+    li_tot = d['li'] + d['li₂']
+    
+    d_file_4_syls[f] = [d['ia'] / ia_tot,d['ia₂'] / ia_tot,d['li'] / li_tot,d['li₂'] / li_tot,d['ša'] / sa_tot, d['ša₂'] / sa_tot,d['šu'] / su_tot,d['šu₂'] / su_tot]
+df_file_4_syls = pd.DataFrame(d_file_4_syls).transpose()
+df_file_4_syls.columns = ['ia','ia₂','li','li₂','ša','ša₂','šu','šu₂']
+df_file_4_syls
+
+<h2>2. Clustering</h2>
+
+<h3>2.1 Tf-Idf</h3>
+<p>We want to gather all of the signs with their variant orthographies into each text file and generate a vector which will contain a '1' if the text contains an orthography or sign value and a '0' if it does not.</p>
+<p>(Here's where I am unsure of how to form the Tf-Idf matrix. The code currently counts ALL usages of the signs per file. But do we want to...</p>
+<ol><li>Only give each sign usage a 1 or 0 value?</li><li>Keep the totals and normalize the vectors?</li></ol>
+<p>Another thing to consider is if we want to combine Tf-Idf matrices, i.e. the sign orthography variants and the sign syllable variants. Would this be useful? Would we need to distinguish these qualities in the vectors somehow? The same issue occurs if we tack on other variables to the text)</p>
+
+<b>2.1.1. Modified Signs Tf-Idf</b>
+
+df_file_modsigns = pd.DataFrame(df_modsigns.groupby(['file']).apply(lambda x: ' '.join(x.sign_form+':'+x.mods_str))).reset_index()
+df_file_modsigns.columns = ['file','mod_signs_all']
+df_file_modsigns
+
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import TfidfTransformer
+
+trans = TfidfTransformer(smooth_idf=False)
+vect = CountVectorizer(token_pattern='[^ ]+',lowercase=False)
+vect_fit = vect.fit_transform(df_file_modsigns['mod_signs_all'])
+tfidf_fit = trans.fit_transform(vect_fit)
+tfidf1 = pd.DataFrame(tfidf_fit.toarray(),columns=vect.get_feature_names(),index=df_file_modsigns.file)
+tfidf1
+
+<b>2.1.2. TF-IDF for homophonous signs</b>
+
+df_file_orthosigns = pd.DataFrame(df_ortho_signs.groupby(['file']).apply(lambda x: ' '.join(x.b))).reset_index()
+df_file_orthosigns.columns = ['file','homo_signs_all']
+df_file_orthosigns
+
+vect2 = CountVectorizer(token_pattern='[^ ]+',lowercase=False)
+vect_fit2 = vect2.fit_transform(df_file_orthosigns['homo_signs_all'])
+tfidf2 = pd.DataFrame(vect_fit2.toarray(),columns=vect2.get_feature_names(),index=df_file_orthosigns.file)
+tfidf2
+
+<h3>2.2 K-Means Clustering</h3>
+<p>Now we use K-means to cluster the texts. (K-means requires a determination of how many clusters to use. What is this number? How should we determine it?)</p>
+
+<b>2.2.1. Clustering for Modified Signs</b>
+
+from sklearn.cluster import KMeans
+
+km1 = KMeans(n_clusters=7, max_iter=1000).fit(tfidf1)
+
+labels_mods = {}
+
+for i in range(len(km1.labels_)):
+    if km1.labels_[i] in labels_mods:
+        labels_mods[km1.labels_[i]].append(df_file_modsigns.file[i])
+    else:
+        labels_mods[km1.labels_[i]] = [df_file_modsigns.file[i]]
+labels_mods
+
+Same for homophone signs
+
+<b>2.2.2. Clustering for Homophonous Signs</b>
+
+km2 = KMeans(n_clusters=7, max_iter=1000).fit(tfidf2)
+labels_orthos = {}
+
+for i in range(len(km2.labels_)):
+    if km2.labels_[i] in labels_homos:
+        labels_orthos[km2.labels_[i]].append(df_file_orthosigns.file[i])
+    else:
+        labels_orthos[km2.labels_[i]] = [df_file_orthosigns.file[i]]
+labels_orthos
+
+<h3>2. Visualization</h3>
+
+<b>2.1. Visualize from Modified Sign Clusters</b>
+
+from sklearn.manifold import MDS
+
+texts_2d_map = {}
+texts = tfidf1.index
+
+dim_num = len(vect.get_feature_names())
+mds1 = MDS(n_components = 2)
+texts_2d = mds1.fit_transform(tfidf1)
+
+Set up colors for each cluster
+
+color_list = ['white','yellow','green','red','blue','brown','black']
+colors_all = []
+for i in range(len(km1.labels_)):
+    colors_all.append(color_list[km1.labels_[i]])
+colors_all
+
+import matplotlib.pyplot as plt
+plt.figure(num=None, figsize=(16, 16), dpi=80, facecolor='w', edgecolor='k')
+
+x_values = [xy[0] for xy in texts_2d]
+y_values = [xy[1] for xy in texts_2d]
+plt.scatter(x_values,y_values,c=colors_all)
+for i in range(len(texts_2d)):
+    plt.annotate(texts[i],(x_values[i],y_values[i]))
+plt.show()
+
+<b>2.2 Same for homophone signs</b>
+
+dim_num = len(vect2.get_feature_names())
+mds2 = MDS(n_components = 2)
+texts_2d = mds2.fit_transform(tfidf2)
+
+x_values = [xy[0] for xy in texts_2d]
+y_values = [xy[1] for xy in texts_2d]
+plt.scatter(x_values,y_values,c=colors_all)
+for i in range(len(texts_2d)):
+    plt.annotate(texts[i],(x_values[i],y_values[i]))
+plt.show()
