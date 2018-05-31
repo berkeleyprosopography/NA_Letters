@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:38",
+  "UTC-timestamp": "2018-05-31T05:34:16",
   "textid": "P334795",
   "cdl": [
     {
@@ -286,7 +286,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}ba-ag-par-⸢na⸣",
+                  "frag": "{1}ba-ag—par-⸢na⸣",
                   "id": "P334795.l0ec7f",
                   "ref": "P334795.4.1",
                   "inst": "Baga-parna[]PN$Bag-parna",
@@ -324,7 +324,7 @@
                         "v": "ag",
                         "gdl_utf8": "𒀝",
                         "id": "P334795.4.1.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

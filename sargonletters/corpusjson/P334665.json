@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:25",
+  "UTC-timestamp": "2018-05-31T05:33:52",
   "textid": "P334665",
   "cdl": [
     {
@@ -217,14 +217,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}ina-IM-EN-DU-ak\\td",
+                  "frag": "{1}ina—IM—EN—DU-ak\\td",
                   "id": "P334665.l0358d",
                   "ref": "P334665.3.2",
                   "inst": "Ina-šar-Bel-allak[]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}ina-IM-EN-DU-ak=Ina-šar-Bel-allak[1//1]PN'PN$Ina-šar-Bel-allak",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}ina-IM-EN-DU-ak",
+                    "form": "{1}ina-IM—EN—DU-ak",
                     "gdl": [
                       {
                         "det": "semantic",
@@ -248,13 +248,12 @@
                         "v": "ina",
                         "gdl_utf8": "𒀸",
                         "id": "P334665.3.2.1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "IM",
@@ -262,7 +261,8 @@
                             "id": "P334665.3.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "EN",
@@ -270,7 +270,8 @@
                             "id": "P334665.3.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "DU",
@@ -298,10 +299,8 @@
                     ],
                     "cf": "Ina-šar-Bel-allak",
                     "gw": "1",
-                    "sense": "1",
                     "norm": "Ina-šar-Bel-allak",
-                    "pos": "PN",
-                    "epos": "PN"
+                    "pos": "PN"
                   }
                 },
                 {
@@ -901,19 +900,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{[uru]}⸢BAD₃⸣-MAN-GI.NA",
+                  "frag": "{[uru]}⸢BAD₃⸣—MAN—GI.NA",
                   "id": "P334665.l0359b",
                   "ref": "P334665.10.1",
                   "inst": "Dur-Šarruken[1]GN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}BAD₃-MAN-GI.NA=Dur-Šarruken[1//1]GN'GN$Dur-Šarruken",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}BAD₃-MAN-GI.NA",
+                    "form": "{URU}BAD₃—MAN—GI.NA",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -946,7 +944,8 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           },
                           {
@@ -955,21 +954,16 @@
                             "id": "P334665.10.1.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "GI",
-                                "gdl_utf8": "𒄀",
-                                "id": "P334665.10.1.3",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "GI",
+                            "gdl_utf8": "𒄀",
+                            "id": "P334665.10.1.3",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "NA",

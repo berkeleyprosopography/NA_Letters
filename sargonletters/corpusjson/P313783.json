@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:31",
+  "UTC-timestamp": "2018-05-31T05:30:32",
   "textid": "P313783",
   "cdl": [
     {
@@ -307,7 +307,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{⸢lu₂⸣}ša\\d-BAD-HAL-li",
+                  "frag": "{⸢lu₂⸣}ša\\d—BAD-HAL-li",
                   "id": "P313783.l11c26",
                   "ref": "P313783.4.5",
                   "inst": "ša-pēthalli[rider//cavalry]N$",
@@ -342,7 +342,7 @@
                         "form": "ša",
                         "gdl_utf8": "𒊭",
                         "id": "P313783.4.5.1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1",
                         "mods": [
                           {
@@ -798,19 +798,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}BAD₃-MAN-GIN",
+                  "frag": "{uru}BAD₃—MAN—GIN",
                   "id": "P313783.l11c35",
                   "ref": "P313783.7.6",
                   "inst": "Dur-Šarruken[1]GN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}BAD₃-MAN-GIN=Dur-Šarruken[1//1]GN'GN$Dur-Šarruken",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}BAD₃-MAN-GIN",
+                    "form": "{URU}BAD₃—MAN—GIN",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -837,7 +836,8 @@
                             "id": "P313783.7.6.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "MAN",
@@ -845,7 +845,8 @@
                             "id": "P313783.7.6.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "GIN",

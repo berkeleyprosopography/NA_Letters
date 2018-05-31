@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:24",
+  "UTC-timestamp": "2018-05-31T05:33:50",
   "textid": "P334658",
   "cdl": [
     {
@@ -199,7 +199,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}tak-lak-a-na-EN",
+                  "frag": "{1}tak-lak—a-na—EN",
                   "id": "P334658.l05a04",
                   "ref": "P334658.3.2",
                   "inst": "Taklak-ana-Bel[1]PN",
@@ -236,7 +236,7 @@
                         "v": "lak",
                         "gdl_utf8": "𒋃",
                         "id": "P334658.3.2.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -249,7 +249,7 @@
                         "v": "na",
                         "gdl_utf8": "𒈾",
                         "id": "P334658.3.2.4",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -1185,20 +1185,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}⸢BAD₃\\p⸣-{1}MAN-GI].⸢NA⸣",
+                  "frag": "{uru}⸢BAD₃\\p⸣—{1}MAN—GI].⸢NA⸣",
                   "id": "P334658.l05a1c",
                   "ref": "P334658.9.3",
                   "inst": "Dur-Šarruken[1]GN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}BAD₃-{1}MAN-GI.NA=Dur-Šarruken[1//1]GN'GN$Dur-Šarruken",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}BAD₃-{1}MAN-GI.NA",
+                    "form": "{URU}BAD₃-{1}MAN—GI.NA",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1228,7 +1227,8 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1",
                             "mods": [
                               {
@@ -1244,7 +1244,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1274,24 +1273,19 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "GI",
-                                "gdl_utf8": "𒄀",
-                                "id": "P334658.9.3.4",
-                                "break": "missing",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "o": "]",
-                                "breakEnd": "P334658.9.3.2",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "GI",
+                            "gdl_utf8": "𒄀",
+                            "id": "P334658.9.3.4",
+                            "break": "missing",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "o": "]",
+                            "breakEnd": "P334658.9.3.2",
+                            "delim": "."
                           },
                           {
                             "s": "NA",

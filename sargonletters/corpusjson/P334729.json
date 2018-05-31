@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:33",
+  "UTC-timestamp": "2018-05-31T05:34:08",
   "textid": "P334729",
   "cdl": [
     {
@@ -212,14 +212,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}ina-IM-EN-a-lak]",
+                  "frag": "{1}ina—IM—EN—a-lak]",
                   "id": "P334729.l03520",
                   "ref": "P334729.3.2",
                   "inst": "Ina-šar-Bel-allak[1]PN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}ina-IM-EN-a-lak=Ina-šar-Bel-allak[1//1]PN'PN$Ina-šar-Bel-allak",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}ina-IM-EN-a-lak",
+                    "form": "{1}ina-IM—EN-a-lak",
                     "gdl": [
                       {
                         "det": "semantic",
@@ -245,13 +245,12 @@
                         "gdl_utf8": "𒀸",
                         "id": "P334729.3.2.1",
                         "break": "missing",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "IM",
@@ -260,7 +259,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "EN",
@@ -269,7 +269,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -291,10 +292,7 @@
                     ],
                     "cf": "Ina-šar-Bel-allak",
                     "gw": "1",
-                    "sense": "1",
-                    "norm": "Ina-šar-Bel-allak",
-                    "pos": "PN",
-                    "epos": "PN"
+                    "pos": "PN"
                   }
                 },
                 {
@@ -849,19 +847,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{⸢uru}BAD₃⸣-[MAN-GIN]",
+                  "frag": "{⸢uru}BAD₃⸣—[MAN—GIN]",
                   "id": "P334729.l0352e",
                   "ref": "P334729.6.3",
                   "inst": "Dur-Šarruken[1]GN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}BAD₃-MAN-GIN=Dur-Šarruken[1//1]GN'GN$Dur-Šarruken",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}BAD₃-MAN-GIN",
+                    "form": "{URU}BAD₃—MAN—GIN",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -891,7 +888,8 @@
                             "break": "damaged",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           },
                           {
@@ -903,7 +901,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "GIN",
@@ -1428,7 +1427,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂-{⸢d⸣}[PA]",
+                  "frag": "E₂—{⸢d⸣}[PA]",
                   "id": "P334729.l0353b",
                   "ref": "P334729.9.5",
                   "cof-tails": "P334729.l0353c",
@@ -1441,7 +1440,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "E₂",
@@ -1449,7 +1447,8 @@
                             "id": "P334729.9.5.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -1495,7 +1494,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂-{⸢d⸣}[PA]",
+                  "frag": "E₂—{⸢d⸣}[PA]",
                   "id": "P334729.l0353c",
                   "ref": "P334729.9.5",
                   "cof-head": "P334729.l0353b",
@@ -1507,7 +1506,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "E₂",
@@ -1515,7 +1513,8 @@
                             "id": "P334729.9.5.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

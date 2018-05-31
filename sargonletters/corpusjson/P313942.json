@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:48",
+  "UTC-timestamp": "2018-05-31T05:30:56",
   "textid": "P313942",
   "cdl": [
     {
@@ -201,7 +201,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DINGIR-ia-da-aʾ]",
+                  "frag": "{1}DINGIR—ia-da-aʾ]",
                   "id": "P313942.l113a3",
                   "ref": "P313942.2.5",
                   "inst": "Il-yadaʾ[1]PN",
@@ -213,7 +213,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -241,7 +240,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

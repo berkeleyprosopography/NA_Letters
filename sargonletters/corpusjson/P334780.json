@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:36",
+  "UTC-timestamp": "2018-05-31T05:34:12",
   "textid": "P334780",
   "cdl": [
     {
@@ -932,7 +932,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂}mu-⸢tir⸣-[ṭe₃-me]",
+                  "frag": "{lu₂}mu-⸢tir⸣—[ṭe₃-me]",
                   "id": "P334780.l0e633",
                   "ref": "P334780.10.2",
                   "cof-tails": "P334780.l0e634",
@@ -973,7 +973,7 @@
                         "id": "P334780.10.2.2",
                         "break": "damaged",
                         "ho": "1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1",
                         "hc": "1"
                       },
@@ -1005,7 +1005,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂}mu-⸢tir⸣-[ṭe₃-me]",
+                  "frag": "{lu₂}mu-⸢tir⸣—[ṭe₃-me]",
                   "id": "P334780.l0e634",
                   "ref": "P334780.10.2",
                   "cof-head": "P334780.l0e633",
@@ -1046,7 +1046,7 @@
                         "id": "P334780.10.2.2",
                         "break": "damaged",
                         "ho": "1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1",
                         "hc": "1"
                       },
@@ -1119,20 +1119,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}ŠU₂-⸢MAN-PAB⸣",
+                  "frag": "{1}{d}ŠU₂—⸢MAN—PAB⸣",
                   "id": "P334780.l0e636",
                   "ref": "P334780.11.2",
                   "inst": "Marduk-šarru-uṣur[1]PN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}ŠU₂-MAN-PAB=Marduk-šarru-uṣur[1//1]PN'PN$Marduk-šarru-uṣur",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}ŠU₂-MAN-PAB",
+                    "form": "{1}{d}ŠU₂—MAN—PAB",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1169,7 +1168,8 @@
                             "id": "P334780.11.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "MAN",
@@ -1180,7 +1180,8 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "PAB",

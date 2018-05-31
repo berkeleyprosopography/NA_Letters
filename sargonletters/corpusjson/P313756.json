@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:27",
+  "UTC-timestamp": "2018-05-31T05:30:27",
   "textid": "P313756",
   "cdl": [
     {
@@ -5927,21 +5927,20 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}A]-⸢KIN⸣-e\\d-a",
+                  "frag": "{lu₂v}A]—⸢KIN⸣-e\\d-a",
                   "id": "P313756.l13b5f",
                   "ref": "P313756.27.3",
                   "cof-tails": "P313756.l13b60",
                   "inst": "māru[son]N$mār&šipru[sending]N$šiprēya",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}A-KIN-e-a=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:=šipru[sending//sending]N'N$šiprēya",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}A-KIN-e-a",
+                    "form": "{LU₂}A—KIN-e-a",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -5980,7 +5979,8 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P313756.27.1.0",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "KIN",
@@ -6017,29 +6017,25 @@
                     ],
                     "cf": "māru",
                     "gw": "son",
-                    "sense": "son",
                     "norm": "mār",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}A]-⸢KIN⸣-e\\d-a",
+                  "frag": "{lu₂v}A]—⸢KIN⸣-e\\d-a",
                   "id": "P313756.l13b60",
                   "ref": "P313756.27.3",
                   "cof-head": "P313756.l13b5f",
                   "inst": "māru[son]N$mār&šipru[sending]N$šiprēya",
-                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=šipru[sending//sending]N'N$šiprēya",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}A-KIN-e-a",
+                    "form": "{LU₂}A—KIN-e-a",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -6078,7 +6074,8 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P313756.27.1.0",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "KIN",
@@ -6115,10 +6112,8 @@
                     ],
                     "cf": "šipru",
                     "gw": "sending",
-                    "sense": "sending",
                     "norm": "šiprēya",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
@@ -7093,20 +7088,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}U.GUR-KAR-ir",
+                  "frag": "{1}{d}U.GUR—KAR-ir",
                   "id": "P313756.l13b80",
                   "ref": "P313756.31.4",
                   "inst": "Nergal-eṭir[1]PN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}U.GUR-KAR-ir=Nergal-eṭir[1//1]PN'PN$Nergal-eṭir",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}U.GUR-KAR-ir",
+                    "form": "{1}{d}U.GUR—KAR-ir",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -7151,7 +7145,8 @@
                             "id": "P313756.31.4.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "KAR",
@@ -7171,10 +7166,7 @@
                     ],
                     "cf": "Nergal-eṭir",
                     "gw": "1",
-                    "sense": "1",
-                    "norm": "Nergal-eṭir",
-                    "pos": "PN",
-                    "epos": "PN"
+                    "pos": "PN"
                   }
                 },
                 {

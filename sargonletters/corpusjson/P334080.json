@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:30",
+  "UTC-timestamp": "2018-05-31T05:32:04",
   "textid": "P334080",
   "cdl": [
     {
@@ -233,7 +233,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA-pa-šir",
+                  "frag": "{1}{d}PA—pa-šir",
                   "id": "P334080.l04b27",
                   "ref": "P334080.3.2",
                   "inst": "Nabu-pašir[]PN$",
@@ -245,7 +245,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -282,7 +281,8 @@
                             "id": "P334080.3.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -850,7 +850,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}da-di-su-ri",
+                  "frag": "{1}da-di—su-ri",
                   "id": "P334080.l04b33",
                   "ref": "P334080.9.1",
                   "inst": "Dadi-suri[]PN$",
@@ -891,7 +891,7 @@
                         "v": "di",
                         "gdl_utf8": "𒁲",
                         "id": "P334080.9.1.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -1348,7 +1348,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}⸢gab-bi⸣-a-mur",
+                  "frag": "{1}⸢gab-bi⸣—a-mur",
                   "id": "P334080.l04b3c",
                   "ref": "P334080.14.2",
                   "inst": "Gabbu-amur[1]PN$Gabbi-amur",
@@ -1389,7 +1389,7 @@
                         "id": "P334080.14.2.2",
                         "break": "damaged",
                         "gdl_collated": "1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1",
                         "hc": "1"
                       },
@@ -1938,7 +1938,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "03-ši-UD-me-⸢šu₂⸣",
+                  "frag": "03-ši—UD-me-⸢šu₂⸣",
                   "id": "P334080.l04b4d",
                   "ref": "P334080.22.2",
                   "inst": "šalšūmi[the day before yesterday]AV$šalši-ūmēšu",
@@ -1964,7 +1964,7 @@
                         "v": "ši",
                         "gdl_utf8": "𒅆",
                         "id": "P334080.22.2.1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -3028,7 +3028,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}rem₂-ni\\d-10",
+                  "frag": "{1}rem₂-ni\\d—10",
                   "id": "P334080.l04b67",
                   "ref": "P334080.32.3",
                   "inst": "Remanni-Adad[]PN$",
@@ -3065,7 +3065,7 @@
                         "form": "ni",
                         "gdl_utf8": "𒉌",
                         "id": "P334080.32.3.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1",
                         "mods": [
                           {

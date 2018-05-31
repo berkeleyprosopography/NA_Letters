@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:19",
+  "UTC-timestamp": "2018-05-31T05:33:40",
   "textid": "P334595",
   "cdl": [
     {
@@ -795,7 +795,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}BAD₃-ia-ki-ni",
+                  "frag": "{uru}BAD₃—ia-ki-ni",
                   "id": "P334595.l0b8de",
                   "ref": "P334595.6.3",
                   "inst": "Dur-Yakin[]GN$Dur-Yakini",
@@ -807,7 +807,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -834,7 +833,8 @@
                             "id": "P334595.6.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -981,7 +981,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}GAL-10-MEŠ-te",
+                  "frag": "{lu₂v}GAL—10-MEŠ-te",
                   "id": "P334595.l0b8e2",
                   "ref": "P334595.7.4",
                   "cof-tails": "P334595.l0b8e3",
@@ -994,7 +994,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1029,7 +1028,8 @@
                             "id": "P334595.7.4.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -1076,7 +1076,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}GAL-10-MEŠ-te",
+                  "frag": "{lu₂v}GAL—10-MEŠ-te",
                   "id": "P334595.l0b8e3",
                   "ref": "P334595.7.4",
                   "cof-head": "P334595.l0b8e2",
@@ -1089,7 +1089,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1124,7 +1123,8 @@
                             "id": "P334595.7.4.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -1212,7 +1212,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}BAD₃-ia-ki-na-a.a",
+                  "frag": "{uru}BAD₃—ia-ki-na-a.a",
                   "id": "P334595.l0b8e5",
                   "ref": "P334595.8.2",
                   "inst": "Dur-Yakinaya[Dur-Yakinite]EN$",
@@ -1224,7 +1224,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1251,7 +1250,8 @@
                             "id": "P334595.8.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:23",
+  "UTC-timestamp": "2018-05-31T05:31:52",
   "textid": "P334038",
   "cdl": [
     {
@@ -199,7 +199,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DUG₃.GA-ṣil-E₂.ŠAR₂.RA",
+                  "frag": "{1}DUG₃.GA—ṣil—E₂.ŠAR₂.RA",
                   "id": "P334038.l0290e",
                   "ref": "P334038.3.2",
                   "inst": "Ṭab-ṣil-Ešarra[1]PN",
@@ -211,7 +211,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -245,7 +244,8 @@
                             "id": "P334038.3.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -253,7 +253,7 @@
                         "v": "ṣil",
                         "gdl_utf8": "𒉣",
                         "id": "P334038.3.2.3",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -269,18 +269,12 @@
                             "delim": "."
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "ŠAR₂",
-                                "gdl_utf8": "𒊹",
-                                "id": "P334038.3.2.5",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "ŠAR₂",
+                            "gdl_utf8": "𒊹",
+                            "id": "P334038.3.2.5",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "RA",
@@ -1128,7 +1122,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}KA₂-bit-qi",
+                  "frag": "{uru}KA₂—bit-qi",
                   "id": "P334038.l02923",
                   "ref": "P334038.10.2",
                   "inst": "Bab-bitqi[1]GN",
@@ -1140,7 +1134,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1167,7 +1160,8 @@
                             "id": "P334038.10.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -2573,7 +2567,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}KA₂-bit-qi",
+                  "frag": "{uru}KA₂—bit-qi",
                   "id": "P334038.l02943",
                   "ref": "P334038.23.2",
                   "inst": "Bab-bitqi[1]GN",
@@ -2585,7 +2579,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -2612,7 +2605,8 @@
                             "id": "P334038.23.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -3507,7 +3501,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}KA₂-bit-qi",
+                  "frag": "{uru}KA₂—bit-qi",
                   "id": "P334038.l02958",
                   "ref": "P334038.31.2",
                   "inst": "Bab-bitqi[1]GN",
@@ -3519,7 +3513,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -3546,7 +3539,8 @@
                             "id": "P334038.31.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

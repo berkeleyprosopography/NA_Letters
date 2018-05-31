@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:45",
+  "UTC-timestamp": "2018-05-31T05:34:30",
   "textid": "P334892",
   "cdl": [
     {
@@ -213,7 +213,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}⸢gab⸣-[bu-ana-aš-šur]",
+                  "frag": "{1}⸢gab⸣-[bu—ana—aš-šur]",
                   "id": "P334892.l08ff4",
                   "ref": "P334892.3.2",
                   "inst": "Gabbu-ana-Aššur[1]PN",
@@ -257,7 +257,7 @@
                         "breakStart": "1",
                         "o": "[",
                         "break": "missing",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -265,7 +265,7 @@
                         "gdl_utf8": "𒁹",
                         "id": "P334892.3.2.3",
                         "break": "missing",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

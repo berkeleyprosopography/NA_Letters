@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:54",
+  "UTC-timestamp": "2018-05-31T05:31:06",
   "textid": "P314008",
   "cdl": [
     {
@@ -364,54 +364,42 @@
                             "delim": "."
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
+                            "form": "DA",
+                            "gdl_utf8": "𒁕",
+                            "id": "P314008.4.2.1",
+                            "break": "damaged",
+                            "ho": "1",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": ".",
+                            "hc": "1",
+                            "mods": [
                               {
-                                "form": "DA",
-                                "gdl_utf8": "𒁕",
-                                "id": "P314008.4.2.1",
-                                "break": "damaged",
-                                "ho": "1",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": ".",
-                                "hc": "1",
-                                "mods": [
-                                  {
-                                    "b": "DA"
-                                  },
-                                  {
-                                    "f": "d"
-                                  }
-                                ]
+                                "b": "DA"
+                              },
+                              {
+                                "f": "d"
                               }
                             ]
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
+                            "s": "KASKAL",
+                            "gdl_utf8": "𒆜",
+                            "id": "P314008.4.2.2",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
+                          },
+                          {
+                            "n": "n",
+                            "sexified": "2(diš)",
+                            "form": "2",
+                            "gdl_utf8": "𒈫",
+                            "id": "P314008.4.2.3",
+                            "delim": "-",
+                            "seq": [
                               {
-                                "s": "KASKAL",
-                                "gdl_utf8": "𒆜",
-                                "id": "P314008.4.2.2",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              },
-                              {
-                                "n": "n",
-                                "sexified": "2(diš)",
-                                "form": "2",
-                                "gdl_utf8": "𒈫",
-                                "id": "P314008.4.2.3",
-                                "delim": "-",
-                                "seq": [
-                                  {
-                                    "r": "2"
-                                  }
-                                ]
+                                "r": "2"
                               }
                             ]
                           },
@@ -1087,21 +1075,20 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{⸢lu₂v⸣}ERIM-MAN-MEŠ\\m",
+                  "frag": "{⸢lu₂v⸣}ERIM—MAN-MEŠ\\m",
                   "id": "P314008.l0d2ab",
                   "ref": "P314008.8.3",
                   "cof-tails": "P314008.l0d2ac",
                   "inst": "ṣābu[people]N$ṣāb&šarru[king]N$šarri",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}ERIM-MAN-MEŠ=ṣābu[people//people]N'N$ṣāb&&@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}ERIM-MAN-MEŠ",
+                    "form": "{LU₂}ERIM—MAN-MEŠ",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1139,7 +1126,8 @@
                             "id": "P314008.8.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "MAN",
@@ -1169,29 +1157,25 @@
                     ],
                     "cf": "ṣābu",
                     "gw": "people",
-                    "sense": "people",
                     "norm": "ṣāb",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "{⸢lu₂v⸣}ERIM-MAN-MEŠ\\m",
+                  "frag": "{⸢lu₂v⸣}ERIM—MAN-MEŠ\\m",
                   "id": "P314008.l0d2ac",
                   "ref": "P314008.8.3",
                   "cof-head": "P314008.l0d2ab",
                   "inst": "ṣābu[people]N$ṣāb&šarru[king]N$šarri",
-                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}ERIM-MAN-MEŠ",
+                    "form": "{LU₂}ERIM—MAN-MEŠ",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1229,7 +1213,8 @@
                             "id": "P314008.8.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "MAN",
@@ -1259,10 +1244,8 @@
                     ],
                     "cf": "šarru",
                     "gw": "king",
-                    "sense": "king",
                     "norm": "šarri",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
@@ -1384,7 +1367,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU]-{1}ia-ki-[ni",
+                  "frag": "DUMU]—{1}ia-ki-[ni",
                   "id": "P314008.l0d2b2",
                   "ref": "P314008.9.3",
                   "inst": "Mar-Yakin[]PN$Mar-Yakini",
@@ -1397,7 +1380,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "DUMU",
@@ -1408,7 +1390,8 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P314008.9.1.0",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

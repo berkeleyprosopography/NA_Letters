@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:43",
+  "UTC-timestamp": "2018-05-31T05:34:27",
   "textid": "P334857",
   "cdl": [
     {
@@ -211,19 +211,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}UTU-EN-PAB]",
+                  "frag": "{1}{d}UTU—EN—PAB]",
                   "id": "P334857.l0f639",
                   "ref": "P334857.3.2",
                   "inst": "Šamaš-belu-uṣur[1]PN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}UTU-EN-PAB=Šamaš-belu-uṣur[1//1]PN'PN$Šamaš-belu-uṣur",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}UTU-EN-PAB",
+                    "form": "{1}{d}UTU—EN—PAB",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -263,7 +262,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "EN",
@@ -272,7 +272,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "PAB",
@@ -792,7 +793,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i-su\\t-ri",
+                  "frag": "i—su\\t-ri",
                   "id": "P334857.l0f645",
                   "ref": "P334857.7.1",
                   "inst": "issurri[perhaps]AV",
@@ -806,7 +807,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P334857.7.1.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -2441,7 +2442,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR-aš-šur",
+                  "frag": "KUR—aš-šur",
                   "id": "P334857.l0f675",
                   "ref": "P334857.19.8",
                   "cof-tails": "P334857.l0f676",
@@ -2454,7 +2455,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "KUR",
@@ -2462,7 +2462,8 @@
                             "id": "P334857.19.8.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -2488,7 +2489,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR-aš-šur",
+                  "frag": "KUR—aš-šur",
                   "id": "P334857.l0f676",
                   "ref": "P334857.19.8",
                   "cof-head": "P334857.l0f675",
@@ -2500,7 +2501,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "KUR",
@@ -2508,7 +2508,8 @@
                             "id": "P334857.19.8.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

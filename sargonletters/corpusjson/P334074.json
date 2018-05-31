@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:28",
+  "UTC-timestamp": "2018-05-31T05:32:01",
   "textid": "P334074",
   "cdl": [
     {
@@ -208,7 +208,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}man-nu-ki-{uru}NINA",
+                  "frag": "{1}man-nu—ki—{uru}NINA",
                   "id": "P334074.l0ed1a",
                   "ref": "P334074.3.2",
                   "inst": "Mannu-ki-Ninua[]PN$",
@@ -248,14 +248,14 @@
                         "v": "nu",
                         "gdl_utf8": "𒉡",
                         "id": "P334074.3.2.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
                         "v": "ki",
                         "gdl_utf8": "𒆠",
                         "id": "P334074.3.2.3",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -1691,14 +1691,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}kar-{1}MAN-GIN",
+                  "frag": "{uru}kar—{1}MAN—GIN",
                   "id": "P334074.l0ed3d",
                   "ref": "P334074.11.4",
                   "inst": "Kar-Šarrukin[1]GN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}kar-{1}MAN-GIN=Kar-Šarrukin[1//1]GN'GN$Kar-Šarrukin",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}kar-{1}MAN-GIN",
+                    "form": "{URU}kar-{1}MAN—GIN",
                     "gdl": [
                       {
                         "det": "semantic",
@@ -1723,13 +1723,12 @@
                         "v": "kar",
                         "gdl_utf8": "𒋼𒀀",
                         "id": "P334074.11.4.1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1755,7 +1754,8 @@
                             "id": "P334074.11.4.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "GIN",
@@ -1769,10 +1769,7 @@
                     ],
                     "cf": "Kar-Šarrukin",
                     "gw": "1",
-                    "sense": "1",
-                    "norm": "Kar-Šarrukin",
-                    "pos": "GN",
-                    "epos": "GN"
+                    "pos": "GN"
                   }
                 },
                 {
@@ -1807,18 +1804,12 @@
                             "delim": "-"
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "HI",
-                                "gdl_utf8": "𒄭",
-                                "id": "P334074.12.1.1",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "HI",
+                            "gdl_utf8": "𒄭",
+                            "id": "P334074.12.1.1",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "A",
@@ -1848,7 +1839,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "am-mar",
+                  "frag": "am—mar",
                   "id": "P334074.l0ed3f",
                   "ref": "P334074.12.2",
                   "inst": "ammar[as much as//whatever]REL$",
@@ -1862,7 +1853,7 @@
                         "v": "am",
                         "gdl_utf8": "𒄠",
                         "id": "P334074.12.2.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -2548,18 +2539,12 @@
                             "delim": "-"
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "HI",
-                                "gdl_utf8": "𒄭",
-                                "id": "P334074.17.4.1",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "HI",
+                            "gdl_utf8": "𒄭",
+                            "id": "P334074.17.4.1",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "A",
@@ -2603,7 +2588,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "am-mar",
+                  "frag": "am—mar",
                   "id": "P334074.l0ed51",
                   "ref": "P334074.19.1",
                   "inst": "ammar[as much as//whatever]REL$",
@@ -2617,7 +2602,7 @@
                         "v": "am",
                         "gdl_utf8": "𒄠",
                         "id": "P334074.19.1.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

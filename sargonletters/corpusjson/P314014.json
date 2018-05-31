@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:55",
+  "UTC-timestamp": "2018-05-31T05:31:06",
   "textid": "P314014",
   "cdl": [
     {
@@ -1282,7 +1282,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur-⸢EN⸣-[x",
+                  "frag": "{1}aš-šur—⸢EN⸣—[x",
                   "id": "P314014.l154d9",
                   "ref": "P314014.9.2",
                   "inst": "u",
@@ -1319,13 +1319,12 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P314014.9.2.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "EN",
@@ -1336,7 +1335,8 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           }
                         ]

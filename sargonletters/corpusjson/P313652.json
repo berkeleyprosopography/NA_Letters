@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:16",
+  "UTC-timestamp": "2018-05-31T05:30:08",
   "textid": "P313652",
   "cdl": [
     {
@@ -2133,7 +2133,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}iq\\d-bi-⸢EN⸣",
+                  "frag": "{uru}iq\\d-bi—⸢EN⸣",
                   "id": "P313652.l12a4b",
                   "ref": "P313652.10.4",
                   "inst": "Iqbi-Bel[]GN$",
@@ -2180,7 +2180,7 @@
                         "v": "bi",
                         "gdl_utf8": "𒁉",
                         "id": "P313652.10.4.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

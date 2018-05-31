@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:56",
+  "UTC-timestamp": "2018-05-31T05:31:07",
   "textid": "P314026",
   "cdl": [
     {
@@ -396,19 +396,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}BAD₃\\p-{1}MAN-⸢GIN⸣",
+                  "frag": "{uru}BAD₃\\p—{1}MAN—⸢GIN⸣",
                   "id": "P314026.l00e68",
                   "ref": "P314026.5.2",
                   "inst": "Dur-Šarruken[1]GN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}BAD₃-{1}MAN-GIN=Dur-Šarruken[1//1]GN'GN$Dur-Šarruken",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}BAD₃-{1}MAN-GIN",
+                    "form": "{URU}BAD₃-{1}MAN—GIN",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -435,7 +434,8 @@
                             "id": "P314026.5.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "mods": [
                               {
                                 "b": "BAD₃"
@@ -450,7 +450,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -476,7 +475,8 @@
                             "id": "P314026.5.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "GIN",
@@ -2131,7 +2131,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR-aš-⸢šur⸣{[ki]}",
+                  "frag": "KUR—aš-⸢šur⸣{[ki]}",
                   "id": "P314026.l00e9d",
                   "ref": "P314026.18.3",
                   "inst": "+Mat-Aššur[Assyria]GN$",
@@ -2143,7 +2143,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "KUR",
@@ -2151,7 +2150,8 @@
                             "id": "P314026.18.3.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -2387,7 +2387,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}GAL-ṣi-[x",
+                  "frag": "{lu₂v}GAL—ṣi-[x",
                   "id": "P314026.l00ea2",
                   "ref": "P314026.23.1",
                   "inst": "u",
@@ -2399,7 +2399,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -2434,7 +2433,8 @@
                             "id": "P314026.23.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -2657,7 +2657,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}e-piš-dul-[li]",
+                  "frag": "{lu₂v}e-piš—dul-[li]",
                   "id": "P314026.l00ea9",
                   "ref": "P314026.25.1",
                   "cof-tails": "P314026.l00eaa",
@@ -2704,7 +2704,7 @@
                         "v": "piš",
                         "gdl_utf8": "𒄫",
                         "id": "P314026.25.1.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -2733,7 +2733,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}e-piš-dul-[li]",
+                  "frag": "{lu₂v}e-piš—dul-[li]",
                   "id": "P314026.l00eaa",
                   "ref": "P314026.25.1",
                   "cof-head": "P314026.l00ea9",
@@ -2780,7 +2780,7 @@
                         "v": "piš",
                         "gdl_utf8": "𒄫",
                         "id": "P314026.25.1.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

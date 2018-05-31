@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:31",
+  "UTC-timestamp": "2018-05-31T05:34:04",
   "textid": "P334716",
   "cdl": [
     {
@@ -211,7 +211,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DINGIR-ia-da-aʾ",
+                  "frag": "{1}DINGIR—ia-da-aʾ",
                   "id": "P334716.l10b4e",
                   "ref": "P334716.3.2",
                   "inst": "Il-yadaʾ[1]PN",
@@ -224,7 +224,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -252,7 +251,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -1127,19 +1127,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}AMAR.UTU-A-AŠ]",
+                  "frag": "{1}{d}AMAR.UTU—A—AŠ]",
                   "id": "P334716.l10b64",
                   "ref": "P334716.7.3",
                   "inst": "Marduk-apla-iddina[Merodach-Baladan]PN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}AMAR.UTU-A-AŠ=Marduk-apla-iddina[Merodach-Baladan//Merodach-Baladan]PN'PN$Marduk-apla-iddina",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}AMAR.UTU-A-AŠ",
+                    "form": "{1}{d}AMAR.UTU—A—AŠ",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1190,7 +1189,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "A",
@@ -1199,7 +1199,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "AŠ",
@@ -1215,8 +1216,8 @@
                       }
                     ],
                     "cf": "Marduk-apla-iddina",
-                    "gw": "Merodach-Baladan",
-                    "sense": "Merodach-Baladan",
+                    "gw": "Merodach-baladan",
+                    "sense": "Merodach-baladan",
                     "norm": "Marduk-apla-iddina",
                     "pos": "PN",
                     "epos": "PN"
@@ -1550,18 +1551,12 @@
                             "delim": "."
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "DU₈",
-                                "gdl_utf8": "𒃮",
-                                "id": "P334716.9.2.1",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "DU₈",
+                            "gdl_utf8": "𒃮",
+                            "id": "P334716.9.2.1",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "A",
@@ -3585,20 +3580,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{⸢d⸣}AMAR.⸢UTU⸣-[A-AŠ",
+                  "frag": "{1}{⸢d⸣}AMAR.⸢UTU⸣—[A—AŠ",
                   "id": "P334716.l10bb7",
                   "ref": "P334716.22.2",
                   "inst": "Marduk-apla-iddina[Merodach-Baladan]PN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}AMAR.UTU-A-AŠ=Marduk-apla-iddina[Merodach-Baladan//Merodach-Baladan]PN'PN$Marduk-apla-iddina",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}AMAR.UTU-A-AŠ",
+                    "form": "{1}{d}AMAR.UTU—A—AŠ",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -3651,7 +3645,8 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           },
                           {
@@ -3663,7 +3658,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "AŠ",
@@ -3677,8 +3673,8 @@
                       }
                     ],
                     "cf": "Marduk-apla-iddina",
-                    "gw": "Merodach-Baladan",
-                    "sense": "Merodach-Baladan",
+                    "gw": "Merodach-baladan",
+                    "sense": "Merodach-baladan",
                     "norm": "Marduk-apla-iddina",
                     "pos": "PN",
                     "epos": "PN"
@@ -3855,22 +3851,16 @@
                             "delim": "."
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "DU₈",
-                                "gdl_utf8": "𒃮",
-                                "id": "P334716.23.4.1",
-                                "break": "damaged",
-                                "queried": "1",
-                                "ho": "1",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": ".",
-                                "hc": "1"
-                              }
-                            ]
+                            "s": "DU₈",
+                            "gdl_utf8": "𒃮",
+                            "id": "P334716.23.4.1",
+                            "break": "damaged",
+                            "queried": "1",
+                            "ho": "1",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": ".",
+                            "hc": "1"
                           },
                           {
                             "s": "A",
@@ -4086,21 +4076,15 @@
                             "delim": "."
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "DU₈",
-                                "gdl_utf8": "𒃮",
-                                "id": "P334716.24.3.1",
-                                "break": "damaged",
-                                "ho": "1",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": ".",
-                                "hc": "1"
-                              }
-                            ]
+                            "s": "DU₈",
+                            "gdl_utf8": "𒃮",
+                            "id": "P334716.24.3.1",
+                            "break": "damaged",
+                            "ho": "1",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": ".",
+                            "hc": "1"
                           },
                           {
                             "s": "A",
@@ -4691,18 +4675,12 @@
                             "hc": "1"
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "DU₈",
-                                "gdl_utf8": "𒃮",
-                                "id": "P334716.27.2.1",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "DU₈",
+                            "gdl_utf8": "𒃮",
+                            "id": "P334716.27.2.1",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "A",

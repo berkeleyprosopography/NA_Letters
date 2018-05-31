@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:46",
+  "UTC-timestamp": "2018-05-31T05:30:53",
   "textid": "P313924",
   "cdl": [
     {
@@ -1049,21 +1049,20 @@
                 },
                 {
                   "node": "l",
-                  "frag": "⸢KASKAL⸣.2--LUGAL",
+                  "frag": "⸢KASKAL⸣.2—LUGAL",
                   "id": "P313924.l12c20",
                   "ref": "P313924.10.4",
                   "cof-tails": "P313924.l12c21",
                   "inst": "hūlu[way]N$hūl&šarru[king]N$šarri",
-                  "sig": "@saao/sargonletters%akk-x-neoass:KASKAL.2-LUGAL=hūlu[way//way]N'N$hūl&&@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "KASKAL.2-LUGAL",
+                    "form": "KASKAL.2—LUGAL",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "KASKAL",
@@ -1082,7 +1081,8 @@
                             "form": "2",
                             "gdl_utf8": "𒈫",
                             "id": "P313924.10.4.1",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "seq": [
                               {
                                 "r": "2"
@@ -1101,29 +1101,25 @@
                     ],
                     "cf": "hūlu",
                     "gw": "way",
-                    "sense": "way",
                     "norm": "hūl",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "⸢KASKAL⸣.2--LUGAL",
+                  "frag": "⸢KASKAL⸣.2—LUGAL",
                   "id": "P313924.l12c21",
                   "ref": "P313924.10.4",
                   "cof-head": "P313924.l12c20",
                   "inst": "hūlu[way]N$hūl&šarru[king]N$šarri",
-                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "KASKAL.2-LUGAL",
+                    "form": "KASKAL.2—LUGAL",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "KASKAL",
@@ -1142,7 +1138,8 @@
                             "form": "2",
                             "gdl_utf8": "𒈫",
                             "id": "P313924.10.4.1",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "seq": [
                               {
                                 "r": "2"
@@ -1161,10 +1158,8 @@
                     ],
                     "cf": "šarru",
                     "gw": "king",
-                    "sense": "king",
                     "norm": "šarri",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {

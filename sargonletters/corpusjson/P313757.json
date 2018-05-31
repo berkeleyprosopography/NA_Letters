@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:28",
+  "UTC-timestamp": "2018-05-31T05:30:28",
   "textid": "P313757",
   "cdl": [
     {
@@ -915,20 +915,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂-EN-e-ni\\d",
+                  "frag": "E₂—EN-e-ni\\d",
                   "id": "P313757.l128b0",
                   "ref": "P313757.9.3",
                   "cof-tails": "P313757.l128b1",
                   "inst": "bītu[house]N$bēt&bēlu[lord]N$bēlēni",
-                  "sig": "@saao/sargonletters%akk-x-neoass:E₂-EN-e-ni=bītu[house//house]N'N$bēt&&@saao/sargonletters%akk-x-neoass:=bēlu[lord//lord]N'N$bēlēni",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "E₂-EN-e-ni",
+                    "form": "E₂—EN-e-ni",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "E₂",
@@ -936,7 +935,8 @@
                             "id": "P313757.9.3.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "EN",
@@ -970,28 +970,24 @@
                     ],
                     "cf": "bītu",
                     "gw": "house",
-                    "sense": "house",
                     "norm": "bēt",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "E₂-EN-e-ni\\d",
+                  "frag": "E₂—EN-e-ni\\d",
                   "id": "P313757.l128b1",
                   "ref": "P313757.9.3",
                   "cof-head": "P313757.l128b0",
                   "inst": "bītu[house]N$bēt&bēlu[lord]N$bēlēni",
-                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=bēlu[lord//lord]N'N$bēlēni",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "E₂-EN-e-ni",
+                    "form": "E₂—EN-e-ni",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "E₂",
@@ -999,7 +995,8 @@
                             "id": "P313757.9.3.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "EN",
@@ -1033,10 +1030,8 @@
                     ],
                     "cf": "bēlu",
                     "gw": "lord",
-                    "sense": "lord",
                     "norm": "bēlēni",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {

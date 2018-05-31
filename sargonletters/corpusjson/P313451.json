@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:41:51",
+  "UTC-timestamp": "2018-05-31T05:29:27",
   "textid": "P313451",
   "cdl": [
     {
@@ -209,14 +209,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}30--[PAB-MEŠ-SU]",
+                  "frag": "{1}30—[PAB—MEŠ—SU]",
                   "id": "P313451.l0c0b9",
                   "ref": "P313451.3.2",
                   "inst": "Sin-ahhe-eriba[Sennacherib]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}30-PAB-MEŠ-SU=Sin-ahhe-eriba[Sennacherib//Sennacherib]PN'PN$Sin-ahhe-eriba",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}30-PAB-MEŠ-SU",
+                    "form": "{1}30-PAB—MEŠ—SU",
                     "gdl": [
                       {
                         "det": "semantic",
@@ -242,7 +242,7 @@
                         "form": "30",
                         "gdl_utf8": "𒌍",
                         "id": "P313451.3.2.1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1",
                         "seq": [
                           {
@@ -253,7 +253,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "PAB",
@@ -264,7 +263,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "MEŠ",
@@ -273,7 +273,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "SU",
@@ -548,7 +549,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "[KUR-aš-šur{ki]}",
+                  "frag": "[KUR—aš-šur{ki]}",
                   "id": "P313451.l0c0c1",
                   "ref": "P313451.5.3",
                   "cof-tails": "P313451.l0c0c2",
@@ -561,7 +562,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "KUR",
@@ -572,7 +572,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -622,7 +623,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "[KUR-aš-šur{ki]}",
+                  "frag": "[KUR—aš-šur{ki]}",
                   "id": "P313451.l0c0c2",
                   "ref": "P313451.5.3",
                   "cof-head": "P313451.l0c0c1",
@@ -634,7 +635,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "KUR",
@@ -645,7 +645,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -1209,7 +1210,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a-dan-niš",
+                  "frag": "a—dan-niš",
                   "id": "P313451.l0c0d0",
                   "ref": "P313451.8.5",
                   "inst": "adanniš[very much]AV",
@@ -1224,7 +1225,7 @@
                         "gdl_utf8": "𒀀",
                         "id": "P313451.8.5.0",
                         "break": "missing",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

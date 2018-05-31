@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:23",
+  "UTC-timestamp": "2018-05-31T05:30:21",
   "textid": "P313723",
   "cdl": [
     {
@@ -2679,7 +2679,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i-su\\t-ri",
+                  "frag": "i—su\\t-ri",
                   "id": "P313723.l13c80",
                   "ref": "P313723.20.5",
                   "inst": "issurri[perhaps]AV",
@@ -2693,7 +2693,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P313723.20.5.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

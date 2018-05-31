@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:08",
+  "UTC-timestamp": "2018-05-31T05:33:19",
   "textid": "P334422",
   "cdl": [
     {
@@ -2011,21 +2011,20 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{⸢lu₂v}GAL⸣-E₂",
+                  "frag": "{⸢lu₂v}GAL⸣—E₂",
                   "id": "P334422.l05ad9",
                   "ref": "P334422.14.1",
                   "cof-tails": "P334422.l05ada",
                   "inst": "rabû[big one]N$rab&bītu[house]N$bēti",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}GAL-E₂=rabû[big one//big one]N'N$rab&&@saao/sargonletters%akk-x-neoass:=bītu[house//house]N'N$bēti",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL-E₂",
+                    "form": "{LU₂}GAL—E₂",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -2063,7 +2062,8 @@
                             "break": "damaged",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           },
                           {
@@ -2078,29 +2078,25 @@
                     ],
                     "cf": "rabû",
                     "gw": "big one",
-                    "sense": "big one",
                     "norm": "rab",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "{⸢lu₂v}GAL⸣-E₂",
+                  "frag": "{⸢lu₂v}GAL⸣—E₂",
                   "id": "P334422.l05ada",
                   "ref": "P334422.14.1",
                   "cof-head": "P334422.l05ad9",
                   "inst": "rabû[big one]N$rab&bītu[house]N$bēti",
-                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=bītu[house//house]N'N$bēti",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL-E₂",
+                    "form": "{LU₂}GAL—E₂",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -2138,7 +2134,8 @@
                             "break": "damaged",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           },
                           {
@@ -2153,10 +2150,8 @@
                     ],
                     "cf": "bītu",
                     "gw": "house",
-                    "sense": "house",
                     "norm": "bēti",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
@@ -3726,20 +3721,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}EN-BAD₃",
+                  "frag": "{1}EN—BAD₃",
                   "id": "P334422.l05b02",
                   "ref": "P334422.25.2",
                   "inst": "Bel-duri[1]PN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}EN-BAD₃=Bel-duri[1//1]PN'PN$Bel-duri",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}EN-BAD₃",
+                    "form": "{1}EN—BAD₃",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -3765,7 +3759,8 @@
                             "id": "P334422.25.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "BAD₃",
@@ -5054,7 +5049,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "03-še-UD-me",
+                  "frag": "03-še—UD-me",
                   "id": "P334422.l05b24",
                   "ref": "P334422.31.5",
                   "inst": "šalšūmi[the day before yesterday]AV$šalše-ūme",
@@ -5080,7 +5075,7 @@
                         "v": "še",
                         "gdl_utf8": "𒊺",
                         "id": "P334422.31.5.1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -5156,20 +5151,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}U.GUR-PAB-ir",
+                  "frag": "{1}{d}U.GUR—PAB-ir",
                   "id": "P334422.l05b26",
                   "ref": "P334422.32.2",
                   "inst": "Nergal-naṣir[]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}U.GUR-PAB-ir=Nergal-naṣir[1//1]PN'PN$Nergal-naṣir",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}U.GUR-PAB-ir",
+                    "form": "{1}{d}U.GUR—PAB-ir",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -5214,7 +5208,8 @@
                             "id": "P334422.32.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "PAB",
@@ -5274,19 +5269,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}MAŠ-DINGIR-a.a",
+                  "frag": "{1}{d}MAŠ—DINGIR-a.a",
                   "id": "P334422.l05b28",
                   "ref": "P334422.32.4",
                   "inst": "Inurta-ilaʾi[1]PN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}MAŠ-DINGIR-a.a=Inurta-ilaʾi[1//1]PN'PN$Inurta-ilaʾi",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}MAŠ-DINGIR-a.a",
+                    "form": "{1}{d}MAŠ—DINGIR-a.a",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -5323,7 +5317,8 @@
                             "id": "P334422.32.4.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "DINGIR",

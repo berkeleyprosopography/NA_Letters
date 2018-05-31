@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:58",
+  "UTC-timestamp": "2018-05-31T05:32:59",
   "textid": "P334331",
   "cdl": [
     {
@@ -202,19 +202,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DUG₃.[GA-GIŠ].MI-E₂.ŠAR₂.[RA]",
+                  "frag": "{1}DUG₃.[GA—GIŠ].MI—E₂.ŠAR₂.[RA]",
                   "id": "P334331.l024a2",
                   "ref": "P334331.3.2",
                   "inst": "Ṭab-ṣil-Ešarra[]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}DUG₃.GA-GIŠ.MI-E₂.ŠAR₂.RA=Ṭab-ṣil-Ešarra[1//1]PN'PN$Ṭab-ṣil-Ešarra",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}DUG₃.GA-GIŠ.MI-E₂.ŠAR₂.RA",
+                    "form": "{1}DUG₃.GA—GIŠ.MI—E₂.ŠAR₂.RA",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -251,24 +250,19 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "GIŠ",
-                                "gdl_utf8": "𒄑",
-                                "id": "P334331.3.2.3",
-                                "break": "missing",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "o": "]",
-                                "breakEnd": "P334331.3.2.2",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "GIŠ",
+                            "gdl_utf8": "𒄑",
+                            "id": "P334331.3.2.3",
+                            "break": "missing",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "o": "]",
+                            "breakEnd": "P334331.3.2.2",
+                            "delim": "."
                           },
                           {
                             "s": "MI",
@@ -276,35 +270,24 @@
                             "id": "P334331.3.2.4",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "E₂",
-                                "gdl_utf8": "𒂍",
-                                "id": "P334331.3.2.5",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "E₂",
+                            "gdl_utf8": "𒂍",
+                            "id": "P334331.3.2.5",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "ŠAR₂",
-                                "gdl_utf8": "𒊹",
-                                "id": "P334331.3.2.6",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "ŠAR₂",
+                            "gdl_utf8": "𒊹",
+                            "id": "P334331.3.2.6",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "RA",
@@ -322,10 +305,8 @@
                     ],
                     "cf": "Ṭab-ṣil-Ešarra",
                     "gw": "1",
-                    "sense": "1",
                     "norm": "Ṭab-ṣil-Ešarra",
-                    "pos": "PN",
-                    "epos": "PN"
+                    "pos": "PN"
                   }
                 },
                 {
@@ -1609,19 +1590,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{⸢d}EN-AGA⸣",
+                  "frag": "{⸢d}EN—AGA⸣",
                   "id": "P334331.l024c1",
                   "ref": "P334331.12.5",
                   "inst": "Bel-age[Lord-of-the-Crown]DN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{d}EN-AGA=Bel-age[Lord-of-the-Crown//Lord-of-the-Crown]DN'DN$Bel-age",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{d}EN-AGA",
+                    "form": "{d}EN—AGA",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1645,7 +1625,8 @@
                             "gdl_collated": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "AGA",

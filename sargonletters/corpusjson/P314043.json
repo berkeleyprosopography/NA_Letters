@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:58",
+  "UTC-timestamp": "2018-05-31T05:31:10",
   "textid": "P314043",
   "cdl": [
     {
@@ -1138,21 +1138,20 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v]}⸢A⸣-KIN\\t-šu₂",
+                  "frag": "{lu₂v]}⸢A⸣—KIN\\t-šu₂",
                   "id": "P314043.l0657c",
                   "ref": "P314043.8.4",
                   "cof-tails": "P314043.l0657d",
                   "inst": "māru[son]N$mār&šipru[sending]N$šiprīšu",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}A-KIN-šu₂=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:=šipru[sending//sending]N'N$šiprīšu",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}A-KIN-šu₂",
+                    "form": "{LU₂}A—KIN-šu₂",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1192,7 +1191,8 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           },
                           {
@@ -1221,29 +1221,25 @@
                     ],
                     "cf": "māru",
                     "gw": "son",
-                    "sense": "son",
                     "norm": "mār",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v]}⸢A⸣-KIN\\t-šu₂",
+                  "frag": "{lu₂v]}⸢A⸣—KIN\\t-šu₂",
                   "id": "P314043.l0657d",
                   "ref": "P314043.8.4",
                   "cof-head": "P314043.l0657c",
                   "inst": "māru[son]N$mār&šipru[sending]N$šiprīšu",
-                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=šipru[sending//sending]N'N$šiprīšu",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}A-KIN-šu₂",
+                    "form": "{LU₂}A—KIN-šu₂",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1283,7 +1279,8 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           },
                           {
@@ -1312,10 +1309,8 @@
                     ],
                     "cf": "šipru",
                     "gw": "sending",
-                    "sense": "sending",
                     "norm": "šiprīšu",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
@@ -1455,7 +1450,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i]-da\\d-tuk-ka",
+                  "frag": "i]—da\\d-tuk-ka",
                   "id": "P314043.l06583",
                   "ref": "P314043.9.5",
                   "cof-tails": "P314043.l06584",
@@ -1473,7 +1468,7 @@
                         "break": "missing",
                         "o": "]",
                         "breakEnd": "P314043.9.1.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -1512,7 +1507,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i]-da\\d-tuk-ka",
+                  "frag": "i]—da\\d-tuk-ka",
                   "id": "P314043.l06584",
                   "ref": "P314043.9.5",
                   "cof-head": "P314043.l06583",
@@ -1530,7 +1525,7 @@
                         "break": "missing",
                         "o": "]",
                         "breakEnd": "P314043.9.1.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

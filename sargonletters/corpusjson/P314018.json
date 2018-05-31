@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:55",
+  "UTC-timestamp": "2018-05-31T05:31:06",
   "textid": "P314018",
   "cdl": [
     {
@@ -211,19 +211,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d]}⸢EN⸣-SU",
+                  "frag": "{1}{d]}⸢EN⸣—SU",
                   "id": "P314018.l0e298",
                   "ref": "P314018.3.2",
                   "inst": "Bel-eriba[]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}EN-SU=Bel-eriba[1//1]PN'PN$Bel-eriba",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}EN-SU",
+                    "form": "{1}{d}EN—SU",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -266,7 +265,8 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           },
                           {
@@ -590,7 +590,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}10--ra-mi",
+                  "frag": "{1}10—ra-mi",
                   "id": "P314018.l0e2a3",
                   "ref": "P314018.5.6",
                   "inst": "Adda-ramu[]PN$Adda-rami",
@@ -626,7 +626,7 @@
                         "form": "10",
                         "gdl_utf8": "𒌋",
                         "id": "P314018.5.6.1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1",
                         "seq": [
                           {

@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:44",
+  "UTC-timestamp": "2018-05-31T05:32:33",
   "textid": "P334175",
   "cdl": [
     {
@@ -206,7 +206,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur-ba-ni",
+                  "frag": "{1}aš-šur—ba-ni",
                   "id": "P334175.l03073",
                   "ref": "P334175.3.2",
                   "inst": "Aššur-bani[1]PN",
@@ -243,7 +243,7 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P334175.3.2.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

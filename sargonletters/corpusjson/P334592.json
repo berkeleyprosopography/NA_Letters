@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:19",
+  "UTC-timestamp": "2018-05-31T05:33:39",
   "textid": "P334592",
   "cdl": [
     {
@@ -207,19 +207,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA-U-PAB",
+                  "frag": "{1}{d}PA—U—PAB",
                   "id": "P334592.l060ff",
                   "ref": "P334592.3.2",
                   "inst": "Nabu-belu-uṣur[]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}PA-U-PAB=Nabu-belu-uṣur[1//1]PN'PN$Nabu-belu-uṣur",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}PA-U-PAB",
+                    "form": "{1}{d}PA—U—PAB",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -256,7 +255,8 @@
                             "id": "P334592.3.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "U",
@@ -264,7 +264,8 @@
                             "id": "P334592.3.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "PAB",
@@ -1020,7 +1021,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}bur-ṣa-ru\\d-ru",
+                  "frag": "{1}bur—ṣa-ru\\d-ru",
                   "id": "P334592.l06112",
                   "ref": "P334592.11.2",
                   "inst": "Bar-Ṣaruri[]PN$Bur-Ṣaruru",
@@ -1051,7 +1052,7 @@
                         "v": "bur",
                         "gdl_utf8": "𒁓",
                         "id": "P334592.11.2.1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:43",
+  "UTC-timestamp": "2018-05-31T05:32:31",
   "textid": "P334169",
   "cdl": [
     {
@@ -197,19 +197,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}U.GUR-KAR-ir",
+                  "frag": "{1}{d}U.GUR—KAR-ir",
                   "id": "P334169.l0e149",
                   "ref": "P334169.3.2",
                   "inst": "Nergal-eṭir[1]PN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}U.GUR-KAR-ir=Nergal-eṭir[1//1]PN'PN$Nergal-eṭir",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}U.GUR-KAR-ir",
+                    "form": "{1}{d}U.GUR—KAR-ir",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -254,7 +253,8 @@
                             "id": "P334169.3.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "KAR",
@@ -274,10 +274,7 @@
                     ],
                     "cf": "Nergal-eṭir",
                     "gw": "1",
-                    "sense": "1",
-                    "norm": "Nergal-eṭir",
-                    "pos": "PN",
-                    "epos": "PN"
+                    "pos": "PN"
                   }
                 },
                 {
@@ -484,7 +481,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "[a]-⸢dan⸣-niš",
+                  "frag": "[a]—⸢dan⸣-niš",
                   "id": "P334169.l0e14f",
                   "ref": "P334169.6.1",
                   "inst": "adanniš[very much]AV",
@@ -502,7 +499,7 @@
                         "o": "]",
                         "break": "missing",
                         "breakEnd": "P334169.6.1.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

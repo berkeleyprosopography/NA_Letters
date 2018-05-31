@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:23",
+  "UTC-timestamp": "2018-05-31T05:33:49",
   "textid": "P334643",
   "cdl": [
     {
@@ -211,7 +211,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}EN-liq-bi]",
+                  "frag": "{1}EN—liq-bi]",
                   "id": "P334643.l045a7",
                   "ref": "P334643.3.2",
                   "inst": "Bel-liqbi[1]PN",
@@ -223,7 +223,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -253,7 +252,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -2210,19 +2210,13 @@
                             "delim": "."
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "NUN",
-                                "gdl_utf8": "𒉣",
-                                "id": "P334643.21.2.1",
-                                "break": "missing",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "NUN",
+                            "gdl_utf8": "𒉣",
+                            "id": "P334643.21.2.1",
+                            "break": "missing",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "NA",
@@ -2395,24 +2389,18 @@
                             "delim": "."
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
+                            "form": "NUN",
+                            "gdl_utf8": "𒉣",
+                            "id": "P334643.23.1.1",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": ".",
+                            "mods": [
                               {
-                                "form": "NUN",
-                                "gdl_utf8": "𒉣",
-                                "id": "P334643.23.1.1",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": ".",
-                                "mods": [
-                                  {
-                                    "b": "NUN"
-                                  },
-                                  {
-                                    "f": "dm"
-                                  }
-                                ]
+                                "b": "NUN"
+                              },
+                              {
+                                "f": "dm"
                               }
                             ]
                           },
@@ -2480,7 +2468,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a-dan-niš]",
+                  "frag": "a—dan-niš]",
                   "id": "P334643.l045e0",
                   "ref": "P334643.23.3",
                   "inst": "adanniš[very much]AV",
@@ -2494,7 +2482,7 @@
                         "gdl_utf8": "𒀀",
                         "id": "P334643.23.3.0",
                         "break": "missing",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:47",
+  "UTC-timestamp": "2018-05-31T05:30:54",
   "textid": "P313926",
   "cdl": [
     {
@@ -524,7 +524,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}me-ṣa-te-⸢ib⸣-ni",
+                  "frag": "{1}me-ṣa-te—⸢ib⸣-ni",
                   "id": "P313926.l0b41b",
                   "ref": "P313926.5.3",
                   "inst": "Meṣate-ibni[]PN$",
@@ -567,7 +567,7 @@
                         "v": "te",
                         "gdl_utf8": "𒋼",
                         "id": "P313926.5.3.3",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:37",
+  "UTC-timestamp": "2018-05-31T05:32:19",
   "textid": "P334124",
   "cdl": [
     {
@@ -215,7 +215,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}a-mar-DINGIR",
+                  "frag": "{1}a-mar—DINGIR",
                   "id": "P334124.l038f0",
                   "ref": "P334124.3.2",
                   "inst": "Amar-ili[1]PN$",
@@ -252,7 +252,7 @@
                         "v": "mar",
                         "gdl_utf8": "𒈥",
                         "id": "P334124.3.2.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

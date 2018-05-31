@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:46",
+  "UTC-timestamp": "2018-05-31T05:34:33",
   "textid": "P334905",
   "cdl": [
     {
@@ -820,7 +820,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "x]-AŠ",
+                  "frag": "x]—AŠ",
                   "id": "P334905.l123d0",
                   "ref": "P334905.7.3",
                   "inst": "u",
@@ -836,7 +836,7 @@
                         "break": "missing",
                         "o": "]",
                         "breakEnd": "P334905.7.1.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -1375,20 +1375,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}A-KIN-ia",
+                  "frag": "{lu₂v}A—KIN-ia",
                   "id": "P334905.l123dd",
                   "ref": "P334905.11.3",
                   "cof-tails": "P334905.l123de",
                   "inst": "māru[son]N$mār&šipru[sending]N$šiprīya",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}A-KIN-ia=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:=šipru[sending//sending]N'N$šiprīya",
+                  "newsig": "@saao/sargonletters%akk-x-neoass:{LU₂}A—KIN-ia=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:{LU₂}A—KIN-ia=šipru[sending//sending]N'N$šiprīya",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}A-KIN-ia",
+                    "form": "{LU₂}A—KIN-ia",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1423,7 +1422,8 @@
                             "id": "P334905.11.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "KIN",
@@ -1452,19 +1452,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}A-KIN-ia",
+                  "frag": "{lu₂v}A—KIN-ia",
                   "id": "P334905.l123de",
                   "ref": "P334905.11.3",
                   "cof-head": "P334905.l123dd",
                   "inst": "māru[son]N$mār&šipru[sending]N$šiprīya",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}A-KIN-ia",
+                    "form": "{LU₂}A—KIN-ia",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1499,7 +1499,8 @@
                             "id": "P334905.11.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "KIN",
@@ -1520,10 +1521,8 @@
                     ],
                     "cf": "šipru",
                     "gw": "sending",
-                    "sense": "sending",
                     "norm": "šiprīya",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
@@ -2158,7 +2157,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "⸢E₂⸣-{1}u₂-ka-ni",
+                  "frag": "⸢E₂⸣—{1}u₂-ka-ni",
                   "id": "P334905.l123ec",
                   "ref": "P334905.17.3",
                   "inst": "Bit-Amukanni[]GN$",
@@ -2171,7 +2170,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "E₂",
@@ -2182,7 +2180,8 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           }
                         ]
@@ -2683,7 +2682,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a-dan-niš",
+                  "frag": "a—dan-niš",
                   "id": "P334905.l123fa",
                   "ref": "P334905.19.7",
                   "inst": "adanniš[very much]AV",
@@ -2696,7 +2695,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P334905.19.7.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -3378,7 +3377,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a]-dan-niš",
+                  "frag": "a]—dan-niš",
                   "id": "P334905.l12414",
                   "ref": "P334905.23.9",
                   "inst": "adanniš[very much]AV",
@@ -3394,7 +3393,7 @@
                         "break": "missing",
                         "o": "]",
                         "breakEnd": "P334905.23.1.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

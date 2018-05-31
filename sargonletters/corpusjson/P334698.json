@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:29",
+  "UTC-timestamp": "2018-05-31T05:33:59",
   "textid": "P334698",
   "cdl": [
     {
@@ -936,7 +936,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{kur}mu-uṣ~p-[ṣa-ṣir",
+                  "frag": "{kur}mu-uṣ\\p-[ṣa-ṣir",
                   "id": "P334698.l097a3",
                   "ref": "P334698.7.2",
                   "inst": "Muṣaṣir[]GN$",
@@ -972,7 +972,7 @@
                         "delim": "-"
                       },
                       {
-                        "form": "uṣ~p",
+                        "form": "uṣ",
                         "gdl_utf8": "𒊻",
                         "id": "P334698.7.2.2",
                         "delim": "-",
@@ -981,7 +981,7 @@
                             "b": "uṣ"
                           },
                           {
-                            "a": "p"
+                            "f": "p"
                           }
                         ]
                       },
@@ -1707,7 +1707,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DI-mu-EN",
+                  "frag": "{1}DI-mu—EN",
                   "id": "P334698.l097b7",
                   "ref": "P334698.11.3",
                   "inst": "Šulmu-beli[1]PN",
@@ -1753,7 +1753,7 @@
                         "v": "mu",
                         "gdl_utf8": "𒈬",
                         "id": "P334698.11.3.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -2419,7 +2419,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂-{giš}mu-⸢x⸣+[x",
+                  "frag": "E₂—{giš}mu-⸢x⸣+[x",
                   "id": "P334698.l097cd",
                   "ref": "P334698.19.2",
                   "inst": "u",
@@ -2431,7 +2431,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "E₂",
@@ -2439,7 +2438,8 @@
                             "id": "P334698.19.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

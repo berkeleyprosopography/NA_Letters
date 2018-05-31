@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:27",
+  "UTC-timestamp": "2018-05-31T05:33:55",
   "textid": "P334680",
   "cdl": [
     {
@@ -730,19 +730,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}KUR-TI\\t.LA",
+                  "frag": "{1}KUR—TI\\t.LA",
                   "id": "P334680.l14444",
                   "ref": "P334680.7.2",
                   "inst": "Kurʾe-uballiṭ[]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}KUR-TI.LA=Kurʾe-uballiṭ[1//1]PN'PN$Kurʾe-uballiṭ",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}KUR-TI.LA",
+                    "form": "{1}KUR—TI.LA",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -768,27 +767,22 @@
                             "id": "P334680.7.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
+                            "form": "TI",
+                            "gdl_utf8": "𒋾",
+                            "id": "P334680.7.2.2",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": ".",
+                            "mods": [
                               {
-                                "form": "TI",
-                                "gdl_utf8": "𒋾",
-                                "id": "P334680.7.2.2",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": ".",
-                                "mods": [
-                                  {
-                                    "b": "TI"
-                                  },
-                                  {
-                                    "f": "t"
-                                  }
-                                ]
+                                "b": "TI"
+                              },
+                              {
+                                "f": "t"
                               }
                             ]
                           },
@@ -2234,7 +2228,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i-su-ri",
+                  "frag": "i—su-ri",
                   "id": "P334680.l1446a",
                   "ref": "P334680.19.1",
                   "inst": "issurri[perhaps]AV",
@@ -2248,7 +2242,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P334680.19.1.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

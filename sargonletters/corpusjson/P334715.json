@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:31",
+  "UTC-timestamp": "2018-05-31T05:34:03",
   "textid": "P334715",
   "cdl": [
     {
@@ -212,7 +212,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}EN-liq-bi]",
+                  "frag": "{1}EN—liq-bi]",
                   "id": "P334715.l0475d",
                   "ref": "P334715.3.2",
                   "inst": "Bel-liqbi[1]PN",
@@ -224,7 +224,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -252,7 +251,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -498,18 +498,12 @@
                             "delim": "."
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "NUN",
-                                "gdl_utf8": "𒉣",
-                                "id": "P334715.5.1.1",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "NUN",
+                            "gdl_utf8": "𒉣",
+                            "id": "P334715.5.1.1",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "form": "NA",
@@ -4702,7 +4696,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš]-⸢šur-da\\d⸣-lal",
+                  "frag": "{1}aš]-⸢šur—da\\d⸣-lal",
                   "id": "P334715.l047c9",
                   "ref": "P334715.29.4",
                   "inst": "Aššur-dalal[]PN$",
@@ -4746,7 +4740,7 @@
                         "break": "damaged",
                         "queried": "1",
                         "ho": "1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

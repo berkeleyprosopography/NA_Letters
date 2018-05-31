@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:06",
+  "UTC-timestamp": "2018-05-31T05:31:23",
   "textid": "P314171",
   "cdl": [
     {
@@ -417,21 +417,20 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}GAL-DAM.QAR-MEŠ\\m",
+                  "frag": "{lu₂v}GAL—DAM.QAR-MEŠ\\m",
                   "id": "P314171.l13753",
                   "ref": "P314171.4.4",
                   "cof-tails": "P314171.l13754",
                   "inst": "rabû[big one]N$rab&tamkāru[merchant]N$tankarāni",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}GAL-DAM.QAR-MEŠ=rabû[big one//big one]N'N$rab&&@saao/sargonletters%akk-x-neoass:=tamkāru[merchant//merchant]N'N$tankarāni",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL-DAM.QAR-MEŠ",
+                    "form": "{LU₂}GAL—DAM.QAR-MEŠ",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -466,21 +465,16 @@
                             "id": "P314171.4.4.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "DAM",
-                                "gdl_utf8": "𒁮",
-                                "id": "P314171.4.4.2",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "DAM",
+                            "gdl_utf8": "𒁮",
+                            "id": "P314171.4.4.2",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "QAR",
@@ -510,29 +504,25 @@
                     ],
                     "cf": "rabû",
                     "gw": "big one",
-                    "sense": "big one",
                     "norm": "rab",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}GAL-DAM.QAR-MEŠ\\m",
+                  "frag": "{lu₂v}GAL—DAM.QAR-MEŠ\\m",
                   "id": "P314171.l13754",
                   "ref": "P314171.4.4",
                   "cof-head": "P314171.l13753",
                   "inst": "rabû[big one]N$rab&tamkāru[merchant]N$tankarāni",
-                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=tamkāru[merchant//merchant]N'N$tankarāni",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL-DAM.QAR-MEŠ",
+                    "form": "{LU₂}GAL—DAM.QAR-MEŠ",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -567,21 +557,16 @@
                             "id": "P314171.4.4.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "DAM",
-                                "gdl_utf8": "𒁮",
-                                "id": "P314171.4.4.2",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "DAM",
+                            "gdl_utf8": "𒁮",
+                            "id": "P314171.4.4.2",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "QAR",
@@ -611,10 +596,8 @@
                     ],
                     "cf": "tamkāru",
                     "gw": "merchant",
-                    "sense": "merchant",
                     "norm": "tankarāni",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {

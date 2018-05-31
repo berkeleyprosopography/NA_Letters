@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:13",
+  "UTC-timestamp": "2018-05-31T05:31:32",
   "textid": "P314251",
   "cdl": [
     {
@@ -2233,7 +2233,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}ša₂-⸢pet⸣-[hal-a-te]",
+                  "frag": "{lu₂v}ša₂—⸢pet⸣-[hal-a-te]",
                   "id": "P314251.l134d7",
                   "ref": "P314251.16.7",
                   "inst": "ša-pēthallāte[cavalry]N",
@@ -2273,7 +2273,7 @@
                         "v": "ša₂",
                         "gdl_utf8": "𒃻",
                         "id": "P314251.16.7.1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

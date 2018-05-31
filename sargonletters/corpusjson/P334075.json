@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:29",
+  "UTC-timestamp": "2018-05-31T05:32:01",
   "textid": "P334075",
   "cdl": [
     {
@@ -205,7 +205,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}man-nu-ki-{uru}NINA",
+                  "frag": "{1}man-nu—ki—{uru}NINA",
                   "id": "P334075.l0f273",
                   "ref": "P334075.3.2",
                   "inst": "Mannu-ki-Ninua[1]PN",
@@ -242,14 +242,14 @@
                         "v": "nu",
                         "gdl_utf8": "𒉡",
                         "id": "P334075.3.2.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
                         "v": "ki",
                         "gdl_utf8": "𒆠",
                         "id": "P334075.3.2.3",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

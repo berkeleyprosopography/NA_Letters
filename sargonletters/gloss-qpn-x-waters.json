@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:47:51",
+  "UTC-timestamp": "2018-05-31T05:39:55",
   "lang": "qpn-x-waters",
   "entries": [
     {
@@ -1081,6 +1081,10 @@
     "qpn.r00006": [
       "saao/sargonletters:P393866.16.2"
     ],
+    "qpn.r0000c": [
+      "saao/sargonletters:P334344.45.5",
+      "saao/sargonletters:P334692.22.4"
+    ],
     "qpn.r0000b": [
       "saao/sargonletters:P334372.18.3"
     ],
@@ -1092,10 +1096,6 @@
     ],
     "qpn.r0000a": [
       "saao/sargonletters:P314261.6.4"
-    ],
-    "qpn.r0000c": [
-      "saao/sargonletters:P334344.45.5",
-      "saao/sargonletters:P334692.22.4"
     ],
     "qpn.r0000d": [
       "saao/sargonletters:P334606.25.2"
@@ -1130,6 +1130,10 @@
     "qpn.r00006.p.s000": [
       "saao/sargonletters:P393866.16.2"
     ],
+    "qpn.r0000c.p.s000": [
+      "saao/sargonletters:P334344.45.5",
+      "saao/sargonletters:P334692.22.4"
+    ],
     "qpn.r0000b.p.s000": [
       "saao/sargonletters:P334372.18.3"
     ],
@@ -1141,10 +1145,6 @@
     ],
     "qpn.r0000a.p.s000": [
       "saao/sargonletters:P314261.6.4"
-    ],
-    "qpn.r0000c.p.s000": [
-      "saao/sargonletters:P334344.45.5",
-      "saao/sargonletters:P334692.22.4"
     ],
     "qpn.r0000d.p.s000": [
       "saao/sargonletters:P334606.25.2"

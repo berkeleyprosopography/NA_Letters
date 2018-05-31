@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:36",
+  "UTC-timestamp": "2018-05-31T05:30:39",
   "textid": "P313837",
   "cdl": [
     {
@@ -2273,7 +2273,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR-aš-šur{ki}",
+                  "frag": "KUR—aš-šur{ki}",
                   "id": "P313837.l0748b",
                   "ref": "P313837.19.6",
                   "cof-tails": "P313837.l0748c",
@@ -2286,7 +2286,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "KUR",
@@ -2294,7 +2293,8 @@
                             "id": "P313837.19.6.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -2339,7 +2339,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR-aš-šur{ki}",
+                  "frag": "KUR—aš-šur{ki}",
                   "id": "P313837.l0748c",
                   "ref": "P313837.19.6",
                   "cof-head": "P313837.l0748b",
@@ -2351,7 +2351,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "KUR",
@@ -2359,7 +2358,8 @@
                             "id": "P313837.19.6.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

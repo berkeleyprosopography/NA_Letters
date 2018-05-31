@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:22",
+  "UTC-timestamp": "2018-05-31T05:30:18",
   "textid": "P313711",
   "cdl": [
     {
@@ -224,14 +224,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur-BAD₃\\p-IGI-⸢ia⸣",
+                  "frag": "{1}aš-šur—BAD₃\\p—IGI-⸢ia⸣",
                   "id": "P313711.l07bd7",
                   "ref": "P313711.3.2",
                   "inst": "Aššur-dur-paniya[1]PN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}aš-šur-BAD₃-IGI-ia=Aššur-dur-paniya[1//1]PN'PN$Aššur-dur-paniya",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}aš-šur-BAD₃-IGI-ia",
+                    "form": "{1}aš-šur-BAD₃—IGI-ia",
                     "gdl": [
                       {
                         "det": "semantic",
@@ -261,13 +261,12 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P313711.3.2.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "form": "BAD₃",
@@ -275,7 +274,8 @@
                             "id": "P313711.3.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "mods": [
                               {
                                 "b": "BAD₃"
@@ -306,10 +306,7 @@
                     ],
                     "cf": "Aššur-dur-paniya",
                     "gw": "1",
-                    "sense": "1",
-                    "norm": "Aššur-dur-paniya",
-                    "pos": "PN",
-                    "epos": "PN"
+                    "pos": "PN"
                   }
                 },
                 {
@@ -3666,7 +3663,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i-da\\d-at",
+                  "frag": "i—da\\d-at",
                   "id": "P313711.l07c3c",
                   "ref": "P313711.24.1",
                   "cof-tails": "P313711.l07c3d",
@@ -3681,7 +3678,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P313711.24.1.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -3714,7 +3711,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i-da\\d-at",
+                  "frag": "i—da\\d-at",
                   "id": "P313711.l07c3d",
                   "ref": "P313711.24.1",
                   "cof-head": "P313711.l07c3c",
@@ -3729,7 +3726,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P313711.24.1.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

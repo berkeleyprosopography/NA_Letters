@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:13",
+  "UTC-timestamp": "2018-05-31T05:33:29",
   "textid": "P334521",
   "cdl": [
     {
@@ -215,19 +215,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}NIGIN-EN",
+                  "frag": "{1}NIGIN—EN",
                   "id": "P334521.l064cd",
                   "ref": "P334521.3.2",
                   "inst": "Nashir-Bel[1]PN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}NIGIN-EN=Nashir-Bel[1//1]PN'PN$Nashir-Bel",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}NIGIN-EN",
+                    "form": "{1}NIGIN—EN",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -253,7 +252,8 @@
                             "id": "P334521.3.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "EN",

@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:44",
+  "UTC-timestamp": "2018-05-31T05:30:48",
   "textid": "P313898",
   "cdl": [
     {
@@ -1289,7 +1289,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}AMAR.UTU-⸢x⸣+[x",
+                  "frag": "{1}{d}AMAR.UTU—⸢x⸣+[x",
                   "id": "P313898.l0a55f",
                   "ref": "P313898.8.3",
                   "inst": "u",
@@ -1301,7 +1301,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1348,7 +1347,8 @@
                             "id": "P313898.8.3.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -1696,7 +1696,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}MAŠ⸣-ku-⸢x⸣+[x",
+                  "frag": "{1}{d}MAŠ⸣—ku-⸢x⸣+[x",
                   "id": "P313898.l0a56c",
                   "ref": "P313898.10.2",
                   "inst": "u",
@@ -1708,7 +1708,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1749,7 +1748,8 @@
                             "break": "damaged",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           }
                         ]
@@ -2277,7 +2277,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}kal-lap-ši-pir-[te",
+                  "frag": "{lu₂vy}kal-lap—ši-pir-[te",
                   "id": "P313898.l0a580",
                   "ref": "P313898.14.1",
                   "cof-tails": "P313898.l0a581",
@@ -2328,7 +2328,7 @@
                         "v": "lap",
                         "gdl_utf8": "𒆗",
                         "id": "P313898.14.1.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -2362,7 +2362,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}kal-lap-ši-pir-[te",
+                  "frag": "{lu₂vy}kal-lap—ši-pir-[te",
                   "id": "P313898.l0a581",
                   "ref": "P313898.14.1",
                   "cof-head": "P313898.l0a580",
@@ -2413,7 +2413,7 @@
                         "v": "lap",
                         "gdl_utf8": "𒆗",
                         "id": "P313898.14.1.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -2684,7 +2684,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}kal-lap-ši-pir-⸢tu₂⸣",
+                  "frag": "{lu₂vy}kal-lap—ši-pir-⸢tu₂⸣",
                   "id": "P313898.l0a58b",
                   "ref": "P313898.17.1",
                   "cof-tails": "P313898.l0a58c",
@@ -2735,7 +2735,7 @@
                         "v": "lap",
                         "gdl_utf8": "𒆗",
                         "id": "P313898.17.1.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -2769,7 +2769,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}kal-lap-ši-pir-⸢tu₂⸣",
+                  "frag": "{lu₂vy}kal-lap—ši-pir-⸢tu₂⸣",
                   "id": "P313898.l0a58c",
                   "ref": "P313898.17.1",
                   "cof-head": "P313898.l0a58b",
@@ -2820,7 +2820,7 @@
                         "v": "lap",
                         "gdl_utf8": "𒆗",
                         "id": "P313898.17.1.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

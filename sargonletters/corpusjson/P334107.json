@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:34",
+  "UTC-timestamp": "2018-05-31T05:32:13",
   "textid": "P334107",
   "cdl": [
     {
@@ -217,7 +217,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}15--[du-ri]",
+                  "frag": "{1}{d}15—[du-ri]",
                   "id": "P334107.l0cc04",
                   "ref": "P334107.3.2",
                   "inst": "Issar-duri[]PN$",
@@ -261,7 +261,7 @@
                         "form": "15",
                         "gdl_utf8": "𒌋𒐊",
                         "id": "P334107.3.2.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1",
                         "seq": [
                           {
@@ -566,20 +566,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}EN-BA-[ša₂",
+                  "frag": "{1}EN—BA-[ša₂",
                   "id": "P334107.l0cc0c",
                   "ref": "P334107.5.3",
                   "inst": "Bel-iqiša[]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}EN-BA-ša₂=Bel-iqiša[1//1]PN'PN$Bel-iqiša",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}EN-BA-ša₂",
+                    "form": "{1}EN—BA-ša₂",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -605,7 +604,8 @@
                             "id": "P334107.5.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "BA",
@@ -909,7 +909,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "ša\\y-aṣ~d-⸢bit⸣-[su",
+                  "frag": "ša\\y-aṣ\\d-⸢bit⸣-[su",
                   "id": "P334107.l0cc15",
                   "ref": "P334107.7.2",
                   "inst": "ṣabātu[seize//provide]V$šaṣbitsu",
@@ -934,7 +934,7 @@
                         ]
                       },
                       {
-                        "form": "aṣ~d",
+                        "form": "aṣ",
                         "gdl_utf8": "𒊍",
                         "id": "P334107.7.2.1",
                         "delim": "-",
@@ -943,7 +943,7 @@
                             "b": "aṣ"
                           },
                           {
-                            "a": "d"
+                            "f": "d"
                           }
                         ]
                       },
@@ -1860,7 +1860,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "[am-mar]",
+                  "frag": "[am—mar]",
                   "id": "P334107.l0cc31",
                   "ref": "P334107.16.1",
                   "inst": "ammar[as much as]REL",
@@ -1877,7 +1877,7 @@
                         "breakStart": "1",
                         "o": "[",
                         "break": "missing",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

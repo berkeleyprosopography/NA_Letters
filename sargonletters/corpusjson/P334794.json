@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:37",
+  "UTC-timestamp": "2018-05-31T05:34:16",
   "textid": "P334794",
   "cdl": [
     {
@@ -218,7 +218,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DINGIR-iq-⸢bi⸣",
+                  "frag": "{1}DINGIR—iq-⸢bi⸣",
                   "id": "P334794.l03a41",
                   "ref": "P334794.4.2",
                   "inst": "Ilu-iqbi[]PN$",
@@ -230,7 +230,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -256,7 +255,8 @@
                             "id": "P334794.4.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

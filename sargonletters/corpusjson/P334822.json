@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:39",
+  "UTC-timestamp": "2018-05-31T05:34:19",
   "textid": "P334822",
   "cdl": [
     {
@@ -879,7 +879,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}AN.GAL-⸢x⸣+[x",
+                  "frag": "{1}AN.GAL—⸢x⸣+[x",
                   "id": "P334822.l11e18",
                   "ref": "P334822.8.4",
                   "inst": "u",
@@ -891,7 +891,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -928,7 +927,8 @@
                             "id": "P334822.8.4.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -1076,20 +1076,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA]-NUMUN-DU₃",
+                  "frag": "{1}{d}PA]—NUMUN—DU₃",
                   "id": "P334822.l11e1e",
                   "ref": "P334822.9.3",
                   "inst": "Nabu-zeru-ibni[1]PN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}PA-NUMUN-DU₃=Nabu-zeru-ibni[1//1]PN'PN$Nabu-zeru-ibni",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}PA-NUMUN-DU₃",
+                    "form": "{1}{d}PA—NUMUN—DU₃",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1132,7 +1131,8 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P334822.9.1.0",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "NUMUN",
@@ -1140,7 +1140,8 @@
                             "id": "P334822.9.3.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "DU₃",

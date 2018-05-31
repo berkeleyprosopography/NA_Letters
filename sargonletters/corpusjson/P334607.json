@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:20",
+  "UTC-timestamp": "2018-05-31T05:33:42",
   "textid": "P334607",
   "cdl": [
     {
@@ -203,19 +203,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA-PAB\\d-PAB\\d",
+                  "frag": "{1}{d}PA—PAB\\d—PAB\\d",
                   "id": "P334607.l0aec6",
                   "ref": "P334607.3.2",
                   "inst": "Nabu-ahu-uṣur[1]PN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}PA-PAB-PAB=Nabu-ahu-uṣur[1//1]PN'PN$Nabu-ahu-uṣur",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}PA-PAB-PAB",
+                    "form": "{1}{d}PA—PAB—PAB",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -252,7 +251,8 @@
                             "id": "P334607.3.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "form": "PAB",
@@ -260,7 +260,8 @@
                             "id": "P334607.3.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "mods": [
                               {
                                 "b": "PAB"
@@ -836,7 +837,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "am-mar",
+                  "frag": "am—mar",
                   "id": "P334607.l0aed4",
                   "ref": "P334607.8.1",
                   "inst": "ammar[as much as]REL$",
@@ -850,7 +851,7 @@
                         "v": "am",
                         "gdl_utf8": "𒄠",
                         "id": "P334607.8.1.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -1766,20 +1767,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}⸢MAN⸣-IGI\\d-ni",
+                  "frag": "{1}⸢MAN⸣—IGI\\d-ni",
                   "id": "P334607.l0aeeb",
                   "ref": "P334607.17.3",
                   "inst": "Šarru-emuranni[]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}MAN-IGI-ni=Šarru-emuranni[1//1]PN'PN$Šarru-emuranni",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}MAN-IGI-ni",
+                    "form": "{1}MAN—IGI-ni",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1807,7 +1807,8 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           },
                           {
@@ -1836,10 +1837,8 @@
                     ],
                     "cf": "Šarru-emuranni",
                     "gw": "1",
-                    "sense": "1",
                     "norm": "Šarru-emuranni",
-                    "pos": "PN",
-                    "epos": "PN"
+                    "pos": "PN"
                   }
                 },
                 {
@@ -2735,7 +2734,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA-ha-mat-u-a",
+                  "frag": "{1}{d}PA—ha-mat-u-a",
                   "id": "P334607.l0af02",
                   "ref": "P334607.26.3",
                   "inst": "Nabu-hamatua[1]PN",
@@ -2747,7 +2746,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -2784,7 +2782,8 @@
                             "id": "P334607.26.3.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

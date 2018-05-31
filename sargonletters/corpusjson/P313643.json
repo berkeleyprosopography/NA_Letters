@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:15",
+  "UTC-timestamp": "2018-05-31T05:30:06",
   "textid": "P313643",
   "cdl": [
     {
@@ -2693,7 +2693,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v]}⸢ša₂⸣-BAD-HAL-⸢lum⸣",
+                  "frag": "{lu₂v]}⸢ša₂⸣—BAD-HAL-⸢lum⸣",
                   "id": "P313643.l149cc",
                   "ref": "P313643.18.4",
                   "inst": "ša-pēthalli[rider//cavalry]N$ša-pēthallum",
@@ -2738,7 +2738,7 @@
                         "id": "P313643.18.4.1",
                         "break": "damaged",
                         "ho": "1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1",
                         "hc": "1"
                       },

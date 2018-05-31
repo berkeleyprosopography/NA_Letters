@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:59",
+  "UTC-timestamp": "2018-05-31T05:31:12",
   "textid": "P314054",
   "cdl": [
     {
@@ -673,7 +673,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "ah-hur",
+                  "frag": "ah—hur",
                   "id": "P314054.l00aef",
                   "ref": "P314054.5.5",
                   "inst": "ahhūr[further(more)]AV",
@@ -687,7 +687,7 @@
                         "v": "ah",
                         "gdl_utf8": "𒄴",
                         "id": "P314054.5.5.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -1025,7 +1025,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{[lu₂v}DUMU-šip]-⸢ri⸣",
+                  "frag": "{[lu₂v}DUMU—šip]-⸢ri⸣",
                   "id": "P314054.l00afc",
                   "ref": "P314054.7.1",
                   "cof-tails": "P314054.l00afd",
@@ -1039,7 +1039,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1078,7 +1077,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -1110,7 +1110,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{[lu₂v}DUMU-šip]-⸢ri⸣",
+                  "frag": "{[lu₂v}DUMU—šip]-⸢ri⸣",
                   "id": "P314054.l00afd",
                   "ref": "P314054.7.1",
                   "cof-head": "P314054.l00afc",
@@ -1124,7 +1124,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1163,7 +1162,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

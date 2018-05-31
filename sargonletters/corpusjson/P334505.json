@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:12",
+  "UTC-timestamp": "2018-05-31T05:33:27",
   "textid": "P334505",
   "cdl": [
     {
@@ -199,20 +199,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA-EN-GIN\\d",
+                  "frag": "{1}{d}PA—EN—GIN\\d",
                   "id": "P334505.l0e7ee",
                   "ref": "P334505.3.2",
                   "inst": "Nabu-belu-kaʾʾin[1]PN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}PA-EN-GIN=Nabu-belu-kaʾʾin[1//1]PN'PN$Nabu-belu-kaʾʾin",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}PA-EN-GIN",
+                    "form": "{1}{d}PA—EN—GIN",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -249,7 +248,8 @@
                             "id": "P334505.3.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "EN",
@@ -257,7 +257,8 @@
                             "id": "P334505.3.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "form": "GIN",
@@ -279,10 +280,7 @@
                     ],
                     "cf": "Nabu-belu-kaʾʾin",
                     "gw": "1",
-                    "sense": "1",
-                    "norm": "Nabu-belu-kaʾʾin",
-                    "pos": "PN",
-                    "epos": "PN"
+                    "pos": "PN"
                   }
                 },
                 {
@@ -2178,7 +2176,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur-⸢DIB⸣-[an-ni]",
+                  "frag": "{1}aš-šur—⸢DIB⸣-[an-ni]",
                   "id": "P334505.l0e81d",
                   "ref": "P334505.12.4",
                   "inst": "Aššur-ṣabtanni[]PN$",
@@ -2215,7 +2213,7 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P334505.12.4.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

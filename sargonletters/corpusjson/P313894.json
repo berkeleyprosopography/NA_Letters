@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:43",
+  "UTC-timestamp": "2018-05-31T05:30:48",
   "textid": "P313894",
   "cdl": [
     {
@@ -1004,7 +1004,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂-02-e",
+                  "frag": "E₂—02-e",
                   "id": "P313894.l0cbdc",
                   "ref": "P313894.8.2",
                   "cof-tails": "P313894.l0cbdd",
@@ -1018,7 +1018,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "E₂",
@@ -1026,7 +1025,8 @@
                             "id": "P313894.8.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -1059,7 +1059,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂-02-e",
+                  "frag": "E₂—02-e",
                   "id": "P313894.l0cbdd",
                   "ref": "P313894.8.2",
                   "cof-head": "P313894.l0cbdc",
@@ -1073,7 +1073,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "E₂",
@@ -1081,7 +1080,8 @@
                             "id": "P313894.8.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

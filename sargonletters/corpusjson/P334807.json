@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:38",
+  "UTC-timestamp": "2018-05-31T05:34:18",
   "textid": "P334807",
   "cdl": [
     {
@@ -211,7 +211,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}AG-pa-šir]",
+                  "frag": "{1}{d}AG—pa-šir]",
                   "id": "P334807.l04a7d",
                   "ref": "P334807.3.2",
                   "inst": "Nabu-pašir[1]PN",
@@ -223,7 +223,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -263,7 +262,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -805,7 +805,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}se-eʾ-⸢ga⸣-ba-ri",
+                  "frag": "{1}se-eʾ—⸢ga⸣-ba-ri",
                   "id": "P334807.l04a8a",
                   "ref": "P334807.8.1",
                   "inst": "Seʾ-gabbari[]PN$",
@@ -842,7 +842,7 @@
                         "v": "eʾ",
                         "gdl_utf8": "𒀪",
                         "id": "P334807.8.1.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -1164,7 +1164,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}ZALAG₂-{d}30",
+                  "frag": "{1}ZALAG₂—{d}30",
                   "id": "P334807.l04a91",
                   "ref": "P334807.11.1",
                   "inst": "Nur-Sin[]PN$",
@@ -1177,7 +1177,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1203,7 +1202,8 @@
                             "id": "P334807.11.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -1320,20 +1320,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}U.U-DU₃",
+                  "frag": "{1}U.U—DU₃",
                   "id": "P334807.l04a93",
                   "ref": "P334807.12.1",
                   "inst": "Dadi-ibni[]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}U.U-DU₃=Dadi-ibni[1//1]PN'PN$Dadi-ibni",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}U.U-DU₃",
+                    "form": "{1}U.U—DU₃",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1367,7 +1366,8 @@
                             "id": "P334807.12.1.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "DU₃",

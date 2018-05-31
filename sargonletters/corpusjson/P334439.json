@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:08",
+  "UTC-timestamp": "2018-05-31T05:33:20",
   "textid": "P334439",
   "cdl": [
     {
@@ -2011,7 +2011,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}BAD₃\\p-a-ta-na-⸢te⸣",
+                  "frag": "{uru}BAD₃\\p—a-ta-na-⸢te⸣",
                   "id": "P334439.l0b087",
                   "ref": "P334439.19.2",
                   "inst": "Dur-Atanate[]GN$",
@@ -2023,7 +2023,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -2050,7 +2049,8 @@
                             "id": "P334439.19.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "mods": [
                               {
                                 "b": "BAD₃"
@@ -2233,7 +2233,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}BAD₃\\p-a-ta-na-⸢te⸣",
+                  "frag": "{uru}BAD₃\\p—a-ta-na-⸢te⸣",
                   "id": "P334439.l0b08b",
                   "ref": "P334439.21.2",
                   "inst": "Dur-Atanate[1]GN",
@@ -2245,7 +2245,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -2272,7 +2271,8 @@
                             "id": "P334439.21.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "mods": [
                               {
                                 "b": "BAD₃"
@@ -2360,7 +2360,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}BAD₃\\p-ta-li\\d-ti\\t",
+                  "frag": "{uru}BAD₃\\p—ta-li\\d-ti\\t",
                   "id": "P334439.l0b08d",
                   "ref": "P334439.22.2",
                   "inst": "Dur-Taliti[1]GN",
@@ -2372,7 +2372,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -2399,7 +2398,8 @@
                             "id": "P334439.22.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "mods": [
                               {
                                 "b": "BAD₃"
@@ -2635,7 +2635,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}BAD₃\\p-ta-li\\td-ti\\t",
+                  "frag": "{uru}BAD₃\\p—ta-li\\td-ti\\t",
                   "id": "P334439.l0b091",
                   "ref": "P334439.24.2",
                   "inst": "Dur-Taliti[1]GN",
@@ -2647,7 +2647,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -2674,7 +2673,8 @@
                             "id": "P334439.24.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "mods": [
                               {
                                 "b": "BAD₃"

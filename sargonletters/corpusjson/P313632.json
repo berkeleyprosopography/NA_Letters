@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:14",
+  "UTC-timestamp": "2018-05-31T05:30:05",
   "textid": "P313632",
   "cdl": [
     {
@@ -944,20 +944,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}ERIM-MEŠ\\tm-⸢LUGAL⸣",
+                  "frag": "{lu₂v}ERIM-MEŠ\\tm—⸢LUGAL⸣",
                   "id": "P313632.l0ce1e",
                   "ref": "P313632.8.3",
                   "cof-tails": "P313632.l0ce1f",
                   "inst": "ṣābu[people]N$ṣāb&šarru[king]N$šarri",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}ERIM-MEŠ-LUGAL=ṣābu[people//people]N'N$ṣāb&&@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}ERIM-MEŠ-LUGAL",
+                    "form": "{LU₂}ERIM-MEŠ—LUGAL",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1000,7 +999,8 @@
                             "id": "P313632.8.3.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "mods": [
                               {
                                 "b": "MEŠ"
@@ -1025,28 +1025,24 @@
                     ],
                     "cf": "ṣābu",
                     "gw": "people",
-                    "sense": "people",
                     "norm": "ṣāb",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}ERIM-MEŠ\\tm-⸢LUGAL⸣",
+                  "frag": "{lu₂v}ERIM-MEŠ\\tm—⸢LUGAL⸣",
                   "id": "P313632.l0ce1f",
                   "ref": "P313632.8.3",
                   "cof-head": "P313632.l0ce1e",
                   "inst": "ṣābu[people]N$ṣāb&šarru[king]N$šarri",
-                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}ERIM-MEŠ-LUGAL",
+                    "form": "{LU₂}ERIM-MEŠ—LUGAL",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1089,7 +1085,8 @@
                             "id": "P313632.8.3.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "mods": [
                               {
                                 "b": "MEŠ"
@@ -1114,10 +1111,8 @@
                     ],
                     "cf": "šarru",
                     "gw": "king",
-                    "sense": "king",
                     "norm": "šarri",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
@@ -1307,7 +1302,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a-[dan-niš]",
+                  "frag": "a—[dan-niš]",
                   "id": "P313632.l0ce24",
                   "ref": "P313632.10.2",
                   "inst": "adanniš[very much]AV",
@@ -1320,7 +1315,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P313632.10.2.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -1492,20 +1487,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{⸢lu₂v⸣}GAL-⸢SAG⸣",
+                  "frag": "{⸢lu₂v⸣}GAL—⸢SAG⸣",
                   "id": "P313632.l0ce28",
                   "ref": "P313632.15.1",
                   "cof-tails": "P313632.l0ce29",
                   "inst": "rabû[big one]N$rab&ša-rēši[eunuch]N",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}GAL-SAG=rabû[big one//big one]N'N$rab&&@saao/sargonletters%akk-x-neoass:=ša-rēši[eunuch//eunuch]N'N$ša",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL-SAG",
+                    "form": "{LU₂}GAL—SAG",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1543,7 +1537,8 @@
                             "id": "P313632.15.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "SAG",
@@ -1560,28 +1555,24 @@
                     ],
                     "cf": "rabû",
                     "gw": "big one",
-                    "sense": "big one",
                     "norm": "rab",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "{⸢lu₂v⸣}GAL-⸢SAG⸣",
+                  "frag": "{⸢lu₂v⸣}GAL—⸢SAG⸣",
                   "id": "P313632.l0ce29",
                   "ref": "P313632.15.1",
                   "cof-head": "P313632.l0ce28",
                   "inst": "rabû[big one]N$rab&ša-rēši[eunuch]N",
-                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=ša-rēši[eunuch//eunuch]N'N$ša",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL-SAG",
+                    "form": "{LU₂}GAL—SAG",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1619,7 +1610,8 @@
                             "id": "P313632.15.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "SAG",
@@ -1636,10 +1628,7 @@
                     ],
                     "cf": "ša-rēši",
                     "gw": "eunuch",
-                    "sense": "eunuch",
-                    "norm": "ša",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
@@ -1944,7 +1933,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i-pa-⸢na⸣-[tu₂-šu₂-nu]",
+                  "frag": "i—pa-⸢na⸣-[tu₂-šu₂-nu]",
                   "id": "P313632.l0ce2f",
                   "ref": "P313632.20.1",
                   "cof-tails": "P313632.l0ce30",
@@ -1958,7 +1947,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P313632.20.1.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -2011,7 +2000,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i-pa-⸢na⸣-[tu₂-šu₂-nu]",
+                  "frag": "i—pa-⸢na⸣-[tu₂-šu₂-nu]",
                   "id": "P313632.l0ce30",
                   "ref": "P313632.20.1",
                   "cof-head": "P313632.l0ce2f",
@@ -2025,7 +2014,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P313632.20.1.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

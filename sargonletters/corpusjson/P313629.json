@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:13",
+  "UTC-timestamp": "2018-05-31T05:30:04",
   "textid": "P313629",
   "cdl": [
     {
@@ -277,7 +277,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a-dan\\d-[niš]",
+                  "frag": "a—dan\\d-[niš]",
                   "id": "P313629.l062a5",
                   "ref": "P313629.5.2",
                   "inst": "adanniš[very much]AV",
@@ -290,7 +290,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P313629.5.2.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -1004,20 +1004,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}GAL\\p-E₂-⸢ia⸣",
+                  "frag": "{lu₂v}GAL\\p—E₂-⸢ia⸣",
                   "id": "P313629.l062b5",
                   "ref": "P313629.15.1",
                   "cof-tails": "P313629.l062b6",
                   "inst": "rabû[big one]N$rab&bītu[house]N$bētīya",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}GAL-E₂-ia=rabû[big one//big one]N'N$rab&&@saao/sargonletters%akk-x-neoass:=bītu[house//house]N'N$bētīya",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL-E₂-ia",
+                    "form": "{LU₂}GAL—E₂-ia",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1052,7 +1051,8 @@
                             "id": "P313629.15.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "mods": [
                               {
                                 "b": "GAL"
@@ -1083,28 +1083,24 @@
                     ],
                     "cf": "rabû",
                     "gw": "big one",
-                    "sense": "big one",
                     "norm": "rab",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}GAL\\p-E₂-⸢ia⸣",
+                  "frag": "{lu₂v}GAL\\p—E₂-⸢ia⸣",
                   "id": "P313629.l062b6",
                   "ref": "P313629.15.1",
                   "cof-head": "P313629.l062b5",
                   "inst": "rabû[big one]N$rab&bītu[house]N$bētīya",
-                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=bītu[house//house]N'N$bētīya",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL-E₂-ia",
+                    "form": "{LU₂}GAL—E₂-ia",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1139,7 +1135,8 @@
                             "id": "P313629.15.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "mods": [
                               {
                                 "b": "GAL"
@@ -1170,10 +1167,8 @@
                     ],
                     "cf": "bītu",
                     "gw": "house",
-                    "sense": "house",
                     "norm": "bētīya",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
@@ -1230,7 +1225,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}EN-pi-qi-⸢ta⸣-[ti]",
+                  "frag": "{lu₂v}EN—pi-qi-⸢ta⸣-[ti]",
                   "id": "P313629.l062b8",
                   "ref": "P313629.16.2",
                   "cof-tails": "P313629.l062b9",
@@ -1243,7 +1238,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1278,7 +1272,8 @@
                             "id": "P313629.16.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -1323,7 +1318,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}EN-pi-qi-⸢ta⸣-[ti]",
+                  "frag": "{lu₂v}EN—pi-qi-⸢ta⸣-[ti]",
                   "id": "P313629.l062b9",
                   "ref": "P313629.16.2",
                   "cof-head": "P313629.l062b8",
@@ -1336,7 +1331,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1371,7 +1365,8 @@
                             "id": "P313629.16.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

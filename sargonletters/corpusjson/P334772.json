@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:34",
+  "UTC-timestamp": "2018-05-31T05:34:09",
   "textid": "P334772",
   "cdl": [
     {
@@ -1121,7 +1121,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i-su]-⸢ri⸣",
+                  "frag": "i—su]-⸢ri⸣",
                   "id": "P334772.l07954",
                   "ref": "P334772.8.2",
                   "inst": "issurri[perhaps]AV",
@@ -1136,7 +1136,7 @@
                         "gdl_utf8": "𒄿",
                         "id": "P334772.8.2.0",
                         "break": "missing",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -1950,7 +1950,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "⸢ah⸣-hur",
+                  "frag": "⸢ah⸣—hur",
                   "id": "P334772.l07966",
                   "ref": "P334772.12.2",
                   "inst": "hurri[ever (after)//further(more)]AV$ahhūr",
@@ -1966,7 +1966,7 @@
                         "id": "P334772.12.2.0",
                         "break": "damaged",
                         "ho": "1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1",
                         "hc": "1"
                       },
@@ -8785,7 +8785,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i-su\\y-ri",
+                  "frag": "i—su\\y-ri",
                   "id": "P334772.l07a59",
                   "ref": "P334772.45.8",
                   "inst": "issurri[perhaps]AV",
@@ -8798,7 +8798,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P334772.45.8.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

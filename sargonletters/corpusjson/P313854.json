@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:38",
+  "UTC-timestamp": "2018-05-31T05:30:41",
   "textid": "P313854",
   "cdl": [
     {
@@ -211,14 +211,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DINGIR-⸢a⸣.[a-EN]",
+                  "frag": "{1}DINGIR-⸢a⸣.[a—EN]",
                   "id": "P313854.l051b0",
                   "ref": "P313854.3.2",
                   "inst": "Ilaʾi-Bel[1]PN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}DINGIR-a.a-EN=Ilaʾi-Bel[1//1]PN'PN$Ilaʾi-Bel",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}DINGIR-a.a-EN",
+                    "form": "{1}DINGIR-a.a—EN",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -255,7 +255,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "v": "a",
@@ -273,7 +272,8 @@
                             "breakStart": "1",
                             "o": "[",
                             "break": "missing",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "EN",
@@ -479,7 +479,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}HAL-a-ni⸣-aš-šur",
+                  "frag": "{1}HAL-a-ni⸣—aš-šur",
                   "id": "P313854.l051b5",
                   "ref": "P313854.5.1",
                   "inst": "Išmanni-Aššur[]PN$",
@@ -536,7 +536,7 @@
                         "gdl_utf8": "𒉌",
                         "id": "P313854.5.1.3",
                         "break": "damaged",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1",
                         "hc": "1"
                       },

@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:13",
+  "UTC-timestamp": "2018-05-31T05:33:30",
   "textid": "P334529",
   "cdl": [
     {
@@ -208,7 +208,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur-BAD₃\\p-pa-ni-[ia]",
+                  "frag": "{1}aš-šur—BAD₃\\p—pa-ni-[ia]",
                   "id": "P334529.l07b75",
                   "ref": "P334529.3.2",
                   "inst": "Aššur-dur-paniya[]PN$",
@@ -245,13 +245,12 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P334529.3.2.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "form": "BAD₃",
@@ -259,7 +258,8 @@
                             "id": "P334529.3.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "mods": [
                               {
                                 "b": "BAD₃"
@@ -573,7 +573,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}AD-ul-i-di",
+                  "frag": "{1}AD—ul—i-di",
                   "id": "P334529.l07b7d",
                   "ref": "P334529.5.3",
                   "inst": "Abu-ul-idi[]PN$",
@@ -585,7 +585,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -611,7 +610,8 @@
                             "id": "P334529.5.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -619,7 +619,7 @@
                         "v": "ul",
                         "gdl_utf8": "𒌌",
                         "id": "P334529.5.3.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

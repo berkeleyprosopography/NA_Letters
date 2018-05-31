@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:22",
+  "UTC-timestamp": "2018-05-31T05:33:46",
   "textid": "P334629",
   "cdl": [
     {
@@ -211,7 +211,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}⸢DI⸣-mu-EN",
+                  "frag": "{1}⸢DI⸣-mu—EN",
                   "id": "P334629.l09308",
                   "ref": "P334629.3.2",
                   "inst": "Šulmu-beli[1]PN",
@@ -262,7 +262,7 @@
                         "v": "mu",
                         "gdl_utf8": "𒈬",
                         "id": "P334629.3.2.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -917,20 +917,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}A-KIN-[ia]",
+                  "frag": "{lu₂v}A—KIN-[ia]",
                   "id": "P334629.l09317",
                   "ref": "P334629.7.3",
                   "cof-tails": "P334629.l09318",
                   "inst": "māru[son]N$mār&šipru[sending]N$šiprīya",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}A-KIN-ia=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:=šipru[sending//sending]N'N$šiprīya",
+                  "newsig": "@saao/sargonletters%akk-x-neoass:{LU₂}A—KIN-ia=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:{LU₂}A—KIN-ia=šipru[sending//sending]N'N$šiprīya",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}A-KIN-ia",
+                    "form": "{LU₂}A—KIN-ia",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -965,7 +964,8 @@
                             "id": "P334629.7.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "KIN",
@@ -998,19 +998,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}A-KIN-[ia]",
+                  "frag": "{lu₂v}A—KIN-[ia]",
                   "id": "P334629.l09318",
                   "ref": "P334629.7.3",
                   "cof-head": "P334629.l09317",
                   "inst": "māru[son]N$mār&šipru[sending]N$šiprīya",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}A-KIN-ia",
+                    "form": "{LU₂}A—KIN-ia",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1045,7 +1045,8 @@
                             "id": "P334629.7.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "KIN",
@@ -1070,10 +1071,8 @@
                     ],
                     "cf": "šipru",
                     "gw": "sending",
-                    "sense": "sending",
                     "norm": "šiprīya",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {

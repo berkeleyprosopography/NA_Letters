@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:09",
+  "UTC-timestamp": "2018-05-31T05:33:22",
   "textid": "P334445",
   "cdl": [
     {
@@ -725,20 +725,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "BARAG-NAM\\p-MEŠ",
+                  "frag": "BARAG—NAM\\p-MEŠ",
                   "id": "P334445.l03a79",
                   "ref": "P334445.11.1",
                   "inst": "Parak-šimati[Throne-of-Destiny]TN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:BARAG-NAM-MEŠ=Parak-šimati[Throne-of-Destiny//Throne-of-Destiny]TN'TN$Parak-šimati",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "BARAG-NAM-MEŠ",
+                    "form": "BARAG—NAM-MEŠ",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "BARAG",
@@ -746,7 +745,8 @@
                             "id": "P334445.11.1.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "form": "NAM",
@@ -911,19 +911,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "d.INNIN-GIŠ.TUK",
+                  "frag": "d.INNIN—GIŠ.TUK",
                   "id": "P334445.l03a7d",
                   "ref": "P334445.12.3",
                   "inst": "Issar-tašme[]DN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:d.INNIN-GIŠ.TUK=Issar-tašme[1//1]DN'DN$Issar-tašme",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "d.INNIN-GIŠ.TUK",
+                    "form": "d.INNIN—GIŠ.TUK",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "v": "d",
@@ -937,21 +936,16 @@
                             "id": "P334445.12.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "GIŠ",
-                                "gdl_utf8": "𒄑",
-                                "id": "P334445.12.3.2",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "GIŠ",
+                            "gdl_utf8": "𒄑",
+                            "id": "P334445.12.3.2",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "TUK",

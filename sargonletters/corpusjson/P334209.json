@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:49",
+  "UTC-timestamp": "2018-05-31T05:32:43",
   "textid": "P334209",
   "cdl": [
     {
@@ -202,7 +202,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{⸢d⸣}IM-ib-ni",
+                  "frag": "{1}{⸢d⸣}IM—ib-ni",
                   "id": "P334209.l0497c",
                   "ref": "P334209.3.2",
                   "inst": "Adad-ibni[1]PN",
@@ -214,7 +214,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -254,7 +253,8 @@
                             "id": "P334209.3.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -697,7 +697,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur-DINGIR-a.a",
+                  "frag": "{1}aš-šur—DINGIR-a.a",
                   "id": "P334209.l04987",
                   "ref": "P334209.6.3",
                   "inst": "Aššur-ilaʾi[]PN$",
@@ -734,7 +734,7 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P334209.6.3.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -1012,7 +1012,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}ARAD]-{⸢d⸣}15",
+                  "frag": "{1}ARAD]—{⸢d⸣}15",
                   "id": "P334209.l0498d",
                   "ref": "P334209.9.1",
                   "inst": "Urdu-Issar[]PN$",
@@ -1025,7 +1025,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1057,7 +1056,8 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P334209.9.1.0",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -1176,7 +1176,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}GIŠ.MI-{d}UTU",
+                  "frag": "{1}GIŠ.MI—{d}UTU",
                   "id": "P334209.l0498f",
                   "ref": "P334209.10.1",
                   "inst": "Ṣil-Šamaš[1]PN$",
@@ -1189,7 +1189,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1223,7 +1222,8 @@
                             "id": "P334209.10.1.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -1336,7 +1336,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}EN-de\\d-ni-a-mur",
+                  "frag": "{1}EN—de\\d-ni—a-mur",
                   "id": "P334209.l04991",
                   "ref": "P334209.11.1",
                   "inst": "Bel-deni-amur[]PN$",
@@ -1349,7 +1349,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1375,7 +1374,8 @@
                             "id": "P334209.11.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -1397,7 +1397,7 @@
                         "v": "ni",
                         "gdl_utf8": "𒉌",
                         "id": "P334209.11.1.3",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -1913,7 +1913,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}kal-lap-ši-bir-⸢tu₂⸣",
+                  "frag": "{lu₂vy}kal-lap—ši-bir-⸢tu₂⸣",
                   "id": "P334209.l0499b",
                   "ref": "P334209.16.1",
                   "cof-tails": "P334209.l0499c",
@@ -1963,7 +1963,7 @@
                         "v": "lap",
                         "gdl_utf8": "𒆗",
                         "id": "P334209.16.1.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -1997,7 +1997,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}kal-lap-ši-bir-⸢tu₂⸣",
+                  "frag": "{lu₂vy}kal-lap—ši-bir-⸢tu₂⸣",
                   "id": "P334209.l0499c",
                   "ref": "P334209.16.1",
                   "cof-head": "P334209.l0499b",
@@ -2047,7 +2047,7 @@
                         "v": "lap",
                         "gdl_utf8": "𒆗",
                         "id": "P334209.16.1.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -2479,7 +2479,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}DUL-bur-si-bi",
+                  "frag": "{uru}DUL—bur-si-bi",
                   "id": "P334209.l049a5",
                   "ref": "P334209.21.2",
                   "inst": "Til-Barsip[]GN$Til-Bursibi",
@@ -2492,7 +2492,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -2519,7 +2518,8 @@
                             "id": "P334209.21.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

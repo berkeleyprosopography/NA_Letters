@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:23",
+  "UTC-timestamp": "2018-05-31T05:33:48",
   "textid": "P334638",
   "cdl": [
     {
@@ -199,7 +199,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}mu-šal-lim-{d}IM",
+                  "frag": "{1}mu-šal-lim—{d}IM",
                   "id": "P334638.l0b35f",
                   "ref": "P334638.3.2",
                   "inst": "Mušallim-Adad[]PN$",
@@ -242,7 +242,7 @@
                         "v": "lim",
                         "gdl_utf8": "𒅆",
                         "id": "P334638.3.2.3",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -1324,7 +1324,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{[lu₂v]}⸢ši⸣-kin-[ṭe₃-mi]",
+                  "frag": "{[lu₂v]}⸢ši⸣-kin—[ṭe₃-mi]",
                   "id": "P334638.l0b37c",
                   "ref": "P334638.10.1",
                   "cof-tails": "P334638.l0b37d",
@@ -1379,7 +1379,7 @@
                         "v": "kin",
                         "gdl_utf8": "𒆥",
                         "id": "P334638.10.1.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -1410,7 +1410,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{[lu₂v]}⸢ši⸣-kin-[ṭe₃-mi]",
+                  "frag": "{[lu₂v]}⸢ši⸣-kin—[ṭe₃-mi]",
                   "id": "P334638.l0b37d",
                   "ref": "P334638.10.1",
                   "cof-head": "P334638.l0b37c",
@@ -1465,7 +1465,7 @@
                         "v": "kin",
                         "gdl_utf8": "𒆥",
                         "id": "P334638.10.1.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

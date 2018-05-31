@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:21",
+  "UTC-timestamp": "2018-05-31T05:33:45",
   "textid": "P334621",
   "cdl": [
     {
@@ -87,20 +87,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA-BAD₃-PAB",
+                  "frag": "{1}{d}PA—BAD₃—PAB",
                   "id": "P334621.l05327",
                   "ref": "P334621.2.2",
                   "inst": "Nabu-duru-uṣur[1]PN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}PA-BAD₃-PAB=Nabu-duru-uṣur[1//1]PN'PN$Nabu-duru-uṣur",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}PA-BAD₃-PAB",
+                    "form": "{1}{d}PA—BAD₃—PAB",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -137,7 +136,8 @@
                             "id": "P334621.2.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "BAD₃",
@@ -145,7 +145,8 @@
                             "id": "P334621.2.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "PAB",
@@ -722,7 +723,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "am\\p-mar",
+                  "frag": "am\\p—mar",
                   "id": "P334621.l05335",
                   "ref": "P334621.6.3",
                   "inst": "ammar[as many as]REL",
@@ -736,7 +737,7 @@
                         "form": "am",
                         "gdl_utf8": "𒄠",
                         "id": "P334621.6.3.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1",
                         "mods": [
                           {
@@ -814,7 +815,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "am-mar",
+                  "frag": "am—mar",
                   "id": "P334621.l05337",
                   "ref": "P334621.7.1",
                   "inst": "ammar[as many as]REL",
@@ -828,7 +829,7 @@
                         "v": "am",
                         "gdl_utf8": "𒄠",
                         "id": "P334621.7.1.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -3811,7 +3812,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DINGIR-iq-bi",
+                  "frag": "{1}DINGIR—iq-bi",
                   "id": "P334621.l05385",
                   "ref": "P334621.25.3",
                   "inst": "Ilu-iqbi[]PN$",
@@ -3823,7 +3824,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -3849,7 +3849,8 @@
                             "id": "P334621.25.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:41:49",
+  "UTC-timestamp": "2018-05-31T05:29:24",
   "textid": "P313435",
   "cdl": [
     {
@@ -199,7 +199,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}AG\\d-pa-šir",
+                  "frag": "{1}{d}AG\\d—pa-šir",
                   "id": "P313435.l04b72",
                   "ref": "P313435.3.2",
                   "inst": "Nabu-pašir[1]PN",
@@ -211,7 +211,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -248,7 +247,8 @@
                             "id": "P313435.3.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "mods": [
                               {
                                 "b": "AG"
@@ -1215,7 +1215,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}DU₆-bur-si-⸢ba⸣",
+                  "frag": "{uru}DU₆—bur-si-⸢ba⸣",
                   "id": "P313435.l04b8c",
                   "ref": "P313435.9.3",
                   "inst": "Til-Barsip[]GN$Til-Bursiba",
@@ -1227,7 +1227,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1254,7 +1253,8 @@
                             "id": "P313435.9.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -1328,7 +1328,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}ki-ṣir-aš-šur",
+                  "frag": "{1}ki-ṣir—aš-šur",
                   "id": "P313435.l04b8e",
                   "ref": "P313435.10.2",
                   "inst": "Kiṣir-Aššur[1]PN",
@@ -1365,7 +1365,7 @@
                         "v": "ṣir",
                         "gdl_utf8": "𒈲",
                         "id": "P313435.10.2.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -1484,19 +1484,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}BAD₃\\p-{1}MAN-⸢GIN⸣",
+                  "frag": "{uru}BAD₃\\p—{1}MAN—⸢GIN⸣",
                   "id": "P313435.l04b91",
                   "ref": "P313435.11.3",
                   "inst": "Dur-Šarruken[1]GN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}BAD₃-{1}MAN-GIN=Dur-Šarruken[1//1]GN'GN$Dur-Šarruken",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}BAD₃-{1}MAN-GIN",
+                    "form": "{URU}BAD₃-{1}MAN—GIN",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1523,7 +1522,8 @@
                             "id": "P313435.11.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "mods": [
                               {
                                 "b": "BAD₃"
@@ -1538,7 +1538,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1564,7 +1563,8 @@
                             "id": "P313435.11.3.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "GIN",
@@ -2155,7 +2155,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "am-mar",
+                  "frag": "am—mar",
                   "id": "P313435.l04ba0",
                   "ref": "P313435.17.3",
                   "inst": "ammar[as much as]REL",
@@ -2168,7 +2168,7 @@
                         "v": "am",
                         "gdl_utf8": "𒄠",
                         "id": "P313435.17.3.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -2346,18 +2346,12 @@
                             "delim": "."
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "U₅",
-                                "gdl_utf8": "𒄷𒋛",
-                                "id": "P313435.19.1.2",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "U₅",
+                            "gdl_utf8": "𒄷𒋛",
+                            "id": "P313435.19.1.2",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "form": "UM",

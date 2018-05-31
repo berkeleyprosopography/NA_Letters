@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:40",
+  "UTC-timestamp": "2018-05-31T05:30:44",
   "textid": "P313872",
   "cdl": [
     {
@@ -1002,7 +1002,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR-aš-[šur{ki]}",
+                  "frag": "KUR—aš-[šur{ki]}",
                   "id": "P313872.l13312",
                   "ref": "P313872.6.8",
                   "inst": "+Mat-Aššur[Assyria]GN$",
@@ -1014,7 +1014,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "KUR",
@@ -1022,7 +1021,8 @@
                             "id": "P313872.6.8.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -1657,7 +1657,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d]}PA-bal-liṭ-an-⸢ni⸣",
+                  "frag": "{1}{d]}PA—bal-liṭ-an-⸢ni⸣",
                   "id": "P313872.l13329",
                   "ref": "P313872.9.5",
                   "inst": "Nabu-balliṭanni[1]PN",
@@ -1670,7 +1670,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1711,7 +1710,8 @@
                             "id": "P313872.9.5.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

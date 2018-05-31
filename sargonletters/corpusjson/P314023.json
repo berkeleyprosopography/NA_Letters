@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:55",
+  "UTC-timestamp": "2018-05-31T05:31:07",
   "textid": "P314023",
   "cdl": [
     {
@@ -184,19 +184,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}⸢EN-AD-PAB\\d⸣",
+                  "frag": "{1}⸢EN—AD—PAB\\d⸣",
                   "id": "P314023.l15266",
                   "ref": "P314023.3.2",
                   "inst": "Bel-abu-uṣur[]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}EN-AD-PAB=Bel-abu-uṣur[1//1]PN'PN$Bel-abu-uṣur",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}EN-AD-PAB",
+                    "form": "{1}EN—AD—PAB",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -224,7 +223,8 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "AD",
@@ -233,7 +233,8 @@
                             "break": "damaged",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "form": "PAB",

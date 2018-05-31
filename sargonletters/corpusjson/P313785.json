@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:31",
+  "UTC-timestamp": "2018-05-31T05:30:32",
   "textid": "P313785",
   "cdl": [
     {
@@ -1027,18 +1027,12 @@
                             ]
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "DU₈",
-                                "gdl_utf8": "𒃮",
-                                "id": "P313785.7.5.1",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "DU₈",
+                            "gdl_utf8": "𒃮",
+                            "id": "P313785.7.5.1",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "A",
@@ -1937,18 +1931,12 @@
                             ]
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "DU₈",
-                                "gdl_utf8": "𒃮",
-                                "id": "P313785.14.6.1",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "DU₈",
+                            "gdl_utf8": "𒃮",
+                            "id": "P313785.14.6.1",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "A",

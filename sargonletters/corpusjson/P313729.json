@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:24",
+  "UTC-timestamp": "2018-05-31T05:30:23",
   "textid": "P313729",
   "cdl": [
     {
@@ -484,20 +484,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "⸢DUMU⸣-MEŠ\\m-⸢KA₂⸣.DINGIR{ki}",
+                  "frag": "⸢DUMU⸣-MEŠ\\m—⸢KA₂⸣.DINGIR{ki}",
                   "id": "P313729.l12b8c",
                   "ref": "P313729.5.4",
                   "cof-tails": "P313729.l12b8d",
                   "inst": "+māru[son]N$māre&+Babili[Babylon]GN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:DUMU-MEŠ-KA₂.DINGIR{KI}=māru[son//son]N'N$māre&&@saao/sargonletters%akk-x-neoass:DUMU-MEŠ-KA₂.DINGIR{KI}=Babili[Babylon//Babylon]GN'GN$Babili",
+                  "newsig": "@saao/sargonletters%akk-x-neoass:DUMU-MEŠ—KA₂.DINGIR{KI}=māru[son//son]N'N$māre&&@saao/sargonletters%akk-x-neoass:DUMU-MEŠ—KA₂.DINGIR{KI}=Babili[Babylon//Babylon]GN'GN$Babili",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU-MEŠ-KA₂.DINGIR{KI}",
+                    "form": "DUMU-MEŠ—KA₂.DINGIR{KI}",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "DUMU",
@@ -516,7 +515,8 @@
                             "id": "P313729.5.4.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "mods": [
                               {
                                 "b": "MEŠ"
@@ -527,21 +527,15 @@
                             ]
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "KA₂",
-                                "gdl_utf8": "𒆍",
-                                "id": "P313729.5.4.2",
-                                "break": "damaged",
-                                "ho": "1",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": ".",
-                                "hc": "1"
-                              }
-                            ]
+                            "s": "KA₂",
+                            "gdl_utf8": "𒆍",
+                            "id": "P313729.5.4.2",
+                            "break": "damaged",
+                            "ho": "1",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": ".",
+                            "hc": "1"
                           },
                           {
                             "s": "DINGIR",
@@ -576,19 +570,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "⸢DUMU⸣-MEŠ\\m-⸢KA₂⸣.DINGIR{ki}",
+                  "frag": "⸢DUMU⸣-MEŠ\\m—⸢KA₂⸣.DINGIR{ki}",
                   "id": "P313729.l12b8d",
                   "ref": "P313729.5.4",
                   "cof-head": "P313729.l12b8c",
                   "inst": "+māru[son]N$māre&+Babili[Babylon]GN$",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU-MEŠ-KA₂.DINGIR{KI}",
+                    "form": "DUMU-MEŠ—KA₂.DINGIR{KI}",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "DUMU",
@@ -607,7 +600,8 @@
                             "id": "P313729.5.4.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "mods": [
                               {
                                 "b": "MEŠ"
@@ -618,21 +612,15 @@
                             ]
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "KA₂",
-                                "gdl_utf8": "𒆍",
-                                "id": "P313729.5.4.2",
-                                "break": "damaged",
-                                "ho": "1",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": ".",
-                                "hc": "1"
-                              }
-                            ]
+                            "s": "KA₂",
+                            "gdl_utf8": "𒆍",
+                            "id": "P313729.5.4.2",
+                            "break": "damaged",
+                            "ho": "1",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": ".",
+                            "hc": "1"
                           },
                           {
                             "s": "DINGIR",

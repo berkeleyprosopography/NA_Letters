@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:41:48",
+  "UTC-timestamp": "2018-05-31T05:29:23",
   "textid": "P313420",
   "cdl": [
     {
@@ -221,7 +221,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DINGIR-ia-da-⸢aʾ⸣",
+                  "frag": "{1}DINGIR—ia-da-⸢aʾ⸣",
                   "id": "P313420.l10f70",
                   "ref": "P313420.3.2",
                   "inst": "Il-yadaʾ[1]PN",
@@ -233,7 +233,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -259,7 +258,8 @@
                             "id": "P313420.3.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -1372,7 +1372,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "BAD₃-{1}ku-ri-gal-⸢zi⸣",
+                  "frag": "BAD₃—{1}ku-ri-gal-⸢zi⸣",
                   "id": "P313420.l10f8b",
                   "ref": "P313420.10.3",
                   "inst": "Dur-Kurigalzu[]GN$Dur-Kurigalzi",
@@ -1384,7 +1384,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "BAD₃",
@@ -1392,7 +1391,8 @@
                             "id": "P313420.10.3.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -4091,14 +4091,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur-⸢U⸣-LAL-in",
+                  "frag": "{1}aš-šur—⸢U⸣—LAL-in",
                   "id": "P313420.l10fdc",
                   "ref": "P313420.29.3",
                   "inst": "Aššur-belu-taqqin[]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}aš-šur-U-LAL-in=Aššur-belu-taqqin[1//1]PN'PN$Aššur-belu-taqqin",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}aš-šur-U-LAL-in",
+                    "form": "{1}aš-šur-U—LAL-in",
                     "gdl": [
                       {
                         "det": "semantic",
@@ -4128,13 +4128,12 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P313420.29.3.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "U",
@@ -4145,7 +4144,8 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           },
                           {

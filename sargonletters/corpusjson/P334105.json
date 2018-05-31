@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:34",
+  "UTC-timestamp": "2018-05-31T05:32:12",
   "textid": "P334105",
   "cdl": [
     {
@@ -208,7 +208,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}15--du-ri",
+                  "frag": "{1}{d}15—du-ri",
                   "id": "P334105.l0ca4f",
                   "ref": "P334105.3.2",
                   "inst": "Issar-duri[]PN$",
@@ -252,7 +252,7 @@
                         "form": "15",
                         "gdl_utf8": "𒌋𒐊",
                         "id": "P334105.3.2.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1",
                         "seq": [
                           {
@@ -540,7 +540,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}ša₂-BAD-HAL-MEŠ",
+                  "frag": "{lu₂v}ša₂—BAD-HAL-MEŠ",
                   "id": "P334105.l0ca57",
                   "ref": "P334105.5.3",
                   "inst": "ša-pēthalli[rider//cavalry]N$ša-pēthallāti",
@@ -580,7 +580,7 @@
                         "v": "ša₂",
                         "gdl_utf8": "𒃻",
                         "id": "P334105.5.3.1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:41:47",
+  "UTC-timestamp": "2018-05-31T05:29:22",
   "textid": "P313419",
   "cdl": [
     {
@@ -211,13 +211,13 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}x-x]+⸢x⸣-GIN-in",
+                  "frag": "{1}{d}x—x]+⸢x⸣—GIN-in",
                   "id": "P313419.l07381",
                   "ref": "P313419.3.2",
                   "inst": "u",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}x-x+x-GIN-in",
+                    "form": "{1}{d}x-x+x—GIN-in",
                     "gdl": [
                       {
                         "det": "semantic",
@@ -255,7 +255,7 @@
                         "gdl_utf8": "x",
                         "id": "P313419.3.2.2",
                         "break": "missing",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -265,7 +265,6 @@
                           {
                             "gg": "ligature",
                             "gdl_type": "ligature",
-                            "gdl_em": "1",
                             "group": [
                               {
                                 "v": "x",
@@ -282,7 +281,8 @@
                                 "id": "P313419.3.2.4",
                                 "break": "damaged",
                                 "ho": "1",
-                                "delim": "--",
+                                "delim": "—",
+                                "gdl_em": "1",
                                 "hc": "1"
                               }
                             ]
@@ -5140,7 +5140,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i-⸢su⸣-ur-ri",
+                  "frag": "i—⸢su⸣-ur-ri",
                   "id": "P313419.l07426",
                   "ref": "P313419.32.5",
                   "inst": "issurri[perhaps]AV$",
@@ -5154,7 +5154,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P313419.32.5.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

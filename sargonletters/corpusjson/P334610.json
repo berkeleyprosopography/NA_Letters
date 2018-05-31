@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:20",
+  "UTC-timestamp": "2018-05-31T05:33:43",
   "textid": "P334610",
   "cdl": [
     {
@@ -211,14 +211,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}sa-am-nu-[hu-U]-⸢PAB⸣",
+                  "frag": "{1}sa-am-nu-[hu—U]—⸢PAB⸣",
                   "id": "P334610.l0541c",
                   "ref": "P334610.3.2",
                   "inst": "Samnuha-belu-uṣur[]PN$Samnuhu-belu-uṣur",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}sa-am-nu-hu-U-PAB=Samnuha-belu-uṣur[1//1]PN'PN$Samnuhu-belu-uṣur",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}sa-am-nu-hu-U-PAB",
+                    "form": "{1}sa-am-nu-hu-U—PAB",
                     "gdl": [
                       {
                         "det": "semantic",
@@ -263,13 +263,12 @@
                         "breakStart": "1",
                         "o": "[",
                         "break": "missing",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "U",
@@ -280,7 +279,8 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P334610.3.2.4",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "PAB",
@@ -297,10 +297,8 @@
                     ],
                     "cf": "Samnuha-belu-uṣur",
                     "gw": "1",
-                    "sense": "1",
                     "norm": "Samnuhu-belu-uṣur",
-                    "pos": "PN",
-                    "epos": "PN"
+                    "pos": "PN"
                   }
                 },
                 {
@@ -1760,7 +1758,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}sa-am-nu-hu-be₂-su-nu",
+                  "frag": "{1}{d}sa-am-nu-hu—be₂-su-nu",
                   "id": "P334610.l05440",
                   "ref": "P334610.16.1",
                   "inst": "Samnuha-bessunu[]PN$Samnuhu-bessunu",
@@ -1824,7 +1822,7 @@
                         "v": "hu",
                         "gdl_utf8": "𒄷",
                         "id": "P334610.16.1.5",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

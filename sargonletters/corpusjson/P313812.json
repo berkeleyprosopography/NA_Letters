@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:33",
+  "UTC-timestamp": "2018-05-31T05:30:35",
   "textid": "P313812",
   "cdl": [
     {
@@ -504,7 +504,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}⸢DU₆⸣-da-[x",
+                  "frag": "{uru}⸢DU₆⸣—da-[x",
                   "id": "P313812.l0b9f2",
                   "ref": "P313812.5.2",
                   "inst": "u",
@@ -516,7 +516,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -546,7 +545,8 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           }
                         ]
@@ -768,7 +768,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}EN-[x",
+                  "frag": "{1}EN—[x",
                   "id": "P313812.l0b9f7",
                   "ref": "P313812.7.2",
                   "inst": "u",
@@ -780,7 +780,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -810,7 +809,8 @@
                             "id": "P313812.7.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -949,7 +949,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}gab-bu-ana-aš-šur",
+                  "frag": "{1}gab-bu—ana—aš-šur",
                   "id": "P313812.l0b9fc",
                   "ref": "P313812.8.4",
                   "inst": "Gabbu-ana-Aššur[1]PN",
@@ -987,14 +987,14 @@
                         "v": "bu",
                         "gdl_utf8": "𒁍",
                         "id": "P313812.8.4.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
                         "v": "ana",
                         "gdl_utf8": "𒁹",
                         "id": "P313812.8.4.3",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -1171,19 +1171,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}I-DINGIR",
+                  "frag": "{1}I—DINGIR",
                   "id": "P313812.l0ba02",
                   "ref": "P313812.9.5",
                   "inst": "Naʾdi-ilu[1]PN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}I-DINGIR=Naʾdi-ilu[1//1]PN'PN$Naʾdi-ilu",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}I-DINGIR",
+                    "form": "{1}I—DINGIR",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1209,7 +1208,8 @@
                             "id": "P313812.9.5.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "DINGIR",
@@ -1223,10 +1223,7 @@
                     ],
                     "cf": "Naʾdi-ilu",
                     "gw": "1",
-                    "sense": "1",
-                    "norm": "Naʾdi-ilu",
-                    "pos": "PN",
-                    "epos": "PN"
+                    "pos": "PN"
                   }
                 },
                 {

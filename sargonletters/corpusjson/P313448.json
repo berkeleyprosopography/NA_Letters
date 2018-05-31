@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:41:51",
+  "UTC-timestamp": "2018-05-31T05:29:26",
   "textid": "P313448",
   "cdl": [
     {
@@ -205,14 +205,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur-BAD₃-IGI-ia",
+                  "frag": "{1}aš-šur—BAD₃—IGI-ia",
                   "id": "P313448.l07aa9",
                   "ref": "P313448.3.2",
                   "inst": "Aššur-dur-paniya[1]PN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}aš-šur-BAD₃-IGI-ia=Aššur-dur-paniya[1//1]PN'PN$Aššur-dur-paniya",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}aš-šur-BAD₃-IGI-ia",
+                    "form": "{1}aš-šur-BAD₃—IGI-ia",
                     "gdl": [
                       {
                         "det": "semantic",
@@ -242,13 +242,12 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P313448.3.2.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "BAD₃",
@@ -256,7 +255,8 @@
                             "id": "P313448.3.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "IGI",
@@ -276,10 +276,7 @@
                     ],
                     "cf": "Aššur-dur-paniya",
                     "gw": "1",
-                    "sense": "1",
-                    "norm": "Aššur-dur-paniya",
-                    "pos": "PN",
-                    "epos": "PN"
+                    "pos": "PN"
                   }
                 },
                 {
@@ -1394,7 +1391,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂}600--E₂.GAL",
+                  "frag": "{lu₂}600—E₂.GAL",
                   "id": "P313448.l07ac5",
                   "ref": "P313448.9.4",
                   "cof-tails": "P313448.l07ac6",
@@ -1429,7 +1426,7 @@
                         "form": "600",
                         "gdl_utf8": "𒐞",
                         "id": "P313448.9.4.1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1",
                         "seq": [
                           {
@@ -1469,7 +1466,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂}600--E₂.GAL",
+                  "frag": "{lu₂}600—E₂.GAL",
                   "id": "P313448.l07ac6",
                   "ref": "P313448.9.4",
                   "cof-head": "P313448.l07ac5",
@@ -1504,7 +1501,7 @@
                         "form": "600",
                         "gdl_utf8": "𒐞",
                         "id": "P313448.9.4.1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1",
                         "seq": [
                           {
@@ -2919,7 +2916,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i-⸢da⸣-[tu-šu₂-nu]",
+                  "frag": "i—⸢da⸣-[tu-šu₂-nu]",
                   "id": "P313448.l07ae9",
                   "ref": "P313448.20.3",
                   "cof-tails": "P313448.l07aea",
@@ -2934,7 +2931,7 @@
                         "gdl_utf8": "𒄿",
                         "id": "P313448.20.3.0",
                         "gdl_collated": "1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -2982,7 +2979,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i-⸢da⸣-[tu-šu₂-nu]",
+                  "frag": "i—⸢da⸣-[tu-šu₂-nu]",
                   "id": "P313448.l07aea",
                   "ref": "P313448.20.3",
                   "cof-head": "P313448.l07ae9",
@@ -2997,7 +2994,7 @@
                         "gdl_utf8": "𒄿",
                         "id": "P313448.20.3.0",
                         "gdl_collated": "1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -3782,7 +3779,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂}600--E₂.GAL",
+                  "frag": "{lu₂}600—E₂.GAL",
                   "id": "P313448.l07afd",
                   "ref": "P313448.25.2",
                   "cof-tails": "P313448.l07afe",
@@ -3818,7 +3815,7 @@
                         "form": "600",
                         "gdl_utf8": "𒐞",
                         "id": "P313448.25.2.1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1",
                         "seq": [
                           {
@@ -3858,7 +3855,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂}600--E₂.GAL",
+                  "frag": "{lu₂}600—E₂.GAL",
                   "id": "P313448.l07afe",
                   "ref": "P313448.25.2",
                   "cof-head": "P313448.l07afd",
@@ -3894,7 +3891,7 @@
                         "form": "600",
                         "gdl_utf8": "𒐞",
                         "id": "P313448.25.2.1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1",
                         "seq": [
                           {
@@ -4249,7 +4246,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a-dan-niš",
+                  "frag": "a—dan-niš",
                   "id": "P313448.l07b07",
                   "ref": "P313448.27.4",
                   "inst": "adanniš[very much]AV",
@@ -4262,7 +4259,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P313448.27.4.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

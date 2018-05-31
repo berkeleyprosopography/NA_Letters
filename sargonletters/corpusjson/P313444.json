@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:41:50",
+  "UTC-timestamp": "2018-05-31T05:29:25",
   "textid": "P313444",
   "cdl": [
     {
@@ -1058,7 +1058,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}kal-bi]-⸢u₂\\m⸣-ku-u-a",
+                  "frag": "{1}kal-bi]—⸢u₂\\m⸣-ku-u-a",
                   "id": "P313444.l112a1",
                   "ref": "P313444.6.5",
                   "inst": "Kalbi-Uku[]PN$Kalbi-Ukuʾa",
@@ -1101,7 +1101,7 @@
                         "break": "missing",
                         "o": "]",
                         "breakEnd": "P313444.6.1.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -1443,7 +1443,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU-{1}ia-GIN",
+                  "frag": "DUMU—{1}ia-GIN",
                   "id": "P313444.l112ac",
                   "ref": "P313444.7.10",
                   "inst": "Mar-Yakin[1]PN",
@@ -1455,7 +1455,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "DUMU",
@@ -1463,7 +1462,8 @@
                             "id": "P313444.7.10.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -4028,7 +4028,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a-dan\\d-niš",
+                  "frag": "a—dan\\d-niš",
                   "id": "P313444.l11309",
                   "ref": "P313444.21.2",
                   "inst": "adanniš[very much]AV",
@@ -4042,7 +4042,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P313444.21.2.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

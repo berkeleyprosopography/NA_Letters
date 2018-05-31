@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:41",
+  "UTC-timestamp": "2018-05-31T05:34:23",
   "textid": "P334836",
   "cdl": [
     {
@@ -855,20 +855,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂}GAL-URU-MEŠ-[ma]",
+                  "frag": "{lu₂}GAL—URU-MEŠ-[ma]",
                   "id": "P334836.l0a189",
                   "ref": "P334836.10.2",
                   "cof-tails": "P334836.l0a18a",
                   "inst": "rabû[big one]N$rab&ālu[city]N$ālānīma",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}GAL-URU-MEŠ-ma=rabû[big one//big one]N'N$rab&&@saao/sargonletters%akk-x-neoass:=ālu[city//city]N'N$ālānīma",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL-URU-MEŠ-ma",
+                    "form": "{LU₂}GAL—URU-MEŠ-ma",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -895,7 +894,8 @@
                             "id": "P334836.10.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "URU",
@@ -927,28 +927,24 @@
                     ],
                     "cf": "rabû",
                     "gw": "big one",
-                    "sense": "big one",
                     "norm": "rab",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂}GAL-URU-MEŠ-[ma]",
+                  "frag": "{lu₂}GAL—URU-MEŠ-[ma]",
                   "id": "P334836.l0a18a",
                   "ref": "P334836.10.2",
                   "cof-head": "P334836.l0a189",
                   "inst": "rabû[big one]N$rab&ālu[city]N$ālānīma",
-                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=ālu[city//city]N'N$ālānīma",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL-URU-MEŠ-ma",
+                    "form": "{LU₂}GAL—URU-MEŠ-ma",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -975,7 +971,8 @@
                             "id": "P334836.10.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "URU",
@@ -1007,10 +1004,8 @@
                     ],
                     "cf": "ālu",
                     "gw": "city",
-                    "sense": "city",
                     "norm": "ālānīma",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
@@ -1757,7 +1752,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂}ša₂-UGU-[x",
+                  "frag": "{lu₂}ša₂—UGU—[x",
                   "id": "P334836.l0a19e",
                   "ref": "P334836.15.4",
                   "inst": "u",
@@ -1789,13 +1784,12 @@
                         "v": "ša₂",
                         "gdl_utf8": "𒃻",
                         "id": "P334836.15.4.1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "UGU",
@@ -1803,7 +1797,8 @@
                             "id": "P334836.15.4.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

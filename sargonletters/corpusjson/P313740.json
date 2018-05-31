@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:25",
+  "UTC-timestamp": "2018-05-31T05:30:25",
   "textid": "P313740",
   "cdl": [
     {
@@ -855,7 +855,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DI\\d-mu-LUGAL",
+                  "frag": "{1}DI\\d-mu—LUGAL",
                   "id": "P313740.l14259",
                   "ref": "P313740.7.4",
                   "inst": "Šulmu-šarri[]PN$",
@@ -912,7 +912,7 @@
                         "v": "mu",
                         "gdl_utf8": "𒈬",
                         "id": "P313740.7.4.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

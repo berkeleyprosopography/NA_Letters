@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:07",
+  "UTC-timestamp": "2018-05-31T05:33:17",
   "textid": "P334412",
   "cdl": [
     {
@@ -1426,20 +1426,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU-LUGAL",
+                  "frag": "DUMU—LUGAL",
                   "id": "P334412.l0b033",
                   "ref": "P334412.13.3",
                   "cof-tails": "P334412.l0b034",
                   "inst": "māru[son]N$mār&šarru[king]N$šarri",
-                  "sig": "@saao/sargonletters%akk-x-neoass:DUMU-LUGAL=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU-LUGAL",
+                    "form": "DUMU—LUGAL",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "DUMU",
@@ -1447,7 +1446,8 @@
                             "id": "P334412.13.3.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "LUGAL",
@@ -1461,28 +1461,24 @@
                     ],
                     "cf": "māru",
                     "gw": "son",
-                    "sense": "son",
                     "norm": "mār",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU-LUGAL",
+                  "frag": "DUMU—LUGAL",
                   "id": "P334412.l0b034",
                   "ref": "P334412.13.3",
                   "cof-head": "P334412.l0b033",
                   "inst": "māru[son]N$mār&šarru[king]N$šarri",
-                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU-LUGAL",
+                    "form": "DUMU—LUGAL",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "DUMU",
@@ -1490,7 +1486,8 @@
                             "id": "P334412.13.3.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "LUGAL",
@@ -1504,10 +1501,8 @@
                     ],
                     "cf": "šarru",
                     "gw": "king",
-                    "sense": "king",
                     "norm": "šarri",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
@@ -1652,7 +1647,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "na-aṣ~t-ṣa",
+                  "frag": "na-aṣ\\t-ṣa",
                   "id": "P334412.l0b038",
                   "ref": "P334412.15.3",
                   "inst": "naṣa[brought]AJ",
@@ -1668,7 +1663,7 @@
                         "delim": "-"
                       },
                       {
-                        "form": "aṣ~t",
+                        "form": "aṣ",
                         "gdl_utf8": "𒊍",
                         "id": "P334412.15.3.1",
                         "delim": "-",
@@ -1677,7 +1672,7 @@
                             "b": "aṣ"
                           },
                           {
-                            "a": "t"
+                            "f": "t"
                           }
                         ]
                       },
@@ -1704,7 +1699,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}AD-ra-me",
+                  "frag": "{1}AD—ra-me",
                   "id": "P334412.l0b039",
                   "ref": "P334412.16.1",
                   "inst": "Abi-ramu[]PN$Abi-rame",
@@ -1716,7 +1711,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1746,7 +1740,8 @@
                             "id": "P334412.16.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -1786,7 +1781,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}da-la-DINGIR",
+                  "frag": "{1}da-la—DINGIR",
                   "id": "P334412.l0b03a",
                   "ref": "P334412.18.1",
                   "inst": "Dala-il[]PN$",
@@ -1824,7 +1819,7 @@
                         "v": "la",
                         "gdl_utf8": "𒆷",
                         "id": "P334412.18.1.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

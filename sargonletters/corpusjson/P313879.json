@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:41",
+  "UTC-timestamp": "2018-05-31T05:30:45",
   "textid": "P313879",
   "cdl": [
     {
@@ -394,14 +394,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur-MU-GIN-in",
+                  "frag": "{1}aš-šur—MU—GIN-in",
                   "id": "P313879.l03208",
                   "ref": "P313879.7.1",
                   "inst": "Aššur-šumu-kaʾ'in[]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}aš-šur-MU-GIN-in=Aššur-šumu-kaʾʾin[1//1]PN'PN$Aššur-šumu-kaʾʾin",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}aš-šur-MU-GIN-in",
+                    "form": "{1}aš-šur-MU—GIN-in",
                     "delim": "",
                     "gdl": [
                       {
@@ -436,13 +436,12 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P313879.7.1.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "MU",
@@ -450,7 +449,8 @@
                             "id": "P313879.7.1.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "GIN",
@@ -470,10 +470,8 @@
                     ],
                     "cf": "Aššur-šumu-kaʾʾin",
                     "gw": "1",
-                    "sense": "1",
                     "norm": "Aššur-šumu-kaʾʾin",
-                    "pos": "PN",
-                    "epos": "PN"
+                    "pos": "PN"
                   }
                 },
                 {

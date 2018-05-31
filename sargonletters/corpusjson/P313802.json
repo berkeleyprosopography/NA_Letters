@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:32",
+  "UTC-timestamp": "2018-05-31T05:30:33",
   "textid": "P313802",
   "cdl": [
     {
@@ -734,7 +734,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR⸣-aš-šur{ki}",
+                  "frag": "KUR⸣—aš-šur{ki}",
                   "id": "P313802.l10449",
                   "ref": "P313802.5.2",
                   "cof-tails": "P313802.l1044a",
@@ -748,7 +748,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "KUR",
@@ -757,7 +756,8 @@
                             "break": "damaged",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           }
                         ]
@@ -803,7 +803,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR⸣-aš-šur{ki}",
+                  "frag": "KUR⸣—aš-šur{ki}",
                   "id": "P313802.l1044a",
                   "ref": "P313802.5.2",
                   "cof-head": "P313802.l10449",
@@ -816,7 +816,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "KUR",
@@ -825,7 +824,8 @@
                             "break": "damaged",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           }
                         ]
@@ -2835,7 +2835,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}GAL-[x",
+                  "frag": "{lu₂v}GAL—[x",
                   "id": "P313802.l1049d",
                   "ref": "P313802.12.3",
                   "inst": "u",
@@ -2847,7 +2847,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -2882,7 +2881,8 @@
                             "id": "P313802.12.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -5260,7 +5260,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂-{1}hu-[x",
+                  "frag": "E₂—{1}hu-[x",
                   "id": "P313802.l10502",
                   "ref": "P313802.22.2",
                   "inst": "u",
@@ -5272,7 +5272,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "E₂",
@@ -5280,7 +5279,8 @@
                             "id": "P313802.22.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

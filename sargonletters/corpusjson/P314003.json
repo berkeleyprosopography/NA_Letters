@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:54",
+  "UTC-timestamp": "2018-05-31T05:31:05",
   "textid": "P314003",
   "cdl": [
     {
@@ -212,7 +212,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur-ba-ni]",
+                  "frag": "{1}aš-šur—ba-ni]",
                   "id": "P314003.l03049",
                   "ref": "P314003.3.2",
                   "inst": "Aššur-bani[]PN$",
@@ -252,7 +252,7 @@
                         "gdl_utf8": "𒋩",
                         "id": "P314003.3.2.2",
                         "break": "missing",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -837,20 +837,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "MI₂-E₂.GAL]",
+                  "frag": "MI₂—E₂.GAL]",
                   "id": "P314003.l03057",
                   "ref": "P314003.7.3",
                   "cof-tails": "P314003.l03058",
                   "inst": "sinništu[woman]N$issi&ēkallu[palace]N$ēkalli",
-                  "sig": "@saao/sargonletters%akk-x-neoass:MI₂-E₂.GAL=sinništu[woman//woman]N'N$issi&&@saao/sargonletters%akk-x-neoass:=ēkallu[palace//palace]N'N$ēkalli",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "MI₂-E₂.GAL",
+                    "form": "MI₂—E₂.GAL",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "MI₂",
@@ -859,22 +858,17 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "E₂",
-                                "gdl_utf8": "𒂍",
-                                "id": "P314003.7.3.1",
-                                "break": "missing",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "E₂",
+                            "gdl_utf8": "𒂍",
+                            "id": "P314003.7.3.1",
+                            "break": "missing",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "GAL",
@@ -891,28 +885,24 @@
                     ],
                     "cf": "sinništu",
                     "gw": "woman",
-                    "sense": "woman",
                     "norm": "issi",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "MI₂-E₂.GAL]",
+                  "frag": "MI₂—E₂.GAL]",
                   "id": "P314003.l03058",
                   "ref": "P314003.7.3",
                   "cof-head": "P314003.l03057",
                   "inst": "sinništu[woman]N$issi&ēkallu[palace]N$ēkalli",
-                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=ēkallu[palace//palace]N'N$ēkalli",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "MI₂-E₂.GAL",
+                    "form": "MI₂—E₂.GAL",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "MI₂",
@@ -921,22 +911,17 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "E₂",
-                                "gdl_utf8": "𒂍",
-                                "id": "P314003.7.3.1",
-                                "break": "missing",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "E₂",
+                            "gdl_utf8": "𒂍",
+                            "id": "P314003.7.3.1",
+                            "break": "missing",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "GAL",
@@ -953,10 +938,8 @@
                     ],
                     "cf": "ēkallu",
                     "gw": "palace",
-                    "sense": "palace",
                     "norm": "ēkalli",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {

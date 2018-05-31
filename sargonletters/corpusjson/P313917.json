@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:46",
+  "UTC-timestamp": "2018-05-31T05:30:52",
   "textid": "P313917",
   "cdl": [
     {
@@ -923,7 +923,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}BAD₃\\m-ku-[ri-gal-zi]",
+                  "frag": "{uru}BAD₃\\m—ku-[ri-gal-zi]",
                   "id": "P313917.l11a51",
                   "ref": "P313917.8.2",
                   "inst": "Dur-Kurigalzu[]GN$Dur-Kurigalzi",
@@ -935,7 +935,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -962,7 +961,8 @@
                             "id": "P313917.8.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "mods": [
                               {
                                 "b": "BAD₃"

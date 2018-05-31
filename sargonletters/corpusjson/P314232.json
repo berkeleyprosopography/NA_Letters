@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:10",
+  "UTC-timestamp": "2018-05-31T05:31:28",
   "textid": "P314232",
   "cdl": [
     {
@@ -1552,7 +1552,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "is-su-ri",
+                  "frag": "is—su-ri",
                   "id": "P314232.l008e0",
                   "ref": "P314232.10.1",
                   "inst": "issurri[perhaps]AV",
@@ -1566,7 +1566,7 @@
                         "v": "is",
                         "gdl_utf8": "𒄑",
                         "id": "P314232.10.1.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -1998,7 +1998,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur-SAG-i-ši",
+                  "frag": "{1}aš-šur—SAG—i-ši",
                   "id": "P314232.l008ee",
                   "ref": "P314232.12.1",
                   "inst": "Aššur-reši-išši[1]PN",
@@ -2036,13 +2036,12 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P314232.12.1.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "SAG",
@@ -2050,7 +2049,8 @@
                             "id": "P314232.12.1.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -2258,7 +2258,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{kur}E₂-bar-ru-e",
+                  "frag": "{kur}E₂—bar-ru-e",
                   "id": "P314232.l008f2",
                   "ref": "P314232.13.2",
                   "inst": "Bit-Barru[]GN$Bit-Barrue",
@@ -2271,7 +2271,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -2298,7 +2297,8 @@
                             "id": "P314232.13.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -4132,7 +4132,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "⸢id-da⸣-[a-ti",
+                  "frag": "⸢id—da⸣-[a-ti",
                   "id": "P314232.l0092f",
                   "ref": "P314232.21.2",
                   "cof-tails": "P314232.l00930",
@@ -4149,7 +4149,7 @@
                         "id": "P314232.21.2.0",
                         "break": "damaged",
                         "ho": "1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -4186,7 +4186,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "⸢id-da⸣-[a-ti",
+                  "frag": "⸢id—da⸣-[a-ti",
                   "id": "P314232.l00930",
                   "ref": "P314232.21.2",
                   "cof-head": "P314232.l0092f",
@@ -4203,7 +4203,7 @@
                         "id": "P314232.21.2.0",
                         "break": "damaged",
                         "ho": "1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -6264,7 +6264,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš₂]-pa-ba-ri",
+                  "frag": "{1}aš₂]-pa—ba-ri",
                   "id": "P314232.l0097f",
                   "ref": "P314232.33.2",
                   "inst": "Ašpa-bari[1]PN",
@@ -6306,7 +6306,7 @@
                         "v": "pa",
                         "gdl_utf8": "𒉺",
                         "id": "P314232.33.2.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -7139,7 +7139,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "id-⸢da⸣-[a-ti",
+                  "frag": "id—⸢da⸣-[a-ti",
                   "id": "P314232.l0099c",
                   "ref": "P314232.37.2",
                   "cof-tails": "P314232.l0099d",
@@ -7154,7 +7154,7 @@
                         "v": "id",
                         "gdl_utf8": "𒀉",
                         "id": "P314232.37.2.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -7192,7 +7192,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "id-⸢da⸣-[a-ti",
+                  "frag": "id—⸢da⸣-[a-ti",
                   "id": "P314232.l0099d",
                   "ref": "P314232.37.2",
                   "cof-head": "P314232.l0099c",
@@ -7207,7 +7207,7 @@
                         "v": "id",
                         "gdl_utf8": "𒀉",
                         "id": "P314232.37.2.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

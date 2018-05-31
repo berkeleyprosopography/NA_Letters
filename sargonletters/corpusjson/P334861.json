@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:44",
+  "UTC-timestamp": "2018-05-31T05:34:28",
   "textid": "P334861",
   "cdl": [
     {
@@ -208,7 +208,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}UTU]-⸢re⸣-ʾu-u₂-a",
+                  "frag": "{1}{d}UTU]—⸢re⸣-ʾu-u₂-a",
                   "id": "P334861.l13d58",
                   "ref": "P334861.3.2",
                   "inst": "Šamaš-reʾuwa[]PN$",
@@ -220,7 +220,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -263,7 +262,8 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P334861.3.1.0",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -2015,7 +2015,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA-kil-an-[ni]",
+                  "frag": "{1}{d}PA—kil-an-[ni]",
                   "id": "P334861.l13d8e",
                   "ref": "P334861.12.6",
                   "inst": "Nabu-killanni[]PN$",
@@ -2027,7 +2027,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -2064,7 +2063,8 @@
                             "id": "P334861.12.6.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

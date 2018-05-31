@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:29",
+  "UTC-timestamp": "2018-05-31T05:30:30",
   "textid": "P313773",
   "cdl": [
     {
@@ -3973,7 +3973,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂]-{1}ia-⸢ki⸣-ni",
+                  "frag": "E₂]—{1}ia-⸢ki⸣-ni",
                   "id": "P313773.l124a0",
                   "ref": "P313773.22.3",
                   "inst": "Bit-Yakin[]GN$Bit-Yakini",
@@ -3986,7 +3986,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "E₂",
@@ -3997,7 +3996,8 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P313773.22.1.0",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

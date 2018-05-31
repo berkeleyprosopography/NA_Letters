@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:54",
+  "UTC-timestamp": "2018-05-31T05:34:47",
   "textid": "X900005",
   "cdl": [
     {
@@ -213,7 +213,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}10--⸢ha⸣-ti",
+                  "frag": "{1}10—⸢ha⸣-ti",
                   "id": "X900005.l043e6",
                   "ref": "X900005.3.2",
                   "inst": "Adda-hati[1]PN",
@@ -246,7 +246,7 @@
                         "form": "10",
                         "gdl_utf8": "𒌋",
                         "id": "X900005.3.2.1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1",
                         "seq": [
                           {
@@ -1171,7 +1171,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR-aš-šur",
+                  "frag": "KUR—aš-šur",
                   "id": "X900005.l043fc",
                   "ref": "X900005.9.3",
                   "cof-tails": "X900005.l043fd",
@@ -1184,7 +1184,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "KUR",
@@ -1192,7 +1191,8 @@
                             "id": "X900005.9.3.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -1218,7 +1218,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR-aš-šur",
+                  "frag": "KUR—aš-šur",
                   "id": "X900005.l043fd",
                   "ref": "X900005.9.3",
                   "cof-head": "X900005.l043fc",
@@ -1230,7 +1230,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "KUR",
@@ -1238,7 +1237,8 @@
                             "id": "X900005.9.3.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -1614,7 +1614,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}EN-⸢iq⸣-[bi]",
+                  "frag": "{1}EN—⸢iq⸣-[bi]",
                   "id": "X900005.l04406",
                   "ref": "X900005.12.4",
                   "inst": "Bel-iqbi[1]PN",
@@ -1626,7 +1626,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1652,7 +1651,8 @@
                             "id": "X900005.12.4.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -2477,18 +2477,12 @@
                             "delim": "-"
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "HI",
-                                "gdl_utf8": "𒄭",
-                                "id": "X900005.21.2.1",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "HI",
+                            "gdl_utf8": "𒄭",
+                            "id": "X900005.21.2.1",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "A",
@@ -2768,21 +2762,15 @@
                             "delim": "-"
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "HI",
-                                "gdl_utf8": "𒄭",
-                                "id": "X900005.24.2.1",
-                                "breakStart": "1",
-                                "o": "[",
-                                "break": "missing",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "HI",
+                            "gdl_utf8": "𒄭",
+                            "id": "X900005.24.2.1",
+                            "breakStart": "1",
+                            "o": "[",
+                            "break": "missing",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "A",
@@ -4286,7 +4274,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "[i]-⸢da-tu-šu⸣",
+                  "frag": "[i]—⸢da-tu-šu⸣",
                   "id": "X900005.l0444d",
                   "ref": "X900005.35.1",
                   "cof-tails": "X900005.l0444e",
@@ -4305,7 +4293,7 @@
                         "o": "]",
                         "break": "missing",
                         "breakEnd": "X900005.35.1.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -4342,7 +4330,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "[i]-⸢da-tu-šu⸣",
+                  "frag": "[i]—⸢da-tu-šu⸣",
                   "id": "X900005.l0444e",
                   "ref": "X900005.35.1",
                   "cof-head": "X900005.l0444d",
@@ -4361,7 +4349,7 @@
                         "o": "]",
                         "break": "missing",
                         "breakEnd": "X900005.35.1.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

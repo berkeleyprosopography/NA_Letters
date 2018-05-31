@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:10",
+  "UTC-timestamp": "2018-05-31T05:29:59",
   "textid": "P313609",
   "cdl": [
     {
@@ -238,20 +238,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂\\p-⸢AD⸣-šu₂-u-ni",
+                  "frag": "E₂\\p—⸢AD⸣-šu₂-u-ni",
                   "id": "P313609.l0a3b6",
                   "ref": "P313609.5.2",
                   "cof-tails": "P313609.l0a3b7",
                   "inst": "bītu[house]N$bēt&abu[father]N$abīšūni",
-                  "sig": "@saao/sargonletters%akk-x-neoass:E₂-AD-šu₂-u-ni=bītu[house//house]N'N$bēt&&@saao/sargonletters%akk-x-neoass:=abu[father//father]N'N$abīšūni",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "E₂-AD-šu₂-u-ni",
+                    "form": "E₂—AD-šu₂-u-ni",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "form": "E₂",
@@ -259,7 +258,8 @@
                             "id": "P313609.5.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "mods": [
                               {
                                 "b": "E₂"
@@ -302,28 +302,24 @@
                     ],
                     "cf": "bītu",
                     "gw": "house",
-                    "sense": "house",
                     "norm": "bēt",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "E₂\\p-⸢AD⸣-šu₂-u-ni",
+                  "frag": "E₂\\p—⸢AD⸣-šu₂-u-ni",
                   "id": "P313609.l0a3b7",
                   "ref": "P313609.5.2",
                   "cof-head": "P313609.l0a3b6",
                   "inst": "bītu[house]N$bēt&abu[father]N$abīšūni",
-                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=abu[father//father]N'N$abīšūni",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "E₂-AD-šu₂-u-ni",
+                    "form": "E₂—AD-šu₂-u-ni",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "form": "E₂",
@@ -331,7 +327,8 @@
                             "id": "P313609.5.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "mods": [
                               {
                                 "b": "E₂"
@@ -374,10 +371,8 @@
                     ],
                     "cf": "abu",
                     "gw": "father",
-                    "sense": "father",
                     "norm": "abīšūni",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
@@ -427,7 +422,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur-MAN-a-ni",
+                  "frag": "{1}aš-šur—MAN-a-ni",
                   "id": "P313609.l0a3b9",
                   "ref": "P313609.6.2",
                   "inst": "Aššur-šarrani[]PN$",
@@ -464,7 +459,7 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P313609.6.2.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

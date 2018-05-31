@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:30",
+  "UTC-timestamp": "2018-05-31T05:30:31",
   "textid": "P313779",
   "cdl": [
     {
@@ -736,7 +736,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{⸢d⸣}15--⸢BAD₃⸣",
+                  "frag": "{1}{⸢d⸣}15—⸢BAD₃⸣",
                   "id": "P313779.l08414",
                   "ref": "P313779.10.1",
                   "inst": "Issar-duri[Sarduri]PN$",
@@ -791,7 +791,7 @@
                         "o": "]",
                         "break": "missing",
                         "breakEnd": "P313779.10.1.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1",
                         "seq": [
                           {
@@ -1528,7 +1528,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "[i]-⸢su⸣-ri",
+                  "frag": "[i]—⸢su⸣-ri",
                   "id": "P313779.l0842a",
                   "ref": "P313779.17.1",
                   "inst": "issurri[perhaps]AV",
@@ -1546,7 +1546,7 @@
                         "o": "]",
                         "break": "missing",
                         "breakEnd": "P313779.17.1.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

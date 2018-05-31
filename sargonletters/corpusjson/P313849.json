@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:37",
+  "UTC-timestamp": "2018-05-31T05:30:40",
   "textid": "P313849",
   "cdl": [
     {
@@ -383,7 +383,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}⸢GAL⸣-[x",
+                  "frag": "{lu₂v}⸢GAL⸣—[x",
                   "id": "P313849.l106f7",
                   "ref": "P313849.4.4",
                   "inst": "u",
@@ -395,7 +395,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -432,7 +431,8 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           }
                         ]
@@ -769,7 +769,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DINGIR-ia]-da-aʾ",
+                  "frag": "{1}DINGIR—ia]-da-aʾ",
                   "id": "P313849.l10704",
                   "ref": "P313849.6.1",
                   "inst": "Il-yadaʾ[1]PN",
@@ -782,7 +782,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -812,7 +811,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -1263,20 +1263,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA]-EN-GIN",
+                  "frag": "{1}{d}PA]—EN—GIN",
                   "id": "P313849.l10714",
                   "ref": "P313849.8.1",
                   "inst": "Nabu-belu-kaʾʾin[1]PN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}PA-EN-GIN=Nabu-belu-kaʾʾin[1//1]PN'PN$Nabu-belu-kaʾʾin",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}PA-EN-GIN",
+                    "form": "{1}{d}PA—EN—GIN",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1320,7 +1319,8 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P313849.8.1.0",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "EN",
@@ -1328,7 +1328,8 @@
                             "id": "P313849.8.1.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "GIN",
@@ -1342,10 +1343,7 @@
                     ],
                     "cf": "Nabu-belu-kaʾʾin",
                     "gw": "1",
-                    "sense": "1",
-                    "norm": "Nabu-belu-kaʾʾin",
-                    "pos": "PN",
-                    "epos": "PN"
+                    "pos": "PN"
                   }
                 },
                 {

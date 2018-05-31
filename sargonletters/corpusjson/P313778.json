@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:30",
+  "UTC-timestamp": "2018-05-31T05:30:31",
   "textid": "P313778",
   "cdl": [
     {
@@ -623,20 +623,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU-KA₂.DINGIR{ki}",
+                  "frag": "DUMU—KA₂.DINGIR{ki}",
                   "id": "P313778.l1131f",
                   "ref": "P313778.5.6",
                   "cof-tails": "P313778.l11320",
                   "inst": "+māru[son]N$mār&+Babili[Babylon]GN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:DUMU-KA₂.DINGIR{KI}=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:DUMU-KA₂.DINGIR{KI}=Babili[Babylon//Babylon]GN'GN$Babili",
+                  "newsig": "@saao/sargonletters%akk-x-neoass:DUMU—KA₂.DINGIR{KI}=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:DUMU—KA₂.DINGIR{KI}=Babili[Babylon//Babylon]GN'GN$Babili",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU-KA₂.DINGIR{KI}",
+                    "form": "DUMU—KA₂.DINGIR{KI}",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "DUMU",
@@ -644,21 +643,16 @@
                             "id": "P313778.5.6.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "KA₂",
-                                "gdl_utf8": "𒆍",
-                                "id": "P313778.5.6.1",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "KA₂",
+                            "gdl_utf8": "𒆍",
+                            "id": "P313778.5.6.1",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "DINGIR",
@@ -693,19 +687,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU-KA₂.DINGIR{ki}",
+                  "frag": "DUMU—KA₂.DINGIR{ki}",
                   "id": "P313778.l11320",
                   "ref": "P313778.5.6",
                   "cof-head": "P313778.l1131f",
                   "inst": "+māru[son]N$mār&+Babili[Babylon]GN$",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU-KA₂.DINGIR{KI}",
+                    "form": "DUMU—KA₂.DINGIR{KI}",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "DUMU",
@@ -713,21 +706,16 @@
                             "id": "P313778.5.6.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "KA₂",
-                                "gdl_utf8": "𒆍",
-                                "id": "P313778.5.6.1",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "KA₂",
+                            "gdl_utf8": "𒆍",
+                            "id": "P313778.5.6.1",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "DINGIR",

@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:00",
+  "UTC-timestamp": "2018-05-31T05:33:04",
   "textid": "P334348",
   "cdl": [
     {
@@ -463,7 +463,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a-⸢dan-niš⸣",
+                  "frag": "a—⸢dan-niš⸣",
                   "id": "P334348.l06a96",
                   "ref": "P334348.5.2",
                   "inst": "adanniš[very much]AV",
@@ -476,7 +476,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P334348.5.2.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -1070,7 +1070,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i-ha-ra-aṣ~dt",
+                  "frag": "i-ha-ra-aṣ\\dt",
                   "id": "P334348.l06aa3",
                   "ref": "P334348.10.1",
                   "inst": "harāṣu[break off//clear up]V$iharraṣ",
@@ -1099,7 +1099,7 @@
                         "delim": "-"
                       },
                       {
-                        "form": "aṣ~dt",
+                        "form": "aṣ",
                         "gdl_utf8": "𒊍",
                         "id": "P334348.10.1.3",
                         "mods": [
@@ -1107,7 +1107,7 @@
                             "b": "aṣ"
                           },
                           {
-                            "a": "dt"
+                            "f": "dt"
                           }
                         ]
                       }

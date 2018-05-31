@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:28",
+  "UTC-timestamp": "2018-05-31T05:30:28",
   "textid": "P313761",
   "cdl": [
     {
@@ -212,14 +212,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur-BAD₃-IGI]-ia",
+                  "frag": "{1}aš-šur—BAD₃—IGI]-ia",
                   "id": "P313761.l07b18",
                   "ref": "P313761.3.2",
                   "inst": "Aššur-dur-paniya[1]PN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}aš-šur-BAD₃-IGI-ia=Aššur-dur-paniya[1//1]PN'PN$Aššur-dur-paniya",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}aš-šur-BAD₃-IGI-ia",
+                    "form": "{1}aš-šur-BAD₃—IGI-ia",
                     "gdl": [
                       {
                         "det": "semantic",
@@ -252,13 +252,12 @@
                         "gdl_utf8": "𒋩",
                         "id": "P313761.3.2.2",
                         "break": "missing",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "BAD₃",
@@ -267,7 +266,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "IGI",
@@ -290,10 +290,7 @@
                     ],
                     "cf": "Aššur-dur-paniya",
                     "gw": "1",
-                    "sense": "1",
-                    "norm": "Aššur-dur-paniya",
-                    "pos": "PN",
-                    "epos": "PN"
+                    "pos": "PN"
                   }
                 },
                 {

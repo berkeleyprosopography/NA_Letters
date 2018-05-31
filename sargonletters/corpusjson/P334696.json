@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:29",
+  "UTC-timestamp": "2018-05-31T05:33:59",
   "textid": "P334696",
   "cdl": [
     {
@@ -754,14 +754,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}kar-{1}MAN-GIN",
+                  "frag": "{uru}kar—{1}MAN—GIN",
                   "id": "P334696.l0f2b8",
                   "ref": "P334696.6.6",
                   "inst": "Kar-Šarrukin[1]GN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}kar-{1}MAN-GIN=Kar-Šarrukin[1//1]GN'GN$Kar-Šarrukin",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}kar-{1}MAN-GIN",
+                    "form": "{URU}kar-{1}MAN—GIN",
                     "gdl": [
                       {
                         "det": "semantic",
@@ -786,13 +786,12 @@
                         "v": "kar",
                         "gdl_utf8": "𒋼𒀀",
                         "id": "P334696.6.6.1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -818,7 +817,8 @@
                             "id": "P334696.6.6.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "GIN",
@@ -832,10 +832,7 @@
                     ],
                     "cf": "Kar-Šarrukin",
                     "gw": "1",
-                    "sense": "1",
-                    "norm": "Kar-Šarrukin",
-                    "pos": "GN",
-                    "epos": "GN"
+                    "pos": "GN"
                   }
                 },
                 {
@@ -2871,19 +2868,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DI-EN-aš₂-me",
+                  "frag": "{1}DI—EN—aš₂-me",
                   "id": "P334696.l0f302",
                   "ref": "P334696.19.7",
                   "inst": "Šulmu-bel-ašme[]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}DI-EN-aš₂-me=Šulmu-bel-ašme[1//1]PN'PN$Šulmu-bel-ašme",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}DI-EN-aš₂-me",
+                    "form": "{1}DI—EN-aš₂-me",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -2912,7 +2908,8 @@
                             "id": "P334696.19.7.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "EN",
@@ -2920,7 +2917,8 @@
                             "id": "P334696.19.7.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

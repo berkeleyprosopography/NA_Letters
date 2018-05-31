@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:36",
+  "UTC-timestamp": "2018-05-31T05:32:18",
   "textid": "P334119",
   "cdl": [
     {
@@ -207,19 +207,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}AMAR.UTU-MAN-PAB",
+                  "frag": "{1}{d}AMAR.UTU—MAN—PAB",
                   "id": "P334119.l0e1ab",
                   "ref": "P334119.3.2",
                   "inst": "Marduk-šarru-uṣur[]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}AMAR.UTU-MAN-PAB=Marduk-šarru-uṣur[1//1]PN'PN$Marduk-šarru-uṣur",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}AMAR.UTU-MAN-PAB",
+                    "form": "{1}{d}AMAR.UTU—MAN—PAB",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -267,7 +266,8 @@
                             "id": "P334119.3.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "MAN",
@@ -275,7 +275,8 @@
                             "id": "P334119.3.2.4",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "PAB",
@@ -1059,7 +1060,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš₂-pa-ba]-ri",
+                  "frag": "{1}aš₂-pa—ba]-ri",
                   "id": "P334119.l0e1bf",
                   "ref": "P334119.8.1",
                   "inst": "Ašpa-bara[]PN$Ašpa-bari",
@@ -1102,7 +1103,7 @@
                         "gdl_utf8": "𒉺",
                         "id": "P334119.8.1.2",
                         "break": "missing",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -1808,20 +1809,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}AMAR.UTU-LUGAL-PAB",
+                  "frag": "{1}{d}AMAR.UTU—LUGAL—PAB",
                   "id": "P334119.l0e1cf",
                   "ref": "P334119.13.1",
                   "inst": "Marduk-šarru-uṣur[]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}AMAR.UTU-LUGAL-PAB=Marduk-šarru-uṣur[1//1]PN'PN$Marduk-šarru-uṣur",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}AMAR.UTU-LUGAL-PAB",
+                    "form": "{1}{d}AMAR.UTU—LUGAL—PAB",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1866,7 +1866,8 @@
                             "id": "P334119.13.1.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "LUGAL",
@@ -1874,7 +1875,8 @@
                             "id": "P334119.13.1.4",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "PAB",
@@ -3159,7 +3161,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}ša-BAD-HAL-MEŠ",
+                  "frag": "{lu₂v}ša—BAD-HAL-MEŠ",
                   "id": "P334119.l0e1f0",
                   "ref": "P334119.22.3",
                   "inst": "ša-pēthalli[rider//cavalry]N$ša-pēthallāti",
@@ -3200,7 +3202,7 @@
                         "v": "ša",
                         "gdl_utf8": "𒊭",
                         "id": "P334119.22.3.1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -3643,7 +3645,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{⸢lu₂v⸣}[ša\\y-BAD-HAL-MEŠ]",
+                  "frag": "{⸢lu₂v⸣}[ša\\y—BAD-HAL-MEŠ]",
                   "id": "P334119.l0e1fa",
                   "ref": "P334119.26.3",
                   "inst": "ša-pēthallāti[cavalry]N$",
@@ -3689,7 +3691,7 @@
                         "breakStart": "1",
                         "o": "[",
                         "break": "missing",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1",
                         "mods": [
                           {
@@ -3750,7 +3752,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}ša\\y-BAD-HAL-MEŠ-[šu₂-nu",
+                  "frag": "{lu₂v}ša\\y—BAD-HAL-MEŠ-[šu₂-nu",
                   "id": "P334119.l0e1fb",
                   "ref": "P334119.27.1",
                   "inst": "ša-pēthalli[rider//cavalry]N$ša-pēthallātišunu",
@@ -3791,7 +3793,7 @@
                         "form": "ša",
                         "gdl_utf8": "𒊭",
                         "id": "P334119.27.1.1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1",
                         "mods": [
                           {
@@ -4097,7 +4099,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{[lu₂v}ša-BAD-HAL-MEŠ]",
+                  "frag": "{[lu₂v}ša—BAD-HAL-MEŠ]",
                   "id": "P334119.l0e202",
                   "ref": "P334119.30.3",
                   "inst": "ša-pēthalli[rider//cavalry]N$ša-pēthallāti",
@@ -4141,7 +4143,7 @@
                         "gdl_utf8": "𒊭",
                         "id": "P334119.30.3.1",
                         "break": "missing",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -4230,7 +4232,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš₂-pa-ba-⸢ri⸣",
+                  "frag": "{1}aš₂-pa—ba-⸢ri⸣",
                   "id": "P334119.l0e204",
                   "ref": "P334119.31.2",
                   "inst": "Ašpa-bari[1]PN",
@@ -4268,7 +4270,7 @@
                         "v": "pa",
                         "gdl_utf8": "𒉺",
                         "id": "P334119.31.2.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -5743,7 +5745,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "na-aṣ~dp-ṣa-⸢an⸣-ni",
+                  "frag": "na-aṣ\\dp-ṣa-⸢an⸣-ni",
                   "id": "P334119.l0e227",
                   "ref": "P334119.41.1",
                   "inst": "našû[lifted//brought]AJ$naṣṣanni",
@@ -5760,7 +5762,7 @@
                         "delim": "-"
                       },
                       {
-                        "form": "aṣ~dp",
+                        "form": "aṣ",
                         "gdl_utf8": "𒊍",
                         "id": "P334119.41.1.1",
                         "delim": "-",
@@ -5769,7 +5771,7 @@
                             "b": "aṣ"
                           },
                           {
-                            "a": "dp"
+                            "f": "dp"
                           }
                         ]
                       },

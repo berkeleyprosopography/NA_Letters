@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:44",
+  "UTC-timestamp": "2018-05-31T05:30:50",
   "textid": "P313905",
   "cdl": [
     {
@@ -239,20 +239,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{[uru]}⸢ŠA₃⸣-URU-a.⸢a⸣",
+                  "frag": "{[uru]}⸢ŠA₃⸣—URU-a.⸢a⸣",
                   "id": "P313905.l0877e",
                   "ref": "P313905.4.1",
                   "inst": "Libbalaya[from Assur]EN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}ŠA₃-URU-a.a=Libbalaya[from Assur//from Assur]EN'EN$Libbalaya",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}ŠA₃-URU-a.a",
+                    "form": "{URU}ŠA₃—URU-a.a",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -286,7 +285,8 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           },
                           {
@@ -1417,20 +1417,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}UTU-HAL-⸢ni⸣",
+                  "frag": "{1}{d}UTU—HAL-⸢ni⸣",
                   "id": "P313905.l087a4",
                   "ref": "P313905.14.2",
                   "inst": "Šamaš-išmanni[]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}UTU-HAL-ni=Šamaš-išmanni[1//1]PN'PN$Šamaš-išmanni",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}UTU-HAL-ni",
+                    "form": "{1}{d}UTU—HAL-ni",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1467,7 +1466,8 @@
                             "id": "P313905.14.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "HAL",

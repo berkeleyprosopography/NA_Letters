@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:37",
+  "UTC-timestamp": "2018-05-31T05:32:20",
   "textid": "P334127",
   "cdl": [
     {
@@ -199,7 +199,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}HAL-ni-aš-šur",
+                  "frag": "{1}HAL-ni—aš-šur",
                   "id": "P334127.l05200",
                   "ref": "P334127.3.2",
                   "inst": "Išmanni-Aššur[1]PN",
@@ -244,7 +244,7 @@
                         "v": "ni",
                         "gdl_utf8": "𒉌",
                         "id": "P334127.3.2.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -580,18 +580,12 @@
                             "delim": "."
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "GIŠ",
-                                "gdl_utf8": "𒄑",
-                                "id": "P334127.5.3.2",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "GIŠ",
+                            "gdl_utf8": "𒄑",
+                            "id": "P334127.5.3.2",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "SAR",
@@ -820,7 +814,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}IM-nu-ri⸣",
+                  "frag": "{1}{d}IM—nu-ri⸣",
                   "id": "P334127.l0520e",
                   "ref": "P334127.7.2",
                   "inst": "Adad-nuri[]PN$",
@@ -832,7 +826,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -874,7 +867,8 @@
                             "break": "damaged",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

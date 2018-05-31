@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:19",
+  "UTC-timestamp": "2018-05-31T05:33:39",
   "textid": "P334588",
   "cdl": [
     {
@@ -216,7 +216,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}ta-⸢ri-ba⸣-15",
+                  "frag": "{1}ta-⸢ri-ba⸣—15",
                   "id": "P334588.l0401f",
                   "ref": "P334588.3.2",
                   "inst": "Tariba-Issar[]PN$",
@@ -262,7 +262,7 @@
                         "gdl_utf8": "𒁀",
                         "id": "P334588.3.2.3",
                         "break": "damaged",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1",
                         "hc": "1"
                       },
@@ -1345,7 +1345,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}GAL-mu-gi",
+                  "frag": "{lu₂v}GAL—mu-gi",
                   "id": "P334588.l04038",
                   "ref": "P334588.13.2",
                   "cof-tails": "P334588.l04039",
@@ -1358,7 +1358,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1393,7 +1392,8 @@
                             "id": "P334588.13.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -1419,7 +1419,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}GAL-mu-gi",
+                  "frag": "{lu₂v}GAL—mu-gi",
                   "id": "P334588.l04039",
                   "ref": "P334588.13.2",
                   "cof-head": "P334588.l04038",
@@ -1431,7 +1431,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1466,7 +1465,8 @@
                             "id": "P334588.13.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -3390,20 +3390,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}GIŠ.MI-EN",
+                  "frag": "{1}GIŠ.MI—EN",
                   "id": "P334588.l0406b",
                   "ref": "P334588.37.1",
                   "inst": "Ṣil-Bel[]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}GIŠ.MI-EN=Ṣil-Bel[1//1]PN'PN$Ṣil-Bel",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}GIŠ.MI-EN",
+                    "form": "{1}GIŠ.MI—EN",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -3437,7 +3436,8 @@
                             "id": "P334588.37.1.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "EN",

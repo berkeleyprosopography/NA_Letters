@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:15",
+  "UTC-timestamp": "2018-05-31T05:33:32",
   "textid": "P334543",
   "cdl": [
     {
@@ -595,7 +595,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a-be₂-e-ti\\t",
+                  "frag": "a—be₂-e-ti\\t",
                   "id": "P334543.l096ae",
                   "ref": "P334543.6.1",
                   "cof-tails": "P334543.l096af",
@@ -610,7 +610,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P334543.6.1.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -649,7 +649,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a-be₂-e-ti\\t",
+                  "frag": "a—be₂-e-ti\\t",
                   "id": "P334543.l096af",
                   "ref": "P334543.6.1",
                   "cof-head": "P334543.l096ae",
@@ -664,7 +664,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P334543.6.1.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -4130,7 +4130,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a-be₂-e-⸢ti\\t⸣",
+                  "frag": "a—be₂-e-⸢ti\\t⸣",
                   "id": "P334543.l0971e",
                   "ref": "P334543.30.1",
                   "cof-tails": "P334543.l0971f",
@@ -4145,7 +4145,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P334543.30.1.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -4187,7 +4187,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a-be₂-e-⸢ti\\t⸣",
+                  "frag": "a—be₂-e-⸢ti\\t⸣",
                   "id": "P334543.l0971f",
                   "ref": "P334543.30.1",
                   "cof-head": "P334543.l0971e",
@@ -4202,7 +4202,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P334543.30.1.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

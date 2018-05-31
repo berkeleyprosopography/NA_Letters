@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:15",
+  "UTC-timestamp": "2018-05-31T05:31:37",
   "textid": "P314275",
   "cdl": [
     {
@@ -210,7 +210,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}x]-da\\d-la",
+                  "frag": "{1}x]—da\\d-la",
                   "id": "P314275.l05dd0",
                   "ref": "P314275.4.1",
                   "inst": "u",
@@ -247,7 +247,7 @@
                         "break": "missing",
                         "o": "]",
                         "breakEnd": "P314275.4.1.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -930,7 +930,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{⸢lu₂v⸣}EN-pi-qi-te",
+                  "frag": "{⸢lu₂v⸣}EN—pi-qi-te",
                   "id": "P314275.l05dde",
                   "ref": "P314275.11.1",
                   "cof-tails": "P314275.l05ddf",
@@ -943,7 +943,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -981,7 +980,8 @@
                             "id": "P314275.11.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -1013,7 +1013,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{⸢lu₂v⸣}EN-pi-qi-te",
+                  "frag": "{⸢lu₂v⸣}EN—pi-qi-te",
                   "id": "P314275.l05ddf",
                   "ref": "P314275.11.1",
                   "cof-head": "P314275.l05dde",
@@ -1026,7 +1026,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1064,7 +1063,8 @@
                             "id": "P314275.11.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

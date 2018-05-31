@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:16",
+  "UTC-timestamp": "2018-05-31T05:33:34",
   "textid": "P334556",
   "cdl": [
     {
@@ -215,7 +215,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur-a-lik-[pa-ni]",
+                  "frag": "{1}aš-šur—a-lik—[pa-ni]",
                   "id": "P334556.l09bc6",
                   "ref": "P334556.3.2",
                   "inst": "Aššur-alik-pani[1]PN",
@@ -252,7 +252,7 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P334556.3.2.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -265,7 +265,7 @@
                         "v": "lik",
                         "gdl_utf8": "𒌨",
                         "id": "P334556.3.2.4",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -678,7 +678,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}600--E₂.⸢GAL⸣",
+                  "frag": "{lu₂v}600—E₂.⸢GAL⸣",
                   "id": "P334556.l09bd1",
                   "ref": "P334556.6.3",
                   "cof-tails": "P334556.l09bd2",
@@ -721,7 +721,7 @@
                         "form": "600",
                         "gdl_utf8": "𒐞",
                         "id": "P334556.6.3.1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1",
                         "seq": [
                           {
@@ -764,7 +764,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}600--E₂.⸢GAL⸣",
+                  "frag": "{lu₂v}600—E₂.⸢GAL⸣",
                   "id": "P334556.l09bd2",
                   "ref": "P334556.6.3",
                   "cof-head": "P334556.l09bd1",
@@ -807,7 +807,7 @@
                         "form": "600",
                         "gdl_utf8": "𒐞",
                         "id": "P334556.6.3.1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1",
                         "seq": [
                           {

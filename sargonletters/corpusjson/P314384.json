@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:23",
+  "UTC-timestamp": "2018-05-31T05:31:50",
   "textid": "P314384",
   "cdl": [
     {
@@ -357,7 +357,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "am-mar",
+                  "frag": "am—mar",
                   "id": "P314384.l135fc",
                   "ref": "P314384.4.3",
                   "inst": "ammar[as much as//whatever]REL$",
@@ -371,7 +371,7 @@
                         "v": "am",
                         "gdl_utf8": "𒄠",
                         "id": "P314384.4.3.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -748,20 +748,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA-EN-GIN-in\\p",
+                  "frag": "{1}{d}PA—EN—GIN-in\\p",
                   "id": "P314384.l1360a",
                   "ref": "P314384.6.3",
                   "inst": "Nabu-belu-kaʾʾin[1]PN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}PA-EN-GIN-in=Nabu-belu-kaʾʾin[1//1]PN'PN$Nabu-belu-kaʾʾin",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}PA-EN-GIN-in",
+                    "form": "{1}{d}PA—EN—GIN-in",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -798,7 +797,8 @@
                             "id": "P314384.6.3.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "EN",
@@ -806,7 +806,8 @@
                             "id": "P314384.6.3.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "GIN",
@@ -834,10 +835,7 @@
                     ],
                     "cf": "Nabu-belu-kaʾʾin",
                     "gw": "1",
-                    "sense": "1",
-                    "norm": "Nabu-belu-kaʾʾin",
-                    "pos": "PN",
-                    "epos": "PN"
+                    "pos": "PN"
                   }
                 },
                 {

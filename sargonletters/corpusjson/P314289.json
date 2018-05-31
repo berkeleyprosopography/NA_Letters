@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:17",
+  "UTC-timestamp": "2018-05-31T05:31:41",
   "textid": "P314289",
   "cdl": [
     {
@@ -2050,21 +2050,20 @@
                 },
                 {
                   "node": "l",
-                  "frag": "⸢DUMU⸣-MEŠ\\m-TIN.⸢TIR⸣{[ki}",
+                  "frag": "⸢DUMU⸣-MEŠ\\m—TIN.⸢TIR⸣{[ki}",
                   "id": "P314289.l121ad",
                   "ref": "P314289.15.1",
                   "cof-tails": "P314289.l121ae",
                   "inst": "+māru[son]N$māre&+Babili[Babylon]GN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:DUMU-MEŠ-TIN.TIR{KI}=māru[son//son]N'N$māre&&@saao/sargonletters%akk-x-neoass:DUMU-MEŠ-TIN.TIR{KI}=Babili[Babylon//Babylon]GN'GN$Babili",
+                  "newsig": "@saao/sargonletters%akk-x-neoass:DUMU-MEŠ—TIN.TIR{KI}=māru[son//son]N'N$māre&&@saao/sargonletters%akk-x-neoass:DUMU-MEŠ—TIN.TIR{KI}=Babili[Babylon//Babylon]GN'GN$Babili",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU-MEŠ-TIN.TIR{KI}",
+                    "form": "DUMU-MEŠ—TIN.TIR{KI}",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "DUMU",
@@ -2083,7 +2082,8 @@
                             "id": "P314289.15.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "mods": [
                               {
                                 "b": "MEŠ"
@@ -2094,18 +2094,12 @@
                             ]
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "TIN",
-                                "gdl_utf8": "𒁷",
-                                "id": "P314289.15.1.2",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "TIN",
+                            "gdl_utf8": "𒁷",
+                            "id": "P314289.15.1.2",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "TIR",
@@ -2146,20 +2140,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "⸢DUMU⸣-MEŠ\\m-TIN.⸢TIR⸣{[ki}",
+                  "frag": "⸢DUMU⸣-MEŠ\\m—TIN.⸢TIR⸣{[ki}",
                   "id": "P314289.l121ae",
                   "ref": "P314289.15.1",
                   "cof-head": "P314289.l121ad",
                   "inst": "+māru[son]N$māre&+Babili[Babylon]GN$",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU-MEŠ-TIN.TIR{KI}",
+                    "form": "DUMU-MEŠ—TIN.TIR{KI}",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "DUMU",
@@ -2178,7 +2171,8 @@
                             "id": "P314289.15.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "mods": [
                               {
                                 "b": "MEŠ"
@@ -2189,18 +2183,12 @@
                             ]
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "TIN",
-                                "gdl_utf8": "𒁷",
-                                "id": "P314289.15.1.2",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "TIN",
+                            "gdl_utf8": "𒁷",
+                            "id": "P314289.15.1.2",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "TIR",
@@ -2701,7 +2689,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "⸢i⸣-su\\t-ri",
+                  "frag": "⸢i⸣—su\\t-ri",
                   "id": "P314289.l121c1",
                   "ref": "P314289.18.1",
                   "inst": "issurri[perhaps]AV",
@@ -2717,7 +2705,7 @@
                         "id": "P314289.18.1.0",
                         "break": "damaged",
                         "ho": "1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1",
                         "hc": "1"
                       },

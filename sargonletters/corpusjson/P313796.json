@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:31",
+  "UTC-timestamp": "2018-05-31T05:30:33",
   "textid": "P313796",
   "cdl": [
     {
@@ -1136,7 +1136,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{[urud}E₂-bu-na]-ki",
+                  "frag": "{[urud}E₂—bu-na]-ki",
                   "id": "P313796.l0f467",
                   "ref": "P313796.8.1",
                   "inst": "Bit-Bunakki[]GN$",
@@ -1149,7 +1149,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1188,7 +1187,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -2560,7 +2560,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{urud}E₂]-⸢bu⸣-na-ki",
+                  "frag": "{urud}E₂]—⸢bu⸣-na-ki",
                   "id": "P313796.l0f483",
                   "ref": "P313796.18.2",
                   "inst": "Bit-Bunakki[1]GN",
@@ -2573,7 +2573,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -2612,7 +2611,8 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P313796.18.1.0",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -2771,7 +2771,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{urud]}⸢E₂⸣-bu-na-⸢ki⸣",
+                  "frag": "{urud]}⸢E₂⸣—bu-na-⸢ki⸣",
                   "id": "P313796.l0f487",
                   "ref": "P313796.19.3",
                   "inst": "Bit-Bunakki[1]GN",
@@ -2783,7 +2783,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -2823,7 +2822,8 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           }
                         ]
@@ -3451,21 +3451,20 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v]}⸢DUMU⸣-TIN.TIR{ki}",
+                  "frag": "{lu₂v]}⸢DUMU⸣—TIN.TIR{ki}",
                   "id": "P313796.l0f497",
                   "ref": "P313796.23.2",
                   "cof-tails": "P313796.l0f498",
                   "inst": "+māru[son]N$mār&+Babili[Babylon]GN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}DUMU-TIN.TIR{KI}=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:{LU₂}DUMU-TIN.TIR{KI}=Babili[Babylon//Babylon]GN'GN$Babili",
+                  "newsig": "@saao/sargonletters%akk-x-neoass:{LU₂}DUMU—TIN.TIR{KI}=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:{LU₂}DUMU—TIN.TIR{KI}=Babili[Babylon//Babylon]GN'GN$Babili",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}DUMU-TIN.TIR{KI}",
+                    "form": "{LU₂}DUMU—TIN.TIR{KI}",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -3505,22 +3504,17 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "TIN",
-                                "gdl_utf8": "𒁷",
-                                "id": "P313796.23.2.2",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "TIN",
+                            "gdl_utf8": "𒁷",
+                            "id": "P313796.23.2.2",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "TIR",
@@ -3555,20 +3549,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v]}⸢DUMU⸣-TIN.TIR{ki}",
+                  "frag": "{lu₂v]}⸢DUMU⸣—TIN.TIR{ki}",
                   "id": "P313796.l0f498",
                   "ref": "P313796.23.2",
                   "cof-head": "P313796.l0f497",
                   "inst": "+māru[son]N$mār&+Babili[Babylon]GN$",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}DUMU-TIN.TIR{KI}",
+                    "form": "{LU₂}DUMU—TIN.TIR{KI}",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -3608,22 +3601,17 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "TIN",
-                                "gdl_utf8": "𒁷",
-                                "id": "P313796.23.2.2",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "TIN",
+                            "gdl_utf8": "𒁷",
+                            "id": "P313796.23.2.2",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "TIR",
@@ -3725,7 +3713,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR-aš-šur]{ki}",
+                  "frag": "KUR—aš-šur]{ki}",
                   "id": "P313796.l0f49b",
                   "ref": "P313796.24.2",
                   "cof-tails": "P313796.l0f49c",
@@ -3739,7 +3727,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "KUR",
@@ -3748,7 +3735,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -3797,7 +3785,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR-aš-šur]{ki}",
+                  "frag": "KUR—aš-šur]{ki}",
                   "id": "P313796.l0f49c",
                   "ref": "P313796.24.2",
                   "cof-head": "P313796.l0f49b",
@@ -3810,7 +3798,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "KUR",
@@ -3819,7 +3806,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

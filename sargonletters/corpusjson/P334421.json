@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:07",
+  "UTC-timestamp": "2018-05-31T05:33:18",
   "textid": "P334421",
   "cdl": [
     {
@@ -889,20 +889,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}PAB-ZALAG₂",
+                  "frag": "{1}PAB—ZALAG₂",
                   "id": "P334421.l10d94",
                   "ref": "P334421.7.3",
                   "inst": "Ahu-nuri[]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}PAB-ZALAG₂=Ahu-nuri[1//1]PN'PN$Ahu-nuri",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}PAB-ZALAG₂",
+                    "form": "{1}PAB—ZALAG₂",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -928,7 +927,8 @@
                             "id": "P334421.7.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "ZALAG₂",
@@ -2633,20 +2633,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU-KA₂.DINGIR.RA",
+                  "frag": "DUMU—KA₂.DINGIR.RA",
                   "id": "P334421.l10dbe",
                   "ref": "P334421.20.3",
                   "cof-tails": "P334421.l10dbf",
                   "inst": "+māru[son]N$mār&+Babili[Babylon]GN$Babili",
-                  "sig": "@saao/sargonletters%akk-x-neoass:DUMU-KA₂.DINGIR.RA=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:=Babili[Babylon//Babylon]GN'GN$Babili",
+                  "newsig": "@saao/sargonletters%akk-x-neoass:DUMU—KA₂.DINGIR.RA=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:DUMU—KA₂.DINGIR.RA=Babili[Babylon//Babylon]GN'GN$Babili",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU-KA₂.DINGIR.RA",
+                    "form": "DUMU—KA₂.DINGIR.RA",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "DUMU",
@@ -2654,35 +2653,24 @@
                             "id": "P334421.20.3.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "KA₂",
-                                "gdl_utf8": "𒆍",
-                                "id": "P334421.20.3.1",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "KA₂",
+                            "gdl_utf8": "𒆍",
+                            "id": "P334421.20.3.1",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "DINGIR",
-                                "gdl_utf8": "𒀭",
-                                "id": "P334421.20.3.2",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "DINGIR",
+                            "gdl_utf8": "𒀭",
+                            "id": "P334421.20.3.2",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "RA",
@@ -2704,19 +2692,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU-KA₂.DINGIR.RA",
+                  "frag": "DUMU—KA₂.DINGIR.RA",
                   "id": "P334421.l10dbf",
                   "ref": "P334421.20.3",
                   "cof-head": "P334421.l10dbe",
                   "inst": "+māru[son]N$mār&+Babili[Babylon]GN$Babili",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU-KA₂.DINGIR.RA",
+                    "form": "DUMU—KA₂.DINGIR.RA",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "DUMU",
@@ -2724,35 +2712,24 @@
                             "id": "P334421.20.3.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "KA₂",
-                                "gdl_utf8": "𒆍",
-                                "id": "P334421.20.3.1",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "KA₂",
+                            "gdl_utf8": "𒆍",
+                            "id": "P334421.20.3.1",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "DINGIR",
-                                "gdl_utf8": "𒀭",
-                                "id": "P334421.20.3.2",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "DINGIR",
+                            "gdl_utf8": "𒀭",
+                            "id": "P334421.20.3.2",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "RA",
@@ -2766,10 +2743,8 @@
                     ],
                     "cf": "Babili",
                     "gw": "Babylon",
-                    "sense": "Babylon",
                     "norm": "Babili",
-                    "pos": "GN",
-                    "epos": "GN"
+                    "pos": "GN"
                   }
                 },
                 {
@@ -3611,7 +3586,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "EN-pi-⸢qit⸣-ti\\t",
+                  "frag": "EN—pi-⸢qit⸣-ti\\t",
                   "id": "P334421.l10dd3",
                   "ref": "P334421.26.5",
                   "cof-tails": "P334421.l10dd4",
@@ -3624,7 +3599,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "EN",
@@ -3632,7 +3606,8 @@
                             "id": "P334421.26.5.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -3676,7 +3651,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "EN-pi-⸢qit⸣-ti\\t",
+                  "frag": "EN—pi-⸢qit⸣-ti\\t",
                   "id": "P334421.l10dd4",
                   "ref": "P334421.26.5",
                   "cof-head": "P334421.l10dd3",
@@ -3689,7 +3664,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "EN",
@@ -3697,7 +3671,8 @@
                             "id": "P334421.26.5.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

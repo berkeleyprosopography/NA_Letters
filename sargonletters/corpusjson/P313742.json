@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:26",
+  "UTC-timestamp": "2018-05-31T05:30:25",
   "textid": "P313742",
   "cdl": [
     {
@@ -215,7 +215,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}UTU-u₂-pa-hir₂]",
+                  "frag": "{1}{d}UTU—u₂-pa-hir₂]",
                   "id": "P313742.l03b62",
                   "ref": "P313742.3.2",
                   "inst": "Šamaš-upahhir[]PN$",
@@ -227,7 +227,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -269,7 +268,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -1148,20 +1148,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUŠ₃]-MAN",
+                  "frag": "KUŠ₃]—MAN",
                   "id": "P313742.l03b76",
                   "ref": "P313742.8.6",
                   "cof-tails": "P313742.l03b77",
                   "inst": "ammatu[unit+=a unit of length]N$ammat&šarru[king]N$šarri",
-                  "sig": "@saao/sargonletters%akk-x-neoass:KUŠ₃-MAN=ammatu[unit//unit]N'N$ammat&&@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "KUŠ₃-MAN",
+                    "form": "KUŠ₃—MAN",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "KUŠ₃",
@@ -1172,7 +1171,8 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P313742.8.2.2",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "MAN",
@@ -1186,28 +1186,24 @@
                     ],
                     "cf": "ammatu",
                     "gw": "unit",
-                    "sense": "unit",
                     "norm": "ammat",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "KUŠ₃]-MAN",
+                  "frag": "KUŠ₃]—MAN",
                   "id": "P313742.l03b77",
                   "ref": "P313742.8.6",
                   "cof-head": "P313742.l03b76",
                   "inst": "ammatu[unit+=a unit of length]N$ammat&šarru[king]N$šarri",
-                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "KUŠ₃-MAN",
+                    "form": "KUŠ₃—MAN",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "KUŠ₃",
@@ -1218,7 +1214,8 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P313742.8.2.2",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "MAN",
@@ -1232,10 +1229,8 @@
                     ],
                     "cf": "šarru",
                     "gw": "king",
-                    "sense": "king",
                     "norm": "šarri",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {

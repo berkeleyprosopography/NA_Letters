@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:50",
+  "UTC-timestamp": "2018-05-31T05:32:44",
   "textid": "P334211",
   "cdl": [
     {
@@ -285,7 +285,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}MAN-lu-da₃-⸢ri⸣",
+                  "frag": "{1}MAN—lu—da₃-⸢ri⸣",
                   "id": "P334211.l052a8",
                   "ref": "P334211.4.1",
                   "inst": "Šarru-lu-dari[]PN$",
@@ -298,7 +298,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -324,7 +323,8 @@
                             "id": "P334211.4.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -332,7 +332,7 @@
                         "v": "lu",
                         "gdl_utf8": "𒇻",
                         "id": "P334211.4.1.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -360,7 +360,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}HAL-a-ni-aš-šur",
+                  "frag": "{1}HAL-a-ni—aš-šur",
                   "id": "P334211.l052a9",
                   "ref": "P334211.4.2",
                   "inst": "Išmanni-Aššur[1]PN",
@@ -411,7 +411,7 @@
                         "v": "ni",
                         "gdl_utf8": "𒉌",
                         "id": "P334211.4.2.3",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -1826,7 +1826,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "[a-dan-niš]",
+                  "frag": "[a—dan-niš]",
                   "id": "P334211.l052d0",
                   "ref": "P334211.12.3",
                   "inst": "adanniš[very much]AV",
@@ -1842,7 +1842,7 @@
                         "breakStart": "1",
                         "o": "[",
                         "break": "missing",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -1932,7 +1932,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "am-mar",
+                  "frag": "am—mar",
                   "id": "P334211.l052d2",
                   "ref": "P334211.13.2",
                   "inst": "ammar[as many as]REL",
@@ -1946,7 +1946,7 @@
                         "v": "am",
                         "gdl_utf8": "𒄠",
                         "id": "P334211.13.2.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

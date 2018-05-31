@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:29",
+  "UTC-timestamp": "2018-05-31T05:30:29",
   "textid": "P313769",
   "cdl": [
     {
@@ -689,7 +689,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}TUK-{d}AMAR.UTU",
+                  "frag": "{1}TUK—{d}AMAR.UTU",
                   "id": "P313769.l14f0a",
                   "ref": "P313769.7.1",
                   "inst": "Raši-Marduk[]PN$",
@@ -702,7 +702,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -734,7 +733,8 @@
                             "queried": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

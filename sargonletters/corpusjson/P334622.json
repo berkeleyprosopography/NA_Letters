@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:22",
+  "UTC-timestamp": "2018-05-31T05:33:45",
   "textid": "P334622",
   "cdl": [
     {
@@ -210,19 +210,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}U.GUR-EN-PAB",
+                  "frag": "{1}{d}U.GUR—EN—PAB",
                   "id": "P334622.l13ce2",
                   "ref": "P334622.3.2",
                   "inst": "Nergal-belu-uṣur[1]PN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}U.GUR-EN-PAB=Nergal-belu-uṣur[1//1]PN'PN$Nergal-belu-uṣur",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}U.GUR-EN-PAB",
+                    "form": "{1}{d}U.GUR—EN—PAB",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -267,7 +266,8 @@
                             "id": "P334622.3.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "EN",
@@ -275,7 +275,8 @@
                             "id": "P334622.3.2.4",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "PAB",
@@ -634,7 +635,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}GAL-{giš}GEŠTIN-MEŠ",
+                  "frag": "{lu₂vy}GAL—{giš}GEŠTIN-MEŠ",
                   "id": "P334622.l13cec",
                   "ref": "P334622.5.5",
                   "cof-tails": "P334622.l13ced",
@@ -647,7 +648,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -685,7 +685,8 @@
                             "id": "P334622.5.5.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -740,7 +741,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}GAL-{giš}GEŠTIN-MEŠ",
+                  "frag": "{lu₂vy}GAL—{giš}GEŠTIN-MEŠ",
                   "id": "P334622.l13ced",
                   "ref": "P334622.5.5",
                   "cof-head": "P334622.l13cec",
@@ -753,7 +754,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -791,7 +791,8 @@
                             "id": "P334622.5.5.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

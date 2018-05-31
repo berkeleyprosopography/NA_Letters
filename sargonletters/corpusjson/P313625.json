@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:13",
+  "UTC-timestamp": "2018-05-31T05:30:03",
   "textid": "P313625",
   "cdl": [
     {
@@ -1741,7 +1741,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}ša₂-aš-šur-du-⸢bu⸣",
+                  "frag": "{1}ša₂—aš-šur—du-⸢bu⸣",
                   "id": "P313625.l06477",
                   "ref": "P313625.14.3",
                   "inst": "Ša-Aššur-dubbu[]PN$",
@@ -1772,7 +1772,7 @@
                         "v": "ša₂",
                         "gdl_utf8": "𒃻",
                         "id": "P313625.14.3.1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -1785,7 +1785,7 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P313625.14.3.3",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -2023,7 +2023,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}ša\\ydm-HAL.ṢU-[MEŠ]",
+                  "frag": "{lu₂vy}ša\\ydm—HAL.ṢU-[MEŠ]",
                   "id": "P313625.l0647d",
                   "ref": "P313625.16.3",
                   "inst": "ša-bīrāti[garrison troops]N$",
@@ -2066,7 +2066,7 @@
                         "form": "ša",
                         "gdl_utf8": "𒊭",
                         "id": "P313625.16.3.1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1",
                         "mods": [
                           {

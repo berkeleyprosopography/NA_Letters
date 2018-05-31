@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:28",
+  "UTC-timestamp": "2018-05-31T05:30:29",
   "textid": "P313766",
   "cdl": [
     {
@@ -881,21 +881,20 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{[lu₂v}A]-⸢KIN⸣",
+                  "frag": "{[lu₂v}A]—⸢KIN⸣",
                   "id": "P313766.l1484f",
                   "ref": "P313766.6.1",
                   "cof-tails": "P313766.l14850",
                   "inst": "+māru[son]N$mār&+šipru[sending]N$šipri",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}A-KIN=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:=šipru[sending//sending]N'N$šipri",
+                  "newsig": "@saao/sargonletters%akk-x-neoass:{LU₂}A—KIN=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:{LU₂}A—KIN=šipru[sending//sending]N'N$šipri",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}A-KIN",
+                    "form": "{LU₂}A—KIN",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -936,7 +935,8 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P313766.6.1.0",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "KIN",
@@ -962,20 +962,20 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{[lu₂v}A]-⸢KIN⸣",
+                  "frag": "{[lu₂v}A]—⸢KIN⸣",
                   "id": "P313766.l14850",
                   "ref": "P313766.6.1",
                   "cof-head": "P313766.l1484f",
                   "inst": "+māru[son]N$mār&+šipru[sending]N$šipri",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}A-KIN",
+                    "form": "{LU₂}A—KIN",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1016,7 +1016,8 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P313766.6.1.0",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "KIN",
@@ -1034,10 +1035,8 @@
                     ],
                     "cf": "šipru",
                     "gw": "sending",
-                    "sense": "sending",
                     "norm": "šipri",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {

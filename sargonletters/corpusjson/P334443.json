@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:09",
+  "UTC-timestamp": "2018-05-31T05:33:21",
   "textid": "P334443",
   "cdl": [
     {
@@ -212,7 +212,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}AG\\d-pa-šir]",
+                  "frag": "{1}{d}AG\\d—pa-šir]",
                   "id": "P334443.l04baf",
                   "ref": "P334443.3.2",
                   "inst": "Nabu-pašir[1]PN",
@@ -224,7 +224,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -264,7 +263,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "mods": [
                               {
                                 "b": "AG"
@@ -1159,20 +1159,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}UTU-DINGIR⸣-a.a",
+                  "frag": "{1}{d}UTU—DINGIR⸣-a.a",
                   "id": "P334443.l04bc4",
                   "ref": "P334443.10.1",
                   "inst": "Šamaš-ilaʾi[1]PN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}UTU-DINGIR-a.a=Šamaš-ilaʾi[1//1]PN'PN$Šamaš-ilaʾi",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}UTU-DINGIR-a.a",
+                    "form": "{1}{d}UTU—DINGIR-a.a",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1215,7 +1214,8 @@
                             "break": "damaged",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "DINGIR",

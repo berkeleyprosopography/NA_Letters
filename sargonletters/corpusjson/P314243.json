@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:12",
+  "UTC-timestamp": "2018-05-31T05:31:29",
   "textid": "P314243",
   "cdl": [
     {
@@ -2469,14 +2469,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur-MAN-PAB",
+                  "frag": "{1}aš-šur—MAN—PAB",
                   "id": "P314243.l0026b",
                   "ref": "P314243.13.4",
                   "inst": "Aššur-šarru-uṣur[1]PN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}aš-šur-MAN-PAB=Aššur-šarru-uṣur[1//1]PN'PN$Aššur-šarru-uṣur",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}aš-šur-MAN-PAB",
+                    "form": "{1}aš-šur-MAN—PAB",
                     "delim": "",
                     "gdl": [
                       {
@@ -2507,13 +2507,12 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P314243.13.4.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "MAN",
@@ -2521,7 +2520,8 @@
                             "id": "P314243.13.4.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "PAB",
@@ -2581,21 +2581,20 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{[lu₂v}A]-⸢KIN⸣",
+                  "frag": "{[lu₂v}A]—⸢KIN⸣",
                   "id": "P314243.l0026d",
                   "ref": "P314243.14.1",
                   "cof-tails": "P314243.l0026e",
                   "inst": "+māru[son]N$mār&+šipru[sending]N$šipri",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}A-KIN=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:{LU₂}A-KIN=šipru[sending//sending]N'N$šipri",
+                  "newsig": "@saao/sargonletters%akk-x-neoass:{LU₂}A—KIN=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:{LU₂}A—KIN=šipru[sending//sending]N'N$šipri",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}A-KIN",
+                    "form": "{LU₂}A—KIN",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -2636,7 +2635,8 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P314243.14.1.0",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "KIN",
@@ -2661,20 +2661,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{[lu₂v}A]-⸢KIN⸣",
+                  "frag": "{[lu₂v}A]—⸢KIN⸣",
                   "id": "P314243.l0026e",
                   "ref": "P314243.14.1",
                   "cof-head": "P314243.l0026d",
                   "inst": "+māru[son]N$mār&+šipru[sending]N$šipri",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}A-KIN",
+                    "form": "{LU₂}A—KIN",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -2715,7 +2714,8 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P314243.14.1.0",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "KIN",

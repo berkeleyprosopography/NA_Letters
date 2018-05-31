@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:04",
+  "UTC-timestamp": "2018-05-31T05:31:18",
   "textid": "P314128",
   "cdl": [
     {
@@ -849,21 +849,20 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU-MEŠ\\m-GU₂\\t.⸢DU₈⸣.[A{ki}",
+                  "frag": "DUMU-MEŠ\\m—GU₂\\t.⸢DU₈⸣.[A{ki}",
                   "id": "P314128.l11209",
                   "ref": "P314128.7.1",
                   "cof-tails": "P314128.l1120a",
                   "inst": "+māru[son]N$māre&+Kute[Cutha]GN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:DUMU-MEŠ-GU₂.DU₈.A{KI}=māru[son//son]N'N$māre&&@saao/sargonletters%akk-x-neoass:DUMU-MEŠ-GU₂.DU₈.A{KI}=Kute[Cutha//Cutha]GN'GN$Kute",
+                  "newsig": "@saao/sargonletters%akk-x-neoass:DUMU-MEŠ—GU₂.DU₈.A{KI}=māru[son//son]N'N$māre&&@saao/sargonletters%akk-x-neoass:DUMU-MEŠ—GU₂.DU₈.A{KI}=Kute[Cutha//Cutha]GN'GN$Kute",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU-MEŠ-GU₂.DU₈.A{KI}",
+                    "form": "DUMU-MEŠ—GU₂.DU₈.A{KI}",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "DUMU",
@@ -879,7 +878,8 @@
                             "id": "P314128.7.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "mods": [
                               {
                                 "b": "MEŠ"
@@ -890,43 +890,31 @@
                             ]
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
+                            "form": "GU₂",
+                            "gdl_utf8": "𒄘",
+                            "id": "P314128.7.1.2",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": ".",
+                            "mods": [
                               {
-                                "form": "GU₂",
-                                "gdl_utf8": "𒄘",
-                                "id": "P314128.7.1.2",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": ".",
-                                "mods": [
-                                  {
-                                    "b": "GU₂"
-                                  },
-                                  {
-                                    "f": "t"
-                                  }
-                                ]
+                                "b": "GU₂"
+                              },
+                              {
+                                "f": "t"
                               }
                             ]
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "DU₈",
-                                "gdl_utf8": "𒃮",
-                                "id": "P314128.7.1.3",
-                                "break": "damaged",
-                                "ho": "1",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": ".",
-                                "hc": "1"
-                              }
-                            ]
+                            "s": "DU₈",
+                            "gdl_utf8": "𒃮",
+                            "id": "P314128.7.1.3",
+                            "break": "damaged",
+                            "ho": "1",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": ".",
+                            "hc": "1"
                           },
                           {
                             "s": "A",
@@ -965,20 +953,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU-MEŠ\\m-GU₂\\t.⸢DU₈⸣.[A{ki}",
+                  "frag": "DUMU-MEŠ\\m—GU₂\\t.⸢DU₈⸣.[A{ki}",
                   "id": "P314128.l1120a",
                   "ref": "P314128.7.1",
                   "cof-head": "P314128.l11209",
                   "inst": "+māru[son]N$māre&+Kute[Cutha]GN$",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU-MEŠ-GU₂.DU₈.A{KI}",
+                    "form": "DUMU-MEŠ—GU₂.DU₈.A{KI}",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "DUMU",
@@ -994,7 +981,8 @@
                             "id": "P314128.7.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "mods": [
                               {
                                 "b": "MEŠ"
@@ -1005,43 +993,31 @@
                             ]
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
+                            "form": "GU₂",
+                            "gdl_utf8": "𒄘",
+                            "id": "P314128.7.1.2",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": ".",
+                            "mods": [
                               {
-                                "form": "GU₂",
-                                "gdl_utf8": "𒄘",
-                                "id": "P314128.7.1.2",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": ".",
-                                "mods": [
-                                  {
-                                    "b": "GU₂"
-                                  },
-                                  {
-                                    "f": "t"
-                                  }
-                                ]
+                                "b": "GU₂"
+                              },
+                              {
+                                "f": "t"
                               }
                             ]
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "DU₈",
-                                "gdl_utf8": "𒃮",
-                                "id": "P314128.7.1.3",
-                                "break": "damaged",
-                                "ho": "1",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": ".",
-                                "hc": "1"
-                              }
-                            ]
+                            "s": "DU₈",
+                            "gdl_utf8": "𒃮",
+                            "id": "P314128.7.1.3",
+                            "break": "damaged",
+                            "ho": "1",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": ".",
+                            "hc": "1"
                           },
                           {
                             "s": "A",

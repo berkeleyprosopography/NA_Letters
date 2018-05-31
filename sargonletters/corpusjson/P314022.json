@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:55",
+  "UTC-timestamp": "2018-05-31T05:31:07",
   "textid": "P314022",
   "cdl": [
     {
@@ -835,7 +835,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}GIR₃.2--aš-šur",
+                  "frag": "{1}GIR₃.2—aš-šur",
                   "id": "P314022.l033ee",
                   "ref": "P314022.6.8",
                   "inst": "Šep-Aššur[1]PN",
@@ -847,7 +847,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -881,7 +880,8 @@
                             "form": "2",
                             "gdl_utf8": "𒈫",
                             "id": "P314022.6.8.2",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "seq": [
                               {
                                 "r": "2"

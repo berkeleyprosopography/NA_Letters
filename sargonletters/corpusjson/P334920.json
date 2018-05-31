@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:48",
+  "UTC-timestamp": "2018-05-31T05:34:36",
   "textid": "P334920",
   "cdl": [
     {
@@ -411,7 +411,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU-{1}ia-ki-ni",
+                  "frag": "DUMU—{1}ia-ki-ni",
                   "id": "P334920.l11f7f",
                   "ref": "P334920.4.7",
                   "inst": "Mar-Yakini[1]PN",
@@ -423,7 +423,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "DUMU",
@@ -431,7 +430,8 @@
                             "id": "P334920.4.7.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -2406,7 +2406,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{urud}E₂-im-bi-ia",
+                  "frag": "{urud}E₂—im-bi-ia",
                   "id": "P334920.l11fce",
                   "ref": "P334920.17.7",
                   "inst": "Bit-Imbi[]GN$Bit-Imbiya",
@@ -2418,7 +2418,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -2453,7 +2452,8 @@
                             "id": "P334920.17.7.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -3566,7 +3566,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU]-{1}ia-ki-ni",
+                  "frag": "DUMU]—{1}ia-ki-ni",
                   "id": "P334920.l11ff7",
                   "ref": "P334920.23.6",
                   "inst": "Mar-Yakini[1]PN",
@@ -3578,7 +3578,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "DUMU",
@@ -3589,7 +3588,8 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P334920.23.1.0",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

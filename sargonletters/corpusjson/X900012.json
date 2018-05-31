@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:55",
+  "UTC-timestamp": "2018-05-31T05:34:51",
   "textid": "X900012",
   "cdl": [
     {
@@ -8251,20 +8251,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}U.GUR-KAR-ir",
+                  "frag": "{1}{d}U.GUR—KAR-ir",
                   "id": "X900012.l0e7bd",
                   "ref": "X900012.38.5",
                   "inst": "Nergal-eṭir[1]PN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}U.GUR-KAR-ir=Nergal-eṭir[1//1]PN'PN$Nergal-eṭir",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}U.GUR-KAR-ir",
+                    "form": "{1}{d}U.GUR—KAR-ir",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -8309,7 +8308,8 @@
                             "id": "X900012.38.5.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "KAR",
@@ -8329,10 +8329,7 @@
                     ],
                     "cf": "Nergal-eṭir",
                     "gw": "1",
-                    "sense": "1",
-                    "norm": "Nergal-eṭir",
-                    "pos": "PN",
-                    "epos": "PN"
+                    "pos": "PN"
                   }
                 },
                 {
@@ -8793,14 +8790,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}kar-{1}MAN-GIN",
+                  "frag": "{uru}kar—{1}MAN—GIN",
                   "id": "X900012.l0e7ca",
                   "ref": "X900012.41.3",
                   "inst": "Kar-Šarrukin[]GN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}kar-{1}MAN-GIN=Kar-Šarrukin[1//1]GN'GN$Kar-Šarrukin",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}kar-{1}MAN-GIN",
+                    "form": "{URU}kar-{1}MAN—GIN",
                     "delim": "",
                     "gdl": [
                       {
@@ -8826,13 +8823,12 @@
                         "v": "kar",
                         "gdl_utf8": "𒋼𒀀",
                         "id": "X900012.41.3.1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -8858,7 +8854,8 @@
                             "id": "X900012.41.3.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "GIN",
@@ -8872,10 +8869,8 @@
                     ],
                     "cf": "Kar-Šarrukin",
                     "gw": "1",
-                    "sense": "1",
                     "norm": "Kar-Šarrukin",
-                    "pos": "GN",
-                    "epos": "GN"
+                    "pos": "GN"
                   }
                 },
                 {

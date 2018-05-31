@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:41:49",
+  "UTC-timestamp": "2018-05-31T05:29:24",
   "textid": "P313427",
   "cdl": [
     {
@@ -208,19 +208,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA]-NUMUN\\d-GIN-GIŠ",
+                  "frag": "{1}{d}PA]—NUMUN\\d—GIN—GIŠ",
                   "id": "P313427.l03dc1",
                   "ref": "P313427.3.2",
                   "inst": "Nabu-zer-ketti-lešir[]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}PA-NUMUN-GIN-GIŠ=Nabu-zer-ketti-lešir[1//1]PN'PN$Nabu-zer-ketti-lešir",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}PA-NUMUN-GIN-GIŠ",
+                    "form": "{1}{d}PA—NUMUN—GIN—GIŠ",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -262,7 +261,8 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P313427.3.1.0",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "form": "NUMUN",
@@ -270,7 +270,8 @@
                             "id": "P313427.3.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "mods": [
                               {
                                 "b": "NUMUN"
@@ -286,7 +287,8 @@
                             "id": "P313427.3.2.4",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "GIŠ",
@@ -1354,20 +1356,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂-DINGIR",
+                  "frag": "E₂—DINGIR",
                   "id": "P313427.l03dde",
                   "ref": "P313427.10.8",
                   "cof-tails": "P313427.l03ddf",
                   "inst": "bītu[house]N$bēt&ilu[god]N$ili",
-                  "sig": "@saao/sargonletters%akk-x-neoass:E₂-DINGIR=bītu[house//house]N'N$bēt&&@saao/sargonletters%akk-x-neoass:=ilu[god//god]N'N$ili",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "E₂-DINGIR",
+                    "form": "E₂—DINGIR",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "E₂",
@@ -1375,7 +1376,8 @@
                             "id": "P313427.10.8.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "DINGIR",
@@ -1389,28 +1391,24 @@
                     ],
                     "cf": "bītu",
                     "gw": "house",
-                    "sense": "house",
                     "norm": "bēt",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "E₂-DINGIR",
+                  "frag": "E₂—DINGIR",
                   "id": "P313427.l03ddf",
                   "ref": "P313427.10.8",
                   "cof-head": "P313427.l03dde",
                   "inst": "bītu[house]N$bēt&ilu[god]N$ili",
-                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=ilu[god//god]N'N$ili",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "E₂-DINGIR",
+                    "form": "E₂—DINGIR",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "E₂",
@@ -1418,7 +1416,8 @@
                             "id": "P313427.10.8.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "DINGIR",
@@ -1432,10 +1431,8 @@
                     ],
                     "cf": "ilu",
                     "gw": "god",
-                    "sense": "god",
                     "norm": "ili",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
@@ -4009,20 +4006,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}BAD₃-{1}MAN-GIN",
+                  "frag": "{uru}BAD₃—{1}MAN—GIN",
                   "id": "P313427.l03e28",
                   "ref": "P313427.31.3",
                   "inst": "Dur-Šarruken[1]GN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}BAD₃-{1}MAN-GIN=Dur-Šarruken[1//1]GN'GN$Dur-Šarruken",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}BAD₃-{1}MAN-GIN",
+                    "form": "{URU}BAD₃-{1}MAN—GIN",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -4049,14 +4045,14 @@
                             "id": "P313427.31.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -4082,7 +4078,8 @@
                             "id": "P313427.31.3.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "GIN",
@@ -4687,21 +4684,20 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU-LUGAL",
+                  "frag": "DUMU—LUGAL",
                   "id": "P313427.l03e38",
                   "ref": "P313427.34.6",
                   "cof-tails": "P313427.l03e39",
                   "inst": "māru[son]N$mār&šarru[king]N$šarri",
-                  "sig": "@saao/sargonletters%akk-x-neoass:DUMU-LUGAL=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU-LUGAL",
+                    "form": "DUMU—LUGAL",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "DUMU",
@@ -4709,7 +4705,8 @@
                             "id": "P313427.34.6.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "LUGAL",
@@ -4723,29 +4720,25 @@
                     ],
                     "cf": "māru",
                     "gw": "son",
-                    "sense": "son",
                     "norm": "mār",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU-LUGAL",
+                  "frag": "DUMU—LUGAL",
                   "id": "P313427.l03e39",
                   "ref": "P313427.34.6",
                   "cof-head": "P313427.l03e38",
                   "inst": "māru[son]N$mār&šarru[king]N$šarri",
-                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU-LUGAL",
+                    "form": "DUMU—LUGAL",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "DUMU",
@@ -4753,7 +4746,8 @@
                             "id": "P313427.34.6.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "LUGAL",
@@ -4767,10 +4761,8 @@
                     ],
                     "cf": "šarru",
                     "gw": "king",
-                    "sense": "king",
                     "norm": "šarri",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
@@ -4825,21 +4817,20 @@
                 },
                 {
                   "node": "l",
-                  "frag": "[DUMU-LUGAL",
+                  "frag": "[DUMU—LUGAL",
                   "id": "P313427.l03e3b",
                   "ref": "P313427.35.1",
                   "cof-tails": "P313427.l03e3c",
                   "inst": "māru[son]N$mār&šarru[king]N$šarri",
-                  "sig": "@saao/sargonletters%akk-x-neoass:DUMU-LUGAL=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU-LUGAL",
+                    "form": "DUMU—LUGAL",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "DUMU",
@@ -4850,7 +4841,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "LUGAL",
@@ -4865,29 +4857,25 @@
                     ],
                     "cf": "māru",
                     "gw": "son",
-                    "sense": "son",
                     "norm": "mār",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "[DUMU-LUGAL",
+                  "frag": "[DUMU—LUGAL",
                   "id": "P313427.l03e3c",
                   "ref": "P313427.35.1",
                   "cof-head": "P313427.l03e3b",
                   "inst": "māru[son]N$mār&šarru[king]N$šarri",
-                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU-LUGAL",
+                    "form": "DUMU—LUGAL",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "DUMU",
@@ -4898,7 +4886,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "LUGAL",
@@ -4913,10 +4902,8 @@
                     ],
                     "cf": "šarru",
                     "gw": "king",
-                    "sense": "king",
                     "norm": "šarri",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
@@ -5838,19 +5825,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{⸢uru⸣}BAD₃-{1}[MAN-GIN]",
+                  "frag": "{⸢uru⸣}BAD₃—{1}[MAN—GIN]",
                   "id": "P313427.l03e56",
                   "ref": "P313427.41.3",
                   "inst": "Dur-Šarruken[1]GN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}BAD₃-{1}MAN-GIN=Dur-Šarruken[1//1]GN'GN$Dur-Šarruken",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}BAD₃-{1}MAN-GIN",
+                    "form": "{URU}BAD₃-{1}MAN—GIN",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -5880,14 +5866,14 @@
                             "id": "P313427.41.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -5916,7 +5902,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "GIN",

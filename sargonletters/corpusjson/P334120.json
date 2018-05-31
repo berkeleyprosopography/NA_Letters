@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:36",
+  "UTC-timestamp": "2018-05-31T05:32:19",
   "textid": "P334120",
   "cdl": [
     {
@@ -79,21 +79,20 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU-LUGAL",
+                  "frag": "DUMU—LUGAL",
                   "id": "P334120.l03e5a",
                   "ref": "P334120.2.2",
                   "cof-tails": "P334120.l03e5b",
                   "inst": "māru[son]N$mār&šarru[king]N$šarri",
-                  "sig": "@saao/sargonletters%akk-x-neoass:DUMU-LUGAL=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU-LUGAL",
+                    "form": "DUMU—LUGAL",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "DUMU",
@@ -101,7 +100,8 @@
                             "id": "P334120.2.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "LUGAL",
@@ -115,29 +115,25 @@
                     ],
                     "cf": "māru",
                     "gw": "son",
-                    "sense": "son",
                     "norm": "mār",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU-LUGAL",
+                  "frag": "DUMU—LUGAL",
                   "id": "P334120.l03e5b",
                   "ref": "P334120.2.2",
                   "cof-head": "P334120.l03e5a",
                   "inst": "māru[son]N$mār&šarru[king]N$šarri",
-                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU-LUGAL",
+                    "form": "DUMU—LUGAL",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "DUMU",
@@ -145,7 +141,8 @@
                             "id": "P334120.2.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "LUGAL",
@@ -159,10 +156,8 @@
                     ],
                     "cf": "šarru",
                     "gw": "king",
-                    "sense": "king",
                     "norm": "šarri",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
@@ -253,19 +248,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA-SU-PAB-MEŠ",
+                  "frag": "{1}{d}PA—SU—PAB-MEŠ",
                   "id": "P334120.l03e5e",
                   "ref": "P334120.3.2",
                   "inst": "Nabu-riba-ahhe[]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}PA-SU-PAB-MEŠ=Nabu-riba-ahhe[1//1]PN'PN$Nabu-riba-ahhe",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}PA-SU-PAB-MEŠ",
+                    "form": "{1}{d}PA—SU—PAB-MEŠ",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -302,7 +296,8 @@
                             "id": "P334120.3.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "SU",
@@ -310,7 +305,8 @@
                             "id": "P334120.3.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "PAB",
@@ -445,21 +441,20 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU-LUGAL",
+                  "frag": "DUMU—LUGAL",
                   "id": "P334120.l03e62",
                   "ref": "P334120.4.4",
                   "cof-tails": "P334120.l03e63",
                   "inst": "māru[son]N$mār&šarru[king]N$šarri",
-                  "sig": "@saao/sargonletters%akk-x-neoass:DUMU-LUGAL=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU-LUGAL",
+                    "form": "DUMU—LUGAL",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "DUMU",
@@ -467,7 +462,8 @@
                             "id": "P334120.4.4.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "LUGAL",
@@ -481,29 +477,25 @@
                     ],
                     "cf": "māru",
                     "gw": "son",
-                    "sense": "son",
                     "norm": "mār",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU-LUGAL",
+                  "frag": "DUMU—LUGAL",
                   "id": "P334120.l03e63",
                   "ref": "P334120.4.4",
                   "cof-head": "P334120.l03e62",
                   "inst": "māru[son]N$mār&šarru[king]N$šarri",
-                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU-LUGAL",
+                    "form": "DUMU—LUGAL",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "DUMU",
@@ -511,7 +503,8 @@
                             "id": "P334120.4.4.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "LUGAL",
@@ -525,10 +518,8 @@
                     ],
                     "cf": "šarru",
                     "gw": "king",
-                    "sense": "king",
                     "norm": "šarri",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
@@ -701,7 +692,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a-dan-niš",
+                  "frag": "a—dan-niš",
                   "id": "P334120.l03e68",
                   "ref": "P334120.6.1",
                   "inst": "adanniš[very much]AV",
@@ -714,7 +705,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P334120.6.1.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -999,20 +990,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU-LUGAL",
+                  "frag": "DUMU—LUGAL",
                   "id": "P334120.l03e6d",
                   "ref": "P334120.9.3",
                   "cof-tails": "P334120.l03e6e",
                   "inst": "māru[son]N$mār&šarru[king]N$šarri",
-                  "sig": "@saao/sargonletters%akk-x-neoass:DUMU-LUGAL=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU-LUGAL",
+                    "form": "DUMU—LUGAL",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "DUMU",
@@ -1020,7 +1010,8 @@
                             "id": "P334120.9.3.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "LUGAL",
@@ -1034,28 +1025,24 @@
                     ],
                     "cf": "māru",
                     "gw": "son",
-                    "sense": "son",
                     "norm": "mār",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU-LUGAL",
+                  "frag": "DUMU—LUGAL",
                   "id": "P334120.l03e6e",
                   "ref": "P334120.9.3",
                   "cof-head": "P334120.l03e6d",
                   "inst": "māru[son]N$mār&šarru[king]N$šarri",
-                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU-LUGAL",
+                    "form": "DUMU—LUGAL",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "DUMU",
@@ -1063,7 +1050,8 @@
                             "id": "P334120.9.3.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "LUGAL",
@@ -1077,10 +1065,8 @@
                     ],
                     "cf": "šarru",
                     "gw": "king",
-                    "sense": "king",
                     "norm": "šarri",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
@@ -1689,7 +1675,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂-ub-re-e-šu₂",
+                  "frag": "E₂—ub-re-e-šu₂",
                   "id": "P334120.l03e7e",
                   "ref": "P334120.19.2",
                   "cof-tails": "P334120.l03e7f",
@@ -1702,7 +1688,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "E₂",
@@ -1710,7 +1695,8 @@
                             "id": "P334120.19.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -1748,7 +1734,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂-ub-re-e-šu₂",
+                  "frag": "E₂—ub-re-e-šu₂",
                   "id": "P334120.l03e7f",
                   "ref": "P334120.19.2",
                   "cof-head": "P334120.l03e7e",
@@ -1761,7 +1747,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "E₂",
@@ -1769,7 +1754,8 @@
                             "id": "P334120.19.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

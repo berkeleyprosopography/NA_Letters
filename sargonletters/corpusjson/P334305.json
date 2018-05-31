@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:55",
+  "UTC-timestamp": "2018-05-31T05:32:54",
   "textid": "P334305",
   "cdl": [
     {
@@ -224,7 +224,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}u₂-pa-[qa-{d}UTU]",
+                  "frag": "{1}u₂-pa-[qa—{d}UTU]",
                   "id": "P334305.l09cb7",
                   "ref": "P334305.3.2",
                   "inst": "Upaq-Šamaš[]PN$",
@@ -270,7 +270,7 @@
                         "breakStart": "1",
                         "o": "[",
                         "break": "missing",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -1082,7 +1082,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}10--rem₂-a-ni",
+                  "frag": "{1}10—rem₂-a-ni",
                   "id": "P334305.l09cc9",
                   "ref": "P334305.8.3",
                   "inst": "Adad-remanni[]PN$",
@@ -1115,7 +1115,7 @@
                         "form": "10",
                         "gdl_utf8": "𒌋",
                         "id": "P334305.8.3.1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1",
                         "seq": [
                           {
@@ -1196,19 +1196,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}E₂.A-MAN-DU₃",
+                  "frag": "{1}{d}E₂.A—MAN—DU₃",
                   "id": "P334305.l09ccb",
                   "ref": "P334305.9.2",
                   "inst": "Ea-šarru-ibni[]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}E₂.A-MAN-DU₃=Ea-šarru-ibni[1//1]PN'PN$Ea-šarru-ibni",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}E₂.A-MAN-DU₃",
+                    "form": "{1}{d}E₂.A—MAN—DU₃",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1253,7 +1252,8 @@
                             "id": "P334305.9.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "MAN",
@@ -1261,7 +1261,8 @@
                             "id": "P334305.9.2.4",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "DU₃",
@@ -1857,7 +1858,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{⸢id₂t⸣}za-ba-BA-ša₂",
+                  "frag": "{1}{⸢id₂t⸣}za-ba—BA-ša₂",
                   "id": "P334305.l09cd9",
                   "ref": "P334305.14.2",
                   "inst": "Zaba-iqiša[]PN$",
@@ -1927,7 +1928,7 @@
                         "v": "ba",
                         "gdl_utf8": "𒁀",
                         "id": "P334305.14.2.3",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -2115,7 +2116,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{⸢id₂⸣}za-ba-BA-ša₂",
+                  "frag": "{1}{⸢id₂⸣}za-ba—BA-ša₂",
                   "id": "P334305.l09cde",
                   "ref": "P334305.16.2",
                   "inst": "Zaba-iqiša[1]PN",
@@ -2177,7 +2178,7 @@
                         "v": "ba",
                         "gdl_utf8": "𒁀",
                         "id": "P334305.16.2.3",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -2224,7 +2225,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{[lu₂v]}⸢DUMU⸣-šip-ri",
+                  "frag": "{[lu₂v]}⸢DUMU⸣—šip-ri",
                   "id": "P334305.l09cdf",
                   "ref": "P334305.18.1",
                   "cof-tails": "P334305.l09ce0",
@@ -2237,7 +2238,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -2278,7 +2278,8 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           }
                         ]
@@ -2305,7 +2306,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{[lu₂v]}⸢DUMU⸣-šip-ri",
+                  "frag": "{[lu₂v]}⸢DUMU⸣—šip-ri",
                   "id": "P334305.l09ce0",
                   "ref": "P334305.18.1",
                   "cof-head": "P334305.l09cdf",
@@ -2318,7 +2319,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -2359,7 +2359,8 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           }
                         ]

@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:58",
+  "UTC-timestamp": "2018-05-31T05:31:10",
   "textid": "P314046",
   "cdl": [
     {
@@ -119,19 +119,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}AMAR.UTU-A-SUM-⸢na⸣",
+                  "frag": "{1}{d}AMAR.UTU—A—SUM-⸢na⸣",
                   "id": "P314046.l11ec6",
                   "ref": "P314046.3.3",
                   "inst": "Marduk-apla-iddina[Merodach-Baladan]PN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}AMAR.UTU-A-SUM-na=Marduk-apla-iddina[Merodach-Baladan//Merodach-Baladan]PN'PN$Marduk-apla-iddina",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}AMAR.UTU-A-SUM-na",
+                    "form": "{1}{d}AMAR.UTU—A—SUM-na",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -179,7 +178,8 @@
                             "id": "P314046.3.3.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "A",
@@ -187,7 +187,8 @@
                             "id": "P314046.3.3.4",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "SUM",
@@ -209,8 +210,8 @@
                       }
                     ],
                     "cf": "Marduk-apla-iddina",
-                    "gw": "Merodach-Baladan",
-                    "sense": "Merodach-Baladan",
+                    "gw": "Merodach-baladan",
+                    "sense": "Merodach-baladan",
                     "norm": "Marduk-apla-iddina",
                     "pos": "PN",
                     "epos": "PN"
@@ -421,20 +422,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}EN-BA]-ša₂",
+                  "frag": "{1}EN—BA]-ša₂",
                   "id": "P314046.l11ecc",
                   "ref": "P314046.6.1",
                   "inst": "Bel-iqiša[]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}EN-BA-ša₂=Bel-iqiša[1//1]PN'PN$Bel-iqiša",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}EN-BA-ša₂",
+                    "form": "{1}EN—BA-ša₂",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -464,7 +464,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "BA",

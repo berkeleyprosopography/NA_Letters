@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:29",
+  "UTC-timestamp": "2018-05-31T05:30:30",
   "textid": "P313774",
   "cdl": [
     {
@@ -828,7 +828,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "ni-iṣ~d-ṣab-bat",
+                  "frag": "ni-iṣ\\d-ṣab-bat",
                   "id": "P313774.l14d88",
                   "ref": "P313774.6.5",
                   "inst": "ṣabātu[seize]V$niṣṣabbat",
@@ -844,7 +844,7 @@
                         "delim": "-"
                       },
                       {
-                        "form": "iṣ~d",
+                        "form": "iṣ",
                         "gdl_utf8": "𒄑",
                         "id": "P313774.6.5.1",
                         "delim": "-",
@@ -853,7 +853,7 @@
                             "b": "iṣ"
                           },
                           {
-                            "a": "d"
+                            "f": "d"
                           }
                         ]
                       },
@@ -1792,7 +1792,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "am-mar",
+                  "frag": "am—mar",
                   "id": "P313774.l14da7",
                   "ref": "P313774.11.6",
                   "inst": "ammar[as many as]REL",
@@ -1806,7 +1806,7 @@
                         "v": "am",
                         "gdl_utf8": "𒄠",
                         "id": "P313774.11.6.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

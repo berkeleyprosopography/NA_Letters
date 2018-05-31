@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:25",
+  "UTC-timestamp": "2018-05-31T05:30:25",
   "textid": "P313739",
   "cdl": [
     {
@@ -1098,7 +1098,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}ki-⸢ṣir\\tp⸣-[aš-šur]",
+                  "frag": "{1}ki-⸢ṣir\\tp⸣—[aš-šur]",
                   "id": "P313739.l0bc57",
                   "ref": "P313739.8.3",
                   "inst": "Kiṣir-Aššur[1]PN",
@@ -1137,7 +1137,7 @@
                         "id": "P313739.8.3.2",
                         "break": "damaged",
                         "ho": "1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1",
                         "hc": "1",
                         "mods": [
@@ -1605,7 +1605,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}man]-nu-ki-arba-il₃",
+                  "frag": "{1}man]-nu—ki—arba-il₃",
                   "id": "P313739.l0bc63",
                   "ref": "P313739.11.1",
                   "inst": "Mannu-ki-Arbail[]PN$",
@@ -1649,14 +1649,14 @@
                         "v": "nu",
                         "gdl_utf8": "𒉡",
                         "id": "P313739.11.1.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
                         "v": "ki",
                         "gdl_utf8": "𒆠",
                         "id": "P313739.11.1.3",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

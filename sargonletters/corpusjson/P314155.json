@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:06",
+  "UTC-timestamp": "2018-05-31T05:31:22",
   "textid": "P314155",
   "cdl": [
     {
@@ -304,20 +304,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d]}⸢AG⸣-SAG\\t.[KAL",
+                  "frag": "{1}{d]}⸢AG⸣—SAG\\t.[KAL",
                   "id": "P314155.l10dfc",
                   "ref": "P314155.4.3",
                   "inst": "Nabu-ašared[]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}AG-SAG.KAL=Nabu-ašared[1//1]PN'PN$Nabu-ašared",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}AG-SAG.KAL",
+                    "form": "{1}{d}AG—SAG.KAL",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -360,28 +359,23 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
+                            "form": "SAG",
+                            "gdl_utf8": "𒊕",
+                            "id": "P314155.4.3.3",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": ".",
+                            "mods": [
                               {
-                                "form": "SAG",
-                                "gdl_utf8": "𒊕",
-                                "id": "P314155.4.3.3",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": ".",
-                                "mods": [
-                                  {
-                                    "b": "SAG"
-                                  },
-                                  {
-                                    "f": "t"
-                                  }
-                                ]
+                                "b": "SAG"
+                              },
+                              {
+                                "f": "t"
                               }
                             ]
                           },
@@ -919,7 +913,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU-{1}ia-GIN]",
+                  "frag": "DUMU—{1}ia-GIN]",
                   "id": "P314155.l10e0c",
                   "ref": "P314155.7.3",
                   "inst": "Mar-Yakin[1]PN",
@@ -931,7 +925,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "DUMU",
@@ -939,7 +932,8 @@
                             "id": "P314155.7.3.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

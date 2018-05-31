@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:07",
+  "UTC-timestamp": "2018-05-31T05:31:23",
   "textid": "P314177",
   "cdl": [
     {
@@ -259,7 +259,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU-{1}⸢NUMUN⸣-[i",
+                  "frag": "DUMU—{1}⸢NUMUN⸣-[i",
                   "id": "P314177.l12058",
                   "ref": "P314177.4.1",
                   "inst": "Mar-Zeri[1]PN",
@@ -272,7 +272,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "DUMU",
@@ -280,7 +279,8 @@
                             "id": "P314177.4.1.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -901,21 +901,20 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂-AD-šu₂",
+                  "frag": "E₂—AD-šu₂",
                   "id": "P314177.l1206e",
                   "ref": "P314177.7.1",
                   "cof-tails": "P314177.l1206f",
                   "inst": "bītu[house]N$bēt&abu[father]N$abīšu",
-                  "sig": "@saao/sargonletters%akk-x-neoass:E₂-AD-šu₂=bītu[house//house]N'N$bēt&&@saao/sargonletters%akk-x-neoass:=abu[father//father]N'N$abīšu",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "E₂-AD-šu₂",
+                    "form": "E₂—AD-šu₂",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "E₂",
@@ -923,7 +922,8 @@
                             "id": "P314177.7.1.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "AD",
@@ -943,29 +943,25 @@
                     ],
                     "cf": "bītu",
                     "gw": "house",
-                    "sense": "house",
                     "norm": "bēt",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "E₂-AD-šu₂",
+                  "frag": "E₂—AD-šu₂",
                   "id": "P314177.l1206f",
                   "ref": "P314177.7.1",
                   "cof-head": "P314177.l1206e",
                   "inst": "bītu[house]N$bēt&abu[father]N$abīšu",
-                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=abu[father//father]N'N$abīšu",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "E₂-AD-šu₂",
+                    "form": "E₂—AD-šu₂",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "E₂",
@@ -973,7 +969,8 @@
                             "id": "P314177.7.1.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "AD",
@@ -993,10 +990,8 @@
                     ],
                     "cf": "abu",
                     "gw": "father",
-                    "sense": "father",
                     "norm": "abīšu",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {

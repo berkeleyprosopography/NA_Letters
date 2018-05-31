@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:59",
+  "UTC-timestamp": "2018-05-31T05:33:02",
   "textid": "P334339",
   "cdl": [
     {
@@ -223,7 +223,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur-re-ṣu-u-a",
+                  "frag": "{1}aš-šur—re-ṣu-u-a",
                   "id": "P334339.l08162",
                   "ref": "P334339.3.2",
                   "inst": "Aššur-reṣuwa[1]PN",
@@ -260,7 +260,7 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P334339.3.2.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -1891,7 +1891,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i-su-ri",
+                  "frag": "i—su-ri",
                   "id": "P334339.l08184",
                   "ref": "P334339.14.2",
                   "inst": "issurri[perhaps]AV",
@@ -1904,7 +1904,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P334339.14.2.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

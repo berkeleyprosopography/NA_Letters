@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:43",
+  "UTC-timestamp": "2018-05-31T05:34:27",
   "textid": "P334859",
   "cdl": [
     {
@@ -202,14 +202,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur-EN-MAN-[MEŠ-ni]",
+                  "frag": "{1}aš-šur—EN—MAN-[MEŠ-ni]",
                   "id": "P334859.l129b7",
                   "ref": "P334859.3.2",
                   "inst": "Aššur-bel-šarrani[]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}aš-šur-EN-MAN-MEŠ-ni=Aššur-bel-šarrani[1//1]PN'PN$Aššur-bel-šarrani",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}aš-šur-EN-MAN-MEŠ-ni",
+                    "form": "{1}aš-šur-EN—MAN-MEŠ-ni",
                     "gdl": [
                       {
                         "det": "semantic",
@@ -239,13 +239,12 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P334859.3.2.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "EN",
@@ -253,7 +252,8 @@
                             "id": "P334859.3.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "MAN",

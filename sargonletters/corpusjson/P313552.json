@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:06",
+  "UTC-timestamp": "2018-05-31T05:29:51",
   "textid": "P313552",
   "cdl": [
     {
@@ -3868,21 +3868,15 @@
                             "delim": "."
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "AN",
-                                "gdl_utf8": "𒀭",
-                                "id": "P313552.26.3.1",
-                                "break": "damaged",
-                                "ho": "1",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": ".",
-                                "hc": "1"
-                              }
-                            ]
+                            "s": "AN",
+                            "gdl_utf8": "𒀭",
+                            "id": "P313552.26.3.1",
+                            "break": "damaged",
+                            "ho": "1",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": ".",
+                            "hc": "1"
                           },
                           {
                             "s": "NA",
@@ -4145,7 +4139,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂}EN-⸢pi⸣-[qit-ti-ia]",
+                  "frag": "{lu₂}EN—⸢pi⸣-[qit-ti-ia]",
                   "id": "P313552.l08f84",
                   "ref": "P313552.28.2",
                   "cof-tails": "P313552.l08f85",
@@ -4158,7 +4152,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -4185,7 +4178,8 @@
                             "id": "P313552.28.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -4233,7 +4227,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂}EN-⸢pi⸣-[qit-ti-ia]",
+                  "frag": "{lu₂}EN—⸢pi⸣-[qit-ti-ia]",
                   "id": "P313552.l08f85",
                   "ref": "P313552.28.2",
                   "cof-head": "P313552.l08f84",
@@ -4246,7 +4240,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -4273,7 +4266,8 @@
                             "id": "P313552.28.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

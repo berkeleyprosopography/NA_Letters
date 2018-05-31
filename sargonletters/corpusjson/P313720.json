@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:23",
+  "UTC-timestamp": "2018-05-31T05:30:20",
   "textid": "P313720",
   "cdl": [
     {
@@ -1411,21 +1411,20 @@
                 },
                 {
                   "node": "l",
-                  "frag": "[EN]-⸢URU⸣-u-te-e",
+                  "frag": "[EN]—⸢URU⸣-u-te-e",
                   "id": "P313720.l0be0f",
                   "ref": "P313720.9.1",
                   "cof-tails": "P313720.l0be10",
                   "inst": "bēlu[lord]N$bēl&ālūtu[of the city]N$ālūtê",
-                  "sig": "@saao/sargonletters%akk-x-neoass:EN-URU-u-te-e=bēlu[lord//lord]N'N$bēl&&@saao/sargonletters%akk-x-neoass:=ālūtu[of the city//of the city]N'N$ālūtê",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "EN-URU-u-te-e",
+                    "form": "EN—URU-u-te-e",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "EN",
@@ -1437,7 +1436,8 @@
                             "role": "logo",
                             "logolang": "sux",
                             "breakEnd": "P313720.9.1.0",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "URU",
@@ -1473,29 +1473,25 @@
                     ],
                     "cf": "bēlu",
                     "gw": "lord",
-                    "sense": "lord",
                     "norm": "bēl",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "[EN]-⸢URU⸣-u-te-e",
+                  "frag": "[EN]—⸢URU⸣-u-te-e",
                   "id": "P313720.l0be10",
                   "ref": "P313720.9.1",
                   "cof-head": "P313720.l0be0f",
                   "inst": "bēlu[lord]N$bēl&ālūtu[of the city]N$ālūtê",
-                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=ālūtu[of the city//of the city]N'N$ālūtê",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "EN-URU-u-te-e",
+                    "form": "EN—URU-u-te-e",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "EN",
@@ -1507,7 +1503,8 @@
                             "role": "logo",
                             "logolang": "sux",
                             "breakEnd": "P313720.9.1.0",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "URU",
@@ -1543,10 +1540,8 @@
                     ],
                     "cf": "ālūtu",
                     "gw": "of the city",
-                    "sense": "of the city",
                     "norm": "ālūtê",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
@@ -4053,21 +4048,20 @@
                 },
                 {
                   "node": "l",
-                  "frag": "⸢DUMU⸣-LUGAL",
+                  "frag": "⸢DUMU⸣—LUGAL",
                   "id": "P313720.l0be6c",
                   "ref": "P313720.23.2",
                   "cof-tails": "P313720.l0be6d",
                   "inst": "māru[son]N$mār&šarru[king]N$šarri",
-                  "sig": "@saao/sargonletters%akk-x-neoass:DUMU-LUGAL=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU-LUGAL",
+                    "form": "DUMU—LUGAL",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "DUMU",
@@ -4077,7 +4071,8 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           },
                           {
@@ -4092,29 +4087,25 @@
                     ],
                     "cf": "māru",
                     "gw": "son",
-                    "sense": "son",
                     "norm": "mār",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "⸢DUMU⸣-LUGAL",
+                  "frag": "⸢DUMU⸣—LUGAL",
                   "id": "P313720.l0be6d",
                   "ref": "P313720.23.2",
                   "cof-head": "P313720.l0be6c",
                   "inst": "māru[son]N$mār&šarru[king]N$šarri",
-                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU-LUGAL",
+                    "form": "DUMU—LUGAL",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "DUMU",
@@ -4124,7 +4115,8 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           },
                           {
@@ -4139,10 +4131,8 @@
                     ],
                     "cf": "šarru",
                     "gw": "king",
-                    "sense": "king",
                     "norm": "šarri",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
@@ -4536,7 +4526,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}⸢ma⸣-nu-ki-i-{d}[IM",
+                  "frag": "{1}⸢ma⸣-nu—ki-i—{d}[IM",
                   "id": "P313720.l0be7d",
                   "ref": "P313720.25.1",
                   "inst": "Mannu-ki-Adad[]PN$",
@@ -4581,7 +4571,7 @@
                         "v": "nu",
                         "gdl_utf8": "𒉡",
                         "id": "P313720.25.1.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -4594,7 +4584,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P313720.25.1.4",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

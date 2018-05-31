@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:10",
+  "UTC-timestamp": "2018-05-31T05:31:27",
   "textid": "P314230",
   "cdl": [
     {
@@ -689,7 +689,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v]}ša-E₂-{anše}ku-din",
+                  "frag": "{lu₂v]}ša—E₂—{anše}ku-din",
                   "id": "P314230.l1480b",
                   "ref": "P314230.6.4",
                   "inst": "ša-bēt-kūdini[mule stable man]N$ša-bēt-kūdin",
@@ -732,13 +732,12 @@
                         "v": "ša",
                         "gdl_utf8": "𒊭",
                         "id": "P314230.6.4.1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "E₂",
@@ -746,7 +745,8 @@
                             "id": "P314230.6.4.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -865,7 +865,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}ša-E₂-qi-qi-i",
+                  "frag": "{lu₂v}ša—E₂—qi-qi-i",
                   "id": "P314230.l1480f",
                   "ref": "P314230.7.4",
                   "inst": "ša-bēt-qiqî[(profession)]N$",
@@ -905,13 +905,12 @@
                         "v": "ša",
                         "gdl_utf8": "𒊭",
                         "id": "P314230.7.4.1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "E₂",
@@ -919,7 +918,8 @@
                             "id": "P314230.7.4.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -1294,7 +1294,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂]-⸢mar⸣-di-a\\d-te",
+                  "frag": "E₂]—⸢mar⸣-di-a\\d-te",
                   "id": "P314230.l1481a",
                   "ref": "P314230.10.2",
                   "cof-tails": "P314230.l1481b",
@@ -1307,7 +1307,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "E₂",
@@ -1318,7 +1317,8 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P314230.10.1.0",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -1367,7 +1367,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂]-⸢mar⸣-di-a\\d-te",
+                  "frag": "E₂]—⸢mar⸣-di-a\\d-te",
                   "id": "P314230.l1481b",
                   "ref": "P314230.10.2",
                   "cof-head": "P314230.l1481a",
@@ -1380,7 +1380,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "E₂",
@@ -1391,7 +1390,8 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P314230.10.1.0",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

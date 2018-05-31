@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:16",
+  "UTC-timestamp": "2018-05-31T05:31:37",
   "textid": "P314278",
   "cdl": [
     {
@@ -1082,7 +1082,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "ka-aṣ~td-ru",
+                  "frag": "ka-aṣ\\td-ru",
                   "id": "P314278.l12845",
                   "ref": "P314278.9.2",
                   "inst": "kaṣru[firmly joined//organized]AJ$",
@@ -1099,7 +1099,7 @@
                         "delim": "-"
                       },
                       {
-                        "form": "aṣ~td",
+                        "form": "aṣ",
                         "gdl_utf8": "𒊍",
                         "id": "P314278.9.2.1",
                         "delim": "-",
@@ -1108,7 +1108,7 @@
                             "b": "aṣ"
                           },
                           {
-                            "a": "td"
+                            "f": "td"
                           }
                         ]
                       },

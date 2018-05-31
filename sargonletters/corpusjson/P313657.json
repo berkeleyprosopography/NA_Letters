@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:17",
+  "UTC-timestamp": "2018-05-31T05:30:09",
   "textid": "P313657",
   "cdl": [
     {
@@ -3809,21 +3809,20 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU-KA₂\\d.DINGIR",
+                  "frag": "DUMU—KA₂\\d.DINGIR",
                   "id": "P313657.l12cd4",
                   "ref": "P313657.21.6",
                   "cof-tails": "P313657.l12cd5",
                   "inst": "+māru[son]N$mār&+Babili[Babylon]GN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:DUMU-KA₂.DINGIR=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:DUMU-KA₂.DINGIR=Babili[Babylon//Babylon]GN'GN$Babili",
+                  "newsig": "@saao/sargonletters%akk-x-neoass:DUMU—KA₂.DINGIR=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:DUMU—KA₂.DINGIR=Babili[Babylon//Babylon]GN'GN$Babili",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU-KA₂.DINGIR",
+                    "form": "DUMU—KA₂.DINGIR",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "DUMU",
@@ -3831,27 +3830,22 @@
                             "id": "P313657.21.6.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
+                            "form": "KA₂",
+                            "gdl_utf8": "𒆍",
+                            "id": "P313657.21.6.1",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": ".",
+                            "mods": [
                               {
-                                "form": "KA₂",
-                                "gdl_utf8": "𒆍",
-                                "id": "P313657.21.6.1",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": ".",
-                                "mods": [
-                                  {
-                                    "b": "KA₂"
-                                  },
-                                  {
-                                    "f": "d"
-                                  }
-                                ]
+                                "b": "KA₂"
+                              },
+                              {
+                                "f": "d"
                               }
                             ]
                           },
@@ -3875,20 +3869,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU-KA₂\\d.DINGIR",
+                  "frag": "DUMU—KA₂\\d.DINGIR",
                   "id": "P313657.l12cd5",
                   "ref": "P313657.21.6",
                   "cof-head": "P313657.l12cd4",
                   "inst": "+māru[son]N$mār&+Babili[Babylon]GN$",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU-KA₂.DINGIR",
+                    "form": "DUMU—KA₂.DINGIR",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "DUMU",
@@ -3896,27 +3889,22 @@
                             "id": "P313657.21.6.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
+                            "form": "KA₂",
+                            "gdl_utf8": "𒆍",
+                            "id": "P313657.21.6.1",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": ".",
+                            "mods": [
                               {
-                                "form": "KA₂",
-                                "gdl_utf8": "𒆍",
-                                "id": "P313657.21.6.1",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": ".",
-                                "mods": [
-                                  {
-                                    "b": "KA₂"
-                                  },
-                                  {
-                                    "f": "d"
-                                  }
-                                ]
+                                "b": "KA₂"
+                              },
+                              {
+                                "f": "d"
                               }
                             ]
                           },

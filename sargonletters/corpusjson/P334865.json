@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:44",
+  "UTC-timestamp": "2018-05-31T05:34:29",
   "textid": "P334865",
   "cdl": [
     {
@@ -670,7 +670,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂}⸢EN⸣-[pi-qit-ta-ti]",
+                  "frag": "{lu₂}⸢EN⸣—[pi-qit-ta-ti]",
                   "id": "P334865.l0c7c3",
                   "ref": "P334865.6.2",
                   "cof-tails": "P334865.l0c7c4",
@@ -683,7 +683,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -712,7 +711,8 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           }
                         ]
@@ -759,7 +759,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂}⸢EN⸣-[pi-qit-ta-ti]",
+                  "frag": "{lu₂}⸢EN⸣—[pi-qit-ta-ti]",
                   "id": "P334865.l0c7c4",
                   "ref": "P334865.6.2",
                   "cof-head": "P334865.l0c7c3",
@@ -772,7 +772,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -801,7 +800,8 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           }
                         ]
@@ -1353,19 +1353,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}BAD₃-MAN-GIN]",
+                  "frag": "{uru}BAD₃—MAN—GIN]",
                   "id": "P334865.l0c7d0",
                   "ref": "P334865.10.4",
                   "inst": "Dur-Šarruken[1]GN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}BAD₃-MAN-GIN=Dur-Šarruken[1//1]GN'GN$Dur-Šarruken",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}BAD₃-MAN-GIN",
+                    "form": "{URU}BAD₃—MAN—GIN",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1394,7 +1393,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "MAN",
@@ -1403,7 +1403,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "GIN",
@@ -2400,7 +2401,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂}EN-⸢x⸣+[x",
+                  "frag": "{lu₂}EN—⸢x⸣+[x",
                   "id": "P334865.l0c7e6",
                   "ref": "P334865.19.1",
                   "inst": "u",
@@ -2412,7 +2413,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -2439,7 +2439,8 @@
                             "id": "P334865.19.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -3783,20 +3784,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}ŠA₃-URU-a.a",
+                  "frag": "{uru}ŠA₃—URU-a.a",
                   "id": "P334865.l0c808",
                   "ref": "P334865.30.2",
                   "inst": "Libbalaya[from Assur]EN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}ŠA₃-URU-a.a=Libbalaya[from Assur//from Assur]EN'EN$Libbalaya",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}ŠA₃-URU-a.a",
+                    "form": "{URU}ŠA₃—URU-a.a",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -3823,7 +3823,8 @@
                             "id": "P334865.30.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "URU",
@@ -4303,20 +4304,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}BAD₃-⸢MAN⸣-[GIN",
+                  "frag": "{uru}BAD₃—⸢MAN⸣—[GIN",
                   "id": "P334865.l0c814",
                   "ref": "P334865.34.2",
                   "inst": "Dur-Šarruken[1]GN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}BAD₃-MAN-GIN=Dur-Šarruken[1//1]GN'GN$Dur-Šarruken",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}BAD₃-MAN-GIN",
+                    "form": "{URU}BAD₃—MAN—GIN",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -4344,7 +4344,8 @@
                             "gdl_collated": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "MAN",
@@ -4354,7 +4355,8 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           },
                           {

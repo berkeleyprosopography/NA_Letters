@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:11",
+  "UTC-timestamp": "2018-05-31T05:30:01",
   "textid": "P313617",
   "cdl": [
     {
@@ -384,20 +384,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d]}⸢EN⸣-DINGIR-a.a",
+                  "frag": "{1}{d]}⸢EN⸣—DINGIR-a.a",
                   "id": "P313617.l0ce44",
                   "ref": "P313617.5.1",
                   "inst": "Bel-ilaʾi[]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}EN-DINGIR-a.a=Bel-ilaʾi[1//1]PN'PN$Bel-ilaʾi",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}EN-DINGIR-a.a",
+                    "form": "{1}{d}EN—DINGIR-a.a",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -442,7 +441,8 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           },
                           {

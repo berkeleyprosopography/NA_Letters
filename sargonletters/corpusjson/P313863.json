@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:39",
+  "UTC-timestamp": "2018-05-31T05:30:43",
   "textid": "P313863",
   "cdl": [
     {
@@ -686,19 +686,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}EN-KASKAL-EN-PAB",
+                  "frag": "{1}EN—KASKAL—EN—PAB",
                   "id": "P313863.l137d4",
                   "ref": "P313863.5.6",
                   "inst": "Bel-Harran-belu-uṣur[]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}EN-KASKAL-EN-PAB=Bel-Harran-belu-uṣur[1//1]PN'PN$Bel-Harran-belu-uṣur",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}EN-KASKAL-EN-PAB",
+                    "form": "{1}EN—KASKAL—EN—PAB",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -724,7 +723,8 @@
                             "id": "P313863.5.6.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "KASKAL",
@@ -732,7 +732,8 @@
                             "id": "P313863.5.6.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "EN",
@@ -740,7 +741,8 @@
                             "id": "P313863.5.6.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "PAB",
@@ -2029,19 +2031,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}ŠU₂-SUM-⸢na⸣",
+                  "frag": "{1}{d}ŠU₂—SUM-⸢na⸣",
                   "id": "P313863.l137fa",
                   "ref": "P313863.11.6",
                   "inst": "Marduk-iddina[]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}ŠU₂-SUM-na=Marduk-iddina[1//1]PN'PN$Marduk-iddina",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}ŠU₂-SUM-na",
+                    "form": "{1}{d}ŠU₂—SUM-na",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -2078,7 +2079,8 @@
                             "id": "P313863.11.6.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "SUM",
@@ -2101,10 +2103,8 @@
                     ],
                     "cf": "Marduk-iddina",
                     "gw": "1",
-                    "sense": "1",
                     "norm": "Marduk-iddina",
-                    "pos": "PN",
-                    "epos": "PN"
+                    "pos": "PN"
                   }
                 },
                 {

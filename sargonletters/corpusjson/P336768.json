@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:51",
+  "UTC-timestamp": "2018-05-31T05:34:42",
   "textid": "P336768",
   "cdl": [
     {
@@ -204,19 +204,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}⸢PA⸣-[MU-AŠ]",
+                  "frag": "{1}{d}⸢PA⸣—[MU—AŠ]",
                   "id": "P336768.l1067c",
                   "ref": "P336768.3.2",
                   "inst": "Nabu-šumu-iddina[1]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}PA-MU-AŠ=Nabu-šumu-iddina[1//1]PN'PN$Nabu-šumu-iddina",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}PA-MU-AŠ",
+                    "form": "{1}{d}PA—MU—AŠ",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -255,7 +254,8 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           },
                           {
@@ -267,7 +267,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "AŠ",

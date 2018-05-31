@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:41:50",
+  "UTC-timestamp": "2018-05-31T05:29:26",
   "textid": "P313447",
   "cdl": [
     {
@@ -206,19 +206,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DUG₃-IM-aš-šur",
+                  "frag": "{1}DUG₃—IM—aš-šur",
                   "id": "P313447.l01d3c",
                   "ref": "P313447.3.2",
                   "inst": "Ṭab-šar-Aššur[1]PN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}DUG₃-IM-aš-šur=Ṭab-šar-Aššur[1//1]PN'PN$Ṭab-šar-Aššur",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}DUG₃-IM-aš-šur",
+                    "form": "{1}DUG₃—IM-aš-šur",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -244,7 +243,8 @@
                             "id": "P313447.3.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "IM",
@@ -252,7 +252,8 @@
                             "id": "P313447.3.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -270,10 +271,7 @@
                     ],
                     "cf": "Ṭab-šar-Aššur",
                     "gw": "1",
-                    "sense": "1",
-                    "norm": "Ṭab-šar-Aššur",
-                    "pos": "PN",
-                    "epos": "PN"
+                    "pos": "PN"
                   }
                 },
                 {
@@ -835,20 +833,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}ŠA₃-URU",
+                  "frag": "{uru}ŠA₃—URU",
                   "id": "P313447.l01d4b",
                   "ref": "P313447.7.3",
                   "inst": "Libbi-ali[Inner City (Assur)]GN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}ŠA₃-URU=Libbi-ali[Inner City (Assur)//Inner City (Assur)]GN'GN$Libbi-ali",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}ŠA₃-URU",
+                    "form": "{URU}ŠA₃—URU",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -875,7 +872,8 @@
                             "id": "P313447.7.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "URU",
@@ -1660,18 +1658,12 @@
                             "delim": "."
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "DU",
-                                "gdl_utf8": "𒁺",
-                                "id": "P313447.11.3.2",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "DU",
+                            "gdl_utf8": "𒁺",
+                            "id": "P313447.11.3.2",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "DU",

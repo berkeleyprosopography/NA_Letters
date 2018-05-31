@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:48",
+  "UTC-timestamp": "2018-05-31T05:34:36",
   "textid": "P334921",
   "cdl": [
     {
@@ -222,7 +222,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DI-mu-EN]",
+                  "frag": "{1}DI-mu—EN]",
                   "id": "P334921.l09323",
                   "ref": "P334921.3.2",
                   "inst": "Šulmu-beli[1]PN",
@@ -272,7 +272,7 @@
                         "gdl_utf8": "𒈬",
                         "id": "P334921.3.2.2",
                         "break": "missing",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:58",
+  "UTC-timestamp": "2018-05-31T05:31:11",
   "textid": "P314049",
   "cdl": [
     {
@@ -212,7 +212,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}a]-⸢tan⸣-ha-{d}[UTU]",
+                  "frag": "{1}a]-⸢tan⸣-ha—{d}[UTU]",
                   "id": "P314049.l09988",
                   "ref": "P314049.3.2",
                   "inst": "Atanha-Šamaš[1]PN",
@@ -262,7 +262,7 @@
                         "v": "ha",
                         "gdl_utf8": "𒄩",
                         "id": "P314049.3.2.3",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

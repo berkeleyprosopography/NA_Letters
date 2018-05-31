@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:17",
+  "UTC-timestamp": "2018-05-31T05:31:41",
   "textid": "P314290",
   "cdl": [
     {
@@ -1538,7 +1538,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur-AŠ",
+                  "frag": "{1}aš-šur—AŠ",
                   "id": "P314290.l1441a",
                   "ref": "P314290.10.1",
                   "inst": "Aššur-iddin[]PN$",
@@ -1580,7 +1580,7 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P314290.10.1.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:50",
+  "UTC-timestamp": "2018-05-31T05:32:45",
   "textid": "P334214",
   "cdl": [
     {
@@ -221,19 +221,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA-SIG₅-iq",
+                  "frag": "{1}{d}PA—SIG₅-iq",
                   "id": "P334214.l055ce",
                   "ref": "P334214.3.2",
                   "inst": "Nabu-deʾiq[1]PN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}PA-SIG₅-iq=Nabu-deʾiq[1//1]PN'PN$Nabu-deʾiq",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}PA-SIG₅-iq",
+                    "form": "{1}{d}PA—SIG₅-iq",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -270,7 +269,8 @@
                             "id": "P334214.3.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "SIG₅",
@@ -883,7 +883,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}10--šum₂-ki⸣",
+                  "frag": "{1}10—šum₂-ki⸣",
                   "id": "P334214.l055dd",
                   "ref": "P334214.9.3",
                   "inst": "Adda-šumki[]PN$",
@@ -918,7 +918,7 @@
                         "id": "P334214.9.3.1",
                         "break": "damaged",
                         "ho": "1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1",
                         "seq": [
                           {
@@ -959,7 +959,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}mil-ki-[x",
+                  "frag": "{1}mil-ki—[x",
                   "id": "P334214.l055de",
                   "ref": "P334214.10.1",
                   "inst": "u",
@@ -997,7 +997,7 @@
                         "gdl_utf8": "𒆠",
                         "id": "P334214.10.1.2",
                         "gdl_collated": "1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:04",
+  "UTC-timestamp": "2018-05-31T05:29:49",
   "textid": "P313543",
   "cdl": [
     {
@@ -747,7 +747,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i-su\\t-ri",
+                  "frag": "i—su\\t-ri",
                   "id": "P313543.l00d59",
                   "ref": "P313543.7.3",
                   "inst": "issurri[perhaps]AV",
@@ -760,7 +760,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P313543.7.3.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -1580,7 +1580,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i-su-ri",
+                  "frag": "i—su-ri",
                   "id": "P313543.l00d6b",
                   "ref": "P313543.14.2",
                   "inst": "issurri[perhaps]AV",
@@ -1594,7 +1594,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P313543.14.2.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -1769,20 +1769,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "ERIM-MEŠ\\m-LUGAL-u-ti\\t",
+                  "frag": "ERIM-MEŠ\\m—LUGAL-u-ti\\t",
                   "id": "P313543.l00d70",
                   "ref": "P313543.15.4",
                   "cof-tails": "P313543.l00d71",
                   "inst": "ṣābu[people]N$ṣāb&šarrūtu[kingship]N$šarrūti",
-                  "sig": "@saao/sargonletters%akk-x-neoass:ERIM-MEŠ-LUGAL-u-ti=ṣābu[people//people]N'N$ṣāb&&@saao/sargonletters%akk-x-neoass:=šarrūtu[kingship//kingship]N'N$šarrūti",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "ERIM-MEŠ-LUGAL-u-ti",
+                    "form": "ERIM-MEŠ—LUGAL-u-ti",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "ERIM",
@@ -1798,7 +1797,8 @@
                             "id": "P313543.15.4.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "mods": [
                               {
                                 "b": "MEŠ"
@@ -1840,28 +1840,24 @@
                     ],
                     "cf": "ṣābu",
                     "gw": "people",
-                    "sense": "people",
                     "norm": "ṣāb",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "ERIM-MEŠ\\m-LUGAL-u-ti\\t",
+                  "frag": "ERIM-MEŠ\\m—LUGAL-u-ti\\t",
                   "id": "P313543.l00d71",
                   "ref": "P313543.15.4",
                   "cof-head": "P313543.l00d70",
                   "inst": "ṣābu[people]N$ṣāb&šarrūtu[kingship]N$šarrūti",
-                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=šarrūtu[kingship//kingship]N'N$šarrūti",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "ERIM-MEŠ-LUGAL-u-ti",
+                    "form": "ERIM-MEŠ—LUGAL-u-ti",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "ERIM",
@@ -1877,7 +1873,8 @@
                             "id": "P313543.15.4.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "mods": [
                               {
                                 "b": "MEŠ"
@@ -1919,10 +1916,8 @@
                     ],
                     "cf": "šarrūtu",
                     "gw": "kingship",
-                    "sense": "kingship",
                     "norm": "šarrūti",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
@@ -2772,7 +2767,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "il-li\\p-diš",
+                  "frag": "il—li\\p-diš",
                   "id": "P313543.l00d86",
                   "ref": "P313543.23.3",
                   "cof-tails": "P313543.l00d87",
@@ -2786,7 +2781,7 @@
                         "v": "il",
                         "gdl_utf8": "𒅋",
                         "id": "P313543.23.3.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -2819,7 +2814,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "il-li\\p-diš",
+                  "frag": "il—li\\p-diš",
                   "id": "P313543.l00d87",
                   "ref": "P313543.23.3",
                   "cof-head": "P313543.l00d86",
@@ -2833,7 +2828,7 @@
                         "v": "il",
                         "gdl_utf8": "𒅋",
                         "id": "P313543.23.3.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

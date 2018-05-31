@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:03",
+  "UTC-timestamp": "2018-05-31T05:33:10",
   "textid": "P334381",
   "cdl": [
     {
@@ -1407,14 +1407,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}kar-LUGAL-GI.NA",
+                  "frag": "{uru}kar—LUGAL—GI.NA",
                   "id": "P334381.l0db55",
                   "ref": "P334381.9.4",
                   "inst": "Kar-Šarrukin[]GN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}kar-LUGAL-GI.NA=Kar-Šarrukin[1//1]GN'GN$Kar-Šarrukin",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}kar-LUGAL-GI.NA",
+                    "form": "{URU}kar-LUGAL—GI.NA",
                     "gdl": [
                       {
                         "det": "semantic",
@@ -1439,13 +1439,12 @@
                         "v": "kar",
                         "gdl_utf8": "𒋼𒀀",
                         "id": "P334381.9.4.1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "LUGAL",
@@ -1453,21 +1452,16 @@
                             "id": "P334381.9.4.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "GI",
-                                "gdl_utf8": "𒄀",
-                                "id": "P334381.9.4.3",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "GI",
+                            "gdl_utf8": "𒄀",
+                            "id": "P334381.9.4.3",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "NA",
@@ -1481,10 +1475,8 @@
                     ],
                     "cf": "Kar-Šarrukin",
                     "gw": "1",
-                    "sense": "1",
                     "norm": "Kar-Šarrukin",
-                    "pos": "GN",
-                    "epos": "GN"
+                    "pos": "GN"
                   }
                 },
                 {
@@ -4953,7 +4945,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "u₂-sa-aṣ~d-bi-it",
+                  "frag": "u₂-sa-aṣ\\d-bi-it",
                   "id": "P334381.l0db9d",
                   "ref": "P334381.32.2",
                   "inst": "ṣabātu[seize//provide]V$ussaṣbit",
@@ -4975,7 +4967,7 @@
                         "delim": "-"
                       },
                       {
-                        "form": "aṣ~d",
+                        "form": "aṣ",
                         "gdl_utf8": "𒊍",
                         "id": "P334381.32.2.2",
                         "delim": "-",
@@ -4984,7 +4976,7 @@
                             "b": "aṣ"
                           },
                           {
-                            "a": "d"
+                            "f": "d"
                           }
                         ]
                       },
@@ -6867,19 +6859,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}SAG-MAN",
+                  "frag": "{lu₂vy}SAG—MAN",
                   "id": "P334381.l0dbc9",
                   "ref": "P334381.43.3",
                   "inst": "ša-rēš-šarri[royal eunuch]N$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}SAG-MAN=ša-rēš-šarri[royal eunuch//royal eunuch]N'N$ša-rēš-šarri",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}SAG-MAN",
+                    "form": "{LU₂}SAG—MAN",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -6917,7 +6908,8 @@
                             "id": "P334381.43.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "MAN",
@@ -7251,7 +7243,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "ša\\ydm-aṣ~d-bu-tu₂",
+                  "frag": "ša\\ydm-aṣ\\d-bu-tu₂",
                   "id": "P334381.l0dbd3",
                   "ref": "P334381.45.7",
                   "inst": "šaṣbutu[supplies]N$",
@@ -7275,7 +7267,7 @@
                         ]
                       },
                       {
-                        "form": "aṣ~d",
+                        "form": "aṣ",
                         "gdl_utf8": "𒊍",
                         "id": "P334381.45.7.1",
                         "delim": "-",
@@ -7284,7 +7276,7 @@
                             "b": "aṣ"
                           },
                           {
-                            "a": "d"
+                            "f": "d"
                           }
                         ]
                       },

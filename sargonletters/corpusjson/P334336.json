@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:59",
+  "UTC-timestamp": "2018-05-31T05:33:01",
   "textid": "P334336",
   "cdl": [
     {
@@ -197,19 +197,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DUG₃.GA-IM-{d}aš-šur",
+                  "frag": "{1}DUG₃.GA—IM—{d}aš-šur",
                   "id": "P334336.l01a8e",
                   "ref": "P334336.3.2",
                   "inst": "Ṭab-šar-Aššur[]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}DUG₃.GA-IM-{d}aš-šur=Ṭab-šar-Aššur[1//1]PN'PN$Ṭab-šar-Aššur",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}DUG₃.GA-IM-{d}aš-šur",
+                    "form": "{1}DUG₃.GA—IM-{d}aš-šur",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -243,7 +242,8 @@
                             "id": "P334336.3.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "IM",
@@ -251,7 +251,8 @@
                             "id": "P334336.3.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -280,10 +281,8 @@
                     ],
                     "cf": "Ṭab-šar-Aššur",
                     "gw": "1",
-                    "sense": "1",
                     "norm": "Ṭab-šar-Aššur",
-                    "pos": "PN",
-                    "epos": "PN"
+                    "pos": "PN"
                   }
                 },
                 {

@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:48",
+  "UTC-timestamp": "2018-05-31T05:30:55",
   "textid": "P313938",
   "cdl": [
     {
@@ -213,7 +213,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}IGI]-aš-šur-la-⸢mur⸣",
+                  "frag": "{1}IGI]—aš-šur—la-⸢mur⸣",
                   "id": "P313938.l03f13",
                   "ref": "P313938.3.2",
                   "inst": "Pan-Aššur-lamur[1]PN",
@@ -225,7 +225,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -255,7 +254,8 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P313938.3.1.0",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -269,7 +269,7 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P313938.3.2.3",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

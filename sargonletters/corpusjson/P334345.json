@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:00",
+  "UTC-timestamp": "2018-05-31T05:33:03",
   "textid": "P334345",
   "cdl": [
     {
@@ -210,7 +210,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DINGIR-ia-da\\d-aʾ",
+                  "frag": "{1}DINGIR—ia-da\\d-aʾ",
                   "id": "P334345.l10d33",
                   "ref": "P334345.3.2",
                   "inst": "Il-yadaʾ[1]PN",
@@ -222,7 +222,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -251,7 +250,8 @@
                             "id": "P334345.3.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -1127,7 +1127,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU]-{1}ia-GIN",
+                  "frag": "DUMU]—{1}ia-GIN",
                   "id": "P334345.l10d49",
                   "ref": "P334345.9.2",
                   "inst": "Mar-Yakin[1]PN",
@@ -1139,7 +1139,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "DUMU",
@@ -1150,7 +1149,8 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P334345.9.1.0",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -1264,21 +1264,15 @@
                             "delim": "."
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "DINGIR",
-                                "gdl_utf8": "𒀭",
-                                "id": "P334345.10.2.1",
-                                "break": "damaged",
-                                "ho": "1",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": ".",
-                                "hc": "1"
-                              }
-                            ]
+                            "s": "DINGIR",
+                            "gdl_utf8": "𒀭",
+                            "id": "P334345.10.2.1",
+                            "break": "damaged",
+                            "ho": "1",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": ".",
+                            "hc": "1"
                           },
                           {
                             "s": "RA",

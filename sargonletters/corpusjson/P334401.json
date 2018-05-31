@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:06",
+  "UTC-timestamp": "2018-05-31T05:33:15",
   "textid": "P334401",
   "cdl": [
     {
@@ -296,7 +296,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}iš-me-DINGIR",
+                  "frag": "{1}iš-me—DINGIR",
                   "id": "P334401.l0b17c",
                   "ref": "P334401.6.1",
                   "inst": "Išme-ilu[1]PN",
@@ -334,7 +334,7 @@
                         "v": "me",
                         "gdl_utf8": "𒈨",
                         "id": "P334401.6.1.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -361,7 +361,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}GAL-ki-ṣir",
+                  "frag": "{lu₂v}GAL—ki-ṣir",
                   "id": "P334401.l0b17d",
                   "ref": "P334401.6.2",
                   "cof-tails": "P334401.l0b17e",
@@ -374,7 +374,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -409,7 +408,8 @@
                             "id": "P334401.6.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -435,7 +435,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}GAL-ki-ṣir",
+                  "frag": "{lu₂v}GAL—ki-ṣir",
                   "id": "P334401.l0b17e",
                   "ref": "P334401.6.2",
                   "cof-head": "P334401.l0b17d",
@@ -448,7 +448,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -483,7 +482,8 @@
                             "id": "P334401.6.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -596,7 +596,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "na-aṣ~d",
+                  "frag": "na-aṣ\\d",
                   "id": "P334401.l0b181",
                   "ref": "P334401.8.1",
                   "inst": "našû[lifted//brought]AJ$naṣ",
@@ -613,7 +613,7 @@
                         "delim": "-"
                       },
                       {
-                        "form": "aṣ~d",
+                        "form": "aṣ",
                         "gdl_utf8": "𒊍",
                         "id": "P334401.8.1.1",
                         "mods": [
@@ -621,7 +621,7 @@
                             "b": "aṣ"
                           },
                           {
-                            "a": "d"
+                            "f": "d"
                           }
                         ]
                       }
@@ -980,7 +980,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR-za-mu-u",
+                  "frag": "KUR—za-mu-u",
                   "id": "P334401.l0b189",
                   "ref": "P334401.13.2",
                   "inst": "Mazamua[]GN$Mazamu",
@@ -992,7 +992,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "KUR",
@@ -1000,7 +999,8 @@
                             "id": "P334401.13.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

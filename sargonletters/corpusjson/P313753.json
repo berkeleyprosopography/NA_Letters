@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:27",
+  "UTC-timestamp": "2018-05-31T05:30:27",
   "textid": "P313753",
   "cdl": [
     {
@@ -3070,7 +3070,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}SUHUŠ\\m-{d}[x",
+                  "frag": "{1}SUHUŠ\\m—{d}[x",
                   "id": "P313753.l14cd6",
                   "ref": "P313753.21.1",
                   "inst": "u",
@@ -3082,7 +3082,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -3108,7 +3107,8 @@
                             "id": "P313753.21.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "mods": [
                               {
                                 "b": "SUHUŠ"

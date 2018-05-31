@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:28",
+  "UTC-timestamp": "2018-05-31T05:33:58",
   "textid": "P334694",
   "cdl": [
     {
@@ -1737,21 +1737,20 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v]}⸢GAL⸣-HAL.ṢU",
+                  "frag": "{lu₂v]}⸢GAL⸣—HAL.ṢU",
                   "id": "P334694.l066ad",
                   "ref": "P334694.12.2",
                   "cof-tails": "P334694.l066ae",
                   "inst": "rabû[big one]N$rab&birtu[fort]N$bīrti",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}GAL-HAL.ṢU=rabû[big one//big one]N'N$rab&&@saao/sargonletters%akk-x-neoass:=birtu[fort//fort]N'N$bīrti",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL-HAL.ṢU",
+                    "form": "{LU₂}GAL—HAL.ṢU",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1792,22 +1791,17 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "HAL",
-                                "gdl_utf8": "𒄬",
-                                "id": "P334694.12.2.2",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "HAL",
+                            "gdl_utf8": "𒄬",
+                            "id": "P334694.12.2.2",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "ṢU",
@@ -1821,29 +1815,25 @@
                     ],
                     "cf": "rabû",
                     "gw": "big one",
-                    "sense": "big one",
                     "norm": "rab",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v]}⸢GAL⸣-HAL.ṢU",
+                  "frag": "{lu₂v]}⸢GAL⸣—HAL.ṢU",
                   "id": "P334694.l066ae",
                   "ref": "P334694.12.2",
                   "cof-head": "P334694.l066ad",
                   "inst": "rabû[big one]N$rab&birtu[fort]N$bīrti",
-                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=birtu[fort//fort]N'N$bīrti",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL-HAL.ṢU",
+                    "form": "{LU₂}GAL—HAL.ṢU",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1884,22 +1874,17 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "HAL",
-                                "gdl_utf8": "𒄬",
-                                "id": "P334694.12.2.2",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "HAL",
+                            "gdl_utf8": "𒄬",
+                            "id": "P334694.12.2.2",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "ṢU",
@@ -1913,10 +1898,8 @@
                     ],
                     "cf": "birtu",
                     "gw": "fort",
-                    "sense": "fort",
                     "norm": "bīrti",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
@@ -2349,7 +2332,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "[am-mar]",
+                  "frag": "[am—mar]",
                   "id": "P334694.l066ba",
                   "ref": "P334694.14.5",
                   "inst": "ammar[as much as//whatever]REL$",
@@ -2365,7 +2348,7 @@
                         "breakStart": "1",
                         "o": "[",
                         "break": "missing",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

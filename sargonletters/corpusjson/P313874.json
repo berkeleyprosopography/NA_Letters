@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:40",
+  "UTC-timestamp": "2018-05-31T05:30:45",
   "textid": "P313874",
   "cdl": [
     {
@@ -208,7 +208,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}⸢ta⸣-ri-ba-15",
+                  "frag": "{1}⸢ta⸣-ri-ba—15",
                   "id": "P313874.l04075",
                   "ref": "P313874.3.2",
                   "inst": "Tariba-Issar[1]PN",
@@ -257,7 +257,7 @@
                         "v": "ba",
                         "gdl_utf8": "𒁀",
                         "id": "P313874.3.2.3",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

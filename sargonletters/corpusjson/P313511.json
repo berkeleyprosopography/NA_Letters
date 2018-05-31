@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:42:01",
+  "UTC-timestamp": "2018-05-31T05:29:44",
   "textid": "P313511",
   "cdl": [
     {
@@ -1393,7 +1393,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d]}EN-⸢iq\\d⸣-[bi",
+                  "frag": "{1}{d]}EN—⸢iq\\d⸣-[bi",
                   "id": "P313511.l06177",
                   "ref": "P313511.14.1",
                   "inst": "Bel-iqbi[]PN$",
@@ -1406,7 +1406,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1449,7 +1448,8 @@
                             "id": "P313511.14.1.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -2158,7 +2158,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}DUMU-šip-ri",
+                  "frag": "{lu₂vy}DUMU—šip-ri",
                   "id": "P313511.l06188",
                   "ref": "P313511.19.3",
                   "cof-tails": "P313511.l06189",
@@ -2171,7 +2171,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -2209,7 +2208,8 @@
                             "id": "P313511.19.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -2235,7 +2235,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}DUMU-šip-ri",
+                  "frag": "{lu₂vy}DUMU—šip-ri",
                   "id": "P313511.l06189",
                   "ref": "P313511.19.3",
                   "cof-head": "P313511.l06188",
@@ -2248,7 +2248,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -2286,7 +2285,8 @@
                             "id": "P313511.19.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -3180,7 +3180,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur-MAŠ",
+                  "frag": "{1}aš-šur—MAŠ",
                   "id": "P313511.l06199",
                   "ref": "P313511.29.1",
                   "inst": "Aššur-ašared[]PN$",
@@ -3221,7 +3221,7 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P313511.29.1.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -3248,7 +3248,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}ša₂-⸢ziq⸣-[ni]",
+                  "frag": "{lu₂vy}ša₂—⸢ziq⸣-[ni]",
                   "id": "P313511.l0619a",
                   "ref": "P313511.29.2",
                   "inst": "ša-ziqni[bearded courtier]N$",
@@ -3291,7 +3291,7 @@
                         "v": "ša₂",
                         "gdl_utf8": "𒃻",
                         "id": "P313511.29.2.1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

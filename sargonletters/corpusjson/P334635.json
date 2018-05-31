@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:23",
+  "UTC-timestamp": "2018-05-31T05:33:48",
   "textid": "P334635",
   "cdl": [
     {
@@ -214,19 +214,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}MES]-MAN-ni",
+                  "frag": "{1}{d}MES]—MAN-ni",
                   "id": "P334635.l11896",
                   "ref": "P334635.3.2",
                   "inst": "Marduk-šarrani[1]PN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}MES-MAN-ni=Marduk-šarrani[1//1]PN'PN$Marduk-šarrani",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}MES-MAN-ni",
+                    "form": "{1}{d}MES—MAN-ni",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -268,7 +267,8 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P334635.3.1.0",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "MAN",
@@ -288,10 +288,7 @@
                     ],
                     "cf": "Marduk-šarrani",
                     "gw": "1",
-                    "sense": "1",
-                    "norm": "Marduk-šarrani",
-                    "pos": "PN",
-                    "epos": "PN"
+                    "pos": "PN"
                   }
                 },
                 {
@@ -686,19 +683,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d]}PA-LUGAL-DU₃",
+                  "frag": "{1}{d]}PA—LUGAL—DU₃",
                   "id": "P334635.l118a1",
                   "ref": "P334635.6.2",
                   "inst": "Nabu-šarru-ibni[]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}PA-LUGAL-DU₃=Nabu-šarru-ibni[1//1]PN'PN$Nabu-šarru-ibni",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}PA-LUGAL-DU₃",
+                    "form": "{1}{d}PA—LUGAL—DU₃",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -739,7 +735,8 @@
                             "id": "P334635.6.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "LUGAL",
@@ -747,7 +744,8 @@
                             "id": "P334635.6.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "DU₃",
@@ -1074,18 +1072,12 @@
                             "delim": "."
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "GIŠ",
-                                "gdl_utf8": "𒄑",
-                                "id": "P334635.8.5.2",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "GIŠ",
+                            "gdl_utf8": "𒄑",
+                            "id": "P334635.8.5.2",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "SAR",

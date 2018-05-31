@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:26",
+  "UTC-timestamp": "2018-05-31T05:31:56",
   "textid": "P334049",
   "cdl": [
     {
@@ -199,19 +199,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DUG₃-IM-aš-šur",
+                  "frag": "{1}DUG₃—IM—aš-šur",
                   "id": "P334049.l0194c",
                   "ref": "P334049.3.2",
                   "inst": "Ṭab-šar-Aššur[1]PN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}DUG₃-IM-aš-šur=Ṭab-šar-Aššur[1//1]PN'PN$Ṭab-šar-Aššur",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}DUG₃-IM-aš-šur",
+                    "form": "{1}DUG₃—IM-aš-šur",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -237,7 +236,8 @@
                             "id": "P334049.3.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "IM",
@@ -245,7 +245,8 @@
                             "id": "P334049.3.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -263,10 +264,7 @@
                     ],
                     "cf": "Ṭab-šar-Aššur",
                     "gw": "1",
-                    "sense": "1",
-                    "norm": "Ṭab-šar-Aššur",
-                    "pos": "PN",
-                    "epos": "PN"
+                    "pos": "PN"
                   }
                 },
                 {
@@ -3111,7 +3109,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a-dan-niš",
+                  "frag": "a—dan-niš",
                   "id": "P334049.l01997",
                   "ref": "P334049.26.3",
                   "inst": "adanniš[very much]AV",
@@ -3124,7 +3122,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P334049.26.3.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -3484,7 +3482,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i-ši\\d-a-ri",
+                  "frag": "i—ši\\d-a-ri",
                   "id": "P334049.l0199f",
                   "ref": "P334049.30.1",
                   "cof-tails": "P334049.l019a0",
@@ -3499,7 +3497,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P334049.30.1.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -3538,7 +3536,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i-ši\\d-a-ri",
+                  "frag": "i—ši\\d-a-ri",
                   "id": "P334049.l019a0",
                   "ref": "P334049.30.1",
                   "cof-head": "P334049.l0199f",
@@ -3553,7 +3551,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P334049.30.1.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -4149,7 +4147,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i-su\\t-ri",
+                  "frag": "i—su\\t-ri",
                   "id": "P334049.l019ad",
                   "ref": "P334049.34.1",
                   "inst": "issurri[perhaps]AV",
@@ -4163,7 +4161,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P334049.34.1.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

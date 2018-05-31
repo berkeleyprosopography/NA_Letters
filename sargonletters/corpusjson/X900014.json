@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:56",
+  "UTC-timestamp": "2018-05-31T05:34:51",
   "textid": "X900014",
   "cdl": [
     {
@@ -213,7 +213,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{⸢d}MES⸣-rem₂-[a-ni]",
+                  "frag": "{1}{⸢d}MES⸣—rem₂-[a-ni]",
                   "id": "X900014.l02f7b",
                   "ref": "X900014.3.2",
                   "inst": "Marduk-remanni[]PN$",
@@ -225,7 +225,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -269,7 +268,8 @@
                             "gdl_collated": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "hc": "1"
                           }
                         ]
@@ -2978,7 +2978,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i-su-ri",
+                  "frag": "i—su-ri",
                   "id": "X900014.l02fbe",
                   "ref": "X900014.21.1",
                   "inst": "issurri[perhaps]AV",
@@ -2992,7 +2992,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "X900014.21.1.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -5979,7 +5979,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{kur}ba-an-am-ma-na-a.a",
+                  "frag": "{kur}ba-an—am-ma-na-a.a",
                   "id": "X900014.l0301c",
                   "ref": "X900014.40.2",
                   "inst": "Ban-Ammanaya[Ammonite]EN$",
@@ -6017,7 +6017,7 @@
                         "v": "an",
                         "gdl_utf8": "𒀭",
                         "id": "X900014.40.2.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {

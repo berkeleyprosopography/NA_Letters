@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:29",
+  "UTC-timestamp": "2018-05-31T05:34:00",
   "textid": "P334699",
   "cdl": [
     {
@@ -212,19 +212,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DUG₃-IM-aš]-⸢šur⸣",
+                  "frag": "{1}DUG₃—IM—aš]-⸢šur⸣",
                   "id": "P334699.l01df7",
                   "ref": "P334699.3.2",
                   "inst": "Ṭab-šar-Aššur[1]PN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}DUG₃-IM-aš-šur=Ṭab-šar-Aššur[1//1]PN'PN$Ṭab-šar-Aššur",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}DUG₃-IM-aš-šur",
+                    "form": "{1}DUG₃—IM-aš-šur",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -252,7 +251,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "IM",
@@ -261,7 +261,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -285,10 +286,7 @@
                     ],
                     "cf": "Ṭab-šar-Aššur",
                     "gw": "1",
-                    "sense": "1",
-                    "norm": "Ṭab-šar-Aššur",
-                    "pos": "PN",
-                    "epos": "PN"
+                    "pos": "PN"
                   }
                 },
                 {
@@ -1552,7 +1550,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "[E₂-ra]-⸢ma⸣-ki",
+                  "frag": "[E₂—ra]-⸢ma⸣-ki",
                   "id": "P334699.l01e16",
                   "ref": "P334699.13.1",
                   "cof-tails": "P334699.l01e17",
@@ -1566,7 +1564,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "E₂",
@@ -1577,7 +1574,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -1615,7 +1613,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "[E₂-ra]-⸢ma⸣-ki",
+                  "frag": "[E₂—ra]-⸢ma⸣-ki",
                   "id": "P334699.l01e17",
                   "ref": "P334699.13.1",
                   "cof-head": "P334699.l01e16",
@@ -1629,7 +1627,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "E₂",
@@ -1640,7 +1637,8 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },

@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:07",
+  "UTC-timestamp": "2018-05-31T05:31:24",
   "textid": "P314180",
   "cdl": [
     {
@@ -573,20 +573,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}EN-DU₃\\d",
+                  "frag": "{1}EN—DU₃\\d",
                   "id": "P314180.l11c14",
                   "ref": "P314180.6.1",
                   "inst": "Bel-ibni[]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}EN-DU₃=Bel-ibni[1//1]PN'PN$Bel-ibni",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}EN-DU₃",
+                    "form": "{1}EN—DU₃",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -612,7 +611,8 @@
                             "id": "P314180.6.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "form": "DU₃",

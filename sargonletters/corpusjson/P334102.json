@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:33",
+  "UTC-timestamp": "2018-05-31T05:32:11",
   "textid": "P334102",
   "cdl": [
     {
@@ -215,7 +215,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}NUMUN\\d-ib-ni",
+                  "frag": "{1}NUMUN\\d—ib-ni",
                   "id": "P334102.l04fea",
                   "ref": "P334102.3.2",
                   "inst": "Zeru-ibni[1]PN",
@@ -227,7 +227,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -253,7 +252,8 @@
                             "id": "P334102.3.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "mods": [
                               {
                                 "b": "NUMUN"

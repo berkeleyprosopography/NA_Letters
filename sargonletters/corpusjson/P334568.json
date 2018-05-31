@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:18",
+  "UTC-timestamp": "2018-05-31T05:33:37",
   "textid": "P334568",
   "cdl": [
     {
@@ -211,19 +211,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA-⸢SIG₅⸣-iq",
+                  "frag": "{1}{d}PA—⸢SIG₅⸣-iq",
                   "id": "P334568.l054e9",
                   "ref": "P334568.3.2",
                   "inst": "Nabu-deʾiq[1]PN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}PA-SIG₅-iq=Nabu-deʾiq[1//1]PN'PN$Nabu-deʾiq",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}PA-SIG₅-iq",
+                    "form": "{1}{d}PA—SIG₅-iq",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -260,7 +259,8 @@
                             "id": "P334568.3.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "SIG₅",
@@ -722,7 +722,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}ne₂-med-{d}15",
+                  "frag": "{uru}ne₂-med—{d}15",
                   "id": "P334568.l054f5",
                   "ref": "P334568.6.3",
                   "inst": "Nemed-Ištar[]GN$",
@@ -760,7 +760,7 @@
                         "v": "med",
                         "gdl_utf8": "𒁁",
                         "id": "P334568.6.3.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -1387,20 +1387,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{⸢lu₂v⸣}[GAL]-SUM.NINDA",
+                  "frag": "{⸢lu₂v⸣}[GAL]—SUM.NINDA",
                   "id": "P334568.l05505",
                   "ref": "P334568.11.5",
                   "cof-tails": "P334568.l05506",
                   "inst": "rabû[big one]N$rab&kakardinnu[victualler]N$karkadinni",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}GAL-SUM.NINDA=rabû[big one//big one]N'N$rab&&@saao/sargonletters%akk-x-neoass:=kakardinnu[victualler//victualler]N'N$karkadinni",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL-SUM.NINDA",
+                    "form": "{LU₂}GAL—SUM.NINDA",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1443,21 +1442,16 @@
                             "role": "logo",
                             "logolang": "sux",
                             "breakEnd": "P334568.11.5.1",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "SUM",
-                                "gdl_utf8": "𒋧",
-                                "id": "P334568.11.5.2",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "SUM",
+                            "gdl_utf8": "𒋧",
+                            "id": "P334568.11.5.2",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "NINDA",
@@ -1471,28 +1465,24 @@
                     ],
                     "cf": "rabû",
                     "gw": "big one",
-                    "sense": "big one",
                     "norm": "rab",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "{⸢lu₂v⸣}[GAL]-SUM.NINDA",
+                  "frag": "{⸢lu₂v⸣}[GAL]—SUM.NINDA",
                   "id": "P334568.l05506",
                   "ref": "P334568.11.5",
                   "cof-head": "P334568.l05505",
                   "inst": "rabû[big one]N$rab&kakardinnu[victualler]N$karkadinni",
-                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=kakardinnu[victualler//victualler]N'N$karkadinni",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL-SUM.NINDA",
+                    "form": "{LU₂}GAL—SUM.NINDA",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1535,21 +1525,16 @@
                             "role": "logo",
                             "logolang": "sux",
                             "breakEnd": "P334568.11.5.1",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "SUM",
-                                "gdl_utf8": "𒋧",
-                                "id": "P334568.11.5.2",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "SUM",
+                            "gdl_utf8": "𒋧",
+                            "id": "P334568.11.5.2",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "NINDA",
@@ -1563,10 +1548,8 @@
                     ],
                     "cf": "kakardinnu",
                     "gw": "victualler",
-                    "sense": "victualler",
                     "norm": "karkadinni",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
@@ -1603,20 +1586,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}IM]-⸢DU₃⸣",
+                  "frag": "{1}IM]—⸢DU₃⸣",
                   "id": "P334568.l05507",
                   "ref": "P334568.15.1",
                   "inst": "Adad-ibni[]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}IM-DU₃=Adad-ibni[1//1]PN'PN$Adad-ibni",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}IM-DU₃",
+                    "form": "{1}IM—DU₃",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1649,7 +1631,8 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P334568.15.1.0",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "DU₃",
@@ -1666,10 +1649,8 @@
                     ],
                     "cf": "Adad-ibni",
                     "gw": "1",
-                    "sense": "1",
                     "norm": "Adad-ibni",
-                    "pos": "PN",
-                    "epos": "PN"
+                    "pos": "PN"
                   }
                 },
                 {
@@ -2118,7 +2099,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂-rim-ki",
+                  "frag": "E₂—rim-ki",
                   "id": "P334568.l05512",
                   "ref": "P334568.18.2",
                   "cof-tails": "P334568.l05513",
@@ -2131,7 +2112,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "E₂",
@@ -2140,7 +2120,8 @@
                             "gdl_collated": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -2166,7 +2147,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂-rim-ki",
+                  "frag": "E₂—rim-ki",
                   "id": "P334568.l05513",
                   "ref": "P334568.18.2",
                   "cof-head": "P334568.l05512",
@@ -2179,7 +2160,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "s": "E₂",
@@ -2188,7 +2168,8 @@
                             "gdl_collated": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -2311,21 +2292,20 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}GAL-SUM.NINDA",
+                  "frag": "{lu₂v}GAL—SUM.NINDA",
                   "id": "P334568.l05516",
                   "ref": "P334568.20.1",
                   "cof-tails": "P334568.l05517",
                   "inst": "rabû[big one]N$rab&kakardinnu[victualler]N$karkadinni",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}GAL-SUM.NINDA=rabû[big one//big one]N'N$rab&&@saao/sargonletters%akk-x-neoass:=kakardinnu[victualler//victualler]N'N$karkadinni",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL-SUM.NINDA",
+                    "form": "{LU₂}GAL—SUM.NINDA",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -2361,21 +2341,16 @@
                             "gdl_collated": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "SUM",
-                                "gdl_utf8": "𒋧",
-                                "id": "P334568.20.1.2",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "SUM",
+                            "gdl_utf8": "𒋧",
+                            "id": "P334568.20.1.2",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "NINDA",
@@ -2389,29 +2364,25 @@
                     ],
                     "cf": "rabû",
                     "gw": "big one",
-                    "sense": "big one",
                     "norm": "rab",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}GAL-SUM.NINDA",
+                  "frag": "{lu₂v}GAL—SUM.NINDA",
                   "id": "P334568.l05517",
                   "ref": "P334568.20.1",
                   "cof-head": "P334568.l05516",
                   "inst": "rabû[big one]N$rab&kakardinnu[victualler]N$karkadinni",
-                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=kakardinnu[victualler//victualler]N'N$karkadinni",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL-SUM.NINDA",
+                    "form": "{LU₂}GAL—SUM.NINDA",
                     "delim": "",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -2447,21 +2418,16 @@
                             "gdl_collated": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
-                            "gg": "logo",
-                            "gdl_type": "logo",
-                            "group": [
-                              {
-                                "s": "SUM",
-                                "gdl_utf8": "𒋧",
-                                "id": "P334568.20.1.2",
-                                "role": "logo",
-                                "logolang": "sux",
-                                "delim": "."
-                              }
-                            ]
+                            "s": "SUM",
+                            "gdl_utf8": "𒋧",
+                            "id": "P334568.20.1.2",
+                            "role": "logo",
+                            "logolang": "sux",
+                            "delim": "."
                           },
                           {
                             "s": "NINDA",
@@ -2475,10 +2441,8 @@
                     ],
                     "cf": "kakardinnu",
                     "gw": "victualler",
-                    "sense": "victualler",
                     "norm": "karkadinni",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {

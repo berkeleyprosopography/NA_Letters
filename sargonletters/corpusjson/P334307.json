@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:55",
+  "UTC-timestamp": "2018-05-31T05:32:54",
   "textid": "P334307",
   "cdl": [
     {
@@ -203,19 +203,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}EN-ZU\\t",
+                  "frag": "{1}EN—ZU\\t",
                   "id": "P334307.l0cdd0",
                   "ref": "P334307.4.2",
                   "inst": "Bel-leʾi[]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}EN-ZU=Bel-leʾi[1//1]PN'PN$Bel-leʾi",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}EN-ZU",
+                    "form": "{1}EN—ZU",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -242,7 +241,8 @@
                             "gdl_collated": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "form": "ZU",
@@ -586,20 +586,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂\\d-BAD₃\\m-a-ni",
+                  "frag": "E₂\\d—BAD₃\\m-a-ni",
                   "id": "P334307.l0cdd8",
                   "ref": "P334307.8.2",
                   "cof-tails": "P334307.l0cdd9",
                   "inst": "bītu[house+=fortified site]N$bēt&dūru[(city) wall]N$dūrāni",
-                  "sig": "@saao/sargonletters%akk-x-neoass:E₂-BAD₃-a-ni=bītu[house//house]N'N$bēt&&@saao/sargonletters%akk-x-neoass:=dūru[(city) wall//(city) wall]N'N$dūrāni",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "E₂-BAD₃-a-ni",
+                    "form": "E₂—BAD₃-a-ni",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "form": "E₂",
@@ -607,7 +606,8 @@
                             "id": "P334307.8.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "mods": [
                               {
                                 "b": "E₂"
@@ -649,28 +649,24 @@
                     ],
                     "cf": "bītu",
                     "gw": "house",
-                    "sense": "house",
                     "norm": "bēt",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "E₂\\d-BAD₃\\m-a-ni",
+                  "frag": "E₂\\d—BAD₃\\m-a-ni",
                   "id": "P334307.l0cdd9",
                   "ref": "P334307.8.2",
                   "cof-head": "P334307.l0cdd8",
                   "inst": "bītu[house+=fortified site]N$bēt&dūru[(city) wall]N$dūrāni",
-                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=dūru[(city) wall//(city) wall]N'N$dūrāni",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "E₂-BAD₃-a-ni",
+                    "form": "E₂—BAD₃-a-ni",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "form": "E₂",
@@ -678,7 +674,8 @@
                             "id": "P334307.8.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "mods": [
                               {
                                 "b": "E₂"
@@ -720,10 +717,8 @@
                     ],
                     "cf": "dūru",
                     "gw": "(city) wall",
-                    "sense": "(city) wall",
                     "norm": "dūrāni",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {

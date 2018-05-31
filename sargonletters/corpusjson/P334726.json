@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:44:33",
+  "UTC-timestamp": "2018-05-31T05:34:06",
   "textid": "P334726",
   "cdl": [
     {
@@ -213,19 +213,18 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d]}MES-MAN-ni",
+                  "frag": "{1}{d]}MES—MAN-ni",
                   "id": "P334726.l11849",
                   "ref": "P334726.3.2",
                   "inst": "Marduk-šarrani[]PN$",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}MES-MAN-ni=Marduk-šarrani[1//1]PN'PN$Marduk-šarrani",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}MES-MAN-ni",
+                    "form": "{1}{d}MES—MAN-ni",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -266,7 +265,8 @@
                             "id": "P334726.3.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "MAN",
@@ -286,10 +286,8 @@
                     ],
                     "cf": "Marduk-šarrani",
                     "gw": "1",
-                    "sense": "1",
                     "norm": "Marduk-šarrani",
-                    "pos": "PN",
-                    "epos": "PN"
+                    "pos": "PN"
                   }
                 },
                 {
@@ -829,20 +827,19 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}GAL-MU",
+                  "frag": "{lu₂vy}GAL—MU",
                   "id": "P334726.l11856",
                   "ref": "P334726.8.3",
                   "cof-tails": "P334726.l11857",
                   "inst": "rabû[big one]N$rab&nuhatimmu[cook]N$nuhatimmi",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}GAL-MU=rabû[big one//big one]N'N$rab&&@saao/sargonletters%akk-x-neoass:=nuhatimmu[cook//cook]N'N$nuhatimmi",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL-MU",
+                    "form": "{LU₂}GAL—MU",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -880,7 +877,8 @@
                             "id": "P334726.8.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "MU",
@@ -894,28 +892,24 @@
                     ],
                     "cf": "rabû",
                     "gw": "big one",
-                    "sense": "big one",
                     "norm": "rab",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}GAL-MU",
+                  "frag": "{lu₂vy}GAL—MU",
                   "id": "P334726.l11857",
                   "ref": "P334726.8.3",
                   "cof-head": "P334726.l11856",
                   "inst": "rabû[big one]N$rab&nuhatimmu[cook]N$nuhatimmi",
-                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=nuhatimmu[cook//cook]N'N$nuhatimmi",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL-MU",
+                    "form": "{LU₂}GAL—MU",
                     "gdl": [
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -953,7 +947,8 @@
                             "id": "P334726.8.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           },
                           {
                             "s": "MU",
@@ -967,10 +962,8 @@
                     ],
                     "cf": "nuhatimmu",
                     "gw": "cook",
-                    "sense": "cook",
                     "norm": "nuhatimmi",
-                    "pos": "N",
-                    "epos": "N"
+                    "pos": "N"
                   }
                 },
                 {
@@ -982,7 +975,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA]-⸢x⸣-AŠ",
+                  "frag": "{1}{d}PA]—⸢x⸣—AŠ",
                   "id": "P334726.l11858",
                   "ref": "P334726.9.1",
                   "inst": "u",
@@ -994,7 +987,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -1038,7 +1030,8 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P334726.9.1.0",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -1048,7 +1041,7 @@
                         "id": "P334726.9.1.3",
                         "break": "damaged",
                         "ho": "1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1",
                         "hc": "1"
                       },

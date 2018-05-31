@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-01-26T07:43:45",
+  "UTC-timestamp": "2018-05-31T05:32:37",
   "textid": "P334186",
   "cdl": [
     {
@@ -205,14 +205,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur-BAD₃\\p-IGI-ia",
+                  "frag": "{1}aš-šur—BAD₃\\p—IGI-ia",
                   "id": "P334186.l07888",
                   "ref": "P334186.3.2",
                   "inst": "Aššur-dur-paniya[1]PN",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{1}aš-šur-BAD₃-IGI-ia=Aššur-dur-paniya[1//1]PN'PN$Aššur-dur-paniya",
+                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}aš-šur-BAD₃-IGI-ia",
+                    "form": "{1}aš-šur-BAD₃—IGI-ia",
                     "gdl": [
                       {
                         "det": "semantic",
@@ -242,13 +242,12 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P334186.3.2.2",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "form": "BAD₃",
@@ -256,7 +255,8 @@
                             "id": "P334186.3.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--",
+                            "delim": "—",
+                            "gdl_em": "1",
                             "mods": [
                               {
                                 "b": "BAD₃"
@@ -284,10 +284,7 @@
                     ],
                     "cf": "Aššur-dur-paniya",
                     "gw": "1",
-                    "sense": "1",
-                    "norm": "Aššur-dur-paniya",
-                    "pos": "PN",
-                    "epos": "PN"
+                    "pos": "PN"
                   }
                 },
                 {
@@ -481,7 +478,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂}GAL-50-ia",
+                  "frag": "{lu₂}GAL—50-ia",
                   "id": "P334186.l0788e",
                   "ref": "P334186.5.1",
                   "cof-tails": "P334186.l0788f",
@@ -495,7 +492,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -522,7 +518,8 @@
                             "id": "P334186.5.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -555,7 +552,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂}GAL-50-ia",
+                  "frag": "{lu₂}GAL—50-ia",
                   "id": "P334186.l0788f",
                   "ref": "P334186.5.1",
                   "cof-head": "P334186.l0788e",
@@ -569,7 +566,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -596,7 +592,8 @@
                             "id": "P334186.5.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -2177,7 +2174,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DINGIR-da-la-a",
+                  "frag": "{1}DINGIR—da-la-a",
                   "id": "P334186.l078b2",
                   "ref": "P334186.11.4",
                   "inst": "Il-dala[]PN$",
@@ -2189,7 +2186,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -2215,7 +2211,8 @@
                             "id": "P334186.11.4.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -2851,7 +2848,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂}A-šip-ri-ia",
+                  "frag": "{lu₂}A—šip-ri-ia",
                   "id": "P334186.l078bf",
                   "ref": "P334186.15.1",
                   "cof-tails": "P334186.l078c0",
@@ -2865,7 +2862,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -2892,7 +2888,8 @@
                             "id": "P334186.15.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -2924,7 +2921,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂}A-šip-ri-ia",
+                  "frag": "{lu₂}A—šip-ri-ia",
                   "id": "P334186.l078c0",
                   "ref": "P334186.15.1",
                   "cof-head": "P334186.l078bf",
@@ -2938,7 +2935,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -2965,7 +2961,8 @@
                             "id": "P334186.15.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -3057,7 +3054,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DINGIR-da-la-a",
+                  "frag": "{1}DINGIR—da-la-a",
                   "id": "P334186.l078c3",
                   "ref": "P334186.15.4",
                   "inst": "Il-dala[1]PN",
@@ -3070,7 +3067,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -3096,7 +3092,8 @@
                             "id": "P334186.15.4.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -3210,7 +3207,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂p}GAL-50",
+                  "frag": "{lu₂p}GAL—50",
                   "id": "P334186.l078c6",
                   "ref": "P334186.16.2",
                   "cof-tails": "P334186.l078c7",
@@ -3224,7 +3221,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -3259,7 +3255,8 @@
                             "id": "P334186.16.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -3286,7 +3283,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂p}GAL-50",
+                  "frag": "{lu₂p}GAL—50",
                   "id": "P334186.l078c7",
                   "ref": "P334186.16.2",
                   "cof-head": "P334186.l078c6",
@@ -3300,7 +3297,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -3335,7 +3331,8 @@
                             "id": "P334186.16.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -3959,7 +3956,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "⸢i-da⸣-tu₂-šu₂",
+                  "frag": "⸢i—da⸣-tu₂-šu₂",
                   "id": "P334186.l078d6",
                   "ref": "P334186.19.4",
                   "cof-tails": "P334186.l078d7",
@@ -3977,7 +3974,7 @@
                         "break": "damaged",
                         "gdl_collated": "1",
                         "ho": "1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -4011,7 +4008,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "⸢i-da⸣-tu₂-šu₂",
+                  "frag": "⸢i—da⸣-tu₂-šu₂",
                   "id": "P334186.l078d7",
                   "ref": "P334186.19.4",
                   "cof-head": "P334186.l078d6",
@@ -4029,7 +4026,7 @@
                         "break": "damaged",
                         "gdl_collated": "1",
                         "ho": "1",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -4294,7 +4291,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂}GAL-50",
+                  "frag": "{lu₂}GAL—50",
                   "id": "P334186.l078dd",
                   "ref": "P334186.21.1",
                   "cof-tails": "P334186.l078de",
@@ -4308,7 +4305,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -4335,7 +4331,8 @@
                             "id": "P334186.21.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -4362,7 +4359,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂}GAL-50",
+                  "frag": "{lu₂}GAL—50",
                   "id": "P334186.l078de",
                   "ref": "P334186.21.1",
                   "cof-head": "P334186.l078dd",
@@ -4376,7 +4373,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -4403,7 +4399,8 @@
                             "id": "P334186.21.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -4850,7 +4847,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DINGIR-da-la-a",
+                  "frag": "{1}DINGIR—da-la-a",
                   "id": "P334186.l078e7",
                   "ref": "P334186.24.1",
                   "inst": "Il-dala[1]PN",
@@ -4863,7 +4860,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -4889,7 +4885,8 @@
                             "id": "P334186.24.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -5502,7 +5499,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂}GAL-50-ia",
+                  "frag": "{lu₂}GAL—50-ia",
                   "id": "P334186.l078f5",
                   "ref": "P334186.29.1",
                   "cof-tails": "P334186.l078f6",
@@ -5516,7 +5513,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -5543,7 +5539,8 @@
                             "id": "P334186.29.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -5576,7 +5573,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂}GAL-50-ia",
+                  "frag": "{lu₂}GAL—50-ia",
                   "id": "P334186.l078f6",
                   "ref": "P334186.29.1",
                   "cof-head": "P334186.l078f5",
@@ -5590,7 +5587,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -5617,7 +5613,8 @@
                             "id": "P334186.29.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -5995,7 +5992,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i-da-at",
+                  "frag": "i—da-at",
                   "id": "P334186.l078fe",
                   "ref": "P334186.32.1",
                   "cof-tails": "P334186.l078ff",
@@ -6010,7 +6007,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P334186.32.1.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -6035,7 +6032,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i-da-at",
+                  "frag": "i—da-at",
                   "id": "P334186.l078ff",
                   "ref": "P334186.32.1",
                   "cof-head": "P334186.l078fe",
@@ -6050,7 +6047,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P334186.32.1.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -6075,7 +6072,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DINGIR-da-la-a",
+                  "frag": "{1}DINGIR—da-la-a",
                   "id": "P334186.l07900",
                   "ref": "P334186.32.2",
                   "inst": "Il-dala[1]PN",
@@ -6088,7 +6085,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -6114,7 +6110,8 @@
                             "id": "P334186.32.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -6775,7 +6772,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂}GAL-50",
+                  "frag": "{lu₂}GAL—50",
                   "id": "P334186.l07910",
                   "ref": "P334186.35.3",
                   "cof-tails": "P334186.l07911",
@@ -6789,7 +6786,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -6816,7 +6812,8 @@
                             "id": "P334186.35.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -6843,7 +6840,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂}GAL-50",
+                  "frag": "{lu₂}GAL—50",
                   "id": "P334186.l07911",
                   "ref": "P334186.35.3",
                   "cof-head": "P334186.l07910",
@@ -6857,7 +6854,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -6884,7 +6880,8 @@
                             "id": "P334186.35.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -7288,7 +7285,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a-⸢da⸣-at",
+                  "frag": "a—⸢da⸣-at",
                   "id": "P334186.l0791b",
                   "ref": "P334186.37.5",
                   "cof-tails": "P334186.l0791c",
@@ -7303,7 +7300,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P334186.37.5.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -7332,7 +7329,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a-⸢da⸣-at",
+                  "frag": "a—⸢da⸣-at",
                   "id": "P334186.l0791c",
                   "ref": "P334186.37.5",
                   "cof-head": "P334186.l0791b",
@@ -7346,7 +7343,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P334186.37.5.0",
-                        "delim": "--",
+                        "delim": "—",
                         "gdl_em": "1"
                       },
                       {
@@ -7375,7 +7372,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂}GAL-50",
+                  "frag": "{lu₂}GAL—50",
                   "id": "P334186.l0791d",
                   "ref": "P334186.37.6",
                   "cof-tails": "P334186.l0791e",
@@ -7388,7 +7385,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -7415,7 +7411,8 @@
                             "id": "P334186.37.6.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
@@ -7442,7 +7439,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂}GAL-50",
+                  "frag": "{lu₂}GAL—50",
                   "id": "P334186.l0791e",
                   "ref": "P334186.37.6",
                   "cof-head": "P334186.l0791d",
@@ -7455,7 +7452,6 @@
                       {
                         "gg": "logo",
                         "gdl_type": "logo",
-                        "gdl_em": "1",
                         "group": [
                           {
                             "det": "semantic",
@@ -7482,7 +7478,8 @@
                             "id": "P334186.37.6.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "--"
+                            "delim": "—",
+                            "gdl_em": "1"
                           }
                         ]
                       },
