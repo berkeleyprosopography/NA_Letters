@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:30:41",
+  "UTC-timestamp": "2018-06-22T06:06:49",
   "textid": "P313853",
   "cdl": [
     {
@@ -1430,7 +1430,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "[am—mar",
+                  "frag": "[am-mar",
                   "id": "P313853.l08fe5",
                   "ref": "P313853.10.1",
                   "inst": "ammar[as many as]REL",
@@ -1447,8 +1447,7 @@
                         "breakStart": "1",
                         "o": "[",
                         "break": "missing",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "mar",

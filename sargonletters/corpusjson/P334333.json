@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:00",
+  "UTC-timestamp": "2018-06-22T06:08:10",
   "textid": "P334333",
   "cdl": [
     {
@@ -199,14 +199,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DUG₃—IM—aš-šur",
+                  "frag": "{1}DUG₃-IM-aš-šur",
                   "id": "P334333.l01f8a",
                   "ref": "P334333.3.2",
                   "inst": "Ṭab-šar-Aššur[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}DUG₃-IM-aš-šur=Ṭab-šar-Aššur[1//1]PN'PN$Ṭab-šar-Aššur",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}DUG₃—IM-aš-šur",
+                    "form": "{1}DUG₃-IM-aš-šur",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -236,8 +236,7 @@
                             "id": "P334333.3.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "IM",
@@ -245,8 +244,7 @@
                             "id": "P334333.3.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -264,7 +262,10 @@
                     ],
                     "cf": "Ṭab-šar-Aššur",
                     "gw": "1",
-                    "pos": "PN"
+                    "sense": "1",
+                    "norm": "Ṭab-šar-Aššur",
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {
@@ -2173,7 +2174,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i—su\\t-ri",
+                  "frag": "i-su\\t-ri",
                   "id": "P334333.l01fbb",
                   "ref": "P334333.15.1",
                   "inst": "issurri[perhaps]AV",
@@ -2187,8 +2188,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P334333.15.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "form": "su",

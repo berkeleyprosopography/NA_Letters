@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:58",
+  "UTC-timestamp": "2018-06-22T06:08:40",
   "textid": "P334694",
   "cdl": [
     {
@@ -1737,15 +1737,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v]}⸢GAL⸣—HAL.ṢU",
+                  "frag": "{lu₂v]}⸢GAL⸣-HAL.ṢU",
                   "id": "P334694.l066ad",
                   "ref": "P334694.12.2",
                   "cof-tails": "P334694.l066ae",
                   "inst": "rabû[big one]N$rab&birtu[fort]N$bīrti",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}GAL-HAL.ṢU=rabû[big one//big one]N'N$rab&&@saao/sargonletters%akk-x-neoass:=birtu[fort//fort]N'N$bīrti",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL—HAL.ṢU",
+                    "form": "{LU₂}GAL-HAL.ṢU",
                     "delim": "",
                     "gdl": [
                       {
@@ -1791,8 +1791,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "hc": "1"
                           },
                           {
@@ -1815,20 +1814,23 @@
                     ],
                     "cf": "rabû",
                     "gw": "big one",
+                    "sense": "big one",
                     "norm": "rab",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v]}⸢GAL⸣—HAL.ṢU",
+                  "frag": "{lu₂v]}⸢GAL⸣-HAL.ṢU",
                   "id": "P334694.l066ae",
                   "ref": "P334694.12.2",
                   "cof-head": "P334694.l066ad",
                   "inst": "rabû[big one]N$rab&birtu[fort]N$bīrti",
+                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=birtu[fort//fort]N'N$bīrti",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL—HAL.ṢU",
+                    "form": "{LU₂}GAL-HAL.ṢU",
                     "delim": "",
                     "gdl": [
                       {
@@ -1874,8 +1876,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "hc": "1"
                           },
                           {
@@ -1898,8 +1899,10 @@
                     ],
                     "cf": "birtu",
                     "gw": "fort",
+                    "sense": "fort",
                     "norm": "bīrti",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
@@ -2332,7 +2335,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "[am—mar]",
+                  "frag": "[am-mar]",
                   "id": "P334694.l066ba",
                   "ref": "P334694.14.5",
                   "inst": "ammar[as much as//whatever]REL$",
@@ -2348,8 +2351,7 @@
                         "breakStart": "1",
                         "o": "[",
                         "break": "missing",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "mar",

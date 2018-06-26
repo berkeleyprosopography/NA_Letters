@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:29:25",
+  "UTC-timestamp": "2018-06-22T06:06:00",
   "textid": "P313442",
   "cdl": [
     {
@@ -4591,7 +4591,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}NUMUN\\d—[x",
+                  "frag": "{1}NUMUN\\d-[x",
                   "id": "P313442.l0e42a",
                   "ref": "P313442.28.1",
                   "inst": "u",
@@ -4628,8 +4628,7 @@
                             "id": "P313442.28.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "mods": [
                               {
                                 "b": "NUMUN"

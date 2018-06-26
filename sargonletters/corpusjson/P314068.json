@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:31:12",
+  "UTC-timestamp": "2018-06-22T06:07:11",
   "textid": "P314068",
   "cdl": [
     {
@@ -1500,7 +1500,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR—aš-⸢šur⸣",
+                  "frag": "KUR-aš-⸢šur⸣",
                   "id": "P314068.l0867b",
                   "ref": "P314068.10.2",
                   "cof-tails": "P314068.l0867c",
@@ -1521,8 +1521,7 @@
                             "id": "P314068.10.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1551,7 +1550,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR—aš-⸢šur⸣",
+                  "frag": "KUR-aš-⸢šur⸣",
                   "id": "P314068.l0867c",
                   "ref": "P314068.10.2",
                   "cof-head": "P314068.l0867b",
@@ -1571,8 +1570,7 @@
                             "id": "P314068.10.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -2317,7 +2315,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR—aš-⸢šur⸣",
+                  "frag": "KUR-aš-⸢šur⸣",
                   "id": "P314068.l08699",
                   "ref": "P314068.15.2",
                   "cof-tails": "P314068.l0869a",
@@ -2338,8 +2336,7 @@
                             "id": "P314068.15.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -2368,7 +2365,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR—aš-⸢šur⸣",
+                  "frag": "KUR-aš-⸢šur⸣",
                   "id": "P314068.l0869a",
                   "ref": "P314068.15.2",
                   "cof-head": "P314068.l08699",
@@ -2388,8 +2385,7 @@
                             "id": "P314068.15.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

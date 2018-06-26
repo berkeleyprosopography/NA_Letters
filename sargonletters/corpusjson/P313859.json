@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:30:42",
+  "UTC-timestamp": "2018-06-22T06:06:49",
   "textid": "P313859",
   "cdl": [
     {
@@ -724,7 +724,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v]}ša\\d—E₂—ku-[din",
+                  "frag": "{lu₂v]}ša\\d-E₂-ku-[din",
                   "id": "P313859.l12634",
                   "ref": "P313859.6.2",
                   "inst": "ša-bēt-kūdin[mule stable man]N",
@@ -768,8 +768,7 @@
                         "form": "ša",
                         "gdl_utf8": "𒊭",
                         "id": "P313859.6.2.1",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "mods": [
                           {
                             "b": "ša"
@@ -789,8 +788,7 @@
                             "id": "P313859.6.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1457,14 +1455,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}AMAR.UTU]—A—AŠ",
+                  "frag": "{1}{d}AMAR.UTU]-A-AŠ",
                   "id": "P313859.l1264d",
                   "ref": "P313859.9.1",
                   "inst": "Marduk-apla-iddina[Merodach-Baladan]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}AMAR.UTU-A-AŠ=Marduk-apla-iddina[Merodach-Baladan//Merodach-Baladan]PN'PN$Marduk-apla-iddina",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}AMAR.UTU—A—AŠ",
+                    "form": "{1}{d}AMAR.UTU-A-AŠ",
                     "delim": "",
                     "gdl": [
                       {
@@ -1522,8 +1520,7 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P313859.9.1.0",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "A",
@@ -1531,8 +1528,7 @@
                             "id": "P313859.9.1.4",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "AŠ",
@@ -1545,8 +1541,8 @@
                       }
                     ],
                     "cf": "Marduk-apla-iddina",
-                    "gw": "Merodach-baladan",
-                    "sense": "Merodach-baladan",
+                    "gw": "Merodach-Baladan",
+                    "sense": "Merodach-Baladan",
                     "norm": "Marduk-apla-iddina",
                     "pos": "PN",
                     "epos": "PN"
@@ -2494,14 +2490,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA—APIN-[eš",
+                  "frag": "{1}{d}PA-APIN-[eš",
                   "id": "P313859.l12670",
                   "ref": "P313859.13.4",
                   "inst": "Nabu-ereš[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}PA-APIN-eš=Nabu-ereš[1//1]PN'PN$Nabu-ereš",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}PA—APIN-eš",
+                    "form": "{1}{d}PA-APIN-eš",
                     "delim": "",
                     "gdl": [
                       {
@@ -2543,8 +2539,7 @@
                             "id": "P313859.13.4.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "APIN",
@@ -2567,8 +2562,10 @@
                     ],
                     "cf": "Nabu-ereš",
                     "gw": "1",
+                    "sense": "1",
                     "norm": "Nabu-ereš",
-                    "pos": "PN"
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {
@@ -2690,15 +2687,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU—BAR₂.SIPA\\mm{[ki}",
+                  "frag": "DUMU-BAR₂.SIPA\\mm{[ki}",
                   "id": "P313859.l12676",
                   "ref": "P313859.14.4",
                   "cof-tails": "P313859.l12677",
                   "inst": "+māru[son]N$mār&+Barsip[Borsippa]GN$",
-                  "newsig": "@saao/sargonletters%akk-x-neoass:DUMU—BAR₂.SIPA{KI}=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:DUMU—BAR₂.SIPA{KI}=Barsip[Borsippa//Borsippa]GN'GN$Barsip",
+                  "sig": "@saao/sargonletters%akk-x-neoass:DUMU-BAR₂.SIPA{KI}=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:=Barsip[Borsippa//Borsippa]GN'GN$Barsip",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU—BAR₂.SIPA{KI}",
+                    "form": "DUMU-BAR₂.SIPA{KI}",
                     "delim": "",
                     "gdl": [
                       {
@@ -2711,8 +2708,7 @@
                             "id": "P313859.14.4.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "BAR₂",
@@ -2766,15 +2762,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU—BAR₂.SIPA\\mm{[ki}",
+                  "frag": "DUMU-BAR₂.SIPA\\mm{[ki}",
                   "id": "P313859.l12677",
                   "ref": "P313859.14.4",
                   "cof-head": "P313859.l12676",
                   "inst": "+māru[son]N$mār&+Barsip[Borsippa]GN$",
-                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU—BAR₂.SIPA{KI}",
+                    "form": "DUMU-BAR₂.SIPA{KI}",
                     "delim": "",
                     "gdl": [
                       {
@@ -2787,8 +2782,7 @@
                             "id": "P313859.14.4.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "BAR₂",
@@ -2834,8 +2828,10 @@
                     ],
                     "cf": "Barsip",
                     "gw": "Borsippa",
+                    "sense": "Borsippa",
                     "norm": "Barsip",
-                    "pos": "GN"
+                    "pos": "GN",
+                    "epos": "GN"
                   }
                 },
                 {

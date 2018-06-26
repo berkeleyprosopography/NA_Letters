@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:30:59",
+  "UTC-timestamp": "2018-06-22T06:07:00",
   "textid": "P313961",
   "cdl": [
     {
@@ -56,7 +56,7 @@
                 {
                   "node": "l",
                   "frag": "[x",
-                  "id": "P313961.l14932",
+                  "id": "P313961.l14933",
                   "ref": "P313961.3.1",
                   "inst": "u",
                   "f": {
@@ -79,7 +79,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313961.l14933",
+                  "id": "P313961.l14934",
                   "ref": "P313961.3.2",
                   "inst": "u",
                   "f": {
@@ -100,7 +100,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313961.l14934",
+                  "id": "P313961.l14935",
                   "ref": "P313961.3.3",
                   "inst": "u",
                   "f": {
@@ -121,7 +121,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313961.l14935",
+                  "id": "P313961.l14936",
                   "ref": "P313961.3.4",
                   "inst": "u",
                   "f": {
@@ -142,7 +142,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313961.l14936",
+                  "id": "P313961.l14937",
                   "ref": "P313961.3.5",
                   "inst": "u",
                   "f": {
@@ -163,7 +163,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313961.l14937",
+                  "id": "P313961.l14938",
                   "ref": "P313961.3.6",
                   "inst": "u",
                   "f": {
@@ -184,7 +184,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313961.l14938",
+                  "id": "P313961.l14939",
                   "ref": "P313961.3.7",
                   "inst": "u",
                   "f": {
@@ -205,7 +205,7 @@
                 {
                   "node": "l",
                   "frag": "x]",
-                  "id": "P313961.l14939",
+                  "id": "P313961.l1493a",
                   "ref": "P313961.3.8",
                   "inst": "u",
                   "f": {
@@ -228,7 +228,7 @@
                 {
                   "node": "l",
                   "frag": "⸢x⸣",
-                  "id": "P313961.l1493a",
+                  "id": "P313961.l1493b",
                   "ref": "P313961.3.9",
                   "inst": "u",
                   "f": {
@@ -251,7 +251,7 @@
                 {
                   "node": "l",
                   "frag": "[x]",
-                  "id": "P313961.l1493b",
+                  "id": "P313961.l1493c",
                   "ref": "P313961.3.10",
                   "inst": "u",
                   "f": {
@@ -281,7 +281,7 @@
                 {
                   "node": "l",
                   "frag": "[x",
-                  "id": "P313961.l1493c",
+                  "id": "P313961.l1493d",
                   "ref": "P313961.4.1",
                   "inst": "u",
                   "f": {
@@ -304,7 +304,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313961.l1493d",
+                  "id": "P313961.l1493e",
                   "ref": "P313961.4.2",
                   "inst": "u",
                   "f": {
@@ -325,7 +325,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313961.l1493e",
+                  "id": "P313961.l1493f",
                   "ref": "P313961.4.3",
                   "inst": "u",
                   "f": {
@@ -346,7 +346,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313961.l1493f",
+                  "id": "P313961.l14940",
                   "ref": "P313961.4.4",
                   "inst": "u",
                   "f": {
@@ -367,7 +367,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313961.l14940",
+                  "id": "P313961.l14941",
                   "ref": "P313961.4.5",
                   "inst": "u",
                   "f": {
@@ -388,7 +388,7 @@
                 {
                   "node": "l",
                   "frag": "x]+⸢x⸣",
-                  "id": "P313961.l14941",
+                  "id": "P313961.l14942",
                   "ref": "P313961.4.6",
                   "inst": "u",
                   "f": {
@@ -426,7 +426,7 @@
                 {
                   "node": "l",
                   "frag": "01",
-                  "id": "P313961.l14942",
+                  "id": "P313961.l14943",
                   "ref": "P313961.4.7",
                   "inst": "n",
                   "f": {
@@ -453,7 +453,7 @@
                 {
                   "node": "l",
                   "frag": "ZI",
-                  "id": "P313961.l14943",
+                  "id": "P313961.l14944",
                   "ref": "P313961.4.8",
                   "inst": "napištu[throat//person]N$nupšutu",
                   "sig": "@saao/sargonletters%akk-x-neoass:ZI=napištu[throat//person]N'N$nupšutu",
@@ -487,7 +487,7 @@
                 {
                   "node": "l",
                   "frag": "[o]",
-                  "id": "P313961.l14944",
+                  "id": "P313961.l14945",
                   "ref": "P313961.4.9",
                   "inst": "u",
                   "f": {
@@ -517,7 +517,7 @@
                 {
                   "node": "l",
                   "frag": "[LUGAL",
-                  "id": "P313961.l14945",
+                  "id": "P313961.l14946",
                   "ref": "P313961.5.1",
                   "inst": "šarru[king]N",
                   "sig": "@saao/sargonletters%akk-x-neoass:LUGAL=šarru[king//king]N'N$šarru",
@@ -554,7 +554,7 @@
                 {
                   "node": "l",
                   "frag": "be-li₂]",
-                  "id": "P313961.l14946",
+                  "id": "P313961.l14947",
                   "ref": "P313961.5.2",
                   "inst": "bēlī[lord]N",
                   "sig": "@saao/sargonletters%akk-x-neoass:be-li₂=bēlu[lord//lord]N'N$bēlī",
@@ -590,7 +590,7 @@
                 {
                   "node": "l",
                   "frag": "u₂-da\\d",
-                  "id": "P313961.l14947",
+                  "id": "P313961.l14948",
                   "ref": "P313961.5.3",
                   "inst": "ūda[know]V",
                   "sig": "@saao/sargonletters%akk-x-neoass:u₂-da=wadû[know//know]V'V$ūda",
@@ -630,7 +630,7 @@
                 {
                   "node": "l",
                   "frag": "UDU-MEŠ\\m-ia",
-                  "id": "P313961.l14948",
+                  "id": "P313961.l14949",
                   "ref": "P313961.5.4",
                   "inst": "immerēya[sheep]N",
                   "sig": "@saao/sargonletters%akk-x-neoass:UDU-MEŠ-ia=immeru[sheep//sheep]N'N$immerēya",
@@ -692,7 +692,7 @@
                 {
                   "node": "l",
                   "frag": "[x",
-                  "id": "P313961.l14949",
+                  "id": "P313961.l1494a",
                   "ref": "P313961.6.1",
                   "inst": "u",
                   "f": {
@@ -715,7 +715,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313961.l1494a",
+                  "id": "P313961.l1494b",
                   "ref": "P313961.6.2",
                   "inst": "u",
                   "f": {
@@ -736,7 +736,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313961.l1494b",
+                  "id": "P313961.l1494c",
                   "ref": "P313961.6.3",
                   "inst": "u",
                   "f": {
@@ -757,7 +757,7 @@
                 {
                   "node": "l",
                   "frag": "x]-⸢MEŠ\\m⸣-ni",
-                  "id": "P313961.l1494c",
+                  "id": "P313961.l1494d",
                   "ref": "P313961.6.4",
                   "inst": "u",
                   "f": {
@@ -811,7 +811,7 @@
                 {
                   "node": "l",
                   "frag": "e-ta-li\\d-u₂",
-                  "id": "P313961.l1494d",
+                  "id": "P313961.l1494e",
                   "ref": "P313961.6.5",
                   "inst": "elû[go up]V$ētaliu",
                   "sig": "@saao/sargonletters%akk-x-neoass:e-ta-li-u₂=elû[go up//go up]V'V$ētaliu",
@@ -869,7 +869,7 @@
                 {
                   "node": "l",
                   "frag": "[x",
-                  "id": "P313961.l1494e",
+                  "id": "P313961.l1494f",
                   "ref": "P313961.7.1",
                   "inst": "u",
                   "f": {
@@ -892,7 +892,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313961.l1494f",
+                  "id": "P313961.l14950",
                   "ref": "P313961.7.2",
                   "inst": "u",
                   "f": {
@@ -913,7 +913,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313961.l14950",
+                  "id": "P313961.l14951",
                   "ref": "P313961.7.3",
                   "inst": "u",
                   "f": {
@@ -934,7 +934,7 @@
                 {
                   "node": "l",
                   "frag": "x]-hi",
-                  "id": "P313961.l14951",
+                  "id": "P313961.l14952",
                   "ref": "P313961.7.4",
                   "inst": "u",
                   "f": {
@@ -963,7 +963,7 @@
                 {
                   "node": "l",
                   "frag": "pa-na\\td-su-nu",
-                  "id": "P313961.l14952",
+                  "id": "P313961.l14953",
                   "ref": "P313961.7.5",
                   "inst": "pānātu[front]N$pānāssunu",
                   "sig": "@saao/sargonletters%akk-x-neoass:pa-na-su-nu=pānātu[front//front]N'N$pānāssunu",
@@ -1021,7 +1021,7 @@
                 {
                   "node": "l",
                   "frag": "[x",
-                  "id": "P313961.l14953",
+                  "id": "P313961.l14954",
                   "ref": "P313961.8.1",
                   "inst": "u",
                   "f": {
@@ -1044,7 +1044,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313961.l14954",
+                  "id": "P313961.l14955",
                   "ref": "P313961.8.2",
                   "inst": "u",
                   "f": {
@@ -1065,7 +1065,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313961.l14955",
+                  "id": "P313961.l14956",
                   "ref": "P313961.8.3",
                   "inst": "u",
                   "f": {
@@ -1086,7 +1086,7 @@
                 {
                   "node": "l",
                   "frag": "x]-ri",
-                  "id": "P313961.l14956",
+                  "id": "P313961.l14957",
                   "ref": "P313961.8.4",
                   "inst": "u",
                   "f": {
@@ -1115,7 +1115,7 @@
                 {
                   "node": "l",
                   "frag": "u₂-ra-du-nu",
-                  "id": "P313961.l14957",
+                  "id": "P313961.l14958",
                   "ref": "P313961.8.5",
                   "inst": "arādu[go down//come down]V$urradūnu",
                   "sig": "@saao/sargonletters%akk-x-neoass:u₂-ra-du-nu=arādu[go down//come down]V'V$urradūnu",
@@ -1165,7 +1165,7 @@
                 {
                   "node": "l",
                   "frag": "[x",
-                  "id": "P313961.l14958",
+                  "id": "P313961.l14959",
                   "ref": "P313961.9.1",
                   "inst": "u",
                   "f": {
@@ -1188,7 +1188,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313961.l14959",
+                  "id": "P313961.l1495a",
                   "ref": "P313961.9.2",
                   "inst": "u",
                   "f": {
@@ -1209,7 +1209,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313961.l1495a",
+                  "id": "P313961.l1495b",
                   "ref": "P313961.9.3",
                   "inst": "u",
                   "f": {
@@ -1230,7 +1230,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313961.l1495b",
+                  "id": "P313961.l1495c",
                   "ref": "P313961.9.4",
                   "inst": "u",
                   "f": {
@@ -1250,10 +1250,10 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v]}⸢EN—pi⸣-qi-ta-te",
-                  "id": "P313961.l1495c",
+                  "frag": "{lu₂v]}⸢EN-pi⸣-qi-ta-te",
+                  "id": "P313961.l1495d",
                   "ref": "P313961.9.5",
-                  "cof-tails": "P313961.l1495d",
+                  "cof-tails": "P313961.l1495e",
                   "inst": "bēlu[lord]N$bēl&piqittu[allocation]N$piqittāte",
                   "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}EN-pi-qi-ta-te=bēlu[lord//lord]N'N$bēl&&@saao/sargonletters%akk-x-neoass:=piqittu[allocation//allocation]N'N$piqittāte",
                   "f": {
@@ -1302,8 +1302,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1343,10 +1342,10 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v]}⸢EN—pi⸣-qi-ta-te",
-                  "id": "P313961.l1495d",
+                  "frag": "{lu₂v]}⸢EN-pi⸣-qi-ta-te",
+                  "id": "P313961.l1495e",
                   "ref": "P313961.9.5",
-                  "cof-head": "P313961.l1495c",
+                  "cof-head": "P313961.l1495d",
                   "inst": "bēlu[lord]N$bēl&piqittu[allocation]N$piqittāte",
                   "tail-sig": "@saao/sargonletters%akk-x-neoass:=piqittu[allocation//allocation]N'N$piqittāte",
                   "f": {
@@ -1395,8 +1394,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1444,7 +1442,7 @@
                 {
                   "node": "l",
                   "frag": "[x",
-                  "id": "P313961.l1495e",
+                  "id": "P313961.l1495f",
                   "ref": "P313961.10.1",
                   "inst": "u",
                   "f": {
@@ -1467,7 +1465,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313961.l1495f",
+                  "id": "P313961.l14960",
                   "ref": "P313961.10.2",
                   "inst": "u",
                   "f": {
@@ -1488,7 +1486,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313961.l14960",
+                  "id": "P313961.l14961",
                   "ref": "P313961.10.3",
                   "inst": "u",
                   "f": {
@@ -1509,7 +1507,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313961.l14961",
+                  "id": "P313961.l14962",
                   "ref": "P313961.10.4",
                   "inst": "u",
                   "f": {
@@ -1530,7 +1528,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313961.l14962",
+                  "id": "P313961.l14963",
                   "ref": "P313961.10.5",
                   "inst": "u",
                   "f": {
@@ -1551,7 +1549,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313961.l14963",
+                  "id": "P313961.l14964",
                   "ref": "P313961.10.6",
                   "inst": "u",
                   "f": {
@@ -1572,7 +1570,7 @@
                 {
                   "node": "l",
                   "frag": "x]+⸢x⸣-ni-ni",
-                  "id": "P313961.l14964",
+                  "id": "P313961.l14965",
                   "ref": "P313961.10.7",
                   "inst": "u",
                   "f": {
@@ -1628,7 +1626,7 @@
                 {
                   "node": "l",
                   "frag": "[x",
-                  "id": "P313961.l14965",
+                  "id": "P313961.l14966",
                   "ref": "P313961.11.1",
                   "inst": "u",
                   "f": {
@@ -1651,7 +1649,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313961.l14966",
+                  "id": "P313961.l14967",
                   "ref": "P313961.11.2",
                   "inst": "u",
                   "f": {
@@ -1672,7 +1670,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313961.l14967",
+                  "id": "P313961.l14968",
                   "ref": "P313961.11.3",
                   "inst": "u",
                   "f": {
@@ -1693,7 +1691,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313961.l14968",
+                  "id": "P313961.l14969",
                   "ref": "P313961.11.4",
                   "inst": "u",
                   "f": {
@@ -1714,7 +1712,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313961.l14969",
+                  "id": "P313961.l1496a",
                   "ref": "P313961.11.5",
                   "inst": "u",
                   "f": {
@@ -1735,7 +1733,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313961.l1496a",
+                  "id": "P313961.l1496b",
                   "ref": "P313961.11.6",
                   "inst": "u",
                   "f": {
@@ -1756,7 +1754,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313961.l1496b",
+                  "id": "P313961.l1496c",
                   "ref": "P313961.11.7",
                   "inst": "u",
                   "f": {
@@ -1777,7 +1775,7 @@
                 {
                   "node": "l",
                   "frag": "x]",
-                  "id": "P313961.l1496c",
+                  "id": "P313961.l1496d",
                   "ref": "P313961.11.8",
                   "inst": "u",
                   "f": {
@@ -1800,7 +1798,7 @@
                 {
                   "node": "l",
                   "frag": "⸢x⸣",
-                  "id": "P313961.l1496d",
+                  "id": "P313961.l1496e",
                   "ref": "P313961.11.9",
                   "inst": "u",
                   "f": {

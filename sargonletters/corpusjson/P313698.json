@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:30:15",
+  "UTC-timestamp": "2018-06-22T06:06:31",
   "textid": "P313698",
   "cdl": [
     {
@@ -1074,7 +1074,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}x—bal]-liṭ",
+                  "frag": "{1}{d}x-bal]-liṭ",
                   "id": "P313698.l074b8",
                   "ref": "P313698.8.1",
                   "inst": "u",
@@ -1121,8 +1121,7 @@
                         "gdl_utf8": "x",
                         "id": "P313698.8.1.2",
                         "break": "missing",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "bal",
@@ -1912,7 +1911,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}GAL—50-MEŠ-⸢ku⸣-nu",
+                  "frag": "{lu₂vy}GAL-50-MEŠ-⸢ku⸣-nu",
                   "id": "P313698.l074cd",
                   "ref": "P313698.13.5",
                   "cof-tails": "P313698.l074ce",
@@ -1962,8 +1961,7 @@
                             "id": "P313698.13.5.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -2019,7 +2017,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}GAL—50-MEŠ-⸢ku⸣-nu",
+                  "frag": "{lu₂vy}GAL-50-MEŠ-⸢ku⸣-nu",
                   "id": "P313698.l074ce",
                   "ref": "P313698.13.5",
                   "cof-head": "P313698.l074cd",
@@ -2069,8 +2067,7 @@
                             "id": "P313698.13.5.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -2242,7 +2239,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}EN—[x",
+                  "frag": "{lu₂vy}EN-[x",
                   "id": "P313698.l074d4",
                   "ref": "P313698.14.6",
                   "inst": "u",
@@ -2291,8 +2288,7 @@
                             "id": "P313698.14.6.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

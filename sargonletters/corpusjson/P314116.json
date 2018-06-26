@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:31:16",
+  "UTC-timestamp": "2018-06-22T06:07:14",
   "textid": "P314116",
   "cdl": [
     {
@@ -56,7 +56,7 @@
                 {
                   "node": "l",
                   "frag": "[x]+⸢x",
-                  "id": "P314116.l146bf",
+                  "id": "P314116.l146c0",
                   "ref": "P314116.3.1",
                   "inst": "u",
                   "f": {
@@ -94,7 +94,7 @@
                 {
                   "node": "l",
                   "frag": "x⸣+[x",
-                  "id": "P314116.l146c0",
+                  "id": "P314116.l146c1",
                   "ref": "P314116.3.2",
                   "inst": "u",
                   "f": {
@@ -131,7 +131,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P314116.l146c1",
+                  "id": "P314116.l146c2",
                   "ref": "P314116.3.3",
                   "inst": "u",
                   "f": {
@@ -152,7 +152,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P314116.l146c2",
+                  "id": "P314116.l146c3",
                   "ref": "P314116.3.4",
                   "inst": "u",
                   "f": {
@@ -173,7 +173,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P314116.l146c3",
+                  "id": "P314116.l146c4",
                   "ref": "P314116.3.5",
                   "inst": "u",
                   "f": {
@@ -194,7 +194,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P314116.l146c4",
+                  "id": "P314116.l146c5",
                   "ref": "P314116.3.6",
                   "inst": "u",
                   "f": {
@@ -215,7 +215,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P314116.l146c5",
+                  "id": "P314116.l146c6",
                   "ref": "P314116.3.7",
                   "inst": "u",
                   "f": {
@@ -236,7 +236,7 @@
                 {
                   "node": "l",
                   "frag": "x]",
-                  "id": "P314116.l146c6",
+                  "id": "P314116.l146c7",
                   "ref": "P314116.3.8",
                   "inst": "u",
                   "f": {
@@ -265,7 +265,7 @@
                 {
                   "node": "l",
                   "frag": "{še}IN.⸢NU⸣",
-                  "id": "P314116.l146c7",
+                  "id": "P314116.l146c8",
                   "ref": "P314116.4.1",
                   "inst": "tibnu[straw]N",
                   "sig": "@saao/sargonletters%akk-x-neoass:{ŠE}IN.NU=tibnu[straw//straw]N'N$tibnu",
@@ -329,7 +329,7 @@
                 {
                   "node": "l",
                   "frag": "[x",
-                  "id": "P314116.l146c8",
+                  "id": "P314116.l146c9",
                   "ref": "P314116.4.2",
                   "inst": "u",
                   "f": {
@@ -352,7 +352,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P314116.l146c9",
+                  "id": "P314116.l146ca",
                   "ref": "P314116.4.3",
                   "inst": "u",
                   "f": {
@@ -373,7 +373,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P314116.l146ca",
+                  "id": "P314116.l146cb",
                   "ref": "P314116.4.4",
                   "inst": "u",
                   "f": {
@@ -394,7 +394,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P314116.l146cb",
+                  "id": "P314116.l146cc",
                   "ref": "P314116.4.5",
                   "inst": "u",
                   "f": {
@@ -415,7 +415,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P314116.l146cc",
+                  "id": "P314116.l146cd",
                   "ref": "P314116.4.6",
                   "inst": "u",
                   "f": {
@@ -436,7 +436,7 @@
                 {
                   "node": "l",
                   "frag": "x]",
-                  "id": "P314116.l146cd",
+                  "id": "P314116.l146ce",
                   "ref": "P314116.4.7",
                   "inst": "u",
                   "f": {
@@ -465,7 +465,7 @@
                 {
                   "node": "l",
                   "frag": "{še}kur-diš",
-                  "id": "P314116.l146ce",
+                  "id": "P314116.l146cf",
                   "ref": "P314116.5.1",
                   "inst": "kurdiššu[(a storage facility for straw)//pile (of straw)]N$kurdiš",
                   "sig": "@saao/sargonletters%akk-x-neoass:{ŠE}kur-diš=kurdiššu[(a storage facility for straw)//pile (of straw)]N'N$kurdiš",
@@ -516,7 +516,7 @@
                 {
                   "node": "l",
                   "frag": "⸢TA@v\\m⸣",
-                  "id": "P314116.l146cf",
+                  "id": "P314116.l146d0",
                   "ref": "P314116.5.2",
                   "inst": "issu[from]PRP",
                   "sig": "@saao/sargonletters%akk-x-neoass:TA@v=ištu[from//from]PRP'PRP$issu",
@@ -564,7 +564,7 @@
                 {
                   "node": "l",
                   "frag": "[x",
-                  "id": "P314116.l146d0",
+                  "id": "P314116.l146d1",
                   "ref": "P314116.5.3",
                   "inst": "u",
                   "f": {
@@ -587,7 +587,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P314116.l146d1",
+                  "id": "P314116.l146d2",
                   "ref": "P314116.5.4",
                   "inst": "u",
                   "f": {
@@ -608,7 +608,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P314116.l146d2",
+                  "id": "P314116.l146d3",
                   "ref": "P314116.5.5",
                   "inst": "u",
                   "f": {
@@ -629,7 +629,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P314116.l146d3",
+                  "id": "P314116.l146d4",
                   "ref": "P314116.5.6",
                   "inst": "u",
                   "f": {
@@ -650,7 +650,7 @@
                 {
                   "node": "l",
                   "frag": "x]",
-                  "id": "P314116.l146d4",
+                  "id": "P314116.l146d5",
                   "ref": "P314116.5.7",
                   "inst": "u",
                   "f": {
@@ -678,8 +678,8 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}ša\\d—IGI—[x",
-                  "id": "P314116.l146d5",
+                  "frag": "{lu₂v}ša\\d-IGI-[x",
+                  "id": "P314116.l146d6",
                   "ref": "P314116.6.1",
                   "inst": "u",
                   "f": {
@@ -718,8 +718,7 @@
                         "form": "ša",
                         "gdl_utf8": "𒊭",
                         "id": "P314116.6.1.1",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "mods": [
                           {
                             "b": "ša"
@@ -739,8 +738,7 @@
                             "id": "P314116.6.1.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -759,7 +757,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P314116.l146d6",
+                  "id": "P314116.l146d7",
                   "ref": "P314116.6.2",
                   "inst": "u",
                   "f": {
@@ -780,7 +778,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P314116.l146d7",
+                  "id": "P314116.l146d8",
                   "ref": "P314116.6.3",
                   "inst": "u",
                   "f": {
@@ -801,7 +799,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P314116.l146d8",
+                  "id": "P314116.l146d9",
                   "ref": "P314116.6.4",
                   "inst": "u",
                   "f": {
@@ -822,7 +820,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P314116.l146d9",
+                  "id": "P314116.l146da",
                   "ref": "P314116.6.5",
                   "inst": "u",
                   "f": {
@@ -843,7 +841,7 @@
                 {
                   "node": "l",
                   "frag": "x]",
-                  "id": "P314116.l146da",
+                  "id": "P314116.l146db",
                   "ref": "P314116.6.6",
                   "inst": "u",
                   "f": {
@@ -872,7 +870,7 @@
                 {
                   "node": "l",
                   "frag": "⸢ak⸣-ta-[x",
-                  "id": "P314116.l146db",
+                  "id": "P314116.l146dc",
                   "ref": "P314116.7.1",
                   "inst": "u",
                   "f": {
@@ -910,7 +908,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P314116.l146dc",
+                  "id": "P314116.l146dd",
                   "ref": "P314116.7.2",
                   "inst": "u",
                   "f": {
@@ -931,7 +929,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P314116.l146dd",
+                  "id": "P314116.l146de",
                   "ref": "P314116.7.3",
                   "inst": "u",
                   "f": {
@@ -952,7 +950,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P314116.l146de",
+                  "id": "P314116.l146df",
                   "ref": "P314116.7.4",
                   "inst": "u",
                   "f": {
@@ -973,7 +971,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P314116.l146df",
+                  "id": "P314116.l146e0",
                   "ref": "P314116.7.5",
                   "inst": "u",
                   "f": {
@@ -994,7 +992,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P314116.l146e0",
+                  "id": "P314116.l146e1",
                   "ref": "P314116.7.6",
                   "inst": "u",
                   "f": {
@@ -1015,7 +1013,7 @@
                 {
                   "node": "l",
                   "frag": "x]",
-                  "id": "P314116.l146e1",
+                  "id": "P314116.l146e2",
                   "ref": "P314116.7.7",
                   "inst": "u",
                   "f": {

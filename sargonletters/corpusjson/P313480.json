@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:29:34",
+  "UTC-timestamp": "2018-06-22T06:06:06",
   "textid": "P313480",
   "cdl": [
     {
@@ -212,14 +212,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}⸢NIGIN—EN⸣",
+                  "frag": "{1}⸢NIGIN-EN⸣",
                   "id": "P313480.l0679d",
                   "ref": "P313480.3.2",
                   "inst": "Nashir-Bel[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}NIGIN-EN=Nashir-Bel[1//1]PN'PN$Nashir-Bel",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}NIGIN—EN",
+                    "form": "{1}NIGIN-EN",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -254,8 +254,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "EN",
@@ -1168,15 +1167,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "⸢E₂—AD⸣-šu₂",
+                  "frag": "⸢E₂-AD⸣-šu₂",
                   "id": "P313480.l067b5",
                   "ref": "P313480.9.2",
                   "cof-tails": "P313480.l067b6",
                   "inst": "bītu[house]N$bēt&abu[father]N$abīšu",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:E₂-AD-šu₂=bītu[house//house]N'N$bēt&&@saao/sargonletters%akk-x-neoass:=abu[father//father]N'N$abīšu",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "E₂—AD-šu₂",
+                    "form": "E₂-AD-šu₂",
                     "delim": "",
                     "gdl": [
                       {
@@ -1191,8 +1190,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "AD",
@@ -1214,20 +1212,23 @@
                     ],
                     "cf": "bītu",
                     "gw": "house",
+                    "sense": "house",
                     "norm": "bēt",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "⸢E₂—AD⸣-šu₂",
+                  "frag": "⸢E₂-AD⸣-šu₂",
                   "id": "P313480.l067b6",
                   "ref": "P313480.9.2",
                   "cof-head": "P313480.l067b5",
                   "inst": "bītu[house]N$bēt&abu[father]N$abīšu",
+                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=abu[father//father]N'N$abīšu",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "E₂—AD-šu₂",
+                    "form": "E₂-AD-šu₂",
                     "delim": "",
                     "gdl": [
                       {
@@ -1242,8 +1243,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "AD",
@@ -1265,8 +1265,10 @@
                     ],
                     "cf": "abu",
                     "gw": "father",
+                    "sense": "father",
                     "norm": "abīšu",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
@@ -1305,7 +1307,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur—rem₂-a-ni",
+                  "frag": "{1}aš-šur-rem₂-a-ni",
                   "id": "P313480.l067b8",
                   "ref": "P313480.9.4",
                   "inst": "Aššur-remanni[]PN$",
@@ -1342,8 +1344,7 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P313480.9.4.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "rem₂",
@@ -4639,15 +4640,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂—AD-šu₂",
+                  "frag": "E₂-AD-šu₂",
                   "id": "P313480.l06806",
                   "ref": "P313480.36.3",
                   "cof-tails": "P313480.l06807",
                   "inst": "bītu[house]N$bēt&abu[father]N$abīšu",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:E₂-AD-šu₂=bītu[house//house]N'N$bēt&&@saao/sargonletters%akk-x-neoass:=abu[father//father]N'N$abīšu",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "E₂—AD-šu₂",
+                    "form": "E₂-AD-šu₂",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -4659,8 +4660,7 @@
                             "id": "P313480.36.3.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "AD",
@@ -4680,20 +4680,23 @@
                     ],
                     "cf": "bītu",
                     "gw": "house",
+                    "sense": "house",
                     "norm": "bēt",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "E₂—AD-šu₂",
+                  "frag": "E₂-AD-šu₂",
                   "id": "P313480.l06807",
                   "ref": "P313480.36.3",
                   "cof-head": "P313480.l06806",
                   "inst": "bītu[house]N$bēt&abu[father]N$abīšu",
+                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=abu[father//father]N'N$abīšu",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "E₂—AD-šu₂",
+                    "form": "E₂-AD-šu₂",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -4705,8 +4708,7 @@
                             "id": "P313480.36.3.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "AD",
@@ -4726,8 +4728,10 @@
                     ],
                     "cf": "abu",
                     "gw": "father",
+                    "sense": "father",
                     "norm": "abīšu",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {

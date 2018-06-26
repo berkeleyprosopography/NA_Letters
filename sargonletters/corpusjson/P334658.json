@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:50",
+  "UTC-timestamp": "2018-06-22T06:08:36",
   "textid": "P334658",
   "cdl": [
     {
@@ -199,7 +199,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}tak-lak—a-na—EN",
+                  "frag": "{1}tak-lak-a-na-EN",
                   "id": "P334658.l05a04",
                   "ref": "P334658.3.2",
                   "inst": "Taklak-ana-Bel[1]PN",
@@ -236,8 +236,7 @@
                         "v": "lak",
                         "gdl_utf8": "𒋃",
                         "id": "P334658.3.2.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "a",
@@ -249,8 +248,7 @@
                         "v": "na",
                         "gdl_utf8": "𒈾",
                         "id": "P334658.3.2.4",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -1185,14 +1183,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}⸢BAD₃\\p⸣—{1}MAN—GI].⸢NA⸣",
+                  "frag": "{uru}⸢BAD₃\\p⸣-{1}MAN-GI].⸢NA⸣",
                   "id": "P334658.l05a1c",
                   "ref": "P334658.9.3",
                   "inst": "Dur-Šarruken[1]GN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}BAD₃-{1}MAN-GI.NA=Dur-Šarruken[1//1]GN'GN$Dur-Šarruken",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}BAD₃-{1}MAN—GI.NA",
+                    "form": "{URU}BAD₃-{1}MAN-GI.NA",
                     "delim": "",
                     "gdl": [
                       {
@@ -1227,8 +1225,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "hc": "1",
                             "mods": [
                               {
@@ -1273,8 +1270,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "GI",

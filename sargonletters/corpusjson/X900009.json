@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:34:49",
+  "UTC-timestamp": "2018-06-22T06:09:07",
   "textid": "X900009",
   "cdl": [
     {
@@ -206,14 +206,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}30—PAB-MEŠ—SU]",
+                  "frag": "{1}{d}30-PAB-MEŠ-SU]",
                   "id": "X900009.l011ae",
                   "ref": "X900009.2.5",
                   "inst": "Sin-ahhe-eriba[Sennacherib]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}30-PAB-MEŠ-SU=Sin-ahhe-eriba[Sennacherib//Sennacherib]PN'PN$Sin-ahhe-eriba",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}30-PAB-MEŠ—SU",
+                    "form": "{1}{d}30-PAB-MEŠ-SU",
                     "gdl": [
                       {
                         "det": "semantic",
@@ -253,8 +253,7 @@
                         "breakStart": "1",
                         "o": "[",
                         "break": "missing",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "seq": [
                           {
                             "r": "30"
@@ -281,8 +280,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "SU",
@@ -565,7 +563,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR]—aš-šur{ki}",
+                  "frag": "KUR]-aš-šur{ki}",
                   "id": "X900009.l011b6",
                   "ref": "X900009.4.3",
                   "cof-tails": "X900009.l011b7",
@@ -588,8 +586,7 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "X900009.4.1.0",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -634,7 +631,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR]—aš-šur{ki}",
+                  "frag": "KUR]-aš-šur{ki}",
                   "id": "X900009.l011b7",
                   "ref": "X900009.4.3",
                   "cof-head": "X900009.l011b6",
@@ -656,8 +653,7 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "X900009.4.1.0",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1229,7 +1225,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a—dan]-niš",
+                  "frag": "a-dan]-niš",
                   "id": "X900009.l011c5",
                   "ref": "X900009.7.5",
                   "inst": "adanniš[very much]AV",
@@ -1244,8 +1240,7 @@
                         "gdl_utf8": "𒀀",
                         "id": "X900009.7.5.0",
                         "break": "missing",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "dan",
@@ -3224,7 +3219,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a—dan-niš",
+                  "frag": "a-dan-niš",
                   "id": "X900009.l011fa",
                   "ref": "X900009.14.9",
                   "inst": "adanniš[very much]AV",
@@ -3237,8 +3232,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "X900009.14.9.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "dan",
@@ -3945,7 +3939,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a—⸢da⸣-ni-iš",
+                  "frag": "a-⸢da⸣-ni-iš",
                   "id": "X900009.l0120d",
                   "ref": "X900009.17.7",
                   "inst": "adanniš[very much]AV$",
@@ -3958,8 +3952,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "X900009.17.7.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "da",
@@ -8592,15 +8585,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}GAL—MU",
+                  "frag": "{lu₂v}GAL-MU",
                   "id": "X900009.l012b7",
                   "ref": "X900009.38.9",
                   "cof-tails": "X900009.l012b8",
                   "inst": "rabû[big one]N$rab&nuhatimmu[cook]N$nuhatimmi",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}GAL-MU=rabû[big one//big one]N'N$rab&&@saao/sargonletters%akk-x-neoass:=nuhatimmu[cook//cook]N'N$nuhatimmi",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL—MU",
+                    "form": "{LU₂}GAL-MU",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -8639,8 +8632,7 @@
                             "id": "X900009.38.9.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "MU",
@@ -8654,20 +8646,23 @@
                     ],
                     "cf": "rabû",
                     "gw": "big one",
+                    "sense": "big one",
                     "norm": "rab",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}GAL—MU",
+                  "frag": "{lu₂v}GAL-MU",
                   "id": "X900009.l012b8",
                   "ref": "X900009.38.9",
                   "cof-head": "X900009.l012b7",
                   "inst": "rabû[big one]N$rab&nuhatimmu[cook]N$nuhatimmi",
+                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=nuhatimmu[cook//cook]N'N$nuhatimmi",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL—MU",
+                    "form": "{LU₂}GAL-MU",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -8706,8 +8701,7 @@
                             "id": "X900009.38.9.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "MU",
@@ -8721,8 +8715,10 @@
                     ],
                     "cf": "nuhatimmu",
                     "gw": "cook",
+                    "sense": "cook",
                     "norm": "nuhatimmi",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
@@ -9302,7 +9298,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{⸢uru}til⸣—bar-si-ba\\y",
+                  "frag": "{⸢uru}til⸣-bar-si-ba\\y",
                   "id": "X900009.l012c9",
                   "ref": "X900009.41.6",
                   "inst": "Til-Barsip[]GN$Til-Barsiba",
@@ -9337,8 +9333,7 @@
                         "gdl_utf8": "𒌀",
                         "id": "X900009.41.6.1",
                         "break": "damaged",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "hc": "1"
                       },
                       {

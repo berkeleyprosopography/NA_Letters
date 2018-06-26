@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:29:58",
+  "UTC-timestamp": "2018-06-22T06:06:20",
   "textid": "P313603",
   "cdl": [
     {
@@ -746,14 +746,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}BAD₃\\p—MAN—GIN",
+                  "frag": "{uru}BAD₃\\p-MAN-GIN",
                   "id": "P313603.l0c75e",
                   "ref": "P313603.9.5",
                   "inst": "Dur-Šarruken[1]GN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}BAD₃-MAN-GIN=Dur-Šarruken[1//1]GN'GN$Dur-Šarruken",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}BAD₃—MAN—GIN",
+                    "form": "{URU}BAD₃-MAN-GIN",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -784,8 +784,7 @@
                             "id": "P313603.9.5.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "mods": [
                               {
                                 "b": "BAD₃"
@@ -801,8 +800,7 @@
                             "id": "P313603.9.5.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "GIN",

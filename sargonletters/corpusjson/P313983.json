@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:31:02",
+  "UTC-timestamp": "2018-06-22T06:07:02",
   "textid": "P313983",
   "cdl": [
     {
@@ -868,7 +868,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}na-ṣib—⸢DINGIR⸣",
+                  "frag": "{1}na-ṣib-⸢DINGIR⸣",
                   "id": "P313983.l0da6b",
                   "ref": "P313983.7.2",
                   "inst": "Naṣib-il[1]PN",
@@ -906,8 +906,7 @@
                         "v": "ṣib",
                         "gdl_utf8": "𒍦",
                         "id": "P313983.7.2.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",

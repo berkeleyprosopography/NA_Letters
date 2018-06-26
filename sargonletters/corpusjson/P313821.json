@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:30:37",
+  "UTC-timestamp": "2018-06-22T06:06:46",
   "textid": "P313821",
   "cdl": [
     {
@@ -182,15 +182,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU—KA₂.DINGIR.RA{⸢ki⸣}",
+                  "frag": "DUMU-KA₂.DINGIR.RA{⸢ki⸣}",
                   "id": "P313821.l11f30",
                   "ref": "P313821.2.5",
                   "cof-tails": "P313821.l11f31",
                   "inst": "+māru[son]N$mār&+Babili[Babylon]GN$",
-                  "newsig": "@saao/sargonletters%akk-x-neoass:DUMU—KA₂.DINGIR.RA{KI}=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:DUMU—KA₂.DINGIR.RA{KI}=Babili[Babylon//Babylon]GN'GN$Babili",
+                  "sig": "@saao/sargonletters%akk-x-neoass:DUMU-KA₂.DINGIR.RA{KI}=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:DUMU-KA₂.DINGIR.RA{KI}=Babili[Babylon//Babylon]GN'GN$Babili",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU—KA₂.DINGIR.RA{KI}",
+                    "form": "DUMU-KA₂.DINGIR.RA{KI}",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -202,8 +202,7 @@
                             "id": "P313821.2.5.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "KA₂",
@@ -257,14 +256,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU—KA₂.DINGIR.RA{⸢ki⸣}",
+                  "frag": "DUMU-KA₂.DINGIR.RA{⸢ki⸣}",
                   "id": "P313821.l11f31",
                   "ref": "P313821.2.5",
                   "cof-head": "P313821.l11f30",
                   "inst": "+māru[son]N$mār&+Babili[Babylon]GN$",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU—KA₂.DINGIR.RA{KI}",
+                    "form": "DUMU-KA₂.DINGIR.RA{KI}",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -276,8 +275,7 @@
                             "id": "P313821.2.5.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "KA₂",
@@ -519,14 +517,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}AMAR.UTU—DUMU].⸢UŠ⸣—SUM-na",
+                  "frag": "{1}{d}AMAR.UTU-DUMU].⸢UŠ⸣-SUM-na",
                   "id": "P313821.l11f37",
                   "ref": "P313821.4.1",
                   "inst": "Marduk-apla-iddina[Merodach-Baladan]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}AMAR.UTU-DUMU.UŠ-SUM-na=Marduk-apla-iddina[Merodach-Baladan//Merodach-Baladan]PN'PN$Marduk-apla-iddina",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}AMAR.UTU—DUMU.UŠ—SUM-na",
+                    "form": "{1}{d}AMAR.UTU-DUMU.UŠ-SUM-na",
                     "delim": "",
                     "gdl": [
                       {
@@ -582,8 +580,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "DUMU",
@@ -604,8 +601,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "hc": "1"
                           },
                           {
@@ -625,8 +621,8 @@
                       }
                     ],
                     "cf": "Marduk-apla-iddina",
-                    "gw": "Merodach-baladan",
-                    "sense": "Merodach-baladan",
+                    "gw": "Merodach-Baladan",
+                    "sense": "Merodach-Baladan",
                     "norm": "Marduk-apla-iddina",
                     "pos": "PN",
                     "epos": "PN"
@@ -1490,14 +1486,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}AMAR.[UTU—A—AŠ]",
+                  "frag": "{1}{d}AMAR.[UTU-A-AŠ]",
                   "id": "P313821.l11f55",
                   "ref": "P313821.8.8",
                   "inst": "Marduk-apla-iddina[Merodach-Baladan]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}AMAR.UTU-A-AŠ=Marduk-apla-iddina[Merodach-Baladan//Merodach-Baladan]PN'PN$Marduk-apla-iddina",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}AMAR.UTU—A—AŠ",
+                    "form": "{1}{d}AMAR.UTU-A-AŠ",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -1549,8 +1545,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "A",
@@ -1559,8 +1554,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "AŠ",
@@ -1576,8 +1570,8 @@
                       }
                     ],
                     "cf": "Marduk-apla-iddina",
-                    "gw": "Merodach-baladan",
-                    "sense": "Merodach-baladan",
+                    "gw": "Merodach-Baladan",
+                    "sense": "Merodach-Baladan",
                     "norm": "Marduk-apla-iddina",
                     "pos": "PN",
                     "epos": "PN"
@@ -1734,14 +1728,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}AMAR.UTU—[A—AŠ]",
+                  "frag": "{1}{d}AMAR.UTU-[A-AŠ]",
                   "id": "P313821.l11f5c",
                   "ref": "P313821.9.7",
                   "inst": "Marduk-apla-iddina[Merodach-Baladan]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}AMAR.UTU-A-AŠ=Marduk-apla-iddina[Merodach-Baladan//Merodach-Baladan]PN'PN$Marduk-apla-iddina",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}AMAR.UTU—A—AŠ",
+                    "form": "{1}{d}AMAR.UTU-A-AŠ",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -1790,8 +1784,7 @@
                             "id": "P313821.9.7.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "A",
@@ -1802,8 +1795,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "AŠ",
@@ -1819,8 +1811,8 @@
                       }
                     ],
                     "cf": "Marduk-apla-iddina",
-                    "gw": "Merodach-baladan",
-                    "sense": "Merodach-baladan",
+                    "gw": "Merodach-Baladan",
+                    "sense": "Merodach-Baladan",
                     "norm": "Marduk-apla-iddina",
                     "pos": "PN",
                     "epos": "PN"

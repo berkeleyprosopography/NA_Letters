@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:30:13",
+  "UTC-timestamp": "2018-06-22T06:06:30",
   "textid": "P313680",
   "cdl": [
     {
@@ -125,7 +125,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}x]—PAB-MEŠ",
+                  "frag": "{1}x]-PAB-MEŠ",
                   "id": "P313680.l12e28",
                   "ref": "P313680.4.3",
                   "inst": "u",
@@ -159,8 +159,7 @@
                         "break": "missing",
                         "o": "]",
                         "breakEnd": "P313680.4.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -514,15 +513,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂]}A—KIN",
+                  "frag": "{lu₂]}A-KIN",
                   "id": "P313680.l12e30",
                   "ref": "P313680.8.2",
                   "cof-tails": "P313680.l12e31",
                   "inst": "māru[son]N$mār&šipru[sending]N$šipri",
-                  "newsig": "@saao/sargonletters%akk-x-neoass:{LU₂}A—KIN=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:{LU₂}A—KIN=šipru[sending//sending]N'N$šipri",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}A-KIN=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:=šipru[sending//sending]N'N$šipri",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}A—KIN",
+                    "form": "{LU₂}A-KIN",
                     "delim": "",
                     "gdl": [
                       {
@@ -557,8 +556,7 @@
                             "id": "P313680.8.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "KIN",
@@ -580,15 +578,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂]}A—KIN",
+                  "frag": "{lu₂]}A-KIN",
                   "id": "P313680.l12e31",
                   "ref": "P313680.8.2",
                   "cof-head": "P313680.l12e30",
                   "inst": "māru[son]N$mār&šipru[sending]N$šipri",
-                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}A—KIN",
+                    "form": "{LU₂}A-KIN",
                     "delim": "",
                     "gdl": [
                       {
@@ -623,8 +620,7 @@
                             "id": "P313680.8.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "KIN",
@@ -638,8 +634,10 @@
                     ],
                     "cf": "šipru",
                     "gw": "sending",
+                    "sense": "sending",
                     "norm": "šipri",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
@@ -956,15 +954,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{⸢lu₂⸣}A—KIN",
+                  "frag": "{⸢lu₂⸣}A-KIN",
                   "id": "P313680.l12e39",
                   "ref": "P313680.12.2",
                   "cof-tails": "P313680.l12e3a",
                   "inst": "māru[son]N$mār&šipru[sending]N$šipri",
-                  "newsig": "@saao/sargonletters%akk-x-neoass:{LU₂}A—KIN=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:{LU₂}A—KIN=šipru[sending//sending]N'N$šipri",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}A-KIN=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:=šipru[sending//sending]N'N$šipri",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}A—KIN",
+                    "form": "{LU₂}A-KIN",
                     "delim": "",
                     "gdl": [
                       {
@@ -999,8 +997,7 @@
                             "id": "P313680.12.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "KIN",
@@ -1022,15 +1019,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{⸢lu₂⸣}A—KIN",
+                  "frag": "{⸢lu₂⸣}A-KIN",
                   "id": "P313680.l12e3a",
                   "ref": "P313680.12.2",
                   "cof-head": "P313680.l12e39",
                   "inst": "māru[son]N$mār&šipru[sending]N$šipri",
-                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}A—KIN",
+                    "form": "{LU₂}A-KIN",
                     "delim": "",
                     "gdl": [
                       {
@@ -1065,8 +1061,7 @@
                             "id": "P313680.12.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "KIN",
@@ -1080,8 +1075,10 @@
                     ],
                     "cf": "šipru",
                     "gw": "sending",
+                    "sense": "sending",
                     "norm": "šipri",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {

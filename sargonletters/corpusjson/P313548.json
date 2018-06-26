@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:29:50",
+  "UTC-timestamp": "2018-06-22T06:06:16",
   "textid": "P313548",
   "cdl": [
     {
@@ -474,7 +474,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR—aš-⸢šur⸣",
+                  "frag": "KUR-aš-⸢šur⸣",
                   "id": "P313548.l09fd5",
                   "ref": "P313548.5.1",
                   "cof-tails": "P313548.l09fd6",
@@ -495,8 +495,7 @@
                             "id": "P313548.5.1.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -525,7 +524,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR—aš-⸢šur⸣",
+                  "frag": "KUR-aš-⸢šur⸣",
                   "id": "P313548.l09fd6",
                   "ref": "P313548.5.1",
                   "cof-head": "P313548.l09fd5",
@@ -545,8 +544,7 @@
                             "id": "P313548.5.1.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1246,7 +1244,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR—aš-šur{⸢ki⸣}",
+                  "frag": "KUR-aš-šur{⸢ki⸣}",
                   "id": "P313548.l09ff1",
                   "ref": "P313548.8.2",
                   "cof-tails": "P313548.l09ff2",
@@ -1267,8 +1265,7 @@
                             "id": "P313548.8.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1316,7 +1313,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR—aš-šur{⸢ki⸣}",
+                  "frag": "KUR-aš-šur{⸢ki⸣}",
                   "id": "P313548.l09ff2",
                   "ref": "P313548.8.2",
                   "cof-head": "P313548.l09ff1",
@@ -1336,8 +1333,7 @@
                             "id": "P313548.8.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -2554,7 +2550,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR—aš-šur{ki}",
+                  "frag": "KUR-aš-šur{ki}",
                   "id": "P313548.l0a01f",
                   "ref": "P313548.14.2",
                   "cof-tails": "P313548.l0a020",
@@ -2575,8 +2571,7 @@
                             "id": "P313548.14.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -2621,7 +2616,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR—aš-šur{ki}",
+                  "frag": "KUR-aš-šur{ki}",
                   "id": "P313548.l0a020",
                   "ref": "P313548.14.2",
                   "cof-head": "P313548.l0a01f",
@@ -2641,8 +2636,7 @@
                             "id": "P313548.14.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

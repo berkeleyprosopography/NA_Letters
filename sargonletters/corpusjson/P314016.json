@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:31:06",
+  "UTC-timestamp": "2018-06-22T06:07:06",
   "textid": "P314016",
   "cdl": [
     {
@@ -461,7 +461,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}⸢DUMU⸣—su-ri",
+                  "frag": "{1}⸢DUMU⸣-su-ri",
                   "id": "P314016.l140c3",
                   "ref": "P314016.5.5",
                   "inst": "Mar-suri[]PN$",
@@ -503,8 +503,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "hc": "1"
                           }
                         ]
@@ -603,7 +602,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d]}⸢IM⸣—im-me",
+                  "frag": "{1}{d]}⸢IM⸣-im-me",
                   "id": "P314016.l140c7",
                   "ref": "P314016.6.4",
                   "inst": "Adda-imme[]PN$",
@@ -658,8 +657,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "hc": "1"
                           }
                         ]

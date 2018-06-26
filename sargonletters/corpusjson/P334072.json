@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:32:00",
+  "UTC-timestamp": "2018-06-22T06:07:40",
   "textid": "P334072",
   "cdl": [
     {
@@ -215,7 +215,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}gab-bu—a-na—aš-šur",
+                  "frag": "{1}gab-bu-a-na-aš-šur",
                   "id": "P334072.l08e64",
                   "ref": "P334072.3.2",
                   "inst": "Gabbu-ana-Aššur[]PN$",
@@ -252,8 +252,7 @@
                         "v": "bu",
                         "gdl_utf8": "𒁍",
                         "id": "P334072.3.2.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "a",
@@ -265,8 +264,7 @@
                         "v": "na",
                         "gdl_utf8": "𒈾",
                         "id": "P334072.3.2.4",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "aš",
@@ -979,7 +977,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂—i-si-te-ia",
+                  "frag": "E₂-i-si-te-ia",
                   "id": "P334072.l08e73",
                   "ref": "P334072.14.2",
                   "cof-tails": "P334072.l08e74",
@@ -999,8 +997,7 @@
                             "id": "P334072.14.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1038,7 +1035,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂—i-si-te-ia",
+                  "frag": "E₂-i-si-te-ia",
                   "id": "P334072.l08e74",
                   "ref": "P334072.14.2",
                   "cof-head": "P334072.l08e73",
@@ -1058,8 +1055,7 @@
                             "id": "P334072.14.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

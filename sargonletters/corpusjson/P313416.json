@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:29:21",
+  "UTC-timestamp": "2018-06-22T06:05:57",
   "textid": "P313416",
   "cdl": [
     {
@@ -203,7 +203,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{⸢d⸣}30—⸢SAG⸣.[KAL]",
+                  "frag": "{1}{⸢d⸣}30-⸢SAG⸣.[KAL]",
                   "id": "P313416.l03f1d",
                   "ref": "P313416.3.2",
                   "inst": "Sin-ašared[]PN$",
@@ -250,8 +250,7 @@
                         "form": "30",
                         "gdl_utf8": "𒌍",
                         "id": "P313416.3.2.2",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "seq": [
                           {
                             "r": "30"
@@ -1267,7 +1266,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{giš}E₂—gi-ṣi-te",
+                  "frag": "{giš}E₂-gi-ṣi-te",
                   "id": "P313416.l03f37",
                   "ref": "P313416.9.2",
                   "cof-tails": "P313416.l03f38",
@@ -1306,8 +1305,7 @@
                             "id": "P313416.9.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1339,7 +1337,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{giš}E₂—gi-ṣi-te",
+                  "frag": "{giš}E₂-gi-ṣi-te",
                   "id": "P313416.l03f38",
                   "ref": "P313416.9.2",
                   "cof-head": "P313416.l03f37",
@@ -1378,8 +1376,7 @@
                             "id": "P313416.9.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

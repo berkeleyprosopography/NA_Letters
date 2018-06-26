@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:28",
+  "UTC-timestamp": "2018-06-22T06:08:25",
   "textid": "P334518",
   "cdl": [
     {
@@ -197,14 +197,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}I—DINGIR",
+                  "frag": "{1}I-DINGIR",
                   "id": "P334518.l07c70",
                   "ref": "P334518.3.2",
                   "inst": "Naʾdi-ilu[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}I-DINGIR=Naʾdi-ilu[1//1]PN'PN$Naʾdi-ilu",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}I—DINGIR",
+                    "form": "{1}I-DINGIR",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -234,8 +234,7 @@
                             "id": "P334518.3.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "DINGIR",
@@ -249,8 +248,10 @@
                     ],
                     "cf": "Naʾdi-ilu",
                     "gw": "1",
+                    "sense": "1",
                     "norm": "Naʾdi-ilu",
-                    "pos": "PN"
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {
@@ -1294,7 +1295,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i—su-ri]",
+                  "frag": "i-su-ri]",
                   "id": "P334518.l07c8b",
                   "ref": "P334518.10.4",
                   "inst": "issurri[perhaps]AV",
@@ -1308,8 +1309,7 @@
                         "gdl_utf8": "𒄿",
                         "id": "P334518.10.4.0",
                         "break": "missing",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "su",

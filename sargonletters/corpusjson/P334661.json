@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:51",
+  "UTC-timestamp": "2018-06-22T06:08:36",
   "textid": "P334661",
   "cdl": [
     {
@@ -207,14 +207,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}⸢U.GUR—KAR⸣-[ir]",
+                  "frag": "{1}{d}⸢U.GUR-KAR⸣-[ir]",
                   "id": "P334661.l0e161",
                   "ref": "P334661.3.2",
                   "inst": "Nergal-eṭir[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}U.GUR-KAR-ir=Nergal-eṭir[1//1]PN'PN$Nergal-eṭir",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}U.GUR—KAR-ir",
+                    "form": "{1}{d}U.GUR-KAR-ir",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -266,8 +266,7 @@
                             "break": "damaged",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "KAR",
@@ -293,7 +292,10 @@
                     ],
                     "cf": "Nergal-eṭir",
                     "gw": "1",
-                    "pos": "PN"
+                    "sense": "1",
+                    "norm": "Nergal-eṭir",
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {
@@ -483,7 +485,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a—dan-niš",
+                  "frag": "a-dan-niš",
                   "id": "P334661.l0e167",
                   "ref": "P334661.5.2",
                   "inst": "adanniš[very much]AV",
@@ -496,8 +498,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P334661.5.2.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "dan",
@@ -878,7 +879,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "[a]—⸢dan⸣-niš",
+                  "frag": "[a]-⸢dan⸣-niš",
                   "id": "P334661.l0e171",
                   "ref": "P334661.8.1",
                   "inst": "adanniš[very much]AV",
@@ -896,8 +897,7 @@
                         "o": "]",
                         "break": "missing",
                         "breakEnd": "P334661.8.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "dan",
@@ -1072,7 +1072,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}kal-lap—ši-[bir-te]",
+                  "frag": "{lu₂vy}kal-lap-ši-[bir-te]",
                   "id": "P334661.l0e175",
                   "ref": "P334661.9.2",
                   "cof-tails": "P334661.l0e176",
@@ -1122,8 +1122,7 @@
                         "v": "lap",
                         "gdl_utf8": "𒆗",
                         "id": "P334661.9.2.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "ši",
@@ -1159,7 +1158,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}kal-lap—ši-[bir-te]",
+                  "frag": "{lu₂vy}kal-lap-ši-[bir-te]",
                   "id": "P334661.l0e176",
                   "ref": "P334661.9.2",
                   "cof-head": "P334661.l0e175",
@@ -1209,8 +1208,7 @@
                         "v": "lap",
                         "gdl_utf8": "𒆗",
                         "id": "P334661.9.2.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "ši",
@@ -1283,7 +1281,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{kur}E₂—zu\\t-al-za",
+                  "frag": "{kur}E₂-zu\\t-al-za",
                   "id": "P334661.l0e178",
                   "ref": "P334661.10.2",
                   "inst": "Bit-Zualza[]GN$",
@@ -1321,8 +1319,7 @@
                             "id": "P334661.10.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -2233,7 +2230,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}A—šip-ri-ia",
+                  "frag": "{lu₂vy}A-šip-ri-ia",
                   "id": "P334661.l0e190",
                   "ref": "P334661.20.3",
                   "cof-tails": "P334661.l0e191",
@@ -2283,8 +2280,7 @@
                             "id": "P334661.20.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -2316,7 +2312,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}A—šip-ri-ia",
+                  "frag": "{lu₂vy}A-šip-ri-ia",
                   "id": "P334661.l0e191",
                   "ref": "P334661.20.3",
                   "cof-head": "P334661.l0e190",
@@ -2366,8 +2362,7 @@
                             "id": "P334661.20.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

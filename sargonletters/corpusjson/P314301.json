@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:31:44",
+  "UTC-timestamp": "2018-06-22T06:07:31",
   "textid": "P314301",
   "cdl": [
     {
@@ -211,14 +211,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{⸢d⸣}PA—EN—[GIN]",
+                  "frag": "{1}{⸢d⸣}PA-EN-[GIN]",
                   "id": "P314301.l0e845",
                   "ref": "P314301.3.2",
                   "inst": "Nabu-belu-kaʾʾin[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}PA-EN-GIN=Nabu-belu-kaʾʾin[1//1]PN'PN$Nabu-belu-kaʾʾin",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}PA—EN—GIN",
+                    "form": "{1}{d}PA-EN-GIN",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -265,8 +265,7 @@
                             "id": "P314301.3.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "EN",
@@ -274,8 +273,7 @@
                             "id": "P314301.3.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "GIN",
@@ -293,7 +291,10 @@
                     ],
                     "cf": "Nabu-belu-kaʾʾin",
                     "gw": "1",
-                    "pos": "PN"
+                    "sense": "1",
+                    "norm": "Nabu-belu-kaʾʾin",
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {
@@ -2083,7 +2084,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš₂-pa—[ba-ri]",
+                  "frag": "{1}aš₂-pa-[ba-ri]",
                   "id": "P314301.l0e879",
                   "ref": "P314301.13.7",
                   "inst": "Ašpa-bara[1]PN$Ašpa-bari",
@@ -2120,8 +2121,7 @@
                         "v": "pa",
                         "gdl_utf8": "𒉺",
                         "id": "P314301.13.7.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "ba",

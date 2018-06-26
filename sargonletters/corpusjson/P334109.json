@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:32:14",
+  "UTC-timestamp": "2018-06-22T06:07:46",
   "textid": "P334109",
   "cdl": [
     {
@@ -207,7 +207,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}15—BAD₃",
+                  "frag": "{1}15-BAD₃",
                   "id": "P334109.l0cb5d",
                   "ref": "P334109.3.2",
                   "inst": "Issar-duri[1]PN",
@@ -240,8 +240,7 @@
                         "form": "15",
                         "gdl_utf8": "𒌋𒐊",
                         "id": "P334109.3.2.1",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "seq": [
                           {
                             "r": "15"
@@ -659,14 +658,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA—PAB-MEŠ—AŠ",
+                  "frag": "{1}{d}PA-PAB-MEŠ-AŠ",
                   "id": "P334109.l0cb68",
                   "ref": "P334109.6.2",
                   "inst": "Nabu-ahhe-iddina[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}PA-PAB-MEŠ-AŠ=Nabu-ahhe-iddina[1//1]PN'PN$Nabu-ahhe-iddina",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}PA—PAB-MEŠ—AŠ",
+                    "form": "{1}{d}PA-PAB-MEŠ-AŠ",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -707,8 +706,7 @@
                             "id": "P334109.6.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "PAB",
@@ -724,8 +722,7 @@
                             "id": "P334109.6.2.4",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "AŠ",

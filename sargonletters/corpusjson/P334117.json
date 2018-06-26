@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:32:17",
+  "UTC-timestamp": "2018-06-22T06:07:48",
   "textid": "P334117",
   "cdl": [
     {
@@ -207,14 +207,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA—EN—GIN",
+                  "frag": "{1}{d}PA-EN-GIN",
                   "id": "P334117.l0d6e6",
                   "ref": "P334117.3.2",
                   "inst": "Nabu-belu-kaʾʾin[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}PA-EN-GIN=Nabu-belu-kaʾʾin[1//1]PN'PN$Nabu-belu-kaʾʾin",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}PA—EN—GIN",
+                    "form": "{1}{d}PA-EN-GIN",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -255,8 +255,7 @@
                             "id": "P334117.3.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "EN",
@@ -264,8 +263,7 @@
                             "id": "P334117.3.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "GIN",
@@ -279,8 +277,10 @@
                     ],
                     "cf": "Nabu-belu-kaʾʾin",
                     "gw": "1",
+                    "sense": "1",
                     "norm": "Nabu-belu-kaʾʾin",
-                    "pos": "PN"
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {

@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:17",
+  "UTC-timestamp": "2018-06-22T06:08:19",
   "textid": "P334411",
   "cdl": [
     {
@@ -247,7 +247,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a—dan-niš",
+                  "frag": "a-dan-niš",
                   "id": "P334411.l0d468",
                   "ref": "P334411.4.1",
                   "inst": "adanniš[very much]AV",
@@ -261,8 +261,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P334411.4.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "dan",
@@ -366,14 +365,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}30—GIN—PAB",
+                  "frag": "{1}30-GIN-PAB",
                   "id": "P334411.l0d46b",
                   "ref": "P334411.5.1",
                   "inst": "Sin-kenu-uṣur[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}30-GIN-PAB=Sin-kenu-uṣur[1//1]PN'PN$Sin-kenu-uṣur",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}30-GIN—PAB",
+                    "form": "{1}30-GIN-PAB",
                     "delim": "",
                     "gdl": [
                       {
@@ -400,8 +399,7 @@
                         "form": "30",
                         "gdl_utf8": "𒌍",
                         "id": "P334411.5.1.1",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "seq": [
                           {
                             "r": "30"
@@ -418,8 +416,7 @@
                             "id": "P334411.5.1.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "PAB",
@@ -1273,14 +1270,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}30—GIN—[PAB]",
+                  "frag": "{1}30-GIN-[PAB]",
                   "id": "P334411.l0d47f",
                   "ref": "P334411.13.2",
                   "inst": "Sin-kenu-uṣur[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}30-GIN-PAB=Sin-kenu-uṣur[1//1]PN'PN$Sin-kenu-uṣur",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}30-GIN—PAB",
+                    "form": "{1}30-GIN-PAB",
                     "gdl": [
                       {
                         "det": "semantic",
@@ -1306,8 +1303,7 @@
                         "form": "30",
                         "gdl_utf8": "𒌍",
                         "id": "P334411.13.2.1",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "seq": [
                           {
                             "r": "30"
@@ -1324,8 +1320,7 @@
                             "id": "P334411.13.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "PAB",

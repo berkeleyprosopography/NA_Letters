@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:30:43",
+  "UTC-timestamp": "2018-06-22T06:06:50",
   "textid": "P313863",
   "cdl": [
     {
@@ -686,14 +686,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}EN—KASKAL—EN—PAB",
+                  "frag": "{1}EN-KASKAL-EN-PAB",
                   "id": "P313863.l137d4",
                   "ref": "P313863.5.6",
                   "inst": "Bel-Harran-belu-uṣur[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}EN-KASKAL-EN-PAB=Bel-Harran-belu-uṣur[1//1]PN'PN$Bel-Harran-belu-uṣur",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}EN—KASKAL—EN—PAB",
+                    "form": "{1}EN-KASKAL-EN-PAB",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -723,8 +723,7 @@
                             "id": "P313863.5.6.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "KASKAL",
@@ -732,8 +731,7 @@
                             "id": "P313863.5.6.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "EN",
@@ -741,8 +739,7 @@
                             "id": "P313863.5.6.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "PAB",
@@ -2031,14 +2028,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}ŠU₂—SUM-⸢na⸣",
+                  "frag": "{1}{d}ŠU₂-SUM-⸢na⸣",
                   "id": "P313863.l137fa",
                   "ref": "P313863.11.6",
                   "inst": "Marduk-iddina[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}ŠU₂-SUM-na=Marduk-iddina[1//1]PN'PN$Marduk-iddina",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}ŠU₂—SUM-na",
+                    "form": "{1}{d}ŠU₂-SUM-na",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -2079,8 +2076,7 @@
                             "id": "P313863.11.6.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "SUM",
@@ -2103,8 +2099,10 @@
                     ],
                     "cf": "Marduk-iddina",
                     "gw": "1",
+                    "sense": "1",
                     "norm": "Marduk-iddina",
-                    "pos": "PN"
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {

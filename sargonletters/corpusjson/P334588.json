@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:39",
+  "UTC-timestamp": "2018-06-22T06:08:31",
   "textid": "P334588",
   "cdl": [
     {
@@ -216,7 +216,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}ta-⸢ri-ba⸣—15",
+                  "frag": "{1}ta-⸢ri-ba⸣-15",
                   "id": "P334588.l0401f",
                   "ref": "P334588.3.2",
                   "inst": "Tariba-Issar[]PN$",
@@ -262,8 +262,7 @@
                         "gdl_utf8": "𒁀",
                         "id": "P334588.3.2.3",
                         "break": "damaged",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "hc": "1"
                       },
                       {
@@ -1345,7 +1344,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}GAL—mu-gi",
+                  "frag": "{lu₂v}GAL-mu-gi",
                   "id": "P334588.l04038",
                   "ref": "P334588.13.2",
                   "cof-tails": "P334588.l04039",
@@ -1392,8 +1391,7 @@
                             "id": "P334588.13.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1419,7 +1417,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}GAL—mu-gi",
+                  "frag": "{lu₂v}GAL-mu-gi",
                   "id": "P334588.l04039",
                   "ref": "P334588.13.2",
                   "cof-head": "P334588.l04038",
@@ -1465,8 +1463,7 @@
                             "id": "P334588.13.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -3390,14 +3387,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}GIŠ.MI—EN",
+                  "frag": "{1}GIŠ.MI-EN",
                   "id": "P334588.l0406b",
                   "ref": "P334588.37.1",
                   "inst": "Ṣil-Bel[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}GIŠ.MI-EN=Ṣil-Bel[1//1]PN'PN$Ṣil-Bel",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}GIŠ.MI—EN",
+                    "form": "{1}GIŠ.MI-EN",
                     "delim": "",
                     "gdl": [
                       {
@@ -3436,8 +3433,7 @@
                             "id": "P334588.37.1.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "EN",

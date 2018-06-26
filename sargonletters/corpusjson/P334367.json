@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:07",
+  "UTC-timestamp": "2018-06-22T06:08:14",
   "textid": "P334367",
   "cdl": [
     {
@@ -203,14 +203,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}UTU—⸢EN⸣—PAB",
+                  "frag": "{1}{d}UTU-⸢EN⸣-PAB",
                   "id": "P334367.l0fb82",
                   "ref": "P334367.3.2",
                   "inst": "Šamaš-belu-uṣur[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}UTU-EN-PAB=Šamaš-belu-uṣur[1//1]PN'PN$Šamaš-belu-uṣur",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}UTU—EN—PAB",
+                    "form": "{1}{d}UTU-EN-PAB",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -251,8 +251,7 @@
                             "id": "P334367.3.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "EN",
@@ -262,8 +261,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "hc": "1"
                           },
                           {
@@ -3224,7 +3222,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i—su-ri",
+                  "frag": "i-su-ri",
                   "id": "P334367.l0fbc6",
                   "ref": "P334367.33.1",
                   "inst": "issurri[perhaps]AV",
@@ -3238,8 +3236,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P334367.33.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "su",
@@ -3384,7 +3381,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}ša₂—la—DINGIR—man-nu",
+                  "frag": "{1}ša₂-la-DINGIR-man-nu",
                   "id": "P334367.l0fbca",
                   "ref": "P334367.35.2",
                   "inst": "Ša-la-ili-mannu[]PN$",
@@ -3415,15 +3412,13 @@
                         "v": "ša₂",
                         "gdl_utf8": "𒃻",
                         "id": "P334367.35.2.1",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "la",
                         "gdl_utf8": "𒆷",
                         "id": "P334367.35.2.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -3435,8 +3430,7 @@
                             "id": "P334367.35.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

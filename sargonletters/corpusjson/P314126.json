@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:31:17",
+  "UTC-timestamp": "2018-06-22T06:07:15",
   "textid": "P314126",
   "cdl": [
     {
@@ -482,14 +482,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}ŠU₂\\d—[A—SUM-na]",
+                  "frag": "{1}{d}ŠU₂\\d-[A-SUM-na]",
                   "id": "P314126.l11d6c",
                   "ref": "P314126.5.3",
                   "inst": "Marduk-apla-iddina[Merodach-Baladan]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}ŠU₂-A-SUM-na=Marduk-apla-iddina[Merodach-Baladan//Merodach-Baladan]PN'PN$Marduk-apla-iddina",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}ŠU₂—A—SUM-na",
+                    "form": "{1}{d}ŠU₂-A-SUM-na",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -530,8 +530,7 @@
                             "id": "P314126.5.3.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "mods": [
                               {
                                 "b": "ŠU₂"
@@ -550,8 +549,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "SUM",
@@ -574,8 +572,8 @@
                       }
                     ],
                     "cf": "Marduk-apla-iddina",
-                    "gw": "Merodach-baladan",
-                    "sense": "Merodach-baladan",
+                    "gw": "Merodach-Baladan",
+                    "sense": "Merodach-Baladan",
                     "norm": "Marduk-apla-iddina",
                     "pos": "PN",
                     "epos": "PN"
@@ -772,7 +770,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a—ki-ma",
+                  "frag": "a-ki-ma",
                   "id": "P314126.l11d72",
                   "ref": "P314126.7.1",
                   "cof-tails": "P314126.l11d73",
@@ -787,8 +785,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P314126.7.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "ki",
@@ -812,7 +809,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a—ki-ma",
+                  "frag": "a-ki-ma",
                   "id": "P314126.l11d73",
                   "ref": "P314126.7.1",
                   "cof-head": "P314126.l11d72",
@@ -827,8 +824,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P314126.7.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "ki",

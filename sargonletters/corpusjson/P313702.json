@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:30:17",
+  "UTC-timestamp": "2018-06-22T06:06:32",
   "textid": "P313702",
   "cdl": [
     {
@@ -1308,7 +1308,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA—[x",
+                  "frag": "{1}{d}PA-[x",
                   "id": "P313702.l0d9db",
                   "ref": "P313702.16.3",
                   "inst": "u",
@@ -1356,8 +1356,7 @@
                             "id": "P313702.16.3.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1459,7 +1458,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}ia—ha-ri",
+                  "frag": "{1}ia-ha-ri",
                   "id": "P313702.l0d9df",
                   "ref": "P313702.17.2",
                   "inst": "Aya-hari[1]PN$",
@@ -1491,8 +1490,7 @@
                         "v": "ia",
                         "gdl_utf8": "𒅀",
                         "id": "P313702.17.2.1",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "ha",
@@ -1628,7 +1626,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}ŠE—{1}[x",
+                  "frag": "{uru}ŠE-{1}[x",
                   "id": "P313702.l0d9e4",
                   "ref": "P313702.18.2",
                   "inst": "u",
@@ -1666,8 +1664,7 @@
                             "id": "P313702.18.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

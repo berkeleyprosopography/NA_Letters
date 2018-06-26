@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:32:43",
+  "UTC-timestamp": "2018-06-22T06:08:01",
   "textid": "P334206",
   "cdl": [
     {
@@ -214,14 +214,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}LUGAL—IGI.[LAL-an-ni]",
+                  "frag": "{1}LUGAL-IGI.[LAL-an-ni]",
                   "id": "P334206.l12943",
                   "ref": "P334206.3.2",
                   "inst": "Šarru-emuranni[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}LUGAL-IGI.LAL-an-ni=Šarru-emuranni[1//1]PN'PN$Šarru-emuranni",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}LUGAL—IGI.LAL-an-ni",
+                    "form": "{1}LUGAL-IGI.LAL-an-ni",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -251,8 +251,7 @@
                             "id": "P334206.3.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "IGI",
@@ -293,7 +292,10 @@
                     ],
                     "cf": "Šarru-emuranni",
                     "gw": "1",
-                    "pos": "PN"
+                    "sense": "1",
+                    "norm": "Šarru-emuranni",
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {
@@ -747,7 +749,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}du-ʾa-a-⸢ni—{d⸣}15",
+                  "frag": "{1}du-ʾa-a-⸢ni-{d⸣}15",
                   "id": "P334206.l1294f",
                   "ref": "P334206.6.1",
                   "inst": "Duʾani-Issar[1]PN$",
@@ -805,8 +807,7 @@
                         "break": "damaged",
                         "gdl_collated": "1",
                         "ho": "1",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "det": "semantic",

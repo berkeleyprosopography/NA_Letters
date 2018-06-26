@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:34:38",
+  "UTC-timestamp": "2018-06-22T06:09:01",
   "textid": "P336166",
   "cdl": [
     {
@@ -253,14 +253,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA—SIG₅-⸢iq⸣",
+                  "frag": "{1}{d}PA-SIG₅-⸢iq⸣",
                   "id": "P336166.l05549",
                   "ref": "P336166.3.2",
                   "inst": "Nabu-deʾiq[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}PA-SIG₅-iq=Nabu-deʾiq[1//1]PN'PN$Nabu-deʾiq",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}PA—SIG₅-iq",
+                    "form": "{1}{d}PA-SIG₅-iq",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -303,8 +303,7 @@
                             "id": "P336166.3.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "SIG₅",
@@ -494,15 +493,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}GAL—SUM\\m.NINDA",
+                  "frag": "{lu₂v}GAL-SUM\\m.NINDA",
                   "id": "P336166.l0554e",
                   "ref": "P336166.5.1",
                   "cof-tails": "P336166.l0554f",
                   "inst": "rabû[big one]N$rab&kakardinnu[victualler]N$karkadinni",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}GAL-SUM.NINDA=rabû[big one//big one]N'N$rab&&@saao/sargonletters%akk-x-neoass:=kakardinnu[victualler//victualler]N'N$karkadinni",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL—SUM.NINDA",
+                    "form": "{LU₂}GAL-SUM.NINDA",
                     "delim": "",
                     "gdl": [
                       {
@@ -542,8 +541,7 @@
                             "id": "P336166.5.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "form": "SUM",
@@ -573,20 +571,23 @@
                     ],
                     "cf": "rabû",
                     "gw": "big one",
+                    "sense": "big one",
                     "norm": "rab",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}GAL—SUM\\m.NINDA",
+                  "frag": "{lu₂v}GAL-SUM\\m.NINDA",
                   "id": "P336166.l0554f",
                   "ref": "P336166.5.1",
                   "cof-head": "P336166.l0554e",
                   "inst": "rabû[big one]N$rab&kakardinnu[victualler]N$karkadinni",
+                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=kakardinnu[victualler//victualler]N'N$karkadinni",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL—SUM.NINDA",
+                    "form": "{LU₂}GAL-SUM.NINDA",
                     "delim": "",
                     "gdl": [
                       {
@@ -626,8 +627,7 @@
                             "id": "P336166.5.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "form": "SUM",
@@ -657,8 +657,10 @@
                     ],
                     "cf": "kakardinnu",
                     "gw": "victualler",
+                    "sense": "victualler",
                     "norm": "karkadinni",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
@@ -783,14 +785,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DI—EN—⸢la⸣-[aš₂-me]",
+                  "frag": "{1}DI-EN-⸢la⸣-[aš₂-me]",
                   "id": "P336166.l05553",
                   "ref": "P336166.6.3",
                   "inst": "Šulmu-beli-lašme[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}DI-EN-la-aš₂-me=Šulmu-beli-lašme[1//1]PN'PN$Šulmu-beli-lašme",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}DI—EN-la-aš₂-me",
+                    "form": "{1}DI-EN-la-aš₂-me",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -820,8 +822,7 @@
                             "id": "P336166.6.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "EN",
@@ -829,8 +830,7 @@
                             "id": "P336166.6.3.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -863,7 +863,10 @@
                     ],
                     "cf": "Šulmu-beli-lašme",
                     "gw": "1",
-                    "pos": "PN"
+                    "sense": "1",
+                    "norm": "Šulmu-beli-lašme",
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {

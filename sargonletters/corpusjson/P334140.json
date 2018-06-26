@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:32:22",
+  "UTC-timestamp": "2018-06-22T06:07:50",
   "textid": "P334140",
   "cdl": [
     {
@@ -217,14 +217,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}I—⸢DINGIR⸣",
+                  "frag": "{1}I-⸢DINGIR⸣",
                   "id": "P334140.l07d61",
                   "ref": "P334140.3.2",
                   "inst": "Naʾdi-ilu[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}I-DINGIR=Naʾdi-ilu[1//1]PN'PN$Naʾdi-ilu",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}I—DINGIR",
+                    "form": "{1}I-DINGIR",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -254,8 +254,7 @@
                             "id": "P334140.3.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "DINGIR",
@@ -272,7 +271,10 @@
                     ],
                     "cf": "Naʾdi-ilu",
                     "gw": "1",
-                    "pos": "PN"
+                    "sense": "1",
+                    "norm": "Naʾdi-ilu",
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {

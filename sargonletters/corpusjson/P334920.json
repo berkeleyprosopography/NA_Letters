@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:34:36",
+  "UTC-timestamp": "2018-06-22T06:09:00",
   "textid": "P334920",
   "cdl": [
     {
@@ -411,7 +411,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU—{1}ia-ki-ni",
+                  "frag": "DUMU-{1}ia-ki-ni",
                   "id": "P334920.l11f7f",
                   "ref": "P334920.4.7",
                   "inst": "Mar-Yakini[1]PN",
@@ -430,8 +430,7 @@
                             "id": "P334920.4.7.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -2406,7 +2405,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{urud}E₂—im-bi-ia",
+                  "frag": "{urud}E₂-im-bi-ia",
                   "id": "P334920.l11fce",
                   "ref": "P334920.17.7",
                   "inst": "Bit-Imbi[]GN$Bit-Imbiya",
@@ -2452,8 +2451,7 @@
                             "id": "P334920.17.7.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -3566,7 +3564,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU]—{1}ia-ki-ni",
+                  "frag": "DUMU]-{1}ia-ki-ni",
                   "id": "P334920.l11ff7",
                   "ref": "P334920.23.6",
                   "inst": "Mar-Yakini[1]PN",
@@ -3588,8 +3586,7 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P334920.23.1.0",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

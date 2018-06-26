@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:37",
+  "UTC-timestamp": "2018-06-22T06:08:29",
   "textid": "P334567",
   "cdl": [
     {
@@ -207,14 +207,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA—SIG₅-iq",
+                  "frag": "{1}{d}PA-SIG₅-iq",
                   "id": "P334567.l05496",
                   "ref": "P334567.3.2",
                   "inst": "Nabu-deʾiq[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}PA-SIG₅-iq=Nabu-deʾiq[1//1]PN'PN$Nabu-deʾiq",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}PA—SIG₅-iq",
+                    "form": "{1}{d}PA-SIG₅-iq",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -255,8 +255,7 @@
                             "id": "P334567.3.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "SIG₅",
@@ -1181,7 +1180,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}ne₂-⸢med—{d⸣}15-a.a",
+                  "frag": "{uru}ne₂-⸢med-{d⸣}15-a.a",
                   "id": "P334567.l054b0",
                   "ref": "P334567.9.1",
                   "inst": "Nemed-Issaraya[from Nemed-Ištar]EN",
@@ -1221,8 +1220,7 @@
                         "id": "P334567.9.1.2",
                         "break": "damaged",
                         "ho": "1",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "det": "semantic",
@@ -1676,14 +1674,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}BAD₃—{1}MAN—GIN",
+                  "frag": "{uru}BAD₃-{1}MAN-GIN",
                   "id": "P334567.l054bc",
                   "ref": "P334567.13.2",
                   "inst": "Dur-Šarruken[1]GN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}BAD₃-{1}MAN-GIN=Dur-Šarruken[1//1]GN'GN$Dur-Šarruken",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}BAD₃-{1}MAN—GIN",
+                    "form": "{URU}BAD₃-{1}MAN-GIN",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -1714,8 +1712,7 @@
                             "id": "P334567.13.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1747,8 +1744,7 @@
                             "id": "P334567.13.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "GIN",
@@ -2000,14 +1996,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}PAB—DU\\d-ka",
+                  "frag": "{1}PAB-DU\\d-ka",
                   "id": "P334567.l054c1",
                   "ref": "P334567.15.2",
                   "inst": "Ahu-illika[1]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}PAB-DU-ka=Ahu-illika[1//1]PN'PN$Ahu-illika",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}PAB—DU-ka",
+                    "form": "{1}PAB-DU-ka",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -2038,8 +2034,7 @@
                             "gdl_collated": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "form": "DU",
@@ -2083,7 +2078,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}za]-⸢bi⸣-na\\td—DINGIR",
+                  "frag": "{1}za]-⸢bi⸣-na\\td-DINGIR",
                   "id": "P334567.l054c2",
                   "ref": "P334567.16.1",
                   "inst": "Zabina-ili[]PN$",
@@ -2137,8 +2132,7 @@
                         "form": "na",
                         "gdl_utf8": "𒈾",
                         "id": "P334567.16.1.3",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "mods": [
                           {
                             "b": "na"
@@ -2734,14 +2728,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}BAD₃—{1}MAN—GIN",
+                  "frag": "{uru}BAD₃-{1}MAN-GIN",
                   "id": "P334567.l054ce",
                   "ref": "P334567.24.2",
                   "inst": "Dur-Šarruken[1]GN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}BAD₃-{1}MAN-GIN=Dur-Šarruken[1//1]GN'GN$Dur-Šarruken",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}BAD₃-{1}MAN—GIN",
+                    "form": "{URU}BAD₃-{1}MAN-GIN",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -2772,8 +2766,7 @@
                             "id": "P334567.24.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -2805,8 +2798,7 @@
                             "id": "P334567.24.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "GIN",

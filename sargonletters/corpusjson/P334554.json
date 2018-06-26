@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:33",
+  "UTC-timestamp": "2018-06-22T06:08:27",
   "textid": "P334554",
   "cdl": [
     {
@@ -199,7 +199,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur—a-lik—pa-ni",
+                  "frag": "{1}aš-šur-a-lik-pa-ni",
                   "id": "P334554.l09c99",
                   "ref": "P334554.3.2",
                   "inst": "Aššur-alik-pani[1]PN",
@@ -236,8 +236,7 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P334554.3.2.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "a",
@@ -249,8 +248,7 @@
                         "v": "lik",
                         "gdl_utf8": "𒌨",
                         "id": "P334554.3.2.4",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "pa",

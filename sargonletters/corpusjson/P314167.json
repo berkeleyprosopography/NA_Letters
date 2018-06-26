@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:31:23",
+  "UTC-timestamp": "2018-06-22T06:07:18",
   "textid": "P314167",
   "cdl": [
     {
@@ -1261,7 +1261,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}A]-MEŠ—dur-na",
+                  "frag": "{uru}A]-MEŠ-dur-na",
                   "id": "P314167.l10841",
                   "ref": "P314167.9.2",
                   "inst": "Meturna[]GN$Medurna",
@@ -1312,8 +1312,7 @@
                             "id": "P314167.9.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

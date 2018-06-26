@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:29:37",
+  "UTC-timestamp": "2018-06-22T06:06:08",
   "textid": "P313492",
   "cdl": [
     {
@@ -219,14 +219,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}UTU—EN—PAB]",
+                  "frag": "{1}{d}UTU-EN-PAB]",
                   "id": "P313492.l0f91c",
                   "ref": "P313492.3.2",
                   "inst": "Šamaš-belu-uṣur[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}UTU-EN-PAB=Šamaš-belu-uṣur[1//1]PN'PN$Šamaš-belu-uṣur",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}UTU—EN—PAB",
+                    "form": "{1}{d}UTU-EN-PAB",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -272,8 +272,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "EN",
@@ -282,8 +281,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "PAB",
@@ -7596,7 +7594,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR—aš-šur",
+                  "frag": "KUR-aš-šur",
                   "id": "P313492.l0fa13",
                   "ref": "P313492.45.1",
                   "cof-tails": "P313492.l0fa14",
@@ -7617,8 +7615,7 @@
                             "id": "P313492.45.1.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -7644,7 +7641,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR—aš-šur",
+                  "frag": "KUR-aš-šur",
                   "id": "P313492.l0fa14",
                   "ref": "P313492.45.1",
                   "cof-head": "P313492.l0fa13",
@@ -7664,8 +7661,7 @@
                             "id": "P313492.45.1.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -11733,7 +11729,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a—ki-ma",
+                  "frag": "a-ki-ma",
                   "id": "P313492.l0fa9f",
                   "ref": "P313492.65.4",
                   "cof-tails": "P313492.l0faa0",
@@ -11748,8 +11744,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P313492.65.4.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "ki",
@@ -11773,7 +11768,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a—ki-ma",
+                  "frag": "a-ki-ma",
                   "id": "P313492.l0faa0",
                   "ref": "P313492.65.4",
                   "cof-head": "P313492.l0fa9f",
@@ -11788,8 +11783,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P313492.65.4.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "ki",

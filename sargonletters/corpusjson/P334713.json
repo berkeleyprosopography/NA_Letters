@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:34:03",
+  "UTC-timestamp": "2018-06-22T06:08:43",
   "textid": "P334713",
   "cdl": [
     {
@@ -205,7 +205,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}⸢PA⸣—[ha-mat-u-a]",
+                  "frag": "{1}{d}⸢PA⸣-[ha-mat-u-a]",
                   "id": "P334713.l0a9ec",
                   "ref": "P334713.3.2",
                   "inst": "Nabu-hamatua[1]PN",
@@ -255,8 +255,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "hc": "1"
                           }
                         ]
@@ -868,12 +867,12 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}GAL—⸢u₂-ra⸣-[te",
+                  "frag": "{lu₂v}GAL-⸢u₂-ra⸣-[te",
                   "id": "P334713.l0a9fc",
                   "ref": "P334713.7.1",
                   "cof-tails": "P334713.l0a9fd",
                   "inst": "rabû[big one]N$rab&urû[team]N$urāte",
-                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}GAL-u₂-ra-te=rabû[big one//big one]N'N$rab&&@saao/sargonletters%akk-x-neoass:=urû[team//team]N'N$urāte",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}GAL-u₂-ra-te=rabû[big one//big one]N'N$rab&&@saao/sargonletters%akk-x-neoass:=urû[team//team (of equids)]N'N$urāte",
                   "f": {
                     "lang": "akk-x-neoass",
                     "form": "{LU₂}GAL-u₂-ra-te",
@@ -916,8 +915,7 @@
                             "id": "P334713.7.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -956,7 +954,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}GAL—⸢u₂-ra⸣-[te",
+                  "frag": "{lu₂v}GAL-⸢u₂-ra⸣-[te",
                   "id": "P334713.l0a9fd",
                   "ref": "P334713.7.1",
                   "cof-head": "P334713.l0a9fc",
@@ -1004,8 +1002,7 @@
                             "id": "P334713.7.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1036,7 +1033,7 @@
                     ],
                     "cf": "urû",
                     "gw": "team",
-                    "sense": "team",
+                    "sense": "team (of equids)",
                     "norm": "urāte",
                     "pos": "N",
                     "epos": "N"
@@ -1557,7 +1554,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}⸢aš-šur—x⸣+[x",
+                  "frag": "{1}⸢aš-šur-x⸣+[x",
                   "id": "P334713.l0aa0e",
                   "ref": "P334713.11.1",
                   "inst": "u",
@@ -1597,8 +1594,7 @@
                         "gdl_utf8": "𒋩",
                         "id": "P334713.11.1.2",
                         "break": "damaged",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "ligature",

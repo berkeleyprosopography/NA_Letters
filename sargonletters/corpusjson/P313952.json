@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:30:58",
+  "UTC-timestamp": "2018-06-22T06:07:00",
   "textid": "P313952",
   "cdl": [
     {
@@ -271,15 +271,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU—KA₂.[DINGIR",
+                  "frag": "DUMU-KA₂.[DINGIR",
                   "id": "P313952.l12ded",
                   "ref": "P313952.4.2",
                   "cof-tails": "P313952.l12dee",
                   "inst": "māru[son]N$mār&Babili[Babylon]GN$",
-                  "newsig": "@saao/sargonletters%akk-x-neoass:DUMU—KA₂.DINGIR=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:DUMU—KA₂.DINGIR=Babili[Babylon//Babylon]GN'GN$Babili",
+                  "sig": "@saao/sargonletters%akk-x-neoass:DUMU-KA₂.DINGIR=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:=Babili[Babylon//Babylon]GN'GN$Babili",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU—KA₂.DINGIR",
+                    "form": "DUMU-KA₂.DINGIR",
                     "delim": "",
                     "gdl": [
                       {
@@ -292,8 +292,7 @@
                             "id": "P313952.4.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "KA₂",
@@ -326,15 +325,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU—KA₂.[DINGIR",
+                  "frag": "DUMU-KA₂.[DINGIR",
                   "id": "P313952.l12dee",
                   "ref": "P313952.4.2",
                   "cof-head": "P313952.l12ded",
                   "inst": "māru[son]N$mār&Babili[Babylon]GN$",
-                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU—KA₂.DINGIR",
+                    "form": "DUMU-KA₂.DINGIR",
                     "delim": "",
                     "gdl": [
                       {
@@ -347,8 +345,7 @@
                             "id": "P313952.4.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "KA₂",
@@ -373,8 +370,10 @@
                     ],
                     "cf": "Babili",
                     "gw": "Babylon",
+                    "sense": "Babylon",
                     "norm": "Babili",
-                    "pos": "GN"
+                    "pos": "GN",
+                    "epos": "GN"
                   }
                 },
                 {
@@ -697,15 +696,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU—[KA₂.DINGIR{ki}MEŠ]",
+                  "frag": "DUMU-[KA₂.DINGIR{ki}MEŠ]",
                   "id": "P313952.l12df9",
                   "ref": "P313952.6.3",
                   "cof-tails": "P313952.l12dfa",
                   "inst": "+māru[son]N$mār&+Babili[Babylon]GN$",
-                  "newsig": "@saao/sargonletters%akk-x-neoass:DUMU—KA₂.DINGIR{KI}-MEŠ=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:DUMU—KA₂.DINGIR{KI}-MEŠ=Babili[Babylon//Babylon]GN'GN$Babili",
+                  "sig": "@saao/sargonletters%akk-x-neoass:DUMU-KA₂.DINGIR{KI}-MEŠ=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:DUMU-KA₂.DINGIR{KI}-MEŠ=Babili[Babylon//Babylon]GN'GN$Babili",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU—KA₂.DINGIR{KI}-MEŠ",
+                    "form": "DUMU-KA₂.DINGIR{KI}-MEŠ",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -717,8 +716,7 @@
                             "id": "P313952.6.3.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "KA₂",
@@ -777,14 +775,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU—[KA₂.DINGIR{ki}MEŠ]",
+                  "frag": "DUMU-[KA₂.DINGIR{ki}MEŠ]",
                   "id": "P313952.l12dfa",
                   "ref": "P313952.6.3",
                   "cof-head": "P313952.l12df9",
                   "inst": "+māru[son]N$mār&+Babili[Babylon]GN$",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU—KA₂.DINGIR{KI}-MEŠ",
+                    "form": "DUMU-KA₂.DINGIR{KI}-MEŠ",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -796,8 +794,7 @@
                             "id": "P313952.6.3.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "KA₂",

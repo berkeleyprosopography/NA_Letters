@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:32:20",
+  "UTC-timestamp": "2018-06-22T06:07:49",
   "textid": "P334127",
   "cdl": [
     {
@@ -199,7 +199,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}HAL-ni—aš-šur",
+                  "frag": "{1}HAL-ni-aš-šur",
                   "id": "P334127.l05200",
                   "ref": "P334127.3.2",
                   "inst": "Išmanni-Aššur[1]PN",
@@ -244,8 +244,7 @@
                         "v": "ni",
                         "gdl_utf8": "𒉌",
                         "id": "P334127.3.2.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "aš",
@@ -814,7 +813,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}IM—nu-ri⸣",
+                  "frag": "{1}{d}IM-nu-ri⸣",
                   "id": "P334127.l0520e",
                   "ref": "P334127.7.2",
                   "inst": "Adad-nuri[]PN$",
@@ -867,8 +866,7 @@
                             "break": "damaged",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

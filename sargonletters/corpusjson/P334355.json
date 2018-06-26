@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:06",
+  "UTC-timestamp": "2018-06-22T06:08:13",
   "textid": "P334355",
   "cdl": [
     {
@@ -216,14 +216,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}EN—AŠ",
+                  "frag": "{1}EN-AŠ",
                   "id": "P334355.l09d3f",
                   "ref": "P334355.3.2",
                   "inst": "Bel-iddina[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}EN-AŠ=Bel-iddina[1//1]PN'PN$Bel-iddina",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}EN—AŠ",
+                    "form": "{1}EN-AŠ",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -253,8 +253,7 @@
                             "id": "P334355.3.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "AŠ",
@@ -1293,7 +1292,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR—aš-šur",
+                  "frag": "KUR-aš-šur",
                   "id": "P334355.l09d54",
                   "ref": "P334355.11.3",
                   "inst": "+Mat-Aššur[Assyria]GN$",
@@ -1312,8 +1311,7 @@
                             "id": "P334355.11.3.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -2675,7 +2673,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "in₆—ni-ri-te",
+                  "frag": "in₆-ni-ri-te",
                   "id": "P334355.l09d6f",
                   "ref": "P334355.28.2",
                   "cof-tails": "P334355.l09d70",
@@ -2690,8 +2688,7 @@
                         "v": "in₆",
                         "gdl_utf8": "𒀸",
                         "id": "P334355.28.2.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "ni",
@@ -2721,7 +2718,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "in₆—ni-ri-te",
+                  "frag": "in₆-ni-ri-te",
                   "id": "P334355.l09d70",
                   "ref": "P334355.28.2",
                   "cof-head": "P334355.l09d6f",
@@ -2736,8 +2733,7 @@
                         "v": "in₆",
                         "gdl_utf8": "𒀸",
                         "id": "P334355.28.2.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "ni",
@@ -2801,7 +2797,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR—aš-šur",
+                  "frag": "KUR-aš-šur",
                   "id": "P334355.l09d72",
                   "ref": "P334355.28.4",
                   "inst": "+Mat-Aššur[Assyria]GN$",
@@ -2820,8 +2816,7 @@
                             "id": "P334355.28.4.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

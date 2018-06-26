@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:31:05",
+  "UTC-timestamp": "2018-06-22T06:07:05",
   "textid": "P314003",
   "cdl": [
     {
@@ -212,7 +212,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur—ba-ni]",
+                  "frag": "{1}aš-šur-ba-ni]",
                   "id": "P314003.l03049",
                   "ref": "P314003.3.2",
                   "inst": "Aššur-bani[]PN$",
@@ -252,8 +252,7 @@
                         "gdl_utf8": "𒋩",
                         "id": "P314003.3.2.2",
                         "break": "missing",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "ba",
@@ -837,15 +836,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "MI₂—E₂.GAL]",
+                  "frag": "MI₂-E₂.GAL]",
                   "id": "P314003.l03057",
                   "ref": "P314003.7.3",
                   "cof-tails": "P314003.l03058",
                   "inst": "sinništu[woman]N$issi&ēkallu[palace]N$ēkalli",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:MI₂-E₂.GAL=sinništu[woman//woman]N'N$issi&&@saao/sargonletters%akk-x-neoass:=ēkallu[palace//palace]N'N$ēkalli",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "MI₂—E₂.GAL",
+                    "form": "MI₂-E₂.GAL",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -858,8 +857,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "E₂",
@@ -885,20 +883,23 @@
                     ],
                     "cf": "sinništu",
                     "gw": "woman",
+                    "sense": "woman",
                     "norm": "issi",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "MI₂—E₂.GAL]",
+                  "frag": "MI₂-E₂.GAL]",
                   "id": "P314003.l03058",
                   "ref": "P314003.7.3",
                   "cof-head": "P314003.l03057",
                   "inst": "sinništu[woman]N$issi&ēkallu[palace]N$ēkalli",
+                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=ēkallu[palace//palace]N'N$ēkalli",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "MI₂—E₂.GAL",
+                    "form": "MI₂-E₂.GAL",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -911,8 +912,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "E₂",
@@ -938,8 +938,10 @@
                     ],
                     "cf": "ēkallu",
                     "gw": "palace",
+                    "sense": "palace",
                     "norm": "ēkalli",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {

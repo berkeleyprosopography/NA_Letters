@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:29:50",
+  "UTC-timestamp": "2018-06-22T06:06:15",
   "textid": "P313546",
   "cdl": [
     {
@@ -215,7 +215,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}⸢DI⸣-[mu]—⸢EN⸣",
+                  "frag": "{1}⸢DI⸣-[mu]-⸢EN⸣",
                   "id": "P313546.l09485",
                   "ref": "P313546.3.2",
                   "inst": "Šulmu-beli[1]PN",
@@ -267,8 +267,7 @@
                         "o": "]",
                         "break": "missing",
                         "breakEnd": "P313546.3.2.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -1862,7 +1861,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "EN—{giš}⸢GIGIR⸣",
+                  "frag": "EN-{giš}⸢GIGIR⸣",
                   "id": "P313546.l094b5",
                   "ref": "P313546.17.3",
                   "cof-tails": "P313546.l094b6",
@@ -1882,8 +1881,7 @@
                             "id": "P313546.17.3.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1933,7 +1931,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "EN—{giš}⸢GIGIR⸣",
+                  "frag": "EN-{giš}⸢GIGIR⸣",
                   "id": "P313546.l094b6",
                   "ref": "P313546.17.3",
                   "cof-head": "P313546.l094b5",
@@ -1953,8 +1951,7 @@
                             "id": "P313546.17.3.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

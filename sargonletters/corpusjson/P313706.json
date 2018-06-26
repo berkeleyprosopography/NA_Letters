@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:30:17",
+  "UTC-timestamp": "2018-06-22T06:06:32",
   "textid": "P313706",
   "cdl": [
     {
@@ -48,7 +48,7 @@
                 {
                   "node": "l",
                   "frag": "[a-na",
-                  "id": "P313706.l14bf6",
+                  "id": "P313706.l14bf7",
                   "ref": "P313706.2.1",
                   "inst": "ana[to]PRP",
                   "sig": "@saao/sargonletters%akk-x-neoass:a-na=ana[to//to]PRP'PRP$ana",
@@ -84,7 +84,7 @@
                 {
                   "node": "l",
                   "frag": "LUGAL",
-                  "id": "P313706.l14bf7",
+                  "id": "P313706.l14bf8",
                   "ref": "P313706.2.2",
                   "inst": "šarri[king]N",
                   "sig": "@saao/sargonletters%akk-x-neoass:LUGAL=šarru[king//king]N'N$šarri",
@@ -119,7 +119,7 @@
                 {
                   "node": "l",
                   "frag": "be-li₂-ia]",
-                  "id": "P313706.l14bf8",
+                  "id": "P313706.l14bf9",
                   "ref": "P313706.2.3",
                   "inst": "bēlīya[lord]N",
                   "sig": "@saao/sargonletters%akk-x-neoass:be-li₂-ia=bēlu[lord//lord]N'N$bēlīya",
@@ -168,7 +168,7 @@
                 {
                   "node": "l",
                   "frag": "[ARAD-ka",
-                  "id": "P313706.l14bf9",
+                  "id": "P313706.l14bfa",
                   "ref": "P313706.3.1",
                   "inst": "urdaka[servant]N",
                   "sig": "@saao/sargonletters%akk-x-neoass:ARAD-ka=ardu[slave//servant]N'N$urdaka",
@@ -212,7 +212,7 @@
                 {
                   "node": "l",
                   "frag": "{1}x",
-                  "id": "P313706.l14bfa",
+                  "id": "P313706.l14bfb",
                   "ref": "P313706.3.2",
                   "inst": "u",
                   "f": {
@@ -252,7 +252,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313706.l14bfb",
+                  "id": "P313706.l14bfc",
                   "ref": "P313706.3.3",
                   "inst": "u",
                   "f": {
@@ -273,7 +273,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313706.l14bfc",
+                  "id": "P313706.l14bfd",
                   "ref": "P313706.3.4",
                   "inst": "u",
                   "f": {
@@ -294,7 +294,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313706.l14bfd",
+                  "id": "P313706.l14bfe",
                   "ref": "P313706.3.5",
                   "inst": "u",
                   "f": {
@@ -315,7 +315,7 @@
                 {
                   "node": "l",
                   "frag": "x]",
-                  "id": "P313706.l14bfe",
+                  "id": "P313706.l14bff",
                   "ref": "P313706.3.6",
                   "inst": "u",
                   "f": {
@@ -344,7 +344,7 @@
                 {
                   "node": "l",
                   "frag": "[lu-u",
-                  "id": "P313706.l14bff",
+                  "id": "P313706.l14c00",
                   "ref": "P313706.4.1",
                   "inst": "lū[may]MOD",
                   "sig": "@saao/sargonletters%akk-x-neoass:lu-u=lū[may//may]MOD'MOD$lū",
@@ -380,7 +380,7 @@
                 {
                   "node": "l",
                   "frag": "DI-mu",
-                  "id": "P313706.l14c00",
+                  "id": "P313706.l14c01",
                   "ref": "P313706.4.2",
                   "inst": "šulmu[health]N",
                   "sig": "@saao/sargonletters%akk-x-neoass:DI-mu=šulmu[completeness//health]N'N$šulmu",
@@ -422,7 +422,7 @@
                 {
                   "node": "l",
                   "frag": "a-na",
-                  "id": "P313706.l14c01",
+                  "id": "P313706.l14c02",
                   "ref": "P313706.4.3",
                   "inst": "ana[to]PRP",
                   "sig": "@saao/sargonletters%akk-x-neoass:a-na=ana[to//to]PRP'PRP$ana",
@@ -456,7 +456,7 @@
                 {
                   "node": "l",
                   "frag": "LUGAL",
-                  "id": "P313706.l14c02",
+                  "id": "P313706.l14c03",
                   "ref": "P313706.4.4",
                   "inst": "šarri[king]N",
                   "sig": "@saao/sargonletters%akk-x-neoass:LUGAL=šarru[king//king]N'N$šarri",
@@ -491,7 +491,7 @@
                 {
                   "node": "l",
                   "frag": "EN-ia]",
-                  "id": "P313706.l14c03",
+                  "id": "P313706.l14c04",
                   "ref": "P313706.4.5",
                   "inst": "bēlīya[lord]N",
                   "sig": "@saao/sargonletters%akk-x-neoass:EN-ia=bēlu[lord//lord]N'N$bēlīya",
@@ -541,7 +541,7 @@
                 {
                   "node": "l",
                   "frag": "[ina]",
-                  "id": "P313706.l14c04",
+                  "id": "P313706.l14c05",
                   "ref": "P313706.5.1",
                   "inst": "ina[in+=concerning]PRP",
                   "sig": "@saao/sargonletters%akk-x-neoass:ina=ina[in//in]PRP'PRP$ina",
@@ -571,7 +571,7 @@
                 {
                   "node": "l",
                   "frag": "UGU",
-                  "id": "P313706.l14c05",
+                  "id": "P313706.l14c06",
                   "ref": "P313706.5.2",
                   "inst": "muhhi[skull]N",
                   "sig": "@saao/sargonletters%akk-x-neoass:UGU=muhhu[skull//top]N'N$muhhi",
@@ -605,7 +605,7 @@
                 {
                   "node": "l",
                   "frag": "ša",
-                  "id": "P313706.l14c06",
+                  "id": "P313706.l14c07",
                   "ref": "P313706.5.3",
                   "inst": "ša[what]REL",
                   "sig": "@saao/sargonletters%akk-x-neoass:ša=ša[that//what]REL'REL$ša",
@@ -631,7 +631,7 @@
                 {
                   "node": "l",
                   "frag": "⸢EN⸣.[NUN",
-                  "id": "P313706.l14c07",
+                  "id": "P313706.l14c08",
                   "ref": "P313706.5.4",
                   "inst": "maṣṣartu[observation//guard]N$maṣṣarti",
                   "sig": "@saao/sargonletters%akk-x-neoass:EN.NUN=maṣṣartu[observation//guard]N'N$maṣṣarti",
@@ -680,7 +680,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313706.l14c08",
+                  "id": "P313706.l14c09",
                   "ref": "P313706.5.5",
                   "inst": "u",
                   "f": {
@@ -701,7 +701,7 @@
                 {
                   "node": "l",
                   "frag": "x]",
-                  "id": "P313706.l14c09",
+                  "id": "P313706.l14c0a",
                   "ref": "P313706.5.6",
                   "inst": "u",
                   "f": {
@@ -730,7 +730,7 @@
                 {
                   "node": "l",
                   "frag": "ina",
-                  "id": "P313706.l14c0a",
+                  "id": "P313706.l14c0b",
                   "ref": "P313706.6.1",
                   "inst": "ina[in+=on account of]PRP",
                   "sig": "@saao/sargonletters%akk-x-neoass:ina=ina[in//in]PRP'PRP$ina",
@@ -756,7 +756,7 @@
                 {
                   "node": "l",
                   "frag": "UGU-hi",
-                  "id": "P313706.l14c0b",
+                  "id": "P313706.l14c0c",
                   "ref": "P313706.6.2",
                   "inst": "muhhi[skull]N",
                   "sig": "@saao/sargonletters%akk-x-neoass:UGU-hi=muhhu[skull//skull]N'N$muhhi",
@@ -796,7 +796,7 @@
                 {
                   "node": "l",
                   "frag": "LUGAL",
-                  "id": "P313706.l14c0c",
+                  "id": "P313706.l14c0d",
                   "ref": "P313706.6.3",
                   "inst": "šarru[king]N",
                   "sig": "@saao/sargonletters%akk-x-neoass:LUGAL=šarru[king//king]N'N$šarru",
@@ -830,7 +830,7 @@
                 {
                   "node": "l",
                   "frag": "⸢x⸣+[x",
-                  "id": "P313706.l14c0d",
+                  "id": "P313706.l14c0e",
                   "ref": "P313706.6.4",
                   "inst": "u",
                   "f": {
@@ -868,7 +868,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313706.l14c0e",
+                  "id": "P313706.l14c0f",
                   "ref": "P313706.6.5",
                   "inst": "u",
                   "f": {
@@ -889,7 +889,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313706.l14c0f",
+                  "id": "P313706.l14c10",
                   "ref": "P313706.6.6",
                   "inst": "u",
                   "f": {
@@ -910,7 +910,7 @@
                 {
                   "node": "l",
                   "frag": "x]",
-                  "id": "P313706.l14c10",
+                  "id": "P313706.l14c11",
                   "ref": "P313706.6.7",
                   "inst": "u",
                   "f": {
@@ -939,7 +939,7 @@
                 {
                   "node": "l",
                   "frag": "a-na",
-                  "id": "P313706.l14c11",
+                  "id": "P313706.l14c12",
                   "ref": "P313706.7.1",
                   "inst": "ana[to+=instead of]PRP",
                   "sig": "@saao/sargonletters%akk-x-neoass:a-na=ana[to//to]PRP'PRP$ana",
@@ -971,7 +971,7 @@
                 {
                   "node": "l",
                   "frag": "ku-mi",
-                  "id": "P313706.l14c12",
+                  "id": "P313706.l14c13",
                   "ref": "P313706.7.2",
                   "inst": "kūm[instead of]PRP$kūmi",
                   "sig": "@saao/sargonletters%akk-x-neoass:ku-mi=kūm[instead of//instead of]PRP'PRP$kūmi",
@@ -1003,7 +1003,7 @@
                 {
                   "node": "l",
                   "frag": "na",
-                  "id": "P313706.l14c13",
+                  "id": "P313706.l14c14",
                   "ref": "P313706.7.3",
                   "inst": "u",
                   "f": {
@@ -1023,7 +1023,7 @@
                 {
                   "node": "l",
                   "frag": "šu₂",
-                  "id": "P313706.l14c14",
+                  "id": "P313706.l14c15",
                   "ref": "P313706.7.4",
                   "inst": "u",
                   "f": {
@@ -1043,7 +1043,7 @@
                 {
                   "node": "l",
                   "frag": "⸢x⸣+[x",
-                  "id": "P313706.l14c15",
+                  "id": "P313706.l14c16",
                   "ref": "P313706.7.5",
                   "inst": "u",
                   "f": {
@@ -1081,7 +1081,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313706.l14c16",
+                  "id": "P313706.l14c17",
                   "ref": "P313706.7.6",
                   "inst": "u",
                   "f": {
@@ -1102,7 +1102,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313706.l14c17",
+                  "id": "P313706.l14c18",
                   "ref": "P313706.7.7",
                   "inst": "u",
                   "f": {
@@ -1123,7 +1123,7 @@
                 {
                   "node": "l",
                   "frag": "x]",
-                  "id": "P313706.l14c18",
+                  "id": "P313706.l14c19",
                   "ref": "P313706.7.8",
                   "inst": "u",
                   "f": {
@@ -1152,7 +1152,7 @@
                 {
                   "node": "l",
                   "frag": "⸢UDU⸣.NITA₂-MEŠ",
-                  "id": "P313706.l14c19",
+                  "id": "P313706.l14c1a",
                   "ref": "P313706.8.1",
                   "inst": "yābilī[ram]N",
                   "sig": "@saao/sargonletters%akk-x-neoass:UDU.NITA₂-MEŠ=yābilu[ram//ram]N'N$yābilī",
@@ -1205,7 +1205,7 @@
                 {
                   "node": "l",
                   "frag": "ša\\m",
-                  "id": "P313706.l14c1a",
+                  "id": "P313706.l14c1b",
                   "ref": "P313706.8.2",
                   "inst": "ša[of]DET",
                   "sig": "@saao/sargonletters%akk-x-neoass:ša=ša[of//of]DET'DET$ša",
@@ -1239,7 +1239,7 @@
                 {
                   "node": "l",
                   "frag": "⸢x⸣+[x",
-                  "id": "P313706.l14c1b",
+                  "id": "P313706.l14c1c",
                   "ref": "P313706.8.3",
                   "inst": "u",
                   "f": {
@@ -1277,7 +1277,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313706.l14c1c",
+                  "id": "P313706.l14c1d",
                   "ref": "P313706.8.4",
                   "inst": "u",
                   "f": {
@@ -1298,7 +1298,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313706.l14c1d",
+                  "id": "P313706.l14c1e",
                   "ref": "P313706.8.5",
                   "inst": "u",
                   "f": {
@@ -1319,7 +1319,7 @@
                 {
                   "node": "l",
                   "frag": "x]",
-                  "id": "P313706.l14c1e",
+                  "id": "P313706.l14c1f",
                   "ref": "P313706.8.6",
                   "inst": "u",
                   "f": {
@@ -1348,7 +1348,7 @@
                 {
                   "node": "l",
                   "frag": "[ki]-⸢i⸣",
-                  "id": "P313706.l14c1f",
+                  "id": "P313706.l14c20",
                   "ref": "P313706.9.1",
                   "inst": "kī[as, like//as]PRP'PRP$kî",
                   "sig": "@saao/sargonletters%akk-x-neoass:ki-i=kī[as, like//as]PRP'PRP$kî",
@@ -1387,7 +1387,7 @@
                 {
                   "node": "l",
                   "frag": "sa-ar-[ti",
-                  "id": "P313706.l14c20",
+                  "id": "P313706.l14c21",
                   "ref": "P313706.9.2",
                   "inst": "sartu[falsehood//fine]N$sarti",
                   "sig": "@saao/sargonletters%akk-x-neoass:sa-ar-ti=sartu[falsehood//fine]N'N$sarti",
@@ -1428,7 +1428,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313706.l14c21",
+                  "id": "P313706.l14c22",
                   "ref": "P313706.9.3",
                   "inst": "u",
                   "f": {
@@ -1449,7 +1449,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313706.l14c22",
+                  "id": "P313706.l14c23",
                   "ref": "P313706.9.4",
                   "inst": "u",
                   "f": {
@@ -1470,7 +1470,7 @@
                 {
                   "node": "l",
                   "frag": "x]",
-                  "id": "P313706.l14c23",
+                  "id": "P313706.l14c24",
                   "ref": "P313706.9.5",
                   "inst": "u",
                   "f": {
@@ -1499,7 +1499,7 @@
                 {
                   "node": "l",
                   "frag": "[x",
-                  "id": "P313706.l14c24",
+                  "id": "P313706.l14c25",
                   "ref": "P313706.10.1",
                   "inst": "u",
                   "f": {
@@ -1522,7 +1522,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313706.l14c25",
+                  "id": "P313706.l14c26",
                   "ref": "P313706.10.2",
                   "inst": "u",
                   "f": {
@@ -1543,7 +1543,7 @@
                 {
                   "node": "l",
                   "frag": "x]",
-                  "id": "P313706.l14c26",
+                  "id": "P313706.l14c27",
                   "ref": "P313706.10.3",
                   "inst": "u",
                   "f": {
@@ -1566,7 +1566,7 @@
                 {
                   "node": "l",
                   "frag": "⸢u₃⸣",
-                  "id": "P313706.l14c27",
+                  "id": "P313706.l14c28",
                   "ref": "P313706.10.4",
                   "inst": "u[and]CNJ",
                   "sig": "@saao/sargonletters%akk-x-neoass:u₃=u[and//and]CNJ'CNJ$u",
@@ -1595,7 +1595,7 @@
                 {
                   "node": "l",
                   "frag": "[x",
-                  "id": "P313706.l14c28",
+                  "id": "P313706.l14c29",
                   "ref": "P313706.10.5",
                   "inst": "u",
                   "f": {
@@ -1618,7 +1618,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313706.l14c29",
+                  "id": "P313706.l14c2a",
                   "ref": "P313706.10.6",
                   "inst": "u",
                   "f": {
@@ -1639,7 +1639,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313706.l14c2a",
+                  "id": "P313706.l14c2b",
                   "ref": "P313706.10.7",
                   "inst": "u",
                   "f": {
@@ -1660,7 +1660,7 @@
                 {
                   "node": "l",
                   "frag": "x]",
-                  "id": "P313706.l14c2b",
+                  "id": "P313706.l14c2c",
                   "ref": "P313706.10.8",
                   "inst": "u",
                   "f": {
@@ -1712,7 +1712,7 @@
                 {
                   "node": "l",
                   "frag": "[x]",
-                  "id": "P313706.l14c2c",
+                  "id": "P313706.l14c2d",
                   "ref": "P313706.14.1",
                   "inst": "u",
                   "f": {
@@ -1736,7 +1736,7 @@
                 {
                   "node": "l",
                   "frag": "⸢x",
-                  "id": "P313706.l14c2d",
+                  "id": "P313706.l14c2e",
                   "ref": "P313706.14.2",
                   "inst": "u",
                   "f": {
@@ -1758,7 +1758,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313706.l14c2e",
+                  "id": "P313706.l14c2f",
                   "ref": "P313706.14.3",
                   "inst": "u",
                   "f": {
@@ -1779,7 +1779,7 @@
                 {
                   "node": "l",
                   "frag": "x⸣",
-                  "id": "P313706.l14c2f",
+                  "id": "P313706.l14c30",
                   "ref": "P313706.14.4",
                   "inst": "u",
                   "f": {
@@ -1801,7 +1801,7 @@
                 {
                   "node": "l",
                   "frag": "[x",
-                  "id": "P313706.l14c30",
+                  "id": "P313706.l14c31",
                   "ref": "P313706.14.5",
                   "inst": "u",
                   "f": {
@@ -1824,7 +1824,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313706.l14c31",
+                  "id": "P313706.l14c32",
                   "ref": "P313706.14.6",
                   "inst": "u",
                   "f": {
@@ -1845,7 +1845,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313706.l14c32",
+                  "id": "P313706.l14c33",
                   "ref": "P313706.14.7",
                   "inst": "u",
                   "f": {
@@ -1866,7 +1866,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313706.l14c33",
+                  "id": "P313706.l14c34",
                   "ref": "P313706.14.8",
                   "inst": "u",
                   "f": {
@@ -1887,7 +1887,7 @@
                 {
                   "node": "l",
                   "frag": "x]",
-                  "id": "P313706.l14c34",
+                  "id": "P313706.l14c35",
                   "ref": "P313706.14.9",
                   "inst": "u",
                   "f": {
@@ -1916,7 +1916,7 @@
                 {
                   "node": "l",
                   "frag": "ma-a",
-                  "id": "P313706.l14c35",
+                  "id": "P313706.l14c36",
                   "ref": "P313706.15.1",
                   "inst": "mā[saying]PRP",
                   "sig": "@saao/sargonletters%akk-x-neoass:ma-a=mā[saying//saying]PRP'PRP$mā",
@@ -1947,15 +1947,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}EN—⸢URU⸣",
-                  "id": "P313706.l14c36",
+                  "frag": "{lu₂vy}EN-⸢URU⸣",
+                  "id": "P313706.l14c37",
                   "ref": "P313706.15.2",
-                  "cof-tails": "P313706.l14c37",
+                  "cof-tails": "P313706.l14c38",
                   "inst": "bēlu[lord]N$bēl&ālu[city]N$āli",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}EN-URU=bēlu[lord//lord]N'N$bēl&&@saao/sargonletters%akk-x-neoass:=ālu[city//city]N'N$āli",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}EN—URU",
+                    "form": "{LU₂}EN-URU",
                     "delim": "",
                     "gdl": [
                       {
@@ -1998,8 +1998,7 @@
                             "id": "P313706.15.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "URU",
@@ -2017,20 +2016,23 @@
                     ],
                     "cf": "bēlu",
                     "gw": "lord",
+                    "sense": "lord",
                     "norm": "bēl",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}EN—⸢URU⸣",
-                  "id": "P313706.l14c37",
+                  "frag": "{lu₂vy}EN-⸢URU⸣",
+                  "id": "P313706.l14c38",
                   "ref": "P313706.15.2",
-                  "cof-head": "P313706.l14c36",
+                  "cof-head": "P313706.l14c37",
                   "inst": "bēlu[lord]N$bēl&ālu[city]N$āli",
+                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=ālu[city//city]N'N$āli",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}EN—URU",
+                    "form": "{LU₂}EN-URU",
                     "delim": "",
                     "gdl": [
                       {
@@ -2073,8 +2075,7 @@
                             "id": "P313706.15.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "URU",
@@ -2092,14 +2093,16 @@
                     ],
                     "cf": "ālu",
                     "gw": "city",
+                    "sense": "city",
                     "norm": "āli",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
                   "node": "l",
                   "frag": "[x",
-                  "id": "P313706.l14c38",
+                  "id": "P313706.l14c39",
                   "ref": "P313706.15.3",
                   "inst": "u",
                   "f": {
@@ -2122,7 +2125,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313706.l14c39",
+                  "id": "P313706.l14c3a",
                   "ref": "P313706.15.4",
                   "inst": "u",
                   "f": {
@@ -2143,7 +2146,7 @@
                 {
                   "node": "l",
                   "frag": "x]",
-                  "id": "P313706.l14c3a",
+                  "id": "P313706.l14c3b",
                   "ref": "P313706.15.5",
                   "inst": "u",
                   "f": {
@@ -2172,7 +2175,7 @@
                 {
                   "node": "l",
                   "frag": "E₂-MEŠ-ni",
-                  "id": "P313706.l14c3b",
+                  "id": "P313706.l14c3c",
                   "ref": "P313706.16.1",
                   "inst": "bītu[house]N$bētātīni",
                   "sig": "@saao/sargonletters%akk-x-neoass:E₂-MEŠ-ni=bītu[house//house]N'N$bētātīni",
@@ -2220,7 +2223,7 @@
                 {
                   "node": "l",
                   "frag": "ih-⸢te⸣-[rid]",
-                  "id": "P313706.l14c3c",
+                  "id": "P313706.l14c3d",
                   "ref": "P313706.16.2",
                   "inst": "harādu[be(come) awake//alert]V$ihterid",
                   "sig": "@saao/sargonletters%akk-x-neoass:ih-te-rid=harādu[be(come) awake//alert]V'V$ihterid",
@@ -2272,7 +2275,7 @@
                 {
                   "node": "l",
                   "frag": "a-ta-a",
-                  "id": "P313706.l14c3d",
+                  "id": "P313706.l14c3e",
                   "ref": "P313706.17.1",
                   "inst": "atâ[why?]QP",
                   "sig": "@saao/sargonletters%akk-x-neoass:a-ta-a=atā[why?//why?]QP'QP$atâ",
@@ -2310,7 +2313,7 @@
                 {
                   "node": "l",
                   "frag": "a-ki-i",
-                  "id": "P313706.l14c3e",
+                  "id": "P313706.l14c3f",
                   "ref": "P313706.17.2",
                   "inst": "akī[when]'SBJ",
                   "sig": "@saao/sargonletters%akk-x-neoass:a-ki-i=akī[as//when]PRP'SBJ$akī",
@@ -2348,7 +2351,7 @@
                 {
                   "node": "l",
                   "frag": "[x",
-                  "id": "P313706.l14c3f",
+                  "id": "P313706.l14c40",
                   "ref": "P313706.17.3",
                   "inst": "u",
                   "f": {
@@ -2371,7 +2374,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313706.l14c40",
+                  "id": "P313706.l14c41",
                   "ref": "P313706.17.4",
                   "inst": "u",
                   "f": {
@@ -2392,7 +2395,7 @@
                 {
                   "node": "l",
                   "frag": "x]",
-                  "id": "P313706.l14c41",
+                  "id": "P313706.l14c42",
                   "ref": "P313706.17.5",
                   "inst": "u",
                   "f": {
@@ -2421,7 +2424,7 @@
                 {
                   "node": "l",
                   "frag": "i-si-ia",
-                  "id": "P313706.l14c42",
+                  "id": "P313706.l14c43",
                   "ref": "P313706.18.1",
                   "inst": "issīya[with]PRP",
                   "sig": "@saao/sargonletters%akk-x-neoass:i-si-ia=išti[with//with]PRP'PRP$issīya",
@@ -2459,7 +2462,7 @@
                 {
                   "node": "l",
                   "frag": "i-la-sa-[mu-ni]",
-                  "id": "P313706.l14c43",
+                  "id": "P313706.l14c44",
                   "ref": "P313706.18.2",
                   "inst": "lasāmu[run//serve]V$ilassamūni",
                   "sig": "@saao/sargonletters%akk-x-neoass:i-la-sa-mu-ni=lasāmu[run//serve]V'V$ilassamūni",
@@ -2521,7 +2524,7 @@
                 {
                   "node": "l",
                   "frag": "E₂-MEŠ-šu₂-nu",
-                  "id": "P313706.l14c44",
+                  "id": "P313706.l14c45",
                   "ref": "P313706.19.1",
                   "inst": "bētātišunu[house]N",
                   "sig": "@saao/sargonletters%akk-x-neoass:E₂-MEŠ-šu₂-nu=bītu[house//house]N'N$bētātišunu",
@@ -2575,7 +2578,7 @@
                 {
                   "node": "l",
                   "frag": "la",
-                  "id": "P313706.l14c45",
+                  "id": "P313706.l14c46",
                   "ref": "P313706.19.2",
                   "inst": "lā[not]MOD",
                   "sig": "@saao/sargonletters%akk-x-neoass:la=lā[not//not]MOD'MOD$lā",
@@ -2601,7 +2604,7 @@
                 {
                   "node": "l",
                   "frag": "ih-⸢ri⸣-[di]",
-                  "id": "P313706.l14c46",
+                  "id": "P313706.l14c47",
                   "ref": "P313706.19.3",
                   "inst": "harādu[be(come) awake//alert]V$ihrīdi",
                   "sig": "@saao/sargonletters%akk-x-neoass:ih-ri-di=harādu[be(come) awake//alert]V'V$ihrīdi",
@@ -2653,7 +2656,7 @@
                 {
                   "node": "l",
                   "frag": "u₂-ma-a",
-                  "id": "P313706.l14c47",
+                  "id": "P313706.l14c48",
                   "ref": "P313706.20.1",
                   "inst": "ūmâ[now]AV",
                   "sig": "@saao/sargonletters%akk-x-neoass:u₂-ma-a=ūma[today//now]AV'AV$ūmâ",
@@ -2691,7 +2694,7 @@
                 {
                   "node": "l",
                   "frag": "a-du",
-                  "id": "P313706.l14c48",
+                  "id": "P313706.l14c49",
                   "ref": "P313706.20.2",
                   "inst": "adu[until+=until]PRP",
                   "sig": "@saao/sargonletters%akk-x-neoass:a-du=adi[until//until]PRP'PRP$adu",
@@ -2723,7 +2726,7 @@
                 {
                   "node": "l",
                   "frag": "E₂",
-                  "id": "P313706.l14c49",
+                  "id": "P313706.l14c4a",
                   "ref": "P313706.20.3",
                   "inst": "bēt[house]N",
                   "sig": "@saao/sargonletters%akk-x-neoass:E₂=bītu[house//house]N'N$bēt",
@@ -2757,7 +2760,7 @@
                 {
                   "node": "l",
                   "frag": "[x",
-                  "id": "P313706.l14c4a",
+                  "id": "P313706.l14c4b",
                   "ref": "P313706.20.4",
                   "inst": "u",
                   "f": {
@@ -2780,7 +2783,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313706.l14c4b",
+                  "id": "P313706.l14c4c",
                   "ref": "P313706.20.5",
                   "inst": "u",
                   "f": {
@@ -2801,7 +2804,7 @@
                 {
                   "node": "l",
                   "frag": "x]",
-                  "id": "P313706.l14c4c",
+                  "id": "P313706.l14c4d",
                   "ref": "P313706.20.6",
                   "inst": "u",
                   "f": {
@@ -2830,7 +2833,7 @@
                 {
                   "node": "l",
                   "frag": "[a]-⸢na",
-                  "id": "P313706.l14c4d",
+                  "id": "P313706.l14c4e",
                   "ref": "P313706.21.1",
                   "inst": "ana[to]PRP",
                   "sig": "@saao/sargonletters%akk-x-neoass:a-na=ana[to//to]PRP'PRP$ana",
@@ -2868,7 +2871,7 @@
                 {
                   "node": "l",
                   "frag": "LUGAL⸣",
-                  "id": "P313706.l14c4e",
+                  "id": "P313706.l14c4f",
                   "ref": "P313706.21.2",
                   "inst": "šarri[king]N",
                   "sig": "@saao/sargonletters%akk-x-neoass:LUGAL=šarru[king//king]N'N$šarri",
@@ -2904,7 +2907,7 @@
                 {
                   "node": "l",
                   "frag": "a-di-[x",
-                  "id": "P313706.l14c4f",
+                  "id": "P313706.l14c50",
                   "ref": "P313706.21.3",
                   "inst": "u",
                   "f": {
@@ -2939,7 +2942,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P313706.l14c50",
+                  "id": "P313706.l14c51",
                   "ref": "P313706.21.4",
                   "inst": "u",
                   "f": {
@@ -2960,7 +2963,7 @@
                 {
                   "node": "l",
                   "frag": "x]",
-                  "id": "P313706.l14c51",
+                  "id": "P313706.l14c52",
                   "ref": "P313706.21.5",
                   "inst": "u",
                   "f": {

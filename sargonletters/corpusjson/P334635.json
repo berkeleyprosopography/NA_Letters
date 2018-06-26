@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:48",
+  "UTC-timestamp": "2018-06-22T06:08:35",
   "textid": "P334635",
   "cdl": [
     {
@@ -214,14 +214,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}MES]—MAN-ni",
+                  "frag": "{1}{d}MES]-MAN-ni",
                   "id": "P334635.l11896",
                   "ref": "P334635.3.2",
                   "inst": "Marduk-šarrani[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}MES-MAN-ni=Marduk-šarrani[1//1]PN'PN$Marduk-šarrani",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}MES—MAN-ni",
+                    "form": "{1}{d}MES-MAN-ni",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -267,8 +267,7 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P334635.3.1.0",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "MAN",
@@ -288,7 +287,10 @@
                     ],
                     "cf": "Marduk-šarrani",
                     "gw": "1",
-                    "pos": "PN"
+                    "sense": "1",
+                    "norm": "Marduk-šarrani",
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {
@@ -683,14 +685,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d]}PA—LUGAL—DU₃",
+                  "frag": "{1}{d]}PA-LUGAL-DU₃",
                   "id": "P334635.l118a1",
                   "ref": "P334635.6.2",
                   "inst": "Nabu-šarru-ibni[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}PA-LUGAL-DU₃=Nabu-šarru-ibni[1//1]PN'PN$Nabu-šarru-ibni",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}PA—LUGAL—DU₃",
+                    "form": "{1}{d}PA-LUGAL-DU₃",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -735,8 +737,7 @@
                             "id": "P334635.6.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "LUGAL",
@@ -744,8 +745,7 @@
                             "id": "P334635.6.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "DU₃",

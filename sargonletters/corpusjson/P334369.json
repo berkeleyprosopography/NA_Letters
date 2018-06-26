@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:08",
+  "UTC-timestamp": "2018-06-22T06:08:14",
   "textid": "P334369",
   "cdl": [
     {
@@ -800,7 +800,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}15—BAD₃\\p",
+                  "frag": "{1}15-BAD₃\\p",
                   "id": "P334369.l08865",
                   "ref": "P334369.7.1",
                   "inst": "Issar-duri[]PN$",
@@ -834,8 +834,7 @@
                         "form": "15",
                         "gdl_utf8": "𒌋𒐊",
                         "id": "P334369.7.1.1",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "seq": [
                           {
                             "r": "15"
@@ -986,7 +985,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "am—mar",
+                  "frag": "am-mar",
                   "id": "P334369.l08868",
                   "ref": "P334369.8.2",
                   "inst": "ammar[as much as//as many as]REL$",
@@ -1000,8 +999,7 @@
                         "v": "am",
                         "gdl_utf8": "𒄠",
                         "id": "P334369.8.2.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "mar",
@@ -1019,7 +1017,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "il—li-bi-ni",
+                  "frag": "il-li-bi-ni",
                   "id": "P334369.l08869",
                   "ref": "P334369.8.3",
                   "cof-tails": "P334369.l0886a",
@@ -1033,8 +1031,7 @@
                         "v": "il",
                         "gdl_utf8": "𒅋",
                         "id": "P334369.8.3.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "li",
@@ -1064,7 +1061,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "il—li-bi-ni",
+                  "frag": "il-li-bi-ni",
                   "id": "P334369.l0886a",
                   "ref": "P334369.8.3",
                   "cof-head": "P334369.l08869",
@@ -1078,8 +1075,7 @@
                         "v": "il",
                         "gdl_utf8": "𒅋",
                         "id": "P334369.8.3.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "li",
@@ -2059,7 +2055,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "am—mar",
+                  "frag": "am-mar",
                   "id": "P334369.l08881",
                   "ref": "P334369.14.3",
                   "inst": "ammar[as much as//as many as]REL$",
@@ -2073,8 +2069,7 @@
                         "v": "am",
                         "gdl_utf8": "𒄠",
                         "id": "P334369.14.3.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "mar",
@@ -3304,7 +3299,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i—⸢su⸣-[ri]",
+                  "frag": "i-⸢su⸣-[ri]",
                   "id": "P334369.l0889d",
                   "ref": "P334369.22.3",
                   "inst": "issurri[perhaps]AV",
@@ -3317,8 +3312,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P334369.22.3.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "su",
@@ -4120,7 +4114,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR—aš-šur",
+                  "frag": "KUR-aš-šur",
                   "id": "P334369.l088b1",
                   "ref": "P334369.30.2",
                   "cof-tails": "P334369.l088b2",
@@ -4141,8 +4135,7 @@
                             "id": "P334369.30.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -4168,7 +4161,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR—aš-šur",
+                  "frag": "KUR-aš-šur",
                   "id": "P334369.l088b2",
                   "ref": "P334369.30.2",
                   "cof-head": "P334369.l088b1",
@@ -4188,8 +4181,7 @@
                             "id": "P334369.30.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -5085,14 +5077,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}BAD₃\\p—{1}LUGAL—GI.NA\\t",
+                  "frag": "{uru}BAD₃\\p-{1}LUGAL-GI.NA\\t",
                   "id": "P334369.l088c9",
                   "ref": "P334369.35.4",
                   "inst": "Dur-Šarruken[]GN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}BAD₃-{1}LUGAL-GI.NA=Dur-Šarruken[1//1]GN'GN$Dur-Šarruken",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}BAD₃-{1}LUGAL—GI.NA",
+                    "form": "{URU}BAD₃-{1}LUGAL-GI.NA",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -5123,8 +5115,7 @@
                             "id": "P334369.35.4.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "mods": [
                               {
                                 "b": "BAD₃"
@@ -5164,8 +5155,7 @@
                             "id": "P334369.35.4.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "GI",

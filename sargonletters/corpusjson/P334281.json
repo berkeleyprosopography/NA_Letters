@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:32:51",
+  "UTC-timestamp": "2018-06-22T06:08:05",
   "textid": "P334281",
   "cdl": [
     {
@@ -199,7 +199,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}u₂\\p-paq—{d}ša₂-maš",
+                  "frag": "{1}u₂\\p-paq-{d}ša₂-maš",
                   "id": "P334281.l09d01",
                   "ref": "P334281.3.2",
                   "inst": "Upaq-Šamaš[]PN$",
@@ -244,8 +244,7 @@
                         "v": "paq",
                         "gdl_utf8": "𒄷",
                         "id": "P334281.3.2.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "det": "semantic",
@@ -537,7 +536,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}ša₂—EN.NUN\\m",
+                  "frag": "{lu₂vy}ša₂-EN.NUN\\m",
                   "id": "P334281.l09d09",
                   "ref": "P334281.6.3",
                   "inst": "ša-maṣṣarti[guard]N$",
@@ -580,8 +579,7 @@
                         "v": "ša₂",
                         "gdl_utf8": "𒃻",
                         "id": "P334281.6.3.1",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -709,7 +707,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}da\\d-gil₂—MUŠEN-MEŠ",
+                  "frag": "{lu₂vy}da\\d-gil₂-MUŠEN-MEŠ",
                   "id": "P334281.l09d0c",
                   "ref": "P334281.7.3",
                   "cof-tails": "P334281.l09d0d",
@@ -767,8 +765,7 @@
                         "v": "gil₂",
                         "gdl_utf8": "𒆸",
                         "id": "P334281.7.3.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -802,7 +799,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}da\\d-gil₂—MUŠEN-MEŠ",
+                  "frag": "{lu₂vy}da\\d-gil₂-MUŠEN-MEŠ",
                   "id": "P334281.l09d0d",
                   "ref": "P334281.7.3",
                   "cof-head": "P334281.l09d0c",
@@ -860,8 +857,7 @@
                         "v": "gil₂",
                         "gdl_utf8": "𒆸",
                         "id": "P334281.7.3.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -1423,7 +1419,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}da-gil₂—MUŠEN-MEŠ",
+                  "frag": "{lu₂vy}da-gil₂-MUŠEN-MEŠ",
                   "id": "P334281.l09d1b",
                   "ref": "P334281.13.4",
                   "cof-tails": "P334281.l09d1c",
@@ -1473,8 +1469,7 @@
                         "v": "gil₂",
                         "gdl_utf8": "𒆸",
                         "id": "P334281.13.4.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -1508,7 +1503,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}da-gil₂—MUŠEN-MEŠ",
+                  "frag": "{lu₂vy}da-gil₂-MUŠEN-MEŠ",
                   "id": "P334281.l09d1c",
                   "ref": "P334281.13.4",
                   "cof-head": "P334281.l09d1b",
@@ -1558,8 +1553,7 @@
                         "v": "gil₂",
                         "gdl_utf8": "𒆸",
                         "id": "P334281.13.4.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -2547,7 +2541,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}ša₂—EN.NUN\\m",
+                  "frag": "{lu₂vy}ša₂-EN.NUN\\m",
                   "id": "P334281.l09d32",
                   "ref": "P334281.27.1",
                   "inst": "ša-maṣṣarti[guard]N",
@@ -2591,8 +2585,7 @@
                         "v": "ša₂",
                         "gdl_utf8": "𒃻",
                         "id": "P334281.27.1.1",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",

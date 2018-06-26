@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:34:02",
+  "UTC-timestamp": "2018-06-22T06:08:43",
   "textid": "P334710",
   "cdl": [
     {
@@ -395,7 +395,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "[am—mar",
+                  "frag": "[am-mar",
                   "id": "P334710.l1380a",
                   "ref": "P334710.5.1",
                   "inst": "ammar[as many as]REL",
@@ -412,8 +412,7 @@
                         "breakStart": "1",
                         "o": "[",
                         "break": "missing",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "mar",
@@ -544,14 +543,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "BAD₃\\d—LUGAL\\t—GI.NA{ki}",
+                  "frag": "BAD₃\\d-LUGAL\\t-GI.NA{ki}",
                   "id": "P334710.l1380e",
                   "ref": "P334710.5.5",
                   "inst": "Dur-Šarruken[]GN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:BAD₃-LUGAL-GI.NA{KI}=Dur-Šarruken[1//1]GN'GN$Dur-Šarruken",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "BAD₃—LUGAL—GI.NA{KI}",
+                    "form": "BAD₃-LUGAL-GI.NA{KI}",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -563,8 +562,7 @@
                             "id": "P334710.5.5.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "mods": [
                               {
                                 "b": "BAD₃"
@@ -580,8 +578,7 @@
                             "id": "P334710.5.5.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "mods": [
                               {
                                 "b": "LUGAL"
@@ -1522,14 +1519,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "⸢BAD₃⸣—LUGAL\\t—GI.NA{ki}",
+                  "frag": "⸢BAD₃⸣-LUGAL\\t-GI.NA{ki}",
                   "id": "P334710.l13820",
                   "ref": "P334710.11.3",
                   "inst": "Dur-Šarruken[1]GN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:BAD₃-LUGAL-GI.NA{KI}=Dur-Šarruken[1//1]GN'GN$Dur-Šarruken",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "BAD₃—LUGAL—GI.NA{KI}",
+                    "form": "BAD₃-LUGAL-GI.NA{KI}",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -1543,8 +1540,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "hc": "1"
                           },
                           {
@@ -1553,8 +1549,7 @@
                             "id": "P334710.11.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "mods": [
                               {
                                 "b": "LUGAL"
@@ -2729,7 +2724,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "am]—⸢mar⸣",
+                  "frag": "am]-⸢mar⸣",
                   "id": "P334710.l1383b",
                   "ref": "P334710.19.2",
                   "inst": "ammar[as many as]REL",
@@ -2746,8 +2741,7 @@
                         "break": "missing",
                         "o": "]",
                         "breakEnd": "P334710.19.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "mar",

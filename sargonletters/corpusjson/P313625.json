@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:30:03",
+  "UTC-timestamp": "2018-06-22T06:06:23",
   "textid": "P313625",
   "cdl": [
     {
@@ -1741,7 +1741,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}ša₂—aš-šur—du-⸢bu⸣",
+                  "frag": "{1}ša₂-aš-šur-du-⸢bu⸣",
                   "id": "P313625.l06477",
                   "ref": "P313625.14.3",
                   "inst": "Ša-Aššur-dubbu[]PN$",
@@ -1772,8 +1772,7 @@
                         "v": "ša₂",
                         "gdl_utf8": "𒃻",
                         "id": "P313625.14.3.1",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "aš",
@@ -1785,8 +1784,7 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P313625.14.3.3",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "du",
@@ -2023,7 +2021,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}ša\\ydm—HAL.ṢU-[MEŠ]",
+                  "frag": "{lu₂vy}ša\\ydm-HAL.ṢU-[MEŠ]",
                   "id": "P313625.l0647d",
                   "ref": "P313625.16.3",
                   "inst": "ša-bīrāti[garrison troops]N$",
@@ -2066,8 +2064,7 @@
                         "form": "ša",
                         "gdl_utf8": "𒊭",
                         "id": "P313625.16.3.1",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "mods": [
                           {
                             "b": "ša"

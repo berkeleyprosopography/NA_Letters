@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:29:46",
+  "UTC-timestamp": "2018-06-22T06:06:13",
   "textid": "P313518",
   "cdl": [
     {
@@ -1777,14 +1777,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}EN—ŠU.2—[ṣa-bat",
+                  "frag": "{1}EN-ŠU.2-[ṣa-bat",
                   "id": "P313518.l13021",
                   "ref": "P313518.10.2",
                   "inst": "Bel-qatika-ṣabat[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}EN-ŠU.2-ṣa-bat=Bel-qatika-ṣabat[1//1]PN'PN$Bel-qatika-ṣabat",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}EN—ŠU.2-ṣa-bat",
+                    "form": "{1}EN-ŠU.2-ṣa-bat",
                     "delim": "",
                     "gdl": [
                       {
@@ -1815,8 +1815,7 @@
                             "id": "P313518.10.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "ŠU",
@@ -1834,8 +1833,7 @@
                             "id": "P313518.10.2.3",
                             "break": "damaged",
                             "ho": "1",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "hc": "1",
                             "seq": [
                               {
@@ -6479,15 +6477,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU—KA₂.⸢DINGIR⸣",
+                  "frag": "DUMU-KA₂.⸢DINGIR⸣",
                   "id": "P313518.l130d1",
                   "ref": "P313518.32.1",
                   "cof-tails": "P313518.l130d2",
                   "inst": "māru[son]N$mār&Babili[Babylon]GN$",
-                  "newsig": "@saao/sargonletters%akk-x-neoass:DUMU—KA₂.DINGIR=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:DUMU—KA₂.DINGIR=Babili[Babylon//Babylon]GN'GN$Babili",
+                  "sig": "@saao/sargonletters%akk-x-neoass:DUMU-KA₂.DINGIR=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:=Babili[Babylon//Babylon]GN'GN$Babili",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU—KA₂.DINGIR",
+                    "form": "DUMU-KA₂.DINGIR",
                     "delim": "",
                     "gdl": [
                       {
@@ -6500,8 +6498,7 @@
                             "id": "P313518.32.1.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "KA₂",
@@ -6534,15 +6531,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU—KA₂.⸢DINGIR⸣",
+                  "frag": "DUMU-KA₂.⸢DINGIR⸣",
                   "id": "P313518.l130d2",
                   "ref": "P313518.32.1",
                   "cof-head": "P313518.l130d1",
                   "inst": "māru[son]N$mār&Babili[Babylon]GN$",
-                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU—KA₂.DINGIR",
+                    "form": "DUMU-KA₂.DINGIR",
                     "delim": "",
                     "gdl": [
                       {
@@ -6555,8 +6551,7 @@
                             "id": "P313518.32.1.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "KA₂",
@@ -6581,8 +6576,10 @@
                     ],
                     "cf": "Babili",
                     "gw": "Babylon",
+                    "sense": "Babylon",
                     "norm": "Babili",
-                    "pos": "GN"
+                    "pos": "GN",
+                    "epos": "GN"
                   }
                 },
                 {

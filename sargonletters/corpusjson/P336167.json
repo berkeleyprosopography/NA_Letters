@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:34:38",
+  "UTC-timestamp": "2018-06-22T06:09:01",
   "textid": "P336167",
   "cdl": [
     {
@@ -202,7 +202,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DUG₃.GA—ṣil\\m—E₂.ŠAR₂.RA\\t",
+                  "frag": "{1}DUG₃.GA-ṣil\\m-E₂.ŠAR₂.RA\\t",
                   "id": "P336167.l02d40",
                   "ref": "P336167.3.2",
                   "inst": "Ṭab-ṣil-Ešarra[1]PN",
@@ -247,8 +247,7 @@
                             "id": "P336167.3.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -256,8 +255,7 @@
                         "form": "ṣil",
                         "gdl_utf8": "𒉣",
                         "id": "P336167.3.2.3",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "mods": [
                           {
                             "b": "ṣil"
@@ -1142,14 +1140,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}A-MEŠ\\m—DUG₃.GA-MEŠ\\m",
+                  "frag": "{uru}A-MEŠ\\m-DUG₃.GA-MEŠ\\m",
                   "id": "P336167.l02d57",
                   "ref": "P336167.8.3",
                   "inst": "Me-ṭabute[]GN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}A-MEŠ-DUG₃.GA-MEŠ=Me-ṭabute[1//1]GN'GN$Me-ṭabute",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}A-MEŠ—DUG₃.GA-MEŠ",
+                    "form": "{URU}A-MEŠ-DUG₃.GA-MEŠ",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -1188,8 +1186,7 @@
                             "id": "P336167.8.3.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "mods": [
                               {
                                 "b": "MEŠ"
@@ -4769,14 +4766,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{⸢uru⸣}ŠA₃—URU",
+                  "frag": "{⸢uru⸣}ŠA₃-URU",
                   "id": "P336167.l02de2",
                   "ref": "P336167.28.11",
                   "inst": "Libbi-ali[Inner City (Assur)]GN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}ŠA₃-URU=Libbi-ali[Inner City (Assur)//Inner City (Assur)]GN'GN$Libbi-ali",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}ŠA₃—URU",
+                    "form": "{URU}ŠA₃-URU",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -4810,8 +4807,7 @@
                             "id": "P336167.28.11.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "URU",

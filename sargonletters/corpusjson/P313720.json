@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:30:20",
+  "UTC-timestamp": "2018-06-22T06:06:33",
   "textid": "P313720",
   "cdl": [
     {
@@ -1411,15 +1411,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "[EN]—⸢URU⸣-u-te-e",
+                  "frag": "[EN]-⸢URU⸣-u-te-e",
                   "id": "P313720.l0be0f",
                   "ref": "P313720.9.1",
                   "cof-tails": "P313720.l0be10",
                   "inst": "bēlu[lord]N$bēl&ālūtu[of the city]N$ālūtê",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:EN-URU-u-te-e=bēlu[lord//lord]N'N$bēl&&@saao/sargonletters%akk-x-neoass:=ālūtu[of the city//of the city]N'N$ālūtê",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "EN—URU-u-te-e",
+                    "form": "EN-URU-u-te-e",
                     "delim": "",
                     "gdl": [
                       {
@@ -1436,8 +1436,7 @@
                             "role": "logo",
                             "logolang": "sux",
                             "breakEnd": "P313720.9.1.0",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "URU",
@@ -1473,20 +1472,23 @@
                     ],
                     "cf": "bēlu",
                     "gw": "lord",
+                    "sense": "lord",
                     "norm": "bēl",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "[EN]—⸢URU⸣-u-te-e",
+                  "frag": "[EN]-⸢URU⸣-u-te-e",
                   "id": "P313720.l0be10",
                   "ref": "P313720.9.1",
                   "cof-head": "P313720.l0be0f",
                   "inst": "bēlu[lord]N$bēl&ālūtu[of the city]N$ālūtê",
+                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=ālūtu[of the city//of the city]N'N$ālūtê",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "EN—URU-u-te-e",
+                    "form": "EN-URU-u-te-e",
                     "delim": "",
                     "gdl": [
                       {
@@ -1503,8 +1505,7 @@
                             "role": "logo",
                             "logolang": "sux",
                             "breakEnd": "P313720.9.1.0",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "URU",
@@ -1540,8 +1541,10 @@
                     ],
                     "cf": "ālūtu",
                     "gw": "of the city",
+                    "sense": "of the city",
                     "norm": "ālūtê",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
@@ -4048,15 +4051,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "⸢DUMU⸣—LUGAL",
+                  "frag": "⸢DUMU⸣-LUGAL",
                   "id": "P313720.l0be6c",
                   "ref": "P313720.23.2",
                   "cof-tails": "P313720.l0be6d",
                   "inst": "māru[son]N$mār&šarru[king]N$šarri",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:DUMU-LUGAL=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU—LUGAL",
+                    "form": "DUMU-LUGAL",
                     "delim": "",
                     "gdl": [
                       {
@@ -4071,8 +4074,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "hc": "1"
                           },
                           {
@@ -4087,20 +4089,23 @@
                     ],
                     "cf": "māru",
                     "gw": "son",
+                    "sense": "son",
                     "norm": "mār",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "⸢DUMU⸣—LUGAL",
+                  "frag": "⸢DUMU⸣-LUGAL",
                   "id": "P313720.l0be6d",
                   "ref": "P313720.23.2",
                   "cof-head": "P313720.l0be6c",
                   "inst": "māru[son]N$mār&šarru[king]N$šarri",
+                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU—LUGAL",
+                    "form": "DUMU-LUGAL",
                     "delim": "",
                     "gdl": [
                       {
@@ -4115,8 +4120,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "hc": "1"
                           },
                           {
@@ -4131,8 +4135,10 @@
                     ],
                     "cf": "šarru",
                     "gw": "king",
+                    "sense": "king",
                     "norm": "šarri",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
@@ -4526,7 +4532,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}⸢ma⸣-nu—ki-i—{d}[IM",
+                  "frag": "{1}⸢ma⸣-nu-ki-i-{d}[IM",
                   "id": "P313720.l0be7d",
                   "ref": "P313720.25.1",
                   "inst": "Mannu-ki-Adad[]PN$",
@@ -4571,8 +4577,7 @@
                         "v": "nu",
                         "gdl_utf8": "𒉡",
                         "id": "P313720.25.1.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "ki",
@@ -4584,8 +4589,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P313720.25.1.4",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",

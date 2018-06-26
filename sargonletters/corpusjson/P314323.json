@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:31:48",
+  "UTC-timestamp": "2018-06-22T06:07:33",
   "textid": "P314323",
   "cdl": [
     {
@@ -2715,7 +2715,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}600—E₂.GAL",
+                  "frag": "{lu₂vy}600-E₂.GAL",
                   "id": "P314323.l09c35",
                   "ref": "P314323.13.5",
                   "cof-tails": "P314323.l09c36",
@@ -2762,8 +2762,7 @@
                         "form": "600",
                         "gdl_utf8": "𒐞",
                         "id": "P314323.13.5.1",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "seq": [
                           {
                             "r": "600"
@@ -2802,7 +2801,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}600—E₂.GAL",
+                  "frag": "{lu₂vy}600-E₂.GAL",
                   "id": "P314323.l09c36",
                   "ref": "P314323.13.5",
                   "cof-head": "P314323.l09c35",
@@ -2849,8 +2848,7 @@
                         "form": "600",
                         "gdl_utf8": "𒐞",
                         "id": "P314323.13.5.1",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "seq": [
                           {
                             "r": "600"
@@ -3033,7 +3031,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy]}600—E₂.GAL",
+                  "frag": "{lu₂vy]}600-E₂.GAL",
                   "id": "P314323.l09c3d",
                   "ref": "P314323.14.4",
                   "cof-tails": "P314323.l09c3e",
@@ -3083,8 +3081,7 @@
                         "form": "600",
                         "gdl_utf8": "𒐞",
                         "id": "P314323.14.4.1",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "seq": [
                           {
                             "r": "600"
@@ -3123,7 +3120,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy]}600—E₂.GAL",
+                  "frag": "{lu₂vy]}600-E₂.GAL",
                   "id": "P314323.l09c3e",
                   "ref": "P314323.14.4",
                   "cof-head": "P314323.l09c3d",
@@ -3173,8 +3170,7 @@
                         "form": "600",
                         "gdl_utf8": "𒐞",
                         "id": "P314323.14.4.1",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "seq": [
                           {
                             "r": "600"

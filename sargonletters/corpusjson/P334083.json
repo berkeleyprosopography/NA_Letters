@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:32:05",
+  "UTC-timestamp": "2018-06-22T06:07:42",
   "textid": "P334083",
   "cdl": [
     {
@@ -207,7 +207,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}UTU—u₂-pa-hir₂",
+                  "frag": "{1}{d}UTU-u₂-pa-hir₂",
                   "id": "P334083.l03bd7",
                   "ref": "P334083.3.2",
                   "inst": "Šamaš-upahhir[1]PN$",
@@ -255,8 +255,7 @@
                             "id": "P334083.3.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -641,15 +640,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}EN—URU-MEŠ\\m-ni",
+                  "frag": "{lu₂v}EN-URU-MEŠ\\m-ni",
                   "id": "P334083.l03be1",
                   "ref": "P334083.6.1",
                   "cof-tails": "P334083.l03be2",
                   "inst": "bēlu[lord]N$bēl&ālu[city]N$ālāni",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}EN-URU-MEŠ-ni=bēlu[lord//lord]N'N$bēl&&@saao/sargonletters%akk-x-neoass:=ālu[city//city]N'N$ālāni",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}EN—URU-MEŠ-ni",
+                    "form": "{LU₂}EN-URU-MEŠ-ni",
                     "delim": "",
                     "gdl": [
                       {
@@ -689,8 +688,7 @@
                             "id": "P334083.6.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "URU",
@@ -727,20 +725,23 @@
                     ],
                     "cf": "bēlu",
                     "gw": "lord",
+                    "sense": "lord",
                     "norm": "bēl",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}EN—URU-MEŠ\\m-ni",
+                  "frag": "{lu₂v}EN-URU-MEŠ\\m-ni",
                   "id": "P334083.l03be2",
                   "ref": "P334083.6.1",
                   "cof-head": "P334083.l03be1",
                   "inst": "bēlu[lord]N$bēl&ālu[city]N$ālāni",
+                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=ālu[city//city]N'N$ālāni",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}EN—URU-MEŠ-ni",
+                    "form": "{LU₂}EN-URU-MEŠ-ni",
                     "delim": "",
                     "gdl": [
                       {
@@ -780,8 +781,7 @@
                             "id": "P334083.6.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "URU",
@@ -818,8 +818,10 @@
                     ],
                     "cf": "ālu",
                     "gw": "city",
+                    "sense": "city",
                     "norm": "ālāni",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {

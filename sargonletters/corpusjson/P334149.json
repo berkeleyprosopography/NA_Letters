@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:32:26",
+  "UTC-timestamp": "2018-06-22T06:07:52",
   "textid": "P334149",
   "cdl": [
     {
@@ -199,14 +199,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}15—MU—BA-ša₂",
+                  "frag": "{1}{d}15-MU-BA-ša₂",
                   "id": "P334149.l09e3e",
                   "ref": "P334149.3.2",
                   "inst": "Issar-šumu-iqiša[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}15-MU-BA-ša₂=Issar-šumu-iqiša[1//1]PN'PN$Issar-šumu-iqiša",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}15-MU—BA-ša₂",
+                    "form": "{1}{d}15-MU-BA-ša₂",
                     "gdl": [
                       {
                         "det": "semantic",
@@ -243,8 +243,7 @@
                         "form": "15",
                         "gdl_utf8": "𒌋𒐊",
                         "id": "P334149.3.2.2",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "seq": [
                           {
                             "r": "15"
@@ -261,8 +260,7 @@
                             "id": "P334149.3.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "BA",
@@ -556,7 +554,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}DUMU—šip-ra-ni",
+                  "frag": "{lu₂vy}DUMU-šip-ra-ni",
                   "id": "P334149.l09e43",
                   "ref": "P334149.6.1",
                   "cof-tails": "P334149.l09e44",
@@ -607,8 +605,7 @@
                             "id": "P334149.6.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -641,7 +638,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}DUMU—šip-ra-ni",
+                  "frag": "{lu₂vy}DUMU-šip-ra-ni",
                   "id": "P334149.l09e44",
                   "ref": "P334149.6.1",
                   "cof-head": "P334149.l09e43",
@@ -692,8 +689,7 @@
                             "id": "P334149.6.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

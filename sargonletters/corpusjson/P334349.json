@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:05",
+  "UTC-timestamp": "2018-06-22T06:08:13",
   "textid": "P334349",
   "cdl": [
     {
@@ -470,7 +470,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a—dan-⸢niš⸣",
+                  "frag": "a-dan-⸢niš⸣",
                   "id": "P334349.l06a3a",
                   "ref": "P334349.5.2",
                   "inst": "adanniš[very much]AV",
@@ -483,8 +483,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P334349.5.2.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "dan",

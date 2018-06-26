@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:32:02",
+  "UTC-timestamp": "2018-06-22T06:07:41",
   "textid": "P334076",
   "cdl": [
     {
@@ -205,7 +205,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}man-nu—ki-i—{uru}ni-nu-a",
+                  "frag": "{1}man-nu-ki-i-{uru}ni-nu-a",
                   "id": "P334076.l0ef08",
                   "ref": "P334076.3.2",
                   "inst": "Mannu-ki-Ninua[]PN$",
@@ -242,8 +242,7 @@
                         "v": "nu",
                         "gdl_utf8": "𒉡",
                         "id": "P334076.3.2.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "ki",
@@ -255,8 +254,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P334076.3.2.4",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "det": "semantic",
@@ -1291,14 +1289,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}MAN—IGI-a-ni",
+                  "frag": "{1}MAN-IGI-a-ni",
                   "id": "P334076.l0ef23",
                   "ref": "P334076.10.1",
                   "inst": "Šarru-emuranni[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}MAN-IGI-a-ni=Šarru-emuranni[1//1]PN'PN$Šarru-emuranni",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}MAN—IGI-a-ni",
+                    "form": "{1}MAN-IGI-a-ni",
                     "delim": "",
                     "gdl": [
                       {
@@ -1329,8 +1327,7 @@
                             "id": "P334076.10.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "IGI",
@@ -1356,8 +1353,10 @@
                     ],
                     "cf": "Šarru-emuranni",
                     "gw": "1",
+                    "sense": "1",
                     "norm": "Šarru-emuranni",
-                    "pos": "PN"
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {
@@ -1845,14 +1844,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}kar—{1}MAN—GIN",
+                  "frag": "{uru}kar-{1}MAN-GIN",
                   "id": "P334076.l0ef31",
                   "ref": "P334076.12.6",
                   "inst": "Kar-Šarrukin[1]GN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}kar-{1}MAN-GIN=Kar-Šarrukin[1//1]GN'GN$Kar-Šarrukin",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}kar-{1}MAN—GIN",
+                    "form": "{URU}kar-{1}MAN-GIN",
                     "gdl": [
                       {
                         "det": "semantic",
@@ -1877,8 +1876,7 @@
                         "v": "kar",
                         "gdl_utf8": "𒋼𒀀",
                         "id": "P334076.12.6.1",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -1908,8 +1906,7 @@
                             "id": "P334076.12.6.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "GIN",
@@ -1923,7 +1920,10 @@
                     ],
                     "cf": "Kar-Šarrukin",
                     "gw": "1",
-                    "pos": "GN"
+                    "sense": "1",
+                    "norm": "Kar-Šarrukin",
+                    "pos": "GN",
+                    "epos": "GN"
                   }
                 },
                 {
@@ -2537,14 +2537,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}kar—{1}MAN—GIN",
+                  "frag": "{uru}kar-{1}MAN-GIN",
                   "id": "P334076.l0ef41",
                   "ref": "P334076.16.3",
                   "inst": "Kar-Šarrukin[1]GN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}kar-{1}MAN-GIN=Kar-Šarrukin[1//1]GN'GN$Kar-Šarrukin",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}kar-{1}MAN—GIN",
+                    "form": "{URU}kar-{1}MAN-GIN",
                     "delim": "",
                     "gdl": [
                       {
@@ -2570,8 +2570,7 @@
                         "v": "kar",
                         "gdl_utf8": "𒋼𒀀",
                         "id": "P334076.16.3.1",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -2601,8 +2600,7 @@
                             "id": "P334076.16.3.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "GIN",
@@ -2616,7 +2614,10 @@
                     ],
                     "cf": "Kar-Šarrukin",
                     "gw": "1",
-                    "pos": "GN"
+                    "sense": "1",
+                    "norm": "Kar-Šarrukin",
+                    "pos": "GN",
+                    "epos": "GN"
                   }
                 },
                 {
@@ -6276,7 +6277,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a—dan-niš",
+                  "frag": "a-dan-niš",
                   "id": "P334076.l0efa7",
                   "ref": "P334076.38.2",
                   "inst": "adanniš[very much]AV",
@@ -6290,8 +6291,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P334076.38.2.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "dan",

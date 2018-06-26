@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:29:52",
+  "UTC-timestamp": "2018-06-22T06:06:17",
   "textid": "P313559",
   "cdl": [
     {
@@ -1648,15 +1648,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{[lu₂v]}⸢NIGIR₂—E₂⸣.[GAL",
+                  "frag": "{[lu₂v]}⸢NIGIR₂-E₂⸣.[GAL",
                   "id": "P313559.l018e7",
                   "ref": "P313559.12.1",
                   "cof-tails": "P313559.l018e8",
                   "inst": "nāgiru[herald]N$nāgir&ēkallu[palace]N$ēkalli",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}NIGIR₂-E₂.GAL=nāgiru[herald//herald]N'N$nāgir&&@saao/sargonletters%akk-x-neoass:=ēkallu[palace//palace]N'N$ēkalli",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}NIGIR₂—E₂.GAL",
+                    "form": "{LU₂}NIGIR₂-E₂.GAL",
                     "delim": "",
                     "gdl": [
                       {
@@ -1702,8 +1702,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "E₂",
@@ -1730,20 +1729,23 @@
                     ],
                     "cf": "nāgiru",
                     "gw": "herald",
+                    "sense": "herald",
                     "norm": "nāgir",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "{[lu₂v]}⸢NIGIR₂—E₂⸣.[GAL",
+                  "frag": "{[lu₂v]}⸢NIGIR₂-E₂⸣.[GAL",
                   "id": "P313559.l018e8",
                   "ref": "P313559.12.1",
                   "cof-head": "P313559.l018e7",
                   "inst": "nāgiru[herald]N$nāgir&ēkallu[palace]N$ēkalli",
+                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=ēkallu[palace//palace]N'N$ēkalli",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}NIGIR₂—E₂.GAL",
+                    "form": "{LU₂}NIGIR₂-E₂.GAL",
                     "delim": "",
                     "gdl": [
                       {
@@ -1789,8 +1791,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "E₂",
@@ -1817,8 +1818,10 @@
                     ],
                     "cf": "ēkallu",
                     "gw": "palace",
+                    "sense": "palace",
                     "norm": "ēkalli",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
@@ -2677,7 +2680,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR—aš-šur",
+                  "frag": "KUR-aš-šur",
                   "id": "P313559.l01905",
                   "ref": "P313559.20.2",
                   "inst": "+Mat-Aššur[Assyria]GN$",
@@ -2697,8 +2700,7 @@
                             "id": "P313559.20.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

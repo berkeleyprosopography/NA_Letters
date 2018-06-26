@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:34:47",
+  "UTC-timestamp": "2018-06-22T06:09:06",
   "textid": "X900005",
   "cdl": [
     {
@@ -213,7 +213,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}10—⸢ha⸣-ti",
+                  "frag": "{1}10-⸢ha⸣-ti",
                   "id": "X900005.l043e6",
                   "ref": "X900005.3.2",
                   "inst": "Adda-hati[1]PN",
@@ -246,8 +246,7 @@
                         "form": "10",
                         "gdl_utf8": "𒌋",
                         "id": "X900005.3.2.1",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "seq": [
                           {
                             "r": "10"
@@ -1171,7 +1170,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR—aš-šur",
+                  "frag": "KUR-aš-šur",
                   "id": "X900005.l043fc",
                   "ref": "X900005.9.3",
                   "cof-tails": "X900005.l043fd",
@@ -1191,8 +1190,7 @@
                             "id": "X900005.9.3.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1218,7 +1216,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR—aš-šur",
+                  "frag": "KUR-aš-šur",
                   "id": "X900005.l043fd",
                   "ref": "X900005.9.3",
                   "cof-head": "X900005.l043fc",
@@ -1237,8 +1235,7 @@
                             "id": "X900005.9.3.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1614,7 +1611,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}EN—⸢iq⸣-[bi]",
+                  "frag": "{1}EN-⸢iq⸣-[bi]",
                   "id": "X900005.l04406",
                   "ref": "X900005.12.4",
                   "inst": "Bel-iqbi[1]PN",
@@ -1651,8 +1648,7 @@
                             "id": "X900005.12.4.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -4274,7 +4270,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "[i]—⸢da-tu-šu⸣",
+                  "frag": "[i]-⸢da-tu-šu⸣",
                   "id": "X900005.l0444d",
                   "ref": "X900005.35.1",
                   "cof-tails": "X900005.l0444e",
@@ -4293,8 +4289,7 @@
                         "o": "]",
                         "break": "missing",
                         "breakEnd": "X900005.35.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "da",
@@ -4330,7 +4325,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "[i]—⸢da-tu-šu⸣",
+                  "frag": "[i]-⸢da-tu-šu⸣",
                   "id": "X900005.l0444e",
                   "ref": "X900005.35.1",
                   "cof-head": "X900005.l0444d",
@@ -4349,8 +4344,7 @@
                         "o": "]",
                         "break": "missing",
                         "breakEnd": "X900005.35.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "da",

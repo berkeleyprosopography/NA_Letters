@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:28",
+  "UTC-timestamp": "2018-06-22T06:08:25",
   "textid": "P334519",
   "cdl": [
     {
@@ -200,14 +200,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}30—PAB-MEŠ\\m—SU\\t",
+                  "frag": "{1}30-PAB-MEŠ\\m-SU\\t",
                   "id": "P334519.l0149c",
                   "ref": "P334519.2.5",
                   "inst": "Sin-ahhe-eriba[Sennacherib]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}30-PAB-MEŠ-SU=Sin-ahhe-eriba[Sennacherib//Sennacherib]PN'PN$Sin-ahhe-eriba",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}30-PAB-MEŠ—SU",
+                    "form": "{1}30-PAB-MEŠ-SU",
                     "gdl": [
                       {
                         "det": "semantic",
@@ -233,8 +233,7 @@
                         "form": "30",
                         "gdl_utf8": "𒌍",
                         "id": "P334519.2.5.1",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "seq": [
                           {
                             "r": "30"
@@ -259,8 +258,7 @@
                             "id": "P334519.2.5.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "mods": [
                               {
                                 "b": "MEŠ"
@@ -553,7 +551,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR]—aš-šur{ki}",
+                  "frag": "KUR]-aš-šur{ki}",
                   "id": "P334519.l014a4",
                   "ref": "P334519.4.3",
                   "cof-tails": "P334519.l014a5",
@@ -577,8 +575,7 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P334519.4.1.0",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -623,7 +620,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR]—aš-šur{ki}",
+                  "frag": "KUR]-aš-šur{ki}",
                   "id": "P334519.l014a5",
                   "ref": "P334519.4.3",
                   "cof-head": "P334519.l014a4",
@@ -646,8 +643,7 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P334519.4.1.0",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1191,7 +1187,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a—dan-niš",
+                  "frag": "a-dan-niš",
                   "id": "P334519.l014b3",
                   "ref": "P334519.6.5",
                   "inst": "adanniš[very much]AV",
@@ -1205,8 +1201,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P334519.6.5.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "dan",
@@ -1488,14 +1483,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}EN—KAR-ir",
+                  "frag": "{1}EN-KAR-ir",
                   "id": "P334519.l014bb",
                   "ref": "P334519.7.6",
                   "inst": "Bel-eṭir[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}EN-KAR-ir=Bel-eṭir[1//1]PN'PN$Bel-eṭir",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}EN—KAR-ir",
+                    "form": "{1}EN-KAR-ir",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -1525,8 +1520,7 @@
                             "id": "P334519.7.6.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "KAR",
@@ -2204,14 +2198,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}AG—KAR-ir—ZI-MEŠ\\m",
+                  "frag": "{1}{d}AG-KAR-ir-ZI-MEŠ\\m",
                   "id": "P334519.l014d3",
                   "ref": "P334519.13.6",
                   "inst": "Nabu-eṭir-napšati[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}AG-KAR-ir-ZI-MEŠ=Nabu-eṭir-napšati[1//1]PN'PN$Nabu-eṭir-napšati",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}AG—KAR-ir-ZI-MEŠ",
+                    "form": "{1}{d}AG-KAR-ir-ZI-MEŠ",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -2252,8 +2246,7 @@
                             "id": "P334519.13.6.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "KAR",
@@ -2269,8 +2262,7 @@
                         "v": "ir",
                         "gdl_utf8": "𒅕",
                         "id": "P334519.13.6.4",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -2790,7 +2782,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "ah—⸢hur⸣",
+                  "frag": "ah-⸢hur⸣",
                   "id": "P334519.l014e4",
                   "ref": "P334519.15.8",
                   "inst": "ahhūr[further(more)]AV",
@@ -2803,8 +2795,7 @@
                         "v": "ah",
                         "gdl_utf8": "𒄴",
                         "id": "P334519.15.8.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "hur",
@@ -3142,7 +3133,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA]—⸢mu⸣-šal-lim",
+                  "frag": "{1}{d}PA]-⸢mu⸣-šal-lim",
                   "id": "P334519.l014ee",
                   "ref": "P334519.17.2",
                   "inst": "Nabu-mušallim[]PN$",
@@ -3196,8 +3187,7 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P334519.17.1.0",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -3840,7 +3830,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA—⸢mu⸣-[šal]-lim",
+                  "frag": "{1}{d}PA-⸢mu⸣-[šal]-lim",
                   "id": "P334519.l01500",
                   "ref": "P334519.21.5",
                   "inst": "Nabu-mušallim[]PN$",
@@ -3890,8 +3880,7 @@
                             "gdl_collated": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -4183,7 +4172,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA]—⸢mu-šal⸣-lim",
+                  "frag": "{1}{d}PA]-⸢mu-šal⸣-lim",
                   "id": "P334519.l01507",
                   "ref": "P334519.23.2",
                   "inst": "Nabu-mušallim[]PN$",
@@ -4237,8 +4226,7 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P334519.23.1.0",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

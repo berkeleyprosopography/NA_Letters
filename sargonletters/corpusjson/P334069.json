@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:31:59",
+  "UTC-timestamp": "2018-06-22T06:07:39",
   "textid": "P334069",
   "cdl": [
     {
@@ -207,7 +207,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}gab-bu—ana—aš-šur",
+                  "frag": "{1}gab-bu-ana-aš-šur",
                   "id": "P334069.l08e7a",
                   "ref": "P334069.3.2",
                   "inst": "Gabbu-ana-Aššur[1]PN",
@@ -244,15 +244,13 @@
                         "v": "bu",
                         "gdl_utf8": "𒁍",
                         "id": "P334069.3.2.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "ana",
                         "gdl_utf8": "𒁹",
                         "id": "P334069.3.2.3",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "aš",
@@ -2914,7 +2912,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}A—šip-ri",
+                  "frag": "{lu₂vy}A-šip-ri",
                   "id": "P334069.l08ebc",
                   "ref": "P334069.26.2",
                   "cof-tails": "P334069.l08ebd",
@@ -2965,8 +2963,7 @@
                             "id": "P334069.26.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -2992,7 +2989,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}A—šip-ri",
+                  "frag": "{lu₂vy}A-šip-ri",
                   "id": "P334069.l08ebd",
                   "ref": "P334069.26.2",
                   "cof-head": "P334069.l08ebc",
@@ -3043,8 +3040,7 @@
                             "id": "P334069.26.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -4615,7 +4611,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a—mar",
+                  "frag": "a-mar",
                   "id": "P334069.l08ee8",
                   "ref": "P334069.41.1",
                   "inst": "ammar[as much as//as many as]REL$ammar",
@@ -4629,8 +4625,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P334069.41.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "mar",

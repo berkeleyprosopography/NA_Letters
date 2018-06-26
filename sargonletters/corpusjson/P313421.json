@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:29:23",
+  "UTC-timestamp": "2018-06-22T06:05:58",
   "textid": "P313421",
   "cdl": [
     {
@@ -213,7 +213,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}⸢LUGAL⸣—e-mur-[an-ni]",
+                  "frag": "{1}⸢LUGAL⸣-e-mur-[an-ni]",
                   "id": "P313421.l128dc",
                   "ref": "P313421.3.2",
                   "inst": "Šarru-emuranni[1]PN",
@@ -252,8 +252,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "hc": "1"
                           }
                         ]
@@ -636,14 +635,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}UTU—DINGIR-a.a",
+                  "frag": "{1}{d}UTU-DINGIR-a.a",
                   "id": "P313421.l128e6",
                   "ref": "P313421.5.5",
                   "inst": "Šamaš-ilaʾi[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}UTU-DINGIR-a.a=Šamaš-ilaʾi[1//1]PN'PN$Šamaš-ilaʾi",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}UTU—DINGIR-a.a",
+                    "form": "{1}{d}UTU-DINGIR-a.a",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -684,8 +683,7 @@
                             "id": "P313421.5.5.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "DINGIR",
@@ -838,14 +836,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur—EN—LAL-in",
+                  "frag": "{1}aš-šur-EN-LAL-in",
                   "id": "P313421.l128e9",
                   "ref": "P313421.6.3",
                   "inst": "Aššur-belu-taqqin[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}aš-šur-EN-LAL-in=Aššur-belu-taqqin[1//1]PN'PN$Aššur-belu-taqqin",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}aš-šur-EN—LAL-in",
+                    "form": "{1}aš-šur-EN-LAL-in",
                     "gdl": [
                       {
                         "det": "semantic",
@@ -875,8 +873,7 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P313421.6.3.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -888,8 +885,7 @@
                             "id": "P313421.6.3.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "LAL",
@@ -1104,7 +1100,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}a-bi—si",
+                  "frag": "{1}a-bi-si",
                   "id": "P313421.l128ef",
                   "ref": "P313421.7.6",
                   "inst": "Abi-Seʾ[]PN$",
@@ -1144,8 +1140,7 @@
                         "v": "bi",
                         "gdl_utf8": "𒁉",
                         "id": "P313421.7.6.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "si",
@@ -1375,7 +1370,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d⸣}IM—⸢rem₂-ni⸣",
+                  "frag": "{1}{d⸣}IM-⸢rem₂-ni⸣",
                   "id": "P313421.l128f4",
                   "ref": "P313421.11.2",
                   "inst": "Adad-remanni[]PN$",
@@ -1426,8 +1421,7 @@
                             "id": "P313421.11.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

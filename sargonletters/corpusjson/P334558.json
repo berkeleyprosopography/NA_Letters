@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:34",
+  "UTC-timestamp": "2018-06-22T06:08:28",
   "textid": "P334558",
   "cdl": [
     {
@@ -199,7 +199,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur—a-lik—pa-an",
+                  "frag": "{1}aš-šur-a-lik-pa-an",
                   "id": "P334558.l09acb",
                   "ref": "P334558.3.2",
                   "inst": "Aššur-alik-pani[]PN$",
@@ -236,8 +236,7 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P334558.3.2.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "a",
@@ -249,8 +248,7 @@
                         "v": "lik",
                         "gdl_utf8": "𒌨",
                         "id": "P334558.3.2.4",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "pa",
@@ -553,14 +551,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}EN—SUM-na",
+                  "frag": "{1}EN-SUM-na",
                   "id": "P334558.l09ad4",
                   "ref": "P334558.5.4",
                   "inst": "Bel-iddina[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}EN-SUM-na=Bel-iddina[1//1]PN'PN$Bel-iddina",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}EN—SUM-na",
+                    "form": "{1}EN-SUM-na",
                     "delim": "",
                     "gdl": [
                       {
@@ -591,8 +589,7 @@
                             "id": "P334558.5.4.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "SUM",
@@ -2016,15 +2013,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂—EN-MEŠ-[šu₂-nu",
+                  "frag": "E₂-EN-MEŠ-[šu₂-nu",
                   "id": "P334558.l09b05",
                   "ref": "P334558.15.2",
                   "cof-tails": "P334558.l09b06",
                   "inst": "bītu[house]N$bēt&bēlu[lord]N$bēlīšunu",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:E₂-EN-MEŠ-šu₂-nu=bītu[house//house]N'N$bēt&&@saao/sargonletters%akk-x-neoass:=bēlu[lord//lord]N'N$bēlīšunu",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "E₂—EN-MEŠ-šu₂-nu",
+                    "form": "E₂-EN-MEŠ-šu₂-nu",
                     "delim": "",
                     "gdl": [
                       {
@@ -2037,8 +2034,7 @@
                             "id": "P334558.15.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "EN",
@@ -2076,20 +2072,23 @@
                     ],
                     "cf": "bītu",
                     "gw": "house",
+                    "sense": "house",
                     "norm": "bēt",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "E₂—EN-MEŠ-[šu₂-nu",
+                  "frag": "E₂-EN-MEŠ-[šu₂-nu",
                   "id": "P334558.l09b06",
                   "ref": "P334558.15.2",
                   "cof-head": "P334558.l09b05",
                   "inst": "bītu[house]N$bēt&bēlu[lord]N$bēlīšunu",
+                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=bēlu[lord//lord]N'N$bēlīšunu",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "E₂—EN-MEŠ-šu₂-nu",
+                    "form": "E₂-EN-MEŠ-šu₂-nu",
                     "delim": "",
                     "gdl": [
                       {
@@ -2102,8 +2101,7 @@
                             "id": "P334558.15.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "EN",
@@ -2141,8 +2139,10 @@
                     ],
                     "cf": "bēlu",
                     "gw": "lord",
+                    "sense": "lord",
                     "norm": "bēlīšunu",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {

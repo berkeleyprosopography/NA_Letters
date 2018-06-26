@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:41",
+  "UTC-timestamp": "2018-06-22T06:08:31",
   "textid": "P334598",
   "cdl": [
     {
@@ -968,14 +968,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš]-⸢šur⸣—U—LAL",
+                  "frag": "{1}aš]-⸢šur⸣-U-LAL",
                   "id": "P334598.l02e04",
                   "ref": "P334598.12.1",
                   "inst": "Aššur-belu-taqqin[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}aš-šur-U-LAL=Aššur-belu-taqqin[1//1]PN'PN$Aššur-belu-taqqin",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}aš-šur-U—LAL",
+                    "form": "{1}aš-šur-U-LAL",
                     "delim": "",
                     "gdl": [
                       {
@@ -1015,8 +1015,7 @@
                         "break": "damaged",
                         "gdl_collated": "1",
                         "ho": "1",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "hc": "1"
                       },
                       {
@@ -1029,8 +1028,7 @@
                             "id": "P334598.12.1.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "LAL",
@@ -1155,14 +1153,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{⸢uru⸣}ŠE—KAM-MEŠ",
+                  "frag": "{⸢uru⸣}ŠE-KAM-MEŠ",
                   "id": "P334598.l02e07",
                   "ref": "P334598.13.2",
                   "inst": "Kapar-Diqarate[]GN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}ŠE-KAM-MEŠ=Kapar-Diqarate[1//1]GN'GN$Kapar-Diqarate",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}ŠE—KAM-MEŠ",
+                    "form": "{URU}ŠE-KAM-MEŠ",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -1196,8 +1194,7 @@
                             "id": "P334598.13.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "KAM",

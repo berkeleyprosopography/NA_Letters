@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:32:57",
+  "UTC-timestamp": "2018-06-22T06:08:08",
   "textid": "P334318",
   "cdl": [
     {
@@ -455,7 +455,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}DUMU—šip-ri-ia",
+                  "frag": "{lu₂v}DUMU-šip-ri-ia",
                   "id": "P334318.l0b983",
                   "ref": "P334318.4.1",
                   "cof-tails": "P334318.l0b984",
@@ -503,8 +503,7 @@
                             "id": "P334318.4.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -536,7 +535,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}DUMU—šip-ri-ia",
+                  "frag": "{lu₂v}DUMU-šip-ri-ia",
                   "id": "P334318.l0b984",
                   "ref": "P334318.4.1",
                   "cof-head": "P334318.l0b983",
@@ -584,8 +583,7 @@
                             "id": "P334318.4.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -671,7 +669,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}DUMU—šip-ri-ia",
+                  "frag": "{lu₂v}DUMU-šip-ri-ia",
                   "id": "P334318.l0b986",
                   "ref": "P334318.5.1",
                   "cof-tails": "P334318.l0b987",
@@ -719,8 +717,7 @@
                             "id": "P334318.5.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -752,7 +749,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}DUMU—šip-ri-ia",
+                  "frag": "{lu₂v}DUMU-šip-ri-ia",
                   "id": "P334318.l0b987",
                   "ref": "P334318.5.1",
                   "cof-head": "P334318.l0b986",
@@ -800,8 +797,7 @@
                             "id": "P334318.5.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -3673,15 +3669,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KASKAL-MEŠ\\m—LUGAL-MEŠ\\m-ni",
+                  "frag": "KASKAL-MEŠ\\m-LUGAL-MEŠ\\m-ni",
                   "id": "P334318.l0b9d1",
                   "ref": "P334318.25.3",
                   "cof-tails": "P334318.l0b9d2",
                   "inst": "hūlu[way]N$hūlāni&šarru[king]N$šarrāni",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:KASKAL-MEŠ-LUGAL-MEŠ-ni=hūlu[way//way]N'N$hūlāni&&@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarrāni",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "KASKAL-MEŠ—LUGAL-MEŠ-ni",
+                    "form": "KASKAL-MEŠ-LUGAL-MEŠ-ni",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -3701,8 +3697,7 @@
                             "id": "P334318.25.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "mods": [
                               {
                                 "b": "MEŠ"
@@ -3746,20 +3741,23 @@
                     ],
                     "cf": "hūlu",
                     "gw": "way",
+                    "sense": "way",
                     "norm": "hūlāni",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "KASKAL-MEŠ\\m—LUGAL-MEŠ\\m-ni",
+                  "frag": "KASKAL-MEŠ\\m-LUGAL-MEŠ\\m-ni",
                   "id": "P334318.l0b9d2",
                   "ref": "P334318.25.3",
                   "cof-head": "P334318.l0b9d1",
                   "inst": "hūlu[way]N$hūlāni&šarru[king]N$šarrāni",
+                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarrāni",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "KASKAL-MEŠ—LUGAL-MEŠ-ni",
+                    "form": "KASKAL-MEŠ-LUGAL-MEŠ-ni",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -3779,8 +3777,7 @@
                             "id": "P334318.25.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "mods": [
                               {
                                 "b": "MEŠ"
@@ -3824,8 +3821,10 @@
                     ],
                     "cf": "šarru",
                     "gw": "king",
+                    "sense": "king",
                     "norm": "šarrāni",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {

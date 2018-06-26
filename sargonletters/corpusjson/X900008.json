@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:34:48",
+  "UTC-timestamp": "2018-06-22T06:09:07",
   "textid": "X900008",
   "cdl": [
     {
@@ -217,14 +217,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}EN—BAD₃]",
+                  "frag": "{1}EN-BAD₃]",
                   "id": "X900008.l04304",
                   "ref": "X900008.3.2",
                   "inst": "Bel-duri[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}EN-BAD₃=Bel-duri[1//1]PN'PN$Bel-duri",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}EN—BAD₃",
+                    "form": "{1}EN-BAD₃",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -258,8 +258,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "BAD₃",
@@ -968,7 +967,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}10—⸢KI⸣-ia",
+                  "frag": "{1}10-⸢KI⸣-ia",
                   "id": "X900008.l04314",
                   "ref": "X900008.8.2",
                   "inst": "Adad-isseʾa[]PN$",
@@ -1002,8 +1001,7 @@
                         "form": "10",
                         "gdl_utf8": "𒌋",
                         "id": "X900008.8.2.1",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "seq": [
                           {
                             "r": "10"
@@ -1043,14 +1041,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}EN—GIŠ",
+                  "frag": "{1}EN-GIŠ",
                   "id": "X900008.l04315",
                   "ref": "X900008.8.3",
                   "inst": "Bel-lešir[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}EN-GIŠ=Bel-lešir[1//1]PN'PN$Bel-lešir",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}EN—GIŠ",
+                    "form": "{1}EN-GIŠ",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -1080,8 +1078,7 @@
                             "id": "X900008.8.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "GIŠ",
@@ -1145,14 +1142,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}⸢AD⸣—GIŠ\\d",
+                  "frag": "{1}⸢AD⸣-GIŠ\\d",
                   "id": "X900008.l04317",
                   "ref": "X900008.9.2",
                   "inst": "Abu-lešir[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}AD-GIŠ=Abu-lešir[1//1]PN'PN$Abu-lešir",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}AD—GIŠ",
+                    "form": "{1}AD-GIŠ",
                     "delim": "",
                     "gdl": [
                       {
@@ -1186,8 +1183,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "hc": "1"
                           },
                           {
@@ -2917,7 +2913,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "⸢i⸣—ši-a-ri",
+                  "frag": "⸢i⸣-ši-a-ri",
                   "id": "X900008.l0433f",
                   "ref": "X900008.21.1",
                   "cof-tails": "X900008.l04340",
@@ -2934,8 +2930,7 @@
                         "id": "X900008.21.1.0",
                         "break": "damaged",
                         "ho": "1",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "hc": "1"
                       },
                       {
@@ -2966,7 +2961,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "⸢i⸣—ši-a-ri",
+                  "frag": "⸢i⸣-ši-a-ri",
                   "id": "X900008.l04340",
                   "ref": "X900008.21.1",
                   "cof-head": "X900008.l0433f",
@@ -2983,8 +2978,7 @@
                         "id": "X900008.21.1.0",
                         "break": "damaged",
                         "ho": "1",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "hc": "1"
                       },
                       {
@@ -4034,14 +4028,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}UTU—PAB—AŠ",
+                  "frag": "{1}{d}UTU-PAB-AŠ",
                   "id": "X900008.l0435c",
                   "ref": "X900008.28.1",
                   "inst": "Šamaš-ahu-iddina[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}UTU-PAB-AŠ=Šamaš-ahu-iddina[1//1]PN'PN$Šamaš-ahu-iddina",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}UTU—PAB—AŠ",
+                    "form": "{1}{d}UTU-PAB-AŠ",
                     "delim": "",
                     "gdl": [
                       {
@@ -4083,8 +4077,7 @@
                             "id": "X900008.28.1.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "PAB",
@@ -4092,8 +4085,7 @@
                             "id": "X900008.28.1.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "AŠ",
@@ -4450,14 +4442,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}AD—GIŠ",
+                  "frag": "{1}AD-GIŠ",
                   "id": "X900008.l04366",
                   "ref": "X900008.29.7",
                   "inst": "Abu-lešir[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}AD-GIŠ=Abu-lešir[1//1]PN'PN$Abu-lešir",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}AD—GIŠ",
+                    "form": "{1}AD-GIŠ",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -4487,8 +4479,7 @@
                             "id": "X900008.29.7.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "GIŠ",

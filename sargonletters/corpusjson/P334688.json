@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:56",
+  "UTC-timestamp": "2018-06-22T06:08:39",
   "textid": "P334688",
   "cdl": [
     {
@@ -2444,7 +2444,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}si-lim—aš-šur",
+                  "frag": "{1}si-lim-aš-šur",
                   "id": "P334688.l0c267",
                   "ref": "P334688.18.5",
                   "inst": "Silim-Aššur[]PN$",
@@ -2481,8 +2481,7 @@
                         "v": "lim",
                         "gdl_utf8": "𒅆",
                         "id": "P334688.18.5.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "aš",

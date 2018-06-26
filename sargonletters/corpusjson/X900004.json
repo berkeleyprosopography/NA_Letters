@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:34:46",
+  "UTC-timestamp": "2018-06-22T06:09:06",
   "textid": "X900004",
   "cdl": [
     {
@@ -2251,7 +2251,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}mu-[kil—{kuš]}⸢PA-MEŠ⸣-[ia]",
+                  "frag": "{lu₂v}mu-[kil-{kuš]}⸢PA-MEŠ⸣-[ia]",
                   "id": "X900004.l07f0c",
                   "ref": "X900004.23.2",
                   "cof-tails": "X900004.l07f0d",
@@ -2301,8 +2301,7 @@
                         "breakStart": "1",
                         "o": "[",
                         "break": "missing",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -2372,7 +2371,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}mu-[kil—{kuš]}⸢PA-MEŠ⸣-[ia]",
+                  "frag": "{lu₂v}mu-[kil-{kuš]}⸢PA-MEŠ⸣-[ia]",
                   "id": "X900004.l07f0d",
                   "ref": "X900004.23.2",
                   "cof-head": "X900004.l07f0c",
@@ -2422,8 +2421,7 @@
                         "breakStart": "1",
                         "o": "[",
                         "break": "missing",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -3531,7 +3529,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}mu-kil—{kuš}PA-MEŠ-ia",
+                  "frag": "{lu₂v}mu-kil-{kuš}PA-MEŠ-ia",
                   "id": "X900004.l07f24",
                   "ref": "X900004.32.2",
                   "cof-tails": "X900004.l07f25",
@@ -3578,8 +3576,7 @@
                         "v": "kil",
                         "gdl_utf8": "𒆸",
                         "id": "X900004.32.2.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -3638,7 +3635,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}mu-kil—{kuš}PA-MEŠ-ia",
+                  "frag": "{lu₂v}mu-kil-{kuš}PA-MEŠ-ia",
                   "id": "X900004.l07f25",
                   "ref": "X900004.32.2",
                   "cof-head": "X900004.l07f24",
@@ -3685,8 +3682,7 @@
                         "v": "kil",
                         "gdl_utf8": "𒆸",
                         "id": "X900004.32.2.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",

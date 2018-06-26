@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:34:32",
+  "UTC-timestamp": "2018-06-22T06:08:58",
   "textid": "P334904",
   "cdl": [
     {
@@ -212,7 +212,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DUG₃].⸢GA⸣—ṣil\\m—⸢E₂⸣.[ŠAR₂.RA]",
+                  "frag": "{1}DUG₃].⸢GA⸣-ṣil\\m-⸢E₂⸣.[ŠAR₂.RA]",
                   "id": "P334904.l02758",
                   "ref": "P334904.3.2",
                   "inst": "Ṭab-ṣil-Ešarra[1]PN",
@@ -263,8 +263,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "hc": "1"
                           }
                         ]
@@ -273,8 +272,7 @@
                         "form": "ṣil",
                         "gdl_utf8": "𒉣",
                         "id": "P334904.3.2.3",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "mods": [
                           {
                             "b": "ṣil"
@@ -853,7 +851,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂}[A—šip-ri]",
+                  "frag": "{lu₂}[A-šip-ri]",
                   "id": "P334904.l02765",
                   "ref": "P334904.7.2",
                   "cof-tails": "P334904.l02766",
@@ -895,8 +893,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -926,7 +923,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂}[A—šip-ri]",
+                  "frag": "{lu₂}[A-šip-ri]",
                   "id": "P334904.l02766",
                   "ref": "P334904.7.2",
                   "cof-head": "P334904.l02765",
@@ -968,8 +965,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1107,7 +1103,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}ši-kin₂—ṭe₃-⸢me⸣",
+                  "frag": "{lu₂v}ši-kin₂-ṭe₃-⸢me⸣",
                   "id": "P334904.l02769",
                   "ref": "P334904.9.1",
                   "cof-tails": "P334904.l0276a",
@@ -1154,8 +1150,7 @@
                         "v": "kin₂",
                         "gdl_utf8": "𒄯",
                         "id": "P334904.9.1.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "ṭe₃",
@@ -1182,7 +1177,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}ši-kin₂—ṭe₃-⸢me⸣",
+                  "frag": "{lu₂v}ši-kin₂-ṭe₃-⸢me⸣",
                   "id": "P334904.l0276a",
                   "ref": "P334904.9.1",
                   "cof-head": "P334904.l02769",
@@ -1229,8 +1224,7 @@
                         "v": "kin₂",
                         "gdl_utf8": "𒄯",
                         "id": "P334904.9.1.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "ṭe₃",
@@ -1613,7 +1607,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}A—šip-ri",
+                  "frag": "{lu₂v}A-šip-ri",
                   "id": "P334904.l02772",
                   "ref": "P334904.13.1",
                   "cof-tails": "P334904.l02773",
@@ -1661,8 +1655,7 @@
                             "id": "P334904.13.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1688,7 +1681,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}A—šip-ri",
+                  "frag": "{lu₂v}A-šip-ri",
                   "id": "P334904.l02773",
                   "ref": "P334904.13.1",
                   "cof-head": "P334904.l02772",
@@ -1736,8 +1729,7 @@
                             "id": "P334904.13.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -2228,14 +2220,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}ŠA₃—URU",
+                  "frag": "{uru}ŠA₃-URU",
                   "id": "P334904.l0277d",
                   "ref": "P334904.16.2",
                   "inst": "Libbi-ali[Inner City (Assur)]GN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}ŠA₃-URU=Libbi-ali[Inner City (Assur)//Inner City (Assur)]GN'GN$Libbi-ali",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}ŠA₃—URU",
+                    "form": "{URU}ŠA₃-URU",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -2266,8 +2258,7 @@
                             "id": "P334904.16.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "URU",
@@ -2435,7 +2426,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂⸣}[A—šip]-ri-ia₂",
+                  "frag": "{lu₂⸣}[A-šip]-ri-ia₂",
                   "id": "P334904.l02781",
                   "ref": "P334904.19.3",
                   "cof-tails": "P334904.l02782",
@@ -2480,8 +2471,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -2516,7 +2506,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂⸣}[A—šip]-ri-ia₂",
+                  "frag": "{lu₂⸣}[A-šip]-ri-ia₂",
                   "id": "P334904.l02782",
                   "ref": "P334904.19.3",
                   "cof-head": "P334904.l02781",
@@ -2561,8 +2551,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

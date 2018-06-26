@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:30:33",
+  "UTC-timestamp": "2018-06-22T06:06:43",
   "textid": "P313801",
   "cdl": [
     {
@@ -211,14 +211,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}[DUG₃—IM—aš-šur]",
+                  "frag": "{1}[DUG₃-IM-aš-šur]",
                   "id": "P313801.l0c157",
                   "ref": "P313801.3.2",
                   "inst": "Ṭab-šar-Aššur[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}DUG₃-IM-aš-šur=Ṭab-šar-Aššur[1//1]PN'PN$Ṭab-šar-Aššur",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}DUG₃—IM-aš-šur",
+                    "form": "{1}DUG₃-IM-aš-šur",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -254,8 +254,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "IM",
@@ -264,8 +263,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -287,8 +285,10 @@
                     ],
                     "cf": "Ṭab-šar-Aššur",
                     "gw": "1",
+                    "sense": "1",
                     "norm": "Ṭab-šar-Aššur",
-                    "pos": "PN"
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {

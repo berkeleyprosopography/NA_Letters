@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:30:00",
+  "UTC-timestamp": "2018-06-22T06:06:21",
   "textid": "P313612",
   "cdl": [
     {
@@ -259,7 +259,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}MAN—⸢iq-bi",
+                  "frag": "{uru}MAN-⸢iq-bi",
                   "id": "P313612.l0b4a8",
                   "ref": "P313612.4.1",
                   "inst": "Šarru-iqbi[]GN$",
@@ -298,8 +298,7 @@
                             "id": "P313612.4.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1265,7 +1264,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a—dan\\d-niš",
+                  "frag": "a-dan\\d-niš",
                   "id": "P313612.l0b4c4",
                   "ref": "P313612.9.3",
                   "inst": "adanniš[very much]AV",
@@ -1279,8 +1278,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P313612.9.3.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "form": "dan",
@@ -1699,7 +1697,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a—dan\\d-⸢niš⸣",
+                  "frag": "a-dan\\d-⸢niš⸣",
                   "id": "P313612.l0b4cd",
                   "ref": "P313612.12.3",
                   "inst": "adanniš[very much]AV",
@@ -1712,8 +1710,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P313612.12.3.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "form": "dan",
@@ -3558,14 +3555,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}⸢EN⸣—[SUM-na",
+                  "frag": "{1}⸢EN⸣-[SUM-na",
                   "id": "P313612.l0b505",
                   "ref": "P313612.27.3",
                   "inst": "Bel-iddina[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}EN-SUM-na=Bel-iddina[1//1]PN'PN$Bel-iddina",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}EN—SUM-na",
+                    "form": "{1}EN-SUM-na",
                     "delim": "",
                     "gdl": [
                       {
@@ -3598,8 +3595,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "hc": "1"
                           },
                           {

@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:47",
+  "UTC-timestamp": "2018-06-22T06:08:35",
   "textid": "P334633",
   "cdl": [
     {
@@ -213,7 +213,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}man-nu]—⸢ki⸣—{uru}arba-il₃",
+                  "frag": "{1}man-nu]-⸢ki⸣-{uru}arba-il₃",
                   "id": "P334633.l0a435",
                   "ref": "P334633.3.2",
                   "inst": "Mannu-ki-Arbail[]PN$",
@@ -255,8 +255,7 @@
                         "break": "missing",
                         "o": "]",
                         "breakEnd": "P334633.3.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "ki",
@@ -264,8 +263,7 @@
                         "id": "P334633.3.2.3",
                         "break": "damaged",
                         "ho": "1",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "hc": "1"
                       },
                       {
@@ -1208,7 +1206,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "[i]—su\\t-ri",
+                  "frag": "[i]-su\\t-ri",
                   "id": "P334633.l0a453",
                   "ref": "P334633.12.1",
                   "inst": "issurri[perhaps]AV",
@@ -1226,8 +1224,7 @@
                         "o": "]",
                         "break": "missing",
                         "breakEnd": "P334633.12.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "form": "su",
@@ -2354,15 +2351,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{[lu₂v}A—KIN",
+                  "frag": "{[lu₂v}A-KIN",
                   "id": "P334633.l0a46e",
                   "ref": "P334633.20.1",
                   "cof-tails": "P334633.l0a46f",
                   "inst": "māru[son]N$mār&šipru[sending]N$šipri",
-                  "newsig": "@saao/sargonletters%akk-x-neoass:{LU₂}A—KIN=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:{LU₂}A—KIN=šipru[sending//sending]N'N$šipri",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}A-KIN=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:=šipru[sending//sending]N'N$šipri",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}A—KIN",
+                    "form": "{LU₂}A-KIN",
                     "delim": "",
                     "gdl": [
                       {
@@ -2406,8 +2403,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "KIN",
@@ -2430,15 +2426,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{[lu₂v}A—KIN",
+                  "frag": "{[lu₂v}A-KIN",
                   "id": "P334633.l0a46f",
                   "ref": "P334633.20.1",
                   "cof-head": "P334633.l0a46e",
                   "inst": "māru[son]N$mār&šipru[sending]N$šipri",
-                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}A—KIN",
+                    "form": "{LU₂}A-KIN",
                     "delim": "",
                     "gdl": [
                       {
@@ -2482,8 +2477,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "KIN",
@@ -2498,8 +2492,10 @@
                     ],
                     "cf": "šipru",
                     "gw": "sending",
+                    "sense": "sending",
                     "norm": "šipri",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {

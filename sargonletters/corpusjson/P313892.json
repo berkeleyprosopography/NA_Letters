@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:30:47",
+  "UTC-timestamp": "2018-06-22T06:06:54",
   "textid": "P313892",
   "cdl": [
     {
@@ -810,13 +810,13 @@
                 },
                 {
                   "node": "l",
-                  "frag": "x]-⸢MEŠ⸣—GIŠ",
+                  "frag": "x]-⸢MEŠ⸣-GIŠ",
                   "id": "P313892.l0da05",
                   "ref": "P313892.7.4",
                   "inst": "u",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "x-MEŠ—GIŠ",
+                    "form": "x-MEŠ-GIŠ",
                     "delim": "",
                     "gdl": [
                       {
@@ -840,8 +840,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "hc": "1"
                           },
                           {
@@ -1857,7 +1856,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "⸢E₂—{d⸣}MAŠ.MAŠ",
+                  "frag": "⸢E₂-{d⸣}MAŠ.MAŠ",
                   "id": "P313892.l0da28",
                   "ref": "P313892.15.9",
                   "cof-tails": "P313892.l0da29",
@@ -1879,8 +1878,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1929,7 +1927,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "⸢E₂—{d⸣}MAŠ.MAŠ",
+                  "frag": "⸢E₂-{d⸣}MAŠ.MAŠ",
                   "id": "P313892.l0da29",
                   "ref": "P313892.15.9",
                   "cof-head": "P313892.l0da28",
@@ -1950,8 +1948,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -2697,7 +2694,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{⸢uru⸣}KAR—{d}UTU",
+                  "frag": "{⸢uru⸣}KAR-{d}UTU",
                   "id": "P313892.l0da42",
                   "ref": "P313892.19.5",
                   "inst": "Kar-Šamaš[]GN$",
@@ -2738,8 +2735,7 @@
                             "id": "P313892.19.5.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

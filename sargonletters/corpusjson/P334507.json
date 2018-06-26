@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:27",
+  "UTC-timestamp": "2018-06-22T06:08:24",
   "textid": "P334507",
   "cdl": [
     {
@@ -217,14 +217,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}AMAR.UTU—MAN—PAB",
+                  "frag": "{1}{d}AMAR.UTU-MAN-PAB",
                   "id": "P334507.l0e238",
                   "ref": "P334507.3.2",
                   "inst": "Marduk-šarru-uṣur[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}AMAR.UTU-MAN-PAB=Marduk-šarru-uṣur[1//1]PN'PN$Marduk-šarru-uṣur",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}AMAR.UTU—MAN—PAB",
+                    "form": "{1}{d}AMAR.UTU-MAN-PAB",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -273,8 +273,7 @@
                             "id": "P334507.3.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "MAN",
@@ -282,8 +281,7 @@
                             "id": "P334507.3.2.4",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "PAB",
@@ -827,7 +825,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}i⸣-ra—⸢dal₃⸣-a",
+                  "frag": "{1}i⸣-ra-⸢dal₃⸣-a",
                   "id": "P334507.l0e248",
                   "ref": "P334507.6.5",
                   "inst": "Erra-dala[]PN$",
@@ -871,8 +869,7 @@
                         "gdl_utf8": "𒊏",
                         "id": "P334507.6.5.2",
                         "gdl_collated": "1",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "dal₃",
@@ -1629,14 +1626,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}EN—PAB",
+                  "frag": "{1}{d}EN-PAB",
                   "id": "P334507.l0e266",
                   "ref": "P334507.13.7",
                   "inst": "Bel-uṣur[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}EN-PAB=Bel-uṣur[1//1]PN'PN$Bel-uṣur",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}EN—PAB",
+                    "form": "{1}{d}EN-PAB",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -1677,8 +1674,7 @@
                             "id": "P334507.13.7.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "PAB",

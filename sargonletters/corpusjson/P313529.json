@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:29:47",
+  "UTC-timestamp": "2018-06-22T06:06:14",
   "textid": "P313529",
   "cdl": [
     {
@@ -615,7 +615,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "[i]—da-tu₂-u-šu",
+                  "frag": "[i]-da-tu₂-u-šu",
                   "id": "P313529.l08c6d",
                   "ref": "P313529.7.1",
                   "cof-tails": "P313529.l08c6e",
@@ -634,8 +634,7 @@
                         "o": "]",
                         "break": "missing",
                         "breakEnd": "P313529.7.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "da",
@@ -671,7 +670,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "[i]—da-tu₂-u-šu",
+                  "frag": "[i]-da-tu₂-u-šu",
                   "id": "P313529.l08c6e",
                   "ref": "P313529.7.1",
                   "cof-head": "P313529.l08c6d",
@@ -690,8 +689,7 @@
                         "o": "]",
                         "break": "missing",
                         "breakEnd": "P313529.7.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "da",
@@ -1374,7 +1372,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{[lu₂v}A]—⸢šip⸣-ri",
+                  "frag": "{[lu₂v}A]-⸢šip⸣-ri",
                   "id": "P313529.l08c7e",
                   "ref": "P313529.15.1",
                   "cof-tails": "P313529.l08c7f",
@@ -1428,8 +1426,7 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P313529.15.1.0",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1458,7 +1455,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{[lu₂v}A]—⸢šip⸣-ri",
+                  "frag": "{[lu₂v}A]-⸢šip⸣-ri",
                   "id": "P313529.l08c7f",
                   "ref": "P313529.15.1",
                   "cof-head": "P313529.l08c7e",
@@ -1512,8 +1509,7 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P313529.15.1.0",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1754,7 +1750,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{[lu₂v}A—šip-ri",
+                  "frag": "{[lu₂v}A-šip-ri",
                   "id": "P313529.l08c84",
                   "ref": "P313529.17.1",
                   "cof-tails": "P313529.l08c85",
@@ -1806,8 +1802,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1835,7 +1830,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{[lu₂v}A—šip-ri",
+                  "frag": "{[lu₂v}A-šip-ri",
                   "id": "P313529.l08c85",
                   "ref": "P313529.17.1",
                   "cof-head": "P313529.l08c84",
@@ -1887,8 +1882,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:32:48",
+  "UTC-timestamp": "2018-06-22T06:08:04",
   "textid": "P334264",
   "cdl": [
     {
@@ -197,14 +197,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}MAN—IGI.LAL-an-ni",
+                  "frag": "{1}MAN-IGI.LAL-an-ni",
                   "id": "P334264.l12915",
                   "ref": "P334264.3.2",
                   "inst": "Šarru-emuranni[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}MAN-IGI.LAL-an-ni=Šarru-emuranni[1//1]PN'PN$Šarru-emuranni",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}MAN—IGI.LAL-an-ni",
+                    "form": "{1}MAN-IGI.LAL-an-ni",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -234,8 +234,7 @@
                             "id": "P334264.3.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "IGI",
@@ -269,7 +268,10 @@
                     ],
                     "cf": "Šarru-emuranni",
                     "gw": "1",
-                    "pos": "PN"
+                    "sense": "1",
+                    "norm": "Šarru-emuranni",
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {
@@ -1326,15 +1328,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}GAL—KAŠ.LUL",
+                  "frag": "{lu₂v}GAL-KAŠ.LUL",
                   "id": "P334264.l1292d",
                   "ref": "P334264.11.3",
                   "cof-tails": "P334264.l1292e",
                   "inst": "rabû[big one]N$rab&šāqû[butler]N$šāqê",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}GAL-KAŠ.LUL=rabû[big one//big one]N'N$rab&&@saao/sargonletters%akk-x-neoass:=šāqû[butler//cupbearer]N'N$šāqê",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL—KAŠ.LUL",
+                    "form": "{LU₂}GAL-KAŠ.LUL",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -1373,8 +1375,7 @@
                             "id": "P334264.11.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "KAŠ",
@@ -1396,20 +1397,23 @@
                     ],
                     "cf": "rabû",
                     "gw": "big one",
+                    "sense": "big one",
                     "norm": "rab",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}GAL—KAŠ.LUL",
+                  "frag": "{lu₂v}GAL-KAŠ.LUL",
                   "id": "P334264.l1292e",
                   "ref": "P334264.11.3",
                   "cof-head": "P334264.l1292d",
                   "inst": "rabû[big one]N$rab&šāqû[butler]N$šāqê",
+                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=šāqû[butler//cupbearer]N'N$šāqê",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL—KAŠ.LUL",
+                    "form": "{LU₂}GAL-KAŠ.LUL",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -1448,8 +1452,7 @@
                             "id": "P334264.11.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "KAŠ",
@@ -1471,8 +1474,10 @@
                     ],
                     "cf": "šāqû",
                     "gw": "butler",
+                    "sense": "cupbearer",
                     "norm": "šāqê",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {

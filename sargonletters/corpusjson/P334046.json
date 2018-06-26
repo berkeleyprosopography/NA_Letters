@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:31:55",
+  "UTC-timestamp": "2018-06-22T06:07:37",
   "textid": "P334046",
   "cdl": [
     {
@@ -207,7 +207,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DUG₃.GA—ṣil\\m—E₂.[ŠAR₂.RA]",
+                  "frag": "{1}DUG₃.GA-ṣil\\m-E₂.[ŠAR₂.RA]",
                   "id": "P334046.l02eb6",
                   "ref": "P334046.3.2",
                   "inst": "Ṭab-ṣil-Ešarra[1]PN",
@@ -252,8 +252,7 @@
                             "id": "P334046.3.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -261,8 +260,7 @@
                         "form": "ṣil",
                         "gdl_utf8": "𒉣",
                         "id": "P334046.3.2.3",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "mods": [
                           {
                             "b": "ṣil"
@@ -943,7 +941,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i—su-ri",
+                  "frag": "i-su-ri",
                   "id": "P334046.l02ec7",
                   "ref": "P334046.8.2",
                   "inst": "issurri[perhaps]AV",
@@ -957,8 +955,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P334046.8.2.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "su",
@@ -1705,7 +1702,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂—02-⸢i⸣",
+                  "frag": "E₂-02-⸢i⸣",
                   "id": "P334046.l02eda",
                   "ref": "P334046.13.2",
                   "cof-tails": "P334046.l02edb",
@@ -1726,8 +1723,7 @@
                             "id": "P334046.13.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1763,7 +1759,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂—02-⸢i⸣",
+                  "frag": "E₂-02-⸢i⸣",
                   "id": "P334046.l02edb",
                   "ref": "P334046.13.2",
                   "cof-head": "P334046.l02eda",
@@ -1784,8 +1780,7 @@
                             "id": "P334046.13.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

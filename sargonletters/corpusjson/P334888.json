@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:34:29",
+  "UTC-timestamp": "2018-06-22T06:08:57",
   "textid": "P334888",
   "cdl": [
     {
@@ -81,7 +81,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA—ha-am-mat-u-a",
+                  "frag": "{1}{d}PA-ha-am-mat-u-a",
                   "id": "P334888.l0aaac",
                   "ref": "P334888.2.2",
                   "inst": "Nabu-hammatua[1]PN",
@@ -129,8 +129,7 @@
                             "id": "P334888.2.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -474,7 +473,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a—dan-niš",
+                  "frag": "a-dan-niš",
                   "id": "P334888.l0aab3",
                   "ref": "P334888.7.1",
                   "inst": "adanniš[very much]AV",
@@ -487,8 +486,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P334888.7.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "dan",

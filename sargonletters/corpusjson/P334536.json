@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:31",
+  "UTC-timestamp": "2018-06-22T06:08:26",
   "textid": "P334536",
   "cdl": [
     {
@@ -209,14 +209,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}MAN—IGI.LAL-a-ni",
+                  "frag": "{1}MAN-IGI.LAL-a-ni",
                   "id": "P334536.l1287b",
                   "ref": "P334536.3.2",
                   "inst": "Šarru-emuranni[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}MAN-IGI.LAL-a-ni=Šarru-emuranni[1//1]PN'PN$Šarru-emuranni",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}MAN—IGI.LAL-a-ni",
+                    "form": "{1}MAN-IGI.LAL-a-ni",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -246,8 +246,7 @@
                             "id": "P334536.3.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "IGI",
@@ -281,8 +280,10 @@
                     ],
                     "cf": "Šarru-emuranni",
                     "gw": "1",
+                    "sense": "1",
                     "norm": "Šarru-emuranni",
-                    "pos": "PN"
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {
@@ -478,7 +479,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}30—SUM-na",
+                  "frag": "{1}{d}30-SUM-na",
                   "id": "P334536.l12881",
                   "ref": "P334536.5.1",
                   "inst": "Sin-iddina[]PN$",
@@ -523,8 +524,7 @@
                         "form": "30",
                         "gdl_utf8": "𒌍",
                         "id": "P334536.5.1.2",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "seq": [
                           {
                             "r": "30"

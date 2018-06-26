@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:11",
+  "UTC-timestamp": "2018-06-22T06:08:16",
   "textid": "P334384",
   "cdl": [
     {
@@ -210,7 +210,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}[DUG₃.GA—ṣil—E₂.ŠAR₂.RA]",
+                  "frag": "{1}[DUG₃.GA-ṣil-E₂.ŠAR₂.RA]",
                   "id": "P334384.l027bb",
                   "ref": "P334384.3.2",
                   "inst": "Ṭab-ṣil-Ešarra[1]PN",
@@ -259,8 +259,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -269,8 +268,7 @@
                         "gdl_utf8": "𒉣",
                         "id": "P334384.3.2.3",
                         "break": "missing",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -825,7 +823,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}EN—ha-[x",
+                  "frag": "{1}EN-ha-[x",
                   "id": "P334384.l027c9",
                   "ref": "P334384.7.3",
                   "inst": "u",
@@ -862,8 +860,7 @@
                             "id": "P334384.7.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1332,14 +1329,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}ŠA₃—URU",
+                  "frag": "{uru}ŠA₃-URU",
                   "id": "P334384.l027d6",
                   "ref": "P334384.11.2",
                   "inst": "Libbi-ali[Inner City (Assur)]GN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}ŠA₃-URU=Libbi-ali[Inner City (Assur)//Inner City (Assur)]GN'GN$Libbi-ali",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}ŠA₃—URU",
+                    "form": "{URU}ŠA₃-URU",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -1370,8 +1367,7 @@
                             "id": "P334384.11.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "URU",

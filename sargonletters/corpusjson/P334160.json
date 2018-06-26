@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:32:29",
+  "UTC-timestamp": "2018-06-22T06:07:53",
   "textid": "P334160",
   "cdl": [
     {
@@ -207,7 +207,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}U.GUR—bal\\d-liṭ",
+                  "frag": "{1}{d}U.GUR-bal\\d-liṭ",
                   "id": "P334160.l03eae",
                   "ref": "P334160.3.2",
                   "inst": "Nergal-balliṭ[]PN$",
@@ -263,8 +263,7 @@
                             "id": "P334160.3.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1490,7 +1489,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i—da\\d-te",
+                  "frag": "i-da\\d-te",
                   "id": "P334160.l03ecc",
                   "ref": "P334160.17.1",
                   "cof-tails": "P334160.l03ecd",
@@ -1505,8 +1504,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P334160.17.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "form": "da",
@@ -1538,7 +1536,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i—da\\d-te",
+                  "frag": "i-da\\d-te",
                   "id": "P334160.l03ecd",
                   "ref": "P334160.17.1",
                   "cof-head": "P334160.l03ecc",
@@ -1553,8 +1551,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P334160.17.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "form": "da",

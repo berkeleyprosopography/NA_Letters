@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:29:53",
+  "UTC-timestamp": "2018-06-22T06:06:17",
   "textid": "P313571",
   "cdl": [
     {
@@ -1530,14 +1530,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{⸢uru⸣}[ŠA₃]—URU",
+                  "frag": "{⸢uru⸣}[ŠA₃]-URU",
                   "id": "P313571.l01eed",
                   "ref": "P313571.9.10",
                   "inst": "Libbi-ali[Inner City (Assur)]GN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}ŠA₃-URU=Libbi-ali[Inner City (Assur)//Inner City (Assur)]GN'GN$Libbi-ali",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}ŠA₃—URU",
+                    "form": "{URU}ŠA₃-URU",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -1575,8 +1575,7 @@
                             "role": "logo",
                             "logolang": "sux",
                             "breakEnd": "P313571.9.10.1",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "URU",
@@ -2329,14 +2328,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}[ŠA₃]—⸢URU",
+                  "frag": "{uru}[ŠA₃]-⸢URU",
                   "id": "P313571.l01f02",
                   "ref": "P313571.13.2",
                   "inst": "Libbi-ali[Inner City (Assur)]GN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}ŠA₃-URU=Libbi-ali[Inner City (Assur)//Inner City (Assur)]GN'GN$Libbi-ali",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}ŠA₃—URU",
+                    "form": "{URU}ŠA₃-URU",
                     "delim": "",
                     "gdl": [
                       {
@@ -2372,8 +2371,7 @@
                             "role": "logo",
                             "logolang": "sux",
                             "breakEnd": "P313571.13.2.1",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "URU",
@@ -2563,14 +2561,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}⸢ŠA₃—URU⸣",
+                  "frag": "{uru}⸢ŠA₃-URU⸣",
                   "id": "P313571.l01f07",
                   "ref": "P313571.14.3",
                   "inst": "Libbi-ali[Inner City (Assur)]GN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}ŠA₃-URU=Libbi-ali[Inner City (Assur)//Inner City (Assur)]GN'GN$Libbi-ali",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}ŠA₃—URU",
+                    "form": "{URU}ŠA₃-URU",
                     "delim": "",
                     "gdl": [
                       {
@@ -2604,8 +2602,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "URU",
@@ -4158,14 +4155,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}ŠA₃—⸢URU⸣",
+                  "frag": "{uru}ŠA₃-⸢URU⸣",
                   "id": "P313571.l01f32",
                   "ref": "P313571.21.5",
                   "inst": "Libbi-ali[Inner City (Assur)]GN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}ŠA₃-URU=Libbi-ali[Inner City (Assur)//Inner City (Assur)]GN'GN$Libbi-ali",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}ŠA₃—URU",
+                    "form": "{URU}ŠA₃-URU",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -4196,8 +4193,7 @@
                             "id": "P313571.21.5.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "URU",
@@ -6503,14 +6499,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}ŠA₃—URU\\y",
+                  "frag": "{uru}ŠA₃-URU\\y",
                   "id": "P313571.l01f63",
                   "ref": "P313571.33.2",
                   "inst": "Libbi-ali[Inner City (Assur)]GN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}ŠA₃-URU=Libbi-ali[Inner City (Assur)//Inner City (Assur)]GN'GN$Libbi-ali",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}ŠA₃—URU",
+                    "form": "{URU}ŠA₃-URU",
                     "delim": "",
                     "gdl": [
                       {
@@ -6542,8 +6538,7 @@
                             "id": "P313571.33.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "form": "URU",
@@ -7089,14 +7084,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uruy}ŠA₃—URU\\y",
+                  "frag": "{uruy}ŠA₃-URU\\y",
                   "id": "P313571.l01f6f",
                   "ref": "P313571.36.2",
                   "inst": "Libbi-ali[Inner City (Assur)]GN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}ŠA₃-URU=Libbi-ali[Inner City (Assur)//Inner City (Assur)]GN'GN$Libbi-ali",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}ŠA₃—URU",
+                    "form": "{URU}ŠA₃-URU",
                     "delim": "",
                     "gdl": [
                       {
@@ -7136,8 +7131,7 @@
                             "id": "P313571.36.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "form": "URU",
@@ -7211,7 +7205,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i—da\\d-te",
+                  "frag": "i-da\\d-te",
                   "id": "P313571.l01f71",
                   "ref": "P313571.36.4",
                   "cof-tails": "P313571.l01f72",
@@ -7225,8 +7219,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P313571.36.4.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "form": "da",
@@ -7258,7 +7251,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i—da\\d-te",
+                  "frag": "i-da\\d-te",
                   "id": "P313571.l01f72",
                   "ref": "P313571.36.4",
                   "cof-head": "P313571.l01f71",
@@ -7272,8 +7265,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P313571.36.4.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "form": "da",

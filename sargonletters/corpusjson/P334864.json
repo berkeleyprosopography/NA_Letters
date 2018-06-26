@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:34:28",
+  "UTC-timestamp": "2018-06-22T06:08:56",
   "textid": "P334864",
   "cdl": [
     {
@@ -1241,14 +1241,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}ŠA₃—URU",
+                  "frag": "{uru}ŠA₃-URU",
                   "id": "P334864.l01cbb",
                   "ref": "P334864.8.4",
                   "inst": "Libbi-ali[Inner City (Assur)]GN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}ŠA₃-URU=Libbi-ali[Inner City (Assur)//Inner City (Assur)]GN'GN$Libbi-ali",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}ŠA₃—URU",
+                    "form": "{URU}ŠA₃-URU",
                     "delim": "",
                     "gdl": [
                       {
@@ -1280,8 +1280,7 @@
                             "id": "P334864.8.4.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "URU",
@@ -1417,14 +1416,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}ŠA₃—URU-a.a",
+                  "frag": "{uru}ŠA₃-URU-a.a",
                   "id": "P334864.l01cbf",
                   "ref": "P334864.9.1",
                   "inst": "Libbalaya[from Assur]EN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}ŠA₃-URU-a.a=Libbalaya[from Assur//from Assur]EN'EN$Libbalaya",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}ŠA₃—URU-a.a",
+                    "form": "{URU}ŠA₃-URU-a.a",
                     "delim": "",
                     "gdl": [
                       {
@@ -1456,8 +1455,7 @@
                             "id": "P334864.9.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "URU",
@@ -1859,7 +1857,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KA₂—aš-šur",
+                  "frag": "KA₂-aš-šur",
                   "id": "P334864.l01cc9",
                   "ref": "P334864.10.7",
                   "cof-tails": "P334864.l01cca",
@@ -1879,8 +1877,7 @@
                             "id": "P334864.10.7.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1906,7 +1903,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KA₂—aš-šur",
+                  "frag": "KA₂-aš-šur",
                   "id": "P334864.l01cca",
                   "ref": "P334864.10.7",
                   "cof-head": "P334864.l01cc9",
@@ -1925,8 +1922,7 @@
                             "id": "P334864.10.7.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -2816,7 +2812,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a—dan-niš",
+                  "frag": "a-dan-niš",
                   "id": "P334864.l01ce0",
                   "ref": "P334864.15.5",
                   "inst": "adanniš[very much]AV",
@@ -2830,8 +2826,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P334864.15.5.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "dan",
@@ -3318,7 +3313,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i—su-ri",
+                  "frag": "i-su-ri",
                   "id": "P334864.l01cec",
                   "ref": "P334864.18.4",
                   "inst": "issurri[perhaps]AV",
@@ -3332,8 +3327,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P334864.18.4.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "su",
@@ -3635,14 +3629,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}ŠA₃—URU",
+                  "frag": "{uru}ŠA₃-URU",
                   "id": "P334864.l01cf4",
                   "ref": "P334864.19.6",
                   "inst": "Libbi-ali[Inner City (Assur)]GN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}ŠA₃-URU=Libbi-ali[Inner City (Assur)//Inner City (Assur)]GN'GN$Libbi-ali",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}ŠA₃—URU",
+                    "form": "{URU}ŠA₃-URU",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -3673,8 +3667,7 @@
                             "id": "P334864.19.6.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "URU",

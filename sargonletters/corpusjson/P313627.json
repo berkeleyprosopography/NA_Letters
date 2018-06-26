@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:30:04",
+  "UTC-timestamp": "2018-06-22T06:06:24",
   "textid": "P313627",
   "cdl": [
     {
@@ -674,7 +674,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}ne₂\\d-med—15",
+                  "frag": "{uru}ne₂\\d-med-15",
                   "id": "P313627.l05606",
                   "ref": "P313627.8.2",
                   "inst": "Nemed-Ištar[]GN$",
@@ -720,8 +720,7 @@
                         "v": "med",
                         "gdl_utf8": "𒁁",
                         "id": "P313627.8.2.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "n": "n",

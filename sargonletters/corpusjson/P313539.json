@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:29:48",
+  "UTC-timestamp": "2018-06-22T06:06:14",
   "textid": "P313539",
   "cdl": [
     {
@@ -1170,15 +1170,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂]}⸢A⸣—KIN-šu₂",
+                  "frag": "{lu₂]}⸢A⸣-KIN-šu₂",
                   "id": "P313539.l0a10e",
                   "ref": "P313539.7.7",
                   "cof-tails": "P313539.l0a10f",
                   "inst": "māru[son]N$mār&šipru[sending]N$šiprīšu",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}A-KIN-šu₂=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:=šipru[sending//sending]N'N$šiprīšu",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}A—KIN-šu₂",
+                    "form": "{LU₂}A-KIN-šu₂",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -1214,8 +1214,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "hc": "1"
                           },
                           {
@@ -1236,20 +1235,23 @@
                     ],
                     "cf": "māru",
                     "gw": "son",
+                    "sense": "son",
                     "norm": "mār",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂]}⸢A⸣—KIN-šu₂",
+                  "frag": "{lu₂]}⸢A⸣-KIN-šu₂",
                   "id": "P313539.l0a10f",
                   "ref": "P313539.7.7",
                   "cof-head": "P313539.l0a10e",
                   "inst": "māru[son]N$mār&šipru[sending]N$šiprīšu",
+                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=šipru[sending//sending]N'N$šiprīšu",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}A—KIN-šu₂",
+                    "form": "{LU₂}A-KIN-šu₂",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -1285,8 +1287,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "hc": "1"
                           },
                           {
@@ -1307,8 +1308,10 @@
                     ],
                     "cf": "šipru",
                     "gw": "sending",
+                    "sense": "sending",
                     "norm": "šiprīšu",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {

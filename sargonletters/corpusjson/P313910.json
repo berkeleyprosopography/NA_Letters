@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:30:50",
+  "UTC-timestamp": "2018-06-22T06:06:55",
   "textid": "P313910",
   "cdl": [
     {
@@ -552,7 +552,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{⸢lu₂v⸣}E₂—{1}u₂-[ka-na-a.a]",
+                  "frag": "{⸢lu₂v⸣}E₂-{1}u₂-[ka-na-a.a]",
                   "id": "P313910.l1338c",
                   "ref": "P313910.5.1",
                   "inst": "Bit-Amukannaya[]EN$Bit-Ukannaya",
@@ -601,8 +601,7 @@
                             "id": "P313910.5.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -2566,7 +2565,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{kur}E₂—za-[bi-da-a.a",
+                  "frag": "{kur}E₂-za-[bi-da-a.a",
                   "id": "P313910.l133cf",
                   "ref": "P313910.19.2",
                   "inst": "Bit-Zabidaya[]EN$",
@@ -2605,8 +2604,7 @@
                             "id": "P313910.19.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

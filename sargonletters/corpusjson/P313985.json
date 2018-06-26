@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:31:02",
+  "UTC-timestamp": "2018-06-22T06:07:02",
   "textid": "P313985",
   "cdl": [
     {
@@ -211,7 +211,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur—[pa-ti-nu]",
+                  "frag": "{1}aš-šur-[pa-ti-nu]",
                   "id": "P313985.l0778e",
                   "ref": "P313985.3.2",
                   "inst": "Aššur-patinu[]PN$",
@@ -248,8 +248,7 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P313985.3.2.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "pa",

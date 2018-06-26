@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:34:42",
+  "UTC-timestamp": "2018-06-22T06:09:03",
   "textid": "P336769",
   "cdl": [
     {
@@ -621,14 +621,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}AMAR.UTU—A—AŠ",
+                  "frag": "{1}{d}AMAR.UTU-A-AŠ",
                   "id": "P336769.l114d4",
                   "ref": "P336769.7.3",
                   "inst": "Marduk-apla-iddina[Merodach-Baladan]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}AMAR.UTU-A-AŠ=Marduk-apla-iddina[Merodach-Baladan//Merodach-Baladan]PN'PN$Marduk-apla-iddina",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}AMAR.UTU—A—AŠ",
+                    "form": "{1}{d}AMAR.UTU-A-AŠ",
                     "delim": "",
                     "gdl": [
                       {
@@ -681,8 +681,7 @@
                             "id": "P336769.7.3.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "A",
@@ -690,8 +689,7 @@
                             "id": "P336769.7.3.4",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "AŠ",
@@ -704,8 +702,8 @@
                       }
                     ],
                     "cf": "Marduk-apla-iddina",
-                    "gw": "Merodach-baladan",
-                    "sense": "Merodach-baladan",
+                    "gw": "Merodach-Baladan",
+                    "sense": "Merodach-Baladan",
                     "norm": "Marduk-apla-iddina",
                     "pos": "PN",
                     "epos": "PN"
@@ -908,7 +906,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "⸢E₂⸣—da-kur",
+                  "frag": "⸢E₂⸣-da-kur",
                   "id": "P336769.l114da",
                   "ref": "P336769.8.3",
                   "inst": "Bit-Dakkuri[1]GN$Bit-Dakkur",
@@ -930,8 +928,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "hc": "1"
                           }
                         ]

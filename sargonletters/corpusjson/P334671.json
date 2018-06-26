@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:53",
+  "UTC-timestamp": "2018-06-22T06:08:37",
   "textid": "P334671",
   "cdl": [
     {
@@ -374,14 +374,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}SUM—PAB-MEŠ",
+                  "frag": "{1}SUM-PAB-MEŠ",
                   "id": "P334671.l0d392",
                   "ref": "P334671.4.3",
                   "inst": "Nadin-ahhe[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}SUM-PAB-MEŠ=Nadin-ahhe[1//1]PN'PN$Nadin-ahhe",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}SUM—PAB-MEŠ",
+                    "form": "{1}SUM-PAB-MEŠ",
                     "delim": "",
                     "gdl": [
                       {
@@ -413,8 +413,7 @@
                             "id": "P334671.4.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "PAB",
@@ -871,14 +870,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}SUM—[PAB-MEŠ",
+                  "frag": "{1}SUM-[PAB-MEŠ",
                   "id": "P334671.l0d39f",
                   "ref": "P334671.6.3",
                   "inst": "Nadin-ahhe[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}SUM-PAB-MEŠ=Nadin-ahhe[1//1]PN'PN$Nadin-ahhe",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}SUM—PAB-MEŠ",
+                    "form": "{1}SUM-PAB-MEŠ",
                     "delim": "",
                     "gdl": [
                       {
@@ -909,8 +908,7 @@
                             "id": "P334671.6.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "PAB",
@@ -4365,7 +4363,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU—{1}ia-ki-ni",
+                  "frag": "DUMU-{1}ia-ki-ni",
                   "id": "P334671.l0d40c",
                   "ref": "P334671.24.2",
                   "inst": "Mar-Yakini[1]PN",
@@ -4385,8 +4383,7 @@
                             "id": "P334671.24.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -4589,14 +4586,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{⸢d⸣}PA—A₂.GAL",
+                  "frag": "{1}{⸢d⸣}PA-A₂.GAL",
                   "id": "P334671.l0d413",
                   "ref": "P334671.25.1",
                   "inst": "Nabu-leʾi[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}PA-A₂.GAL=Nabu-leʾi[1//1]PN'PN$Nabu-leʾi",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}PA—A₂.GAL",
+                    "form": "{1}{d}PA-A₂.GAL",
                     "delim": "",
                     "gdl": [
                       {
@@ -4642,8 +4639,7 @@
                             "gdl_collated": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "A₂",
@@ -4707,7 +4703,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}[PA—tak-lak]",
+                  "frag": "{1}{d}[PA-tak-lak]",
                   "id": "P334671.l0d415",
                   "ref": "P334671.25.3",
                   "inst": "Nabu-taklak[]PN$",
@@ -4758,8 +4754,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

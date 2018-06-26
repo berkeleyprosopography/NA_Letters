@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:34:03",
+  "UTC-timestamp": "2018-06-22T06:08:43",
   "textid": "P334715",
   "cdl": [
     {
@@ -212,7 +212,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}EN—liq-bi]",
+                  "frag": "{1}EN-liq-bi]",
                   "id": "P334715.l0475d",
                   "ref": "P334715.3.2",
                   "inst": "Bel-liqbi[1]PN",
@@ -251,8 +251,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -4696,7 +4695,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš]-⸢šur—da\\d⸣-lal",
+                  "frag": "{1}aš]-⸢šur-da\\d⸣-lal",
                   "id": "P334715.l047c9",
                   "ref": "P334715.29.4",
                   "inst": "Aššur-dalal[]PN$",
@@ -4740,8 +4739,7 @@
                         "break": "damaged",
                         "queried": "1",
                         "ho": "1",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "form": "da",

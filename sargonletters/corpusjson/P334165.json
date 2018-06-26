@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:32:30",
+  "UTC-timestamp": "2018-06-22T06:07:54",
   "textid": "P334165",
   "cdl": [
     {
@@ -199,7 +199,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}10—ha-ti\\t",
+                  "frag": "{1}10-ha-ti\\t",
                   "id": "P334165.l04397",
                   "ref": "P334165.3.2",
                   "inst": "Adda-hati[]PN$",
@@ -232,8 +232,7 @@
                         "form": "10",
                         "gdl_utf8": "𒌋",
                         "id": "P334165.3.2.1",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "seq": [
                           {
                             "r": "10"
@@ -601,7 +600,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a—dan-niš",
+                  "frag": "a-dan-niš",
                   "id": "P334165.l043a0",
                   "ref": "P334165.5.4",
                   "inst": "adanniš[very much]AV",
@@ -614,8 +613,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P334165.5.4.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "dan",
@@ -1808,7 +1806,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a—dan-niš",
+                  "frag": "a-dan-niš",
                   "id": "P334165.l043bc",
                   "ref": "P334165.16.2",
                   "inst": "adanniš[very much]AV",
@@ -1821,8 +1819,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P334165.16.2.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "dan",

@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:32:28",
+  "UTC-timestamp": "2018-06-22T06:07:53",
   "textid": "P334157",
   "cdl": [
     {
@@ -161,7 +161,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a—dan-niš",
+                  "frag": "a-dan-niš",
                   "id": "P334157.l07559",
                   "ref": "P334157.2.4",
                   "inst": "adanniš[very much]AV",
@@ -175,8 +175,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P334157.2.4.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "dan",
@@ -200,7 +199,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a—dan-niš",
+                  "frag": "a-dan-niš",
                   "id": "P334157.l0755a",
                   "ref": "P334157.2.5",
                   "inst": "adanniš[very much]AV",
@@ -213,8 +212,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P334157.2.5.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "dan",
@@ -357,7 +355,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}hu\\d—te-šub",
+                  "frag": "{1}hu\\d-te-šub",
                   "id": "P334157.l0755e",
                   "ref": "P334157.3.4",
                   "inst": "Hu-Teššub[1]PN",
@@ -388,8 +386,7 @@
                         "form": "hu",
                         "gdl_utf8": "𒄷",
                         "id": "P334157.3.4.1",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "mods": [
                           {
                             "b": "hu"

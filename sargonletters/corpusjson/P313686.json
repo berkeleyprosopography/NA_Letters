@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:30:14",
+  "UTC-timestamp": "2018-06-22T06:06:30",
   "textid": "P313686",
   "cdl": [
     {
@@ -533,7 +533,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur—MAN—[x",
+                  "frag": "{1}aš-šur-MAN-[x",
                   "id": "P313686.l0ace4",
                   "ref": "P313686.5.5",
                   "inst": "u",
@@ -570,8 +570,7 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P313686.5.5.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -583,8 +582,7 @@
                             "id": "P313686.5.5.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -719,7 +717,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur—⸢ZU\\t⸣",
+                  "frag": "{1}aš-šur-⸢ZU\\t⸣",
                   "id": "P313686.l0acea",
                   "ref": "P313686.6.5",
                   "inst": "Aššur-leʾi[1]PN",
@@ -757,8 +755,7 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P313686.6.5.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -912,7 +909,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i]—da-a-te-šu₂-[nu]",
+                  "frag": "i]-da-a-te-šu₂-[nu]",
                   "id": "P313686.l0acf0",
                   "ref": "P313686.7.4",
                   "cof-tails": "P313686.l0acf1",
@@ -929,8 +926,7 @@
                         "break": "missing",
                         "o": "]",
                         "breakEnd": "P313686.7.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "da",
@@ -977,7 +973,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i]—da-a-te-šu₂-[nu]",
+                  "frag": "i]-da-a-te-šu₂-[nu]",
                   "id": "P313686.l0acf1",
                   "ref": "P313686.7.4",
                   "cof-head": "P313686.l0acf0",
@@ -994,8 +990,7 @@
                         "break": "missing",
                         "o": "]",
                         "breakEnd": "P313686.7.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "da",

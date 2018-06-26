@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:32:38",
+  "UTC-timestamp": "2018-06-22T06:07:58",
   "textid": "P334189",
   "cdl": [
     {
@@ -201,14 +201,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA—GAL₂-ši",
+                  "frag": "{1}{d}PA-GAL₂-ši",
                   "id": "P334189.l0c56f",
                   "ref": "P334189.3.2",
                   "inst": "Nabu-ušabši[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}PA-GAL₂-ši=Nabu-ušabši[1//1]PN'PN$Nabu-ušabši",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}PA—GAL₂-ši",
+                    "form": "{1}{d}PA-GAL₂-ši",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -249,8 +249,7 @@
                             "id": "P334189.3.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "GAL₂",
@@ -1643,15 +1642,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU-MEŠ—KA₂.DINGIR",
+                  "frag": "DUMU-MEŠ-KA₂.DINGIR",
                   "id": "P334189.l0c593",
                   "ref": "P334189.15.4",
                   "cof-tails": "P334189.l0c594",
                   "inst": "māru[son]N$mārē&Babili[Babylon]GN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:DUMU-MEŠ-KA₂.DINGIR=māru[son//son]N'N$mārē&&@saao/sargonletters%akk-x-neoass:=Babili[Babylon//Babylon]GN'GN$Babili",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU-MEŠ—KA₂.DINGIR",
+                    "form": "DUMU-MEŠ-KA₂.DINGIR",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -1671,8 +1670,7 @@
                             "id": "P334189.15.4.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "KA₂",
@@ -1695,20 +1693,23 @@
                     ],
                     "cf": "māru",
                     "gw": "son",
+                    "sense": "son",
                     "norm": "mārē",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU-MEŠ—KA₂.DINGIR",
+                  "frag": "DUMU-MEŠ-KA₂.DINGIR",
                   "id": "P334189.l0c594",
                   "ref": "P334189.15.4",
                   "cof-head": "P334189.l0c593",
                   "inst": "māru[son]N$mārē&Babili[Babylon]GN$",
+                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=Babili[Babylon//Babylon]GN'GN$Babili",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU-MEŠ—KA₂.DINGIR",
+                    "form": "DUMU-MEŠ-KA₂.DINGIR",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -1728,8 +1729,7 @@
                             "id": "P334189.15.4.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "KA₂",
@@ -1752,8 +1752,10 @@
                     ],
                     "cf": "Babili",
                     "gw": "Babylon",
+                    "sense": "Babylon",
                     "norm": "Babili",
-                    "pos": "GN"
+                    "pos": "GN",
+                    "epos": "GN"
                   }
                 },
                 {

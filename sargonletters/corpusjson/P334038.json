@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:31:52",
+  "UTC-timestamp": "2018-06-22T06:07:35",
   "textid": "P334038",
   "cdl": [
     {
@@ -199,7 +199,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DUG₃.GA—ṣil—E₂.ŠAR₂.RA",
+                  "frag": "{1}DUG₃.GA-ṣil-E₂.ŠAR₂.RA",
                   "id": "P334038.l0290e",
                   "ref": "P334038.3.2",
                   "inst": "Ṭab-ṣil-Ešarra[1]PN",
@@ -244,8 +244,7 @@
                             "id": "P334038.3.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -253,8 +252,7 @@
                         "v": "ṣil",
                         "gdl_utf8": "𒉣",
                         "id": "P334038.3.2.3",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -1122,7 +1120,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}KA₂—bit-qi",
+                  "frag": "{uru}KA₂-bit-qi",
                   "id": "P334038.l02923",
                   "ref": "P334038.10.2",
                   "inst": "Bab-bitqi[1]GN",
@@ -1160,8 +1158,7 @@
                             "id": "P334038.10.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -2567,7 +2564,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}KA₂—bit-qi",
+                  "frag": "{uru}KA₂-bit-qi",
                   "id": "P334038.l02943",
                   "ref": "P334038.23.2",
                   "inst": "Bab-bitqi[1]GN",
@@ -2605,8 +2602,7 @@
                             "id": "P334038.23.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -3501,7 +3497,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}KA₂—bit-qi",
+                  "frag": "{uru}KA₂-bit-qi",
                   "id": "P334038.l02958",
                   "ref": "P334038.31.2",
                   "inst": "Bab-bitqi[1]GN",
@@ -3539,8 +3535,7 @@
                             "id": "P334038.31.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

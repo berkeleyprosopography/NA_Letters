@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:32:09",
+  "UTC-timestamp": "2018-06-22T06:07:44",
   "textid": "P334097",
   "cdl": [
     {
@@ -202,7 +202,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}30—⸢I⸣",
+                  "frag": "{1}{d}30-⸢I⸣",
                   "id": "P334097.l0cdea",
                   "ref": "P334097.3.2",
                   "inst": "Sin-naʾdi[]PN$",
@@ -246,8 +246,7 @@
                         "form": "30",
                         "gdl_utf8": "𒌍",
                         "id": "P334097.3.2.2",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "seq": [
                           {
                             "r": "30"
@@ -877,7 +876,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a—su-mu",
+                  "frag": "a-su-mu",
                   "id": "P334097.l0cdf8",
                   "ref": "P334097.11.1",
                   "inst": "šumma[if]MOD$assummu",
@@ -891,8 +890,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P334097.11.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "su",
@@ -1118,7 +1116,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "⸢a⸣—su-mu",
+                  "frag": "⸢a⸣-su-mu",
                   "id": "P334097.l0cdfd",
                   "ref": "P334097.13.1",
                   "inst": "šumma[if]MOD$assummu",
@@ -1133,8 +1131,7 @@
                         "id": "P334097.13.1.0",
                         "break": "damaged",
                         "ho": "1",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "hc": "1"
                       },
                       {
@@ -1208,14 +1205,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur—U—LAL",
+                  "frag": "{1}aš-šur-U-LAL",
                   "id": "P334097.l0cdff",
                   "ref": "P334097.15.2",
                   "inst": "Aššur-belu-taqqin[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}aš-šur-U-LAL=Aššur-belu-taqqin[1//1]PN'PN$Aššur-belu-taqqin",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}aš-šur-U—LAL",
+                    "form": "{1}aš-šur-U-LAL",
                     "gdl": [
                       {
                         "det": "semantic",
@@ -1246,8 +1243,7 @@
                         "gdl_utf8": "𒋩",
                         "id": "P334097.15.2.2",
                         "gdl_collated": "1",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -1259,8 +1255,7 @@
                             "id": "P334097.15.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "LAL",

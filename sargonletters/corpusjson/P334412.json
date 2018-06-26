@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:17",
+  "UTC-timestamp": "2018-06-22T06:08:19",
   "textid": "P334412",
   "cdl": [
     {
@@ -1426,15 +1426,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU—LUGAL",
+                  "frag": "DUMU-LUGAL",
                   "id": "P334412.l0b033",
                   "ref": "P334412.13.3",
                   "cof-tails": "P334412.l0b034",
                   "inst": "māru[son]N$mār&šarru[king]N$šarri",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:DUMU-LUGAL=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU—LUGAL",
+                    "form": "DUMU-LUGAL",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -1446,8 +1446,7 @@
                             "id": "P334412.13.3.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "LUGAL",
@@ -1461,20 +1460,23 @@
                     ],
                     "cf": "māru",
                     "gw": "son",
+                    "sense": "son",
                     "norm": "mār",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU—LUGAL",
+                  "frag": "DUMU-LUGAL",
                   "id": "P334412.l0b034",
                   "ref": "P334412.13.3",
                   "cof-head": "P334412.l0b033",
                   "inst": "māru[son]N$mār&šarru[king]N$šarri",
+                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU—LUGAL",
+                    "form": "DUMU-LUGAL",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -1486,8 +1488,7 @@
                             "id": "P334412.13.3.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "LUGAL",
@@ -1501,8 +1502,10 @@
                     ],
                     "cf": "šarru",
                     "gw": "king",
+                    "sense": "king",
                     "norm": "šarri",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
@@ -1699,7 +1702,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}AD—ra-me",
+                  "frag": "{1}AD-ra-me",
                   "id": "P334412.l0b039",
                   "ref": "P334412.16.1",
                   "inst": "Abi-ramu[]PN$Abi-rame",
@@ -1740,8 +1743,7 @@
                             "id": "P334412.16.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1781,7 +1783,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}da-la—DINGIR",
+                  "frag": "{1}da-la-DINGIR",
                   "id": "P334412.l0b03a",
                   "ref": "P334412.18.1",
                   "inst": "Dala-il[]PN$",
@@ -1819,8 +1821,7 @@
                         "v": "la",
                         "gdl_utf8": "𒆷",
                         "id": "P334412.18.1.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",

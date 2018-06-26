@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:29:34",
+  "UTC-timestamp": "2018-06-22T06:06:06",
   "textid": "P313477",
   "cdl": [
     {
@@ -3935,7 +3935,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR]—za-mu-a",
+                  "frag": "KUR]-za-mu-a",
                   "id": "P313477.l0f18a",
                   "ref": "P313477.18.2",
                   "inst": "Mazamua[]GN$",
@@ -3958,8 +3958,7 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P313477.18.1.0",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -9166,7 +9165,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}na-ṣib\\p—DINGIR",
+                  "frag": "{1}na-ṣib\\p-DINGIR",
                   "id": "P313477.l0f23c",
                   "ref": "P313477.42.2",
                   "inst": "Naṣib-il[1]PN",
@@ -9204,8 +9203,7 @@
                         "form": "ṣib",
                         "gdl_utf8": "𒍦",
                         "id": "P313477.42.2.2",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "mods": [
                           {
                             "b": "ṣib"

@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:30:02",
+  "UTC-timestamp": "2018-06-22T06:06:22",
   "textid": "P313620",
   "cdl": [
     {
@@ -1273,7 +1273,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂—bar-ru\\d",
+                  "frag": "E₂-bar-ru\\d",
                   "id": "P313620.l0e4d8",
                   "ref": "P313620.9.7",
                   "inst": "Bit-Barru[]GN$",
@@ -1293,8 +1293,7 @@
                             "id": "P313620.9.7.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -3213,7 +3212,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru]}⸢ni⸣-qi\\tm—tu-ub-li\\d-iš",
+                  "frag": "{uru]}⸢ni⸣-qi\\tm-tu-ub-li\\d-iš",
                   "id": "P313620.l0e521",
                   "ref": "P313620.24.4",
                   "inst": "Niqi-Tubliš[]GN$",
@@ -3257,8 +3256,7 @@
                         "form": "qi",
                         "gdl_utf8": "𒆥",
                         "id": "P313620.24.4.2",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "mods": [
                           {
                             "b": "qi"
@@ -4018,7 +4016,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂—bar-ru\\d-u",
+                  "frag": "E₂-bar-ru\\d-u",
                   "id": "P313620.l0e53a",
                   "ref": "P313620.28.6",
                   "inst": "Bit-Barru[]GN$",
@@ -4037,8 +4035,7 @@
                             "id": "P313620.28.6.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -4129,7 +4126,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}x-x]—{⸢d⸣}AMAR.UTU",
+                  "frag": "{1}x-x]-{⸢d⸣}AMAR.UTU",
                   "id": "P313620.l0e53d",
                   "ref": "P313620.29.3",
                   "inst": "u",
@@ -4170,8 +4167,7 @@
                         "break": "missing",
                         "o": "]",
                         "breakEnd": "P313620.29.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",

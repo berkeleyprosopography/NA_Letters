@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:31",
+  "UTC-timestamp": "2018-06-22T06:08:26",
   "textid": "P334538",
   "cdl": [
     {
@@ -205,14 +205,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}LUGAL—IGI.LAL-ni",
+                  "frag": "{1}LUGAL-IGI.LAL-ni",
                   "id": "P334538.l0a90a",
                   "ref": "P334538.3.2",
                   "inst": "Šarru-emuranni[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}LUGAL-IGI.LAL-ni=Šarru-emuranni[1//1]PN'PN$Šarru-emuranni",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}LUGAL—IGI.LAL-ni",
+                    "form": "{1}LUGAL-IGI.LAL-ni",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -242,8 +242,7 @@
                             "id": "P334538.3.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "IGI",
@@ -271,7 +270,10 @@
                     ],
                     "cf": "Šarru-emuranni",
                     "gw": "1",
-                    "pos": "PN"
+                    "sense": "1",
+                    "norm": "Šarru-emuranni",
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {
@@ -468,7 +470,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}x]—PAB-ir",
+                  "frag": "{1}{d}x]-PAB-ir",
                   "id": "P334538.l0a910",
                   "ref": "P334538.5.1",
                   "inst": "u",
@@ -517,8 +519,7 @@
                         "break": "missing",
                         "o": "]",
                         "breakEnd": "P334538.5.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -793,7 +794,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}kar—{d}MAŠ.MAŠ",
+                  "frag": "{uru}kar-{d}MAŠ.MAŠ",
                   "id": "P334538.l0a917",
                   "ref": "P334538.7.5",
                   "inst": "Kar-Nergal[]GN$",
@@ -825,8 +826,7 @@
                         "v": "kar",
                         "gdl_utf8": "𒋼𒀀",
                         "id": "P334538.7.5.1",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",

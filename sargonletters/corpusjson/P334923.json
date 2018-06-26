@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:34:37",
+  "UTC-timestamp": "2018-06-22T06:09:01",
   "textid": "P334923",
   "cdl": [
     {
@@ -203,7 +203,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}tak-lak—[a-na—EN]",
+                  "frag": "{1}tak-lak-[a-na-EN]",
                   "id": "P334923.l05e05",
                   "ref": "P334923.3.2",
                   "inst": "Taklak-ana-Bel[1]PN",
@@ -240,8 +240,7 @@
                         "v": "lak",
                         "gdl_utf8": "𒋃",
                         "id": "P334923.3.2.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "a",
@@ -257,8 +256,7 @@
                         "gdl_utf8": "𒈾",
                         "id": "P334923.3.2.4",
                         "break": "missing",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",

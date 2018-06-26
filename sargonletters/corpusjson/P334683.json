@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:55",
+  "UTC-timestamp": "2018-06-22T06:08:39",
   "textid": "P334683",
   "cdl": [
     {
@@ -79,14 +79,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}AMAR.UTU—MAN-a-ni",
+                  "frag": "{1}{d}AMAR.UTU-MAN-a-ni",
                   "id": "P334683.l118b1",
                   "ref": "P334683.2.2",
                   "inst": "Marduk-šarrani[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}AMAR.UTU-MAN-a-ni=Marduk-šarrani[1//1]PN'PN$Marduk-šarrani",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}AMAR.UTU—MAN-a-ni",
+                    "form": "{1}{d}AMAR.UTU-MAN-a-ni",
                     "delim": "",
                     "gdl": [
                       {
@@ -136,8 +136,7 @@
                             "id": "P334683.2.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "MAN",
@@ -163,8 +162,10 @@
                     ],
                     "cf": "Marduk-šarrani",
                     "gw": "1",
+                    "sense": "1",
                     "norm": "Marduk-šarrani",
-                    "pos": "PN"
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {
@@ -201,14 +202,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}AMAR.UTU—A—AŠ",
+                  "frag": "{1}{d}AMAR.UTU-A-AŠ",
                   "id": "P334683.l118b3",
                   "ref": "P334683.2.4",
                   "inst": "Marduk-apla-iddina[Merodach-Baladan]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}AMAR.UTU-A-AŠ=Marduk-apla-iddina[Merodach-Baladan//Merodach-Baladan]PN'PN$Marduk-apla-iddina",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}AMAR.UTU—A—AŠ",
+                    "form": "{1}{d}AMAR.UTU-A-AŠ",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -257,8 +258,7 @@
                             "id": "P334683.2.4.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "A",
@@ -266,8 +266,7 @@
                             "id": "P334683.2.4.4",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "AŠ",
@@ -280,8 +279,8 @@
                       }
                     ],
                     "cf": "Marduk-apla-iddina",
-                    "gw": "Merodach-baladan",
-                    "sense": "Merodach-baladan",
+                    "gw": "Merodach-Baladan",
+                    "sense": "Merodach-Baladan",
                     "norm": "Marduk-apla-iddina",
                     "pos": "PN",
                     "epos": "PN"
@@ -490,7 +489,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR—aš-šur{ki}",
+                  "frag": "KUR-aš-šur{ki}",
                   "id": "P334683.l118ba",
                   "ref": "P334683.3.7",
                   "cof-tails": "P334683.l118bb",
@@ -510,8 +509,7 @@
                             "id": "P334683.3.7.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -556,7 +554,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR—aš-šur{ki}",
+                  "frag": "KUR-aš-šur{ki}",
                   "id": "P334683.l118bb",
                   "ref": "P334683.3.7",
                   "cof-head": "P334683.l118ba",
@@ -575,8 +573,7 @@
                             "id": "P334683.3.7.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1342,14 +1339,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}AMAR.UTU—MAN-a-ni",
+                  "frag": "{1}{d}AMAR.UTU-MAN-a-ni",
                   "id": "P334683.l118cf",
                   "ref": "P334683.7.5",
                   "inst": "Marduk-šarrani[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}AMAR.UTU-MAN-a-ni=Marduk-šarrani[1//1]PN'PN$Marduk-šarrani",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}AMAR.UTU—MAN-a-ni",
+                    "form": "{1}{d}AMAR.UTU-MAN-a-ni",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -1402,8 +1399,7 @@
                             "gdl_collated": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "MAN",
@@ -1430,7 +1426,10 @@
                     ],
                     "cf": "Marduk-šarrani",
                     "gw": "1",
-                    "pos": "PN"
+                    "sense": "1",
+                    "norm": "Marduk-šarrani",
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {
@@ -1478,7 +1477,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU—{1}ia]-GIN",
+                  "frag": "DUMU-{1}ia]-GIN",
                   "id": "P334683.l118d1",
                   "ref": "P334683.8.2",
                   "inst": "Mar-Yakin[1]PN",
@@ -1499,8 +1498,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1756,7 +1754,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR]—⸢aš-šur{ki⸣}",
+                  "frag": "KUR]-⸢aš-šur{ki⸣}",
                   "id": "P334683.l118d8",
                   "ref": "P334683.9.6",
                   "cof-tails": "P334683.l118d9",
@@ -1779,8 +1777,7 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P334683.9.5.0",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1832,7 +1829,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR]—⸢aš-šur{ki⸣}",
+                  "frag": "KUR]-⸢aš-šur{ki⸣}",
                   "id": "P334683.l118d9",
                   "ref": "P334683.9.6",
                   "cof-head": "P334683.l118d8",
@@ -1854,8 +1851,7 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P334683.9.5.0",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -2476,14 +2472,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}AMAR.UTU—LUGAL-⸢a⸣-[ni]",
+                  "frag": "{1}{d}AMAR.UTU-LUGAL-⸢a⸣-[ni]",
                   "id": "P334683.l118f0",
                   "ref": "P334683.15.4",
                   "inst": "Marduk-šarrani[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}AMAR.UTU-LUGAL-a-ni=Marduk-šarrani[1//1]PN'PN$Marduk-šarrani",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}AMAR.UTU—LUGAL-a-ni",
+                    "form": "{1}{d}AMAR.UTU-LUGAL-a-ni",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -2535,8 +2531,7 @@
                             "id": "P334683.15.4.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "LUGAL",
@@ -2570,8 +2565,10 @@
                     ],
                     "cf": "Marduk-šarrani",
                     "gw": "1",
+                    "sense": "1",
                     "norm": "Marduk-šarrani",
-                    "pos": "PN"
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {
@@ -2619,7 +2616,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU—{1}ia]-ki-ni",
+                  "frag": "DUMU-{1}ia]-ki-ni",
                   "id": "P334683.l118f2",
                   "ref": "P334683.16.2",
                   "inst": "Mar-Yakini[1]PN",
@@ -2640,8 +2637,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -3471,7 +3467,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR—{d}aš-⸢šur⸣{[ki]}",
+                  "frag": "KUR-{d}aš-⸢šur⸣{[ki]}",
                   "id": "P334683.l11909",
                   "ref": "P334683.20.6",
                   "cof-tails": "P334683.l1190a",
@@ -3491,8 +3487,7 @@
                             "id": "P334683.20.6.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -3555,7 +3550,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR—{d}aš-⸢šur⸣{[ki]}",
+                  "frag": "KUR-{d}aš-⸢šur⸣{[ki]}",
                   "id": "P334683.l1190a",
                   "ref": "P334683.20.6",
                   "cof-head": "P334683.l11909",
@@ -3574,8 +3569,7 @@
                             "id": "P334683.20.6.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -3906,7 +3900,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU—{1}ia-GIN",
+                  "frag": "DUMU-{1}ia-GIN",
                   "id": "P334683.l11914",
                   "ref": "P334683.22.3",
                   "inst": "Mar-Yakin[1]PN",
@@ -3926,8 +3920,7 @@
                             "id": "P334683.22.3.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -4131,14 +4124,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}BAD₃—LUGAL-uk\\d-ki",
+                  "frag": "{uru}BAD₃-LUGAL-uk\\d-ki",
                   "id": "P334683.l11919",
                   "ref": "P334683.23.4",
                   "inst": "Dur-Šarrukku[]GN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}BAD₃-LUGAL-uk-ki=Dur-Šarrukku[1//1]GN'GN$Dur-Šarrukku",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}BAD₃—LUGAL-uk-ki",
+                    "form": "{URU}BAD₃-LUGAL-uk-ki",
                     "delim": "",
                     "gdl": [
                       {
@@ -4170,8 +4163,7 @@
                             "id": "P334683.23.4.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "LUGAL",
@@ -4501,7 +4493,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "am—mar",
+                  "frag": "am-mar",
                   "id": "P334683.l11921",
                   "ref": "P334683.25.2",
                   "inst": "ammar[as much as]REL",
@@ -4515,8 +4507,7 @@
                         "v": "am",
                         "gdl_utf8": "𒄠",
                         "id": "P334683.25.2.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "mar",

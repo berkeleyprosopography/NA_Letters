@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:31:01",
+  "UTC-timestamp": "2018-06-22T06:07:02",
   "textid": "P313980",
   "cdl": [
     {
@@ -213,7 +213,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA]—⸢bal⸣-liṭ-an-⸢ni⸣",
+                  "frag": "{1}{d}PA]-⸢bal⸣-liṭ-an-⸢ni⸣",
                   "id": "P313980.l1079f",
                   "ref": "P313980.3.2",
                   "inst": "Nabu-balliṭanni[]PN$",
@@ -267,8 +267,7 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P313980.3.1.0",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

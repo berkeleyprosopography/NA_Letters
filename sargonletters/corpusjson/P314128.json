@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:31:18",
+  "UTC-timestamp": "2018-06-22T06:07:15",
   "textid": "P314128",
   "cdl": [
     {
@@ -849,15 +849,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU-MEŠ\\m—GU₂\\t.⸢DU₈⸣.[A{ki}",
+                  "frag": "DUMU-MEŠ\\m-GU₂\\t.⸢DU₈⸣.[A{ki}",
                   "id": "P314128.l11209",
                   "ref": "P314128.7.1",
                   "cof-tails": "P314128.l1120a",
                   "inst": "+māru[son]N$māre&+Kute[Cutha]GN$",
-                  "newsig": "@saao/sargonletters%akk-x-neoass:DUMU-MEŠ—GU₂.DU₈.A{KI}=māru[son//son]N'N$māre&&@saao/sargonletters%akk-x-neoass:DUMU-MEŠ—GU₂.DU₈.A{KI}=Kute[Cutha//Cutha]GN'GN$Kute",
+                  "sig": "@saao/sargonletters%akk-x-neoass:DUMU-MEŠ-GU₂.DU₈.A{KI}=māru[son//son]N'N$māre&&@saao/sargonletters%akk-x-neoass:DUMU-MEŠ-GU₂.DU₈.A{KI}=Kute[Cutha//Cutha]GN'GN$Kute",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU-MEŠ—GU₂.DU₈.A{KI}",
+                    "form": "DUMU-MEŠ-GU₂.DU₈.A{KI}",
                     "delim": "",
                     "gdl": [
                       {
@@ -878,8 +878,7 @@
                             "id": "P314128.7.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "mods": [
                               {
                                 "b": "MEŠ"
@@ -953,14 +952,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU-MEŠ\\m—GU₂\\t.⸢DU₈⸣.[A{ki}",
+                  "frag": "DUMU-MEŠ\\m-GU₂\\t.⸢DU₈⸣.[A{ki}",
                   "id": "P314128.l1120a",
                   "ref": "P314128.7.1",
                   "cof-head": "P314128.l11209",
                   "inst": "+māru[son]N$māre&+Kute[Cutha]GN$",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU-MEŠ—GU₂.DU₈.A{KI}",
+                    "form": "DUMU-MEŠ-GU₂.DU₈.A{KI}",
                     "delim": "",
                     "gdl": [
                       {
@@ -981,8 +980,7 @@
                             "id": "P314128.7.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "mods": [
                               {
                                 "b": "MEŠ"

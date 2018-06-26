@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:31:39",
+  "UTC-timestamp": "2018-06-22T06:07:28",
   "textid": "P314283",
   "cdl": [
     {
@@ -212,7 +212,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DI-mu—EN]",
+                  "frag": "{1}DI-mu-EN]",
                   "id": "P314283.l09542",
                   "ref": "P314283.3.2",
                   "inst": "Šulmu-beli[1]PN",
@@ -260,8 +260,7 @@
                         "gdl_utf8": "𒈬",
                         "id": "P314283.3.2.2",
                         "break": "missing",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -492,7 +491,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{[lu₂}A]—šip-ri",
+                  "frag": "{[lu₂}A]-šip-ri",
                   "id": "P314283.l09548",
                   "ref": "P314283.5.1",
                   "cof-tails": "P314283.l09549",
@@ -538,8 +537,7 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P314283.5.1.0",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -565,7 +563,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{[lu₂}A]—šip-ri",
+                  "frag": "{[lu₂}A]-šip-ri",
                   "id": "P314283.l09549",
                   "ref": "P314283.5.1",
                   "cof-head": "P314283.l09548",
@@ -611,8 +609,7 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P314283.5.1.0",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -4117,15 +4114,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "AD—AD-ia",
+                  "frag": "AD-AD-ia",
                   "id": "P314283.l095bd",
                   "ref": "P314283.24.2",
                   "cof-tails": "P314283.l095be",
                   "inst": "abu[father]N$ab&abu[father]N$abīya",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:AD-AD-ia=abu[father//father]N'N$ab&&@saao/sargonletters%akk-x-neoass:=abu[father//father]N'N$abīya",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "AD—AD-ia",
+                    "form": "AD-AD-ia",
                     "delim": "",
                     "gdl": [
                       {
@@ -4138,8 +4135,7 @@
                             "id": "P314283.24.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "AD",
@@ -4159,20 +4155,23 @@
                     ],
                     "cf": "abu",
                     "gw": "father",
+                    "sense": "father",
                     "norm": "ab",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "AD—AD-ia",
+                  "frag": "AD-AD-ia",
                   "id": "P314283.l095be",
                   "ref": "P314283.24.2",
                   "cof-head": "P314283.l095bd",
                   "inst": "abu[father]N$ab&abu[father]N$abīya",
+                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=abu[father//father]N'N$abīya",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "AD—AD-ia",
+                    "form": "AD-AD-ia",
                     "delim": "",
                     "gdl": [
                       {
@@ -4185,8 +4184,7 @@
                             "id": "P314283.24.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "AD",
@@ -4206,8 +4204,10 @@
                     ],
                     "cf": "abu",
                     "gw": "father",
+                    "sense": "father",
                     "norm": "abīya",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
@@ -4327,7 +4327,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}GAL—da\\d-ni\\d-bat",
+                  "frag": "{lu₂v}GAL-da\\d-ni\\d-bat",
                   "id": "P314283.l095c4",
                   "ref": "P314283.25.1",
                   "cof-tails": "P314283.l095c5",
@@ -4375,8 +4375,7 @@
                             "id": "P314283.25.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -4424,7 +4423,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}GAL—da\\d-ni\\d-bat",
+                  "frag": "{lu₂v}GAL-da\\d-ni\\d-bat",
                   "id": "P314283.l095c5",
                   "ref": "P314283.25.1",
                   "cof-head": "P314283.l095c4",
@@ -4472,8 +4471,7 @@
                             "id": "P314283.25.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -4655,7 +4653,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "⸢i⸣—[su]-⸢ri⸣",
+                  "frag": "⸢i⸣-[su]-⸢ri⸣",
                   "id": "P314283.l095cb",
                   "ref": "P314283.26.1",
                   "inst": "issurri[perhaps]AV",
@@ -4671,8 +4669,7 @@
                         "id": "P314283.26.1.0",
                         "break": "damaged",
                         "ho": "1",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "hc": "1"
                       },
                       {

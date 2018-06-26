@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:30:00",
+  "UTC-timestamp": "2018-06-22T06:06:21",
   "textid": "P313613",
   "cdl": [
     {
@@ -54,7 +54,7 @@
                 {
                   "node": "l",
                   "frag": "[ša",
-                  "id": "P313613.l152a1",
+                  "id": "P313613.l152a2",
                   "ref": "P313613.2.1",
                   "inst": "ša[which]REL",
                   "sig": "@saao/sargonletters%akk-x-neoass:ša=ša[that//which]REL'REL$ša",
@@ -83,7 +83,7 @@
                 {
                   "node": "l",
                   "frag": "LUGAL]",
-                  "id": "P313613.l152a2",
+                  "id": "P313613.l152a3",
                   "ref": "P313613.2.2",
                   "inst": "šarru[king]N",
                   "sig": "@saao/sargonletters%akk-x-neoass:LUGAL=šarru[king//king]N'N$šarru",
@@ -120,7 +120,7 @@
                 {
                   "node": "l",
                   "frag": "be-[li₂]",
-                  "id": "P313613.l152a3",
+                  "id": "P313613.l152a4",
                   "ref": "P313613.2.3",
                   "inst": "bēlī[lord]N",
                   "sig": "@saao/sargonletters%akk-x-neoass:be-li₂=bēlu[lord//lord]N'N$bēlī",
@@ -162,7 +162,7 @@
                 {
                   "node": "l",
                   "frag": "[iš-pur]-an-[ni]",
-                  "id": "P313613.l152a4",
+                  "id": "P313613.l152a5",
                   "ref": "P313613.3.1",
                   "inst": "išpuranni[write]V",
                   "sig": "@saao/sargonletters%akk-x-neoass:iš-pur-an-ni=šapāru[send//write]V'V$išpuranni",
@@ -222,7 +222,7 @@
                 {
                   "node": "l",
                   "frag": "[ma]-⸢a⸣",
-                  "id": "P313613.l152a5",
+                  "id": "P313613.l152a6",
                   "ref": "P313613.4.1",
                   "inst": "mā[saying]PRP",
                   "sig": "@saao/sargonletters%akk-x-neoass:ma-a=mā[saying//saying]PRP'PRP$mā",
@@ -261,7 +261,7 @@
                 {
                   "node": "l",
                   "frag": "mi-[i-nu]",
-                  "id": "P313613.l152a6",
+                  "id": "P313613.l152a7",
                   "ref": "P313613.4.2",
                   "inst": "mīnu[what?]QP",
                   "sig": "@saao/sargonletters%akk-x-neoass:mi-i-nu=mīnu[what?//what?]QP'QP$mīnu",
@@ -311,7 +311,7 @@
                 {
                   "node": "l",
                   "frag": "[x]-pa-qi₂-[x]",
-                  "id": "P313613.l152a7",
+                  "id": "P313613.l152a8",
                   "ref": "P313613.5.1",
                   "inst": "u",
                   "f": {
@@ -363,7 +363,7 @@
                 {
                   "node": "l",
                   "frag": "⸢am⸣-ma-te",
-                  "id": "P313613.l152a8",
+                  "id": "P313613.l152a9",
                   "ref": "P313613.6.1",
                   "inst": "ammiu[that]DP$ammāte",
                   "sig": "@saao/sargonletters%akk-x-neoass:am-ma-te=ammiu[that//that]DP'DP$ammāte",
@@ -410,7 +410,7 @@
                 {
                   "node": "l",
                   "frag": "[taš]-pu-ra",
-                  "id": "P313613.l152a9",
+                  "id": "P313613.l152aa",
                   "ref": "P313613.7.1",
                   "inst": "tašpura[send]V",
                   "sig": "@saao/sargonletters%akk-x-neoass:taš-pu-ra=šapāru[send//send]V'V$tašpura",
@@ -458,7 +458,7 @@
                 {
                   "node": "l",
                   "frag": "⸢u₂⸣-ma-a",
-                  "id": "P313613.l152aa",
+                  "id": "P313613.l152ab",
                   "ref": "P313613.8.1",
                   "inst": "ūmâ[now]AV",
                   "sig": "@saao/sargonletters%akk-x-neoass:u₂-ma-a=ūma[today//now]AV'AV$ūmâ",
@@ -499,7 +499,7 @@
                 {
                   "node": "l",
                   "frag": "e-gir₂-tu₂",
-                  "id": "P313613.l152ab",
+                  "id": "P313613.l152ac",
                   "ref": "P313613.8.2",
                   "inst": "egertu[letter]N",
                   "sig": "@saao/sargonletters%akk-x-neoass:e-gir₂-tu₂=egertu[inscribed tablet//letter]N'N$egertu",
@@ -543,7 +543,7 @@
                 {
                   "node": "l",
                   "frag": "u₂-se-⸢bi⸣-la",
-                  "id": "P313613.l152ac",
+                  "id": "P313613.l152ad",
                   "ref": "P313613.9.1",
                   "inst": "ussēbila[send]V",
                   "sig": "@saao/sargonletters%akk-x-neoass:u₂-se-bi-la=wabālu[bring//send]V'V$ussēbila",
@@ -595,14 +595,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{⸢d⸣}PA—⸢TIN⸣-[iṭ",
-                  "id": "P313613.l152ad",
+                  "frag": "{1}{⸢d⸣}PA-⸢TIN⸣-[iṭ",
+                  "id": "P313613.l152ae",
                   "ref": "P313613.10.1",
                   "inst": "Nabu-balliṭ[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}PA-TIN-iṭ=Nabu-balliṭ[1//1]PN'PN$Nabu-balliṭ",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}PA—TIN-iṭ",
+                    "form": "{1}{d}PA-TIN-iṭ",
                     "delim": "",
                     "gdl": [
                       {
@@ -651,8 +651,7 @@
                             "id": "P313613.10.1.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "TIN",
@@ -687,15 +686,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v]}⸢GAL⸣—GEŠTIN",
-                  "id": "P313613.l152ae",
+                  "frag": "{lu₂v]}⸢GAL⸣-GEŠTIN",
+                  "id": "P313613.l152af",
                   "ref": "P313613.10.2",
-                  "cof-tails": "P313613.l152af",
+                  "cof-tails": "P313613.l152b0",
                   "inst": "rabû[big one]N$rab&karānu[vine]N$karāni",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}GAL-GEŠTIN=rabû[big one//big one]N'N$rab&&@saao/sargonletters%akk-x-neoass:=karānu[vine//vine]N'N$karāni",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL—GEŠTIN",
+                    "form": "{LU₂}GAL-GEŠTIN",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -739,8 +738,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "hc": "1"
                           },
                           {
@@ -755,20 +753,23 @@
                     ],
                     "cf": "rabû",
                     "gw": "big one",
+                    "sense": "big one",
                     "norm": "rab",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v]}⸢GAL⸣—GEŠTIN",
-                  "id": "P313613.l152af",
+                  "frag": "{lu₂v]}⸢GAL⸣-GEŠTIN",
+                  "id": "P313613.l152b0",
                   "ref": "P313613.10.2",
-                  "cof-head": "P313613.l152ae",
+                  "cof-head": "P313613.l152af",
                   "inst": "rabû[big one]N$rab&karānu[vine]N$karāni",
+                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=karānu[vine//vine]N'N$karāni",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL—GEŠTIN",
+                    "form": "{LU₂}GAL-GEŠTIN",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -812,8 +813,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "hc": "1"
                           },
                           {
@@ -828,8 +828,10 @@
                     ],
                     "cf": "karānu",
                     "gw": "vine",
+                    "sense": "vine",
                     "norm": "karāni",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {

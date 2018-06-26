@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:34:25",
+  "UTC-timestamp": "2018-06-22T06:08:54",
   "textid": "P334846",
   "cdl": [
     {
@@ -205,14 +205,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}AG—[EN—GIN]",
+                  "frag": "{1}{d}AG-[EN-GIN]",
                   "id": "P334846.l0d896",
                   "ref": "P334846.3.2",
                   "inst": "Nabu-belu-kaʾʾin[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}AG-EN-GIN=Nabu-belu-kaʾʾin[1//1]PN'PN$Nabu-belu-kaʾʾin",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}AG—EN—GIN",
+                    "form": "{1}{d}AG-EN-GIN",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -253,8 +253,7 @@
                             "id": "P334846.3.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "EN",
@@ -265,8 +264,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "GIN",
@@ -283,7 +281,10 @@
                     ],
                     "cf": "Nabu-belu-kaʾʾin",
                     "gw": "1",
-                    "pos": "PN"
+                    "sense": "1",
+                    "norm": "Nabu-belu-kaʾʾin",
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {
@@ -1795,7 +1796,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}KA₂\\d—bit-⸢qi⸣",
+                  "frag": "{uru}KA₂\\d-bit-⸢qi⸣",
                   "id": "P334846.l0d8c0",
                   "ref": "P334846.12.3",
                   "inst": "Bab-bitqi[]GN$",
@@ -1834,8 +1835,7 @@
                             "id": "P334846.12.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "mods": [
                               {
                                 "b": "KA₂"
@@ -2180,14 +2180,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}U.GUR—EN—PAB",
+                  "frag": "{1}{d}U.GUR-EN-PAB",
                   "id": "P334846.l0d8c8",
                   "ref": "P334846.14.3",
                   "inst": "Nergal-belu-uṣur[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}U.GUR-EN-PAB=Nergal-belu-uṣur[1//1]PN'PN$Nergal-belu-uṣur",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}U.GUR—EN—PAB",
+                    "form": "{1}{d}U.GUR-EN-PAB",
                     "delim": "",
                     "gdl": [
                       {
@@ -2237,8 +2237,7 @@
                             "id": "P334846.14.3.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "EN",
@@ -2246,8 +2245,7 @@
                             "id": "P334846.14.3.4",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "PAB",

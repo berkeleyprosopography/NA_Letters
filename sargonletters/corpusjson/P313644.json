@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:30:06",
+  "UTC-timestamp": "2018-06-22T06:06:25",
   "textid": "P313644",
   "cdl": [
     {
@@ -5734,7 +5734,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}ša₂—⸢GIR₃⸣.2",
+                  "frag": "{lu₂v}ša₂-⸢GIR₃⸣.2",
                   "id": "P313644.l00419",
                   "ref": "P313644.17.2",
                   "inst": "ša-šēpi[(kingʾs) personal guard]N$",
@@ -5775,8 +5775,7 @@
                         "v": "ša₂",
                         "gdl_utf8": "𒃻",
                         "id": "P313644.17.2.1",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -12234,7 +12233,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR—aš-šur{ki}",
+                  "frag": "KUR-aš-šur{ki}",
                   "id": "P313644.l00516",
                   "ref": "P313644.37.9",
                   "inst": "+Mat-Aššur[Assyria]GN$",
@@ -12255,8 +12254,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -12379,7 +12377,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR—aš-šur{ki}",
+                  "frag": "KUR-aš-šur{ki}",
                   "id": "P313644.l00519",
                   "ref": "P313644.38.2",
                   "inst": "+Mat-Aššur[Assyria]GN$",
@@ -12399,8 +12397,7 @@
                             "id": "P313644.38.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -12983,15 +12980,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂—MI₂-MEŠ",
+                  "frag": "E₂-MI₂-MEŠ",
                   "id": "P313644.l0052d",
                   "ref": "P313644.39.4",
                   "cof-tails": "P313644.l0052e",
                   "inst": "bītu[house]N$bēt&sinništu[woman]N$issāti",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:E₂-MI₂-MEŠ=bītu[house//house]N'N$bēt&&@saao/sargonletters%akk-x-neoass:=sinništu[woman//woman]N'N$issāti",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "E₂—MI₂-MEŠ",
+                    "form": "E₂-MI₂-MEŠ",
                     "delim": "",
                     "gdl": [
                       {
@@ -13004,8 +13001,7 @@
                             "id": "P313644.39.4.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "MI₂",
@@ -13027,20 +13023,23 @@
                     ],
                     "cf": "bītu",
                     "gw": "house",
+                    "sense": "house",
                     "norm": "bēt",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "E₂—MI₂-MEŠ",
+                  "frag": "E₂-MI₂-MEŠ",
                   "id": "P313644.l0052e",
                   "ref": "P313644.39.4",
                   "cof-head": "P313644.l0052d",
                   "inst": "bītu[house]N$bēt&sinništu[woman]N$issāti",
+                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=sinništu[woman//woman]N'N$issāti",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "E₂—MI₂-MEŠ",
+                    "form": "E₂-MI₂-MEŠ",
                     "delim": "",
                     "gdl": [
                       {
@@ -13053,8 +13052,7 @@
                             "id": "P313644.39.4.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "MI₂",
@@ -13076,8 +13074,10 @@
                     ],
                     "cf": "sinništu",
                     "gw": "woman",
+                    "sense": "woman",
                     "norm": "issāti",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
@@ -13926,14 +13926,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}MAŠ—EN—PAB",
+                  "frag": "{1}{d}MAŠ-EN-PAB",
                   "id": "P313644.l0054f",
                   "ref": "P313644.41.2",
                   "inst": "Inurta-belu-uṣur[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}MAŠ-EN-PAB=Inurta-belu-uṣur[1//1]PN'PN$Inurta-belu-uṣur",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}MAŠ—EN—PAB",
+                    "form": "{1}{d}MAŠ-EN-PAB",
                     "delim": "",
                     "gdl": [
                       {
@@ -13975,8 +13975,7 @@
                             "id": "P313644.41.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "EN",
@@ -13984,8 +13983,7 @@
                             "id": "P313644.41.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "PAB",

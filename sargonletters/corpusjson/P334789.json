@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:34:14",
+  "UTC-timestamp": "2018-06-22T06:08:49",
   "textid": "P334789",
   "cdl": [
     {
@@ -79,14 +79,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA—BAD₃—PAB",
+                  "frag": "{1}{d}PA-BAD₃-PAB",
                   "id": "P334789.l052f0",
                   "ref": "P334789.2.2",
                   "inst": "Nabu-duru-uṣur[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}PA-BAD₃-PAB=Nabu-duru-uṣur[1//1]PN'PN$Nabu-duru-uṣur",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}PA—BAD₃—PAB",
+                    "form": "{1}{d}PA-BAD₃-PAB",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -127,8 +127,7 @@
                             "id": "P334789.2.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "BAD₃",
@@ -136,8 +135,7 @@
                             "id": "P334789.2.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "PAB",
@@ -1124,7 +1122,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "EN—pi-qi-ta-te",
+                  "frag": "EN-pi-qi-ta-te",
                   "id": "P334789.l05308",
                   "ref": "P334789.11.1",
                   "cof-tails": "P334789.l05309",
@@ -1145,8 +1143,7 @@
                             "id": "P334789.11.1.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1184,7 +1181,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "EN—pi-qi-ta-te",
+                  "frag": "EN-pi-qi-ta-te",
                   "id": "P334789.l05309",
                   "ref": "P334789.11.1",
                   "cof-head": "P334789.l05308",
@@ -1205,8 +1202,7 @@
                             "id": "P334789.11.1.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

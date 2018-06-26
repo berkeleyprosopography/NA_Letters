@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:34:19",
+  "UTC-timestamp": "2018-06-22T06:08:51",
   "textid": "P334822",
   "cdl": [
     {
@@ -879,7 +879,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}AN.GAL—⸢x⸣+[x",
+                  "frag": "{1}AN.GAL-⸢x⸣+[x",
                   "id": "P334822.l11e18",
                   "ref": "P334822.8.4",
                   "inst": "u",
@@ -927,8 +927,7 @@
                             "id": "P334822.8.4.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1076,14 +1075,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA]—NUMUN—DU₃",
+                  "frag": "{1}{d}PA]-NUMUN-DU₃",
                   "id": "P334822.l11e1e",
                   "ref": "P334822.9.3",
                   "inst": "Nabu-zeru-ibni[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}PA-NUMUN-DU₃=Nabu-zeru-ibni[1//1]PN'PN$Nabu-zeru-ibni",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}PA—NUMUN—DU₃",
+                    "form": "{1}{d}PA-NUMUN-DU₃",
                     "delim": "",
                     "gdl": [
                       {
@@ -1131,8 +1130,7 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P334822.9.1.0",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "NUMUN",
@@ -1140,8 +1138,7 @@
                             "id": "P334822.9.3.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "DU₃",

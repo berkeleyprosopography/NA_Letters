@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:32:40",
+  "UTC-timestamp": "2018-06-22T06:07:59",
   "textid": "P334197",
   "cdl": [
     {
@@ -200,14 +200,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}EN—IGI.LAL-ni",
+                  "frag": "{1}EN-IGI.LAL-ni",
                   "id": "P334197.l0b3d4",
                   "ref": "P334197.3.2",
                   "inst": "Bel-emuranni[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}EN-IGI.LAL-ni=Bel-emuranni[1//1]PN'PN$Bel-emuranni",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}EN—IGI.LAL-ni",
+                    "form": "{1}EN-IGI.LAL-ni",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -237,8 +237,7 @@
                             "id": "P334197.3.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "IGI",
@@ -266,8 +265,10 @@
                     ],
                     "cf": "Bel-emuranni",
                     "gw": "1",
+                    "sense": "1",
                     "norm": "Bel-emuranni",
-                    "pos": "PN"
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {
@@ -2306,7 +2307,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "ša\\dm—{lu₂v}BAD-HAL",
+                  "frag": "ša\\dm-{lu₂v}BAD-HAL",
                   "id": "P334197.l0b40b",
                   "ref": "P334197.22.1",
                   "inst": "ša-pēthalli[rider//cavalry]N$",
@@ -2320,8 +2321,7 @@
                         "form": "ša",
                         "gdl_utf8": "𒊭",
                         "id": "P334197.22.1.0",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "mods": [
                           {
                             "b": "ša"

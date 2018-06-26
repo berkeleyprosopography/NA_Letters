@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:24",
+  "UTC-timestamp": "2018-06-22T06:08:23",
   "textid": "P334498",
   "cdl": [
     {
@@ -199,7 +199,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}ša\\dm—aš-šur—du-bu",
+                  "frag": "{1}ša\\dm-aš-šur-du-bu",
                   "id": "P334498.l06d91",
                   "ref": "P334498.3.2",
                   "inst": "Ša-Aššur-dubbu[]PN$",
@@ -230,8 +230,7 @@
                         "form": "ša",
                         "gdl_utf8": "𒊭",
                         "id": "P334498.3.2.1",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "mods": [
                           {
                             "b": "ša"
@@ -251,8 +250,7 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P334498.3.2.3",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "du",
@@ -475,7 +473,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a—dan-niš]",
+                  "frag": "a-dan-niš]",
                   "id": "P334498.l06d97",
                   "ref": "P334498.4.6",
                   "inst": "adanniš[very much]AV",
@@ -489,8 +487,7 @@
                         "gdl_utf8": "𒀀",
                         "id": "P334498.4.6.0",
                         "break": "missing",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "dan",
@@ -3469,7 +3466,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "⸢am—mar⸣",
+                  "frag": "⸢am-mar⸣",
                   "id": "P334498.l06dd9",
                   "ref": "P334498.24.3",
                   "inst": "ammar[as much as//as many as]REL$",
@@ -3485,8 +3482,7 @@
                         "break": "damaged",
                         "queried": "1",
                         "ho": "1",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "mar",
@@ -4095,7 +4091,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂—šu-ub-te-šu₂-nu",
+                  "frag": "E₂-šu-ub-te-šu₂-nu",
                   "id": "P334498.l06de7",
                   "ref": "P334498.28.2",
                   "cof-tails": "P334498.l06de8",
@@ -4116,8 +4112,7 @@
                             "id": "P334498.28.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -4161,7 +4156,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂—šu-ub-te-šu₂-nu",
+                  "frag": "E₂-šu-ub-te-šu₂-nu",
                   "id": "P334498.l06de8",
                   "ref": "P334498.28.2",
                   "cof-head": "P334498.l06de7",
@@ -4182,8 +4177,7 @@
                             "id": "P334498.28.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -4281,7 +4275,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i—su-ri",
+                  "frag": "i-su-ri",
                   "id": "P334498.l06dea",
                   "ref": "P334498.29.1",
                   "inst": "issurri[perhaps]AV",
@@ -4295,8 +4289,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P334498.29.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "su",
@@ -5088,7 +5081,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}A—šip-ri",
+                  "frag": "{lu₂vy}A-šip-ri",
                   "id": "P334498.l06dfb",
                   "ref": "P334498.35.4",
                   "cof-tails": "P334498.l06dfc",
@@ -5138,8 +5131,7 @@
                             "id": "P334498.35.4.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -5165,7 +5157,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}A—šip-ri",
+                  "frag": "{lu₂vy}A-šip-ri",
                   "id": "P334498.l06dfc",
                   "ref": "P334498.35.4",
                   "cof-head": "P334498.l06dfb",
@@ -5215,8 +5207,7 @@
                             "id": "P334498.35.4.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:31:09",
+  "UTC-timestamp": "2018-06-22T06:07:08",
   "textid": "P314039",
   "cdl": [
     {
@@ -762,14 +762,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}EN—AŠ-ma",
+                  "frag": "{1}EN-AŠ-ma",
                   "id": "P314039.l1346b",
                   "ref": "P314039.8.3",
                   "inst": "Bel-iddina[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}EN-AŠ-ma=Bel-iddina[1//1]PN'PN$Bel-iddina",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}EN—AŠ-ma",
+                    "form": "{1}EN-AŠ-ma",
                     "delim": "",
                     "gdl": [
                       {
@@ -800,8 +800,7 @@
                             "id": "P314039.8.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "AŠ",

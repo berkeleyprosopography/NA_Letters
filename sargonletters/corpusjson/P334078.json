@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:32:03",
+  "UTC-timestamp": "2018-06-22T06:07:41",
   "textid": "P334078",
   "cdl": [
     {
@@ -209,7 +209,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}AG—pa-šir",
+                  "frag": "{1}{d}AG-pa-šir",
                   "id": "P334078.l04e29",
                   "ref": "P334078.3.2",
                   "inst": "Nabu-pašir[1]PN",
@@ -257,8 +257,7 @@
                             "id": "P334078.3.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1461,15 +1460,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUŠ₃—LUGAL",
+                  "frag": "KUŠ₃-LUGAL",
                   "id": "P334078.l04e46",
                   "ref": "P334078.12.4",
                   "cof-tails": "P334078.l04e47",
                   "inst": "ammatu[unit]N$ammat&šarru[king]N$šarri",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:KUŠ₃-LUGAL=ammatu[unit//unit]N'N$ammat&&@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "KUŠ₃—LUGAL",
+                    "form": "KUŠ₃-LUGAL",
                     "delim": "",
                     "gdl": [
                       {
@@ -1482,8 +1481,7 @@
                             "id": "P334078.12.4.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "LUGAL",
@@ -1497,20 +1495,23 @@
                     ],
                     "cf": "ammatu",
                     "gw": "unit",
+                    "sense": "unit",
                     "norm": "ammat",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "KUŠ₃—LUGAL",
+                  "frag": "KUŠ₃-LUGAL",
                   "id": "P334078.l04e47",
                   "ref": "P334078.12.4",
                   "cof-head": "P334078.l04e46",
                   "inst": "ammatu[unit]N$ammat&šarru[king]N$šarri",
+                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "KUŠ₃—LUGAL",
+                    "form": "KUŠ₃-LUGAL",
                     "delim": "",
                     "gdl": [
                       {
@@ -1523,8 +1524,7 @@
                             "id": "P334078.12.4.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "LUGAL",
@@ -1538,8 +1538,10 @@
                     ],
                     "cf": "šarru",
                     "gw": "king",
+                    "sense": "king",
                     "norm": "šarri",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
@@ -1753,7 +1755,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "am—mar",
+                  "frag": "am-mar",
                   "id": "P334078.l04e4e",
                   "ref": "P334078.14.1",
                   "inst": "ammar[as much as]REL",
@@ -1767,8 +1769,7 @@
                         "v": "am",
                         "gdl_utf8": "𒄠",
                         "id": "P334078.14.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "mar",
@@ -2112,15 +2113,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUŠ₃\\m—LUGAL",
+                  "frag": "KUŠ₃\\m-LUGAL",
                   "id": "P334078.l04e57",
                   "ref": "P334078.17.4",
                   "cof-tails": "P334078.l04e58",
                   "inst": "ammatu[unit]N$ammat&šarru[king]N$šarri",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:KUŠ₃-LUGAL=ammatu[unit//unit]N'N$ammat&&@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "KUŠ₃—LUGAL",
+                    "form": "KUŠ₃-LUGAL",
                     "delim": "",
                     "gdl": [
                       {
@@ -2133,8 +2134,7 @@
                             "id": "P334078.17.4.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "mods": [
                               {
                                 "b": "KUŠ₃"
@@ -2156,20 +2156,23 @@
                     ],
                     "cf": "ammatu",
                     "gw": "unit",
+                    "sense": "unit",
                     "norm": "ammat",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "KUŠ₃\\m—LUGAL",
+                  "frag": "KUŠ₃\\m-LUGAL",
                   "id": "P334078.l04e58",
                   "ref": "P334078.17.4",
                   "cof-head": "P334078.l04e57",
                   "inst": "ammatu[unit]N$ammat&šarru[king]N$šarri",
+                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "KUŠ₃—LUGAL",
+                    "form": "KUŠ₃-LUGAL",
                     "delim": "",
                     "gdl": [
                       {
@@ -2182,8 +2185,7 @@
                             "id": "P334078.17.4.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "mods": [
                               {
                                 "b": "KUŠ₃"
@@ -2205,8 +2207,10 @@
                     ],
                     "cf": "šarru",
                     "gw": "king",
+                    "sense": "king",
                     "norm": "šarri",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {

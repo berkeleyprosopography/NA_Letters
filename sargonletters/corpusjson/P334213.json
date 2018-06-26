@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:32:45",
+  "UTC-timestamp": "2018-06-22T06:08:02",
   "textid": "P334213",
   "cdl": [
     {
@@ -215,7 +215,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DUG₃.⸢GA⸣—[ṣil—E₂.ŠAR₂.RA]",
+                  "frag": "{1}DUG₃.⸢GA⸣-[ṣil-E₂.ŠAR₂.RA]",
                   "id": "P334213.l0250d",
                   "ref": "P334213.3.2",
                   "inst": "Ṭab-ṣil-Ešarra[1]PN",
@@ -262,8 +262,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "hc": "1"
                           }
                         ]
@@ -275,8 +274,7 @@
                         "breakStart": "1",
                         "o": "[",
                         "break": "missing",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",

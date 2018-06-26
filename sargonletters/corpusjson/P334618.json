@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:44",
+  "UTC-timestamp": "2018-06-22T06:08:33",
   "textid": "P334618",
   "cdl": [
     {
@@ -210,7 +210,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}man]-⸢nu⸣—ki—{d}IM",
+                  "frag": "{1}man]-⸢nu⸣-ki-{d}IM",
                   "id": "P334618.l0b266",
                   "ref": "P334618.3.2",
                   "inst": "Mannu-ki-Adad[1]PN",
@@ -253,16 +253,14 @@
                         "id": "P334618.3.2.2",
                         "break": "damaged",
                         "ho": "1",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "hc": "1"
                       },
                       {
                         "v": "ki",
                         "gdl_utf8": "𒆠",
                         "id": "P334618.3.2.3",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",

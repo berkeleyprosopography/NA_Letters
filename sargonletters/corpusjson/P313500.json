@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:29:39",
+  "UTC-timestamp": "2018-06-22T06:06:09",
   "textid": "P313500",
   "cdl": [
     {
@@ -1130,15 +1130,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}GAL—E₂-⸢ia⸣",
+                  "frag": "{lu₂vy}GAL-E₂-⸢ia⸣",
                   "id": "P313500.l07d8e",
                   "ref": "P313500.12.1",
                   "cof-tails": "P313500.l07d8f",
                   "inst": "rabû[big one]N$rab&bītu[house]N$bētīya",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}GAL-E₂-ia=rabû[big one//big one]N'N$rab&&@saao/sargonletters%akk-x-neoass:=bītu[house//house]N'N$bētīya",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL—E₂-ia",
+                    "form": "{LU₂}GAL-E₂-ia",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -1180,8 +1180,7 @@
                             "id": "P313500.12.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "E₂",
@@ -1204,20 +1203,23 @@
                     ],
                     "cf": "rabû",
                     "gw": "big one",
+                    "sense": "big one",
                     "norm": "rab",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}GAL—E₂-⸢ia⸣",
+                  "frag": "{lu₂vy}GAL-E₂-⸢ia⸣",
                   "id": "P313500.l07d8f",
                   "ref": "P313500.12.1",
                   "cof-head": "P313500.l07d8e",
                   "inst": "rabû[big one]N$rab&bītu[house]N$bētīya",
+                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=bītu[house//house]N'N$bētīya",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL—E₂-ia",
+                    "form": "{LU₂}GAL-E₂-ia",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -1259,8 +1261,7 @@
                             "id": "P313500.12.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "E₂",
@@ -1283,8 +1284,10 @@
                     ],
                     "cf": "bītu",
                     "gw": "house",
+                    "sense": "house",
                     "norm": "bētīya",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {

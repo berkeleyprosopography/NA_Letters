@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:30:32",
+  "UTC-timestamp": "2018-06-22T06:06:42",
   "textid": "P313788",
   "cdl": [
     {
@@ -211,14 +211,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA—TI\\t.LA-an-[ni]",
+                  "frag": "{1}{d}PA-TI\\t.LA-an-[ni]",
                   "id": "P313788.l10733",
                   "ref": "P313788.3.2",
                   "inst": "Nabu-balliṭanni[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}PA-TI.LA-an-ni=Nabu-balliṭanni[1//1]PN'PN$Nabu-balliṭanni",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}PA—TI.LA-an-ni",
+                    "form": "{1}{d}PA-TI.LA-an-ni",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -262,8 +262,7 @@
                             "id": "P313788.3.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "form": "TI",
@@ -309,8 +308,10 @@
                     ],
                     "cf": "Nabu-balliṭanni",
                     "gw": "1",
+                    "sense": "1",
                     "norm": "Nabu-balliṭanni",
-                    "pos": "PN"
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {
@@ -631,7 +632,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}man-nu—i-ri",
+                  "frag": "{1}man-nu-i-ri",
                   "id": "P313788.l1073c",
                   "ref": "P313788.5.4",
                   "inst": "Mannu-iri[]PN$",
@@ -668,8 +669,7 @@
                         "v": "nu",
                         "gdl_utf8": "𒉡",
                         "id": "P313788.5.4.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "i",
@@ -2275,7 +2275,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "[a]—dan-niš",
+                  "frag": "[a]-dan-niš",
                   "id": "P313788.l10771",
                   "ref": "P313788.18.1",
                   "inst": "adanniš[very much]AV",
@@ -2293,8 +2293,7 @@
                         "o": "]",
                         "break": "missing",
                         "breakEnd": "P313788.18.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "dan",
@@ -2661,7 +2660,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA—⸢šal⸣-[lim",
+                  "frag": "{1}{d}PA-⸢šal⸣-[lim",
                   "id": "P313788.l1077d",
                   "ref": "P313788.20.3",
                   "inst": "Nabu-šallim[1]PN",
@@ -2710,8 +2709,7 @@
                             "id": "P313788.20.3.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -2881,7 +2879,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a—dan-niš",
+                  "frag": "a-dan-niš",
                   "id": "P313788.l10782",
                   "ref": "P313788.21.3",
                   "inst": "adanniš[very much]AV",
@@ -2895,8 +2893,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P313788.21.3.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "dan",
@@ -3264,7 +3261,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a—dan-niš",
+                  "frag": "a-dan-niš",
                   "id": "P313788.l1078e",
                   "ref": "P313788.23.3",
                   "inst": "adanniš[very much]AV",
@@ -3278,8 +3275,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P313788.23.3.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "dan",

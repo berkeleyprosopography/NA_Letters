@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:31:06",
+  "UTC-timestamp": "2018-06-22T06:07:05",
   "textid": "P314008",
   "cdl": [
     {
@@ -1075,15 +1075,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{⸢lu₂v⸣}ERIM—MAN-MEŠ\\m",
+                  "frag": "{⸢lu₂v⸣}ERIM-MAN-MEŠ\\m",
                   "id": "P314008.l0d2ab",
                   "ref": "P314008.8.3",
                   "cof-tails": "P314008.l0d2ac",
                   "inst": "ṣābu[people]N$ṣāb&šarru[king]N$šarri",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}ERIM-MAN-MEŠ=ṣābu[people//people]N'N$ṣāb&&@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}ERIM—MAN-MEŠ",
+                    "form": "{LU₂}ERIM-MAN-MEŠ",
                     "delim": "",
                     "gdl": [
                       {
@@ -1126,8 +1126,7 @@
                             "id": "P314008.8.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "MAN",
@@ -1157,20 +1156,23 @@
                     ],
                     "cf": "ṣābu",
                     "gw": "people",
+                    "sense": "people",
                     "norm": "ṣāb",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "{⸢lu₂v⸣}ERIM—MAN-MEŠ\\m",
+                  "frag": "{⸢lu₂v⸣}ERIM-MAN-MEŠ\\m",
                   "id": "P314008.l0d2ac",
                   "ref": "P314008.8.3",
                   "cof-head": "P314008.l0d2ab",
                   "inst": "ṣābu[people]N$ṣāb&šarru[king]N$šarri",
+                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}ERIM—MAN-MEŠ",
+                    "form": "{LU₂}ERIM-MAN-MEŠ",
                     "delim": "",
                     "gdl": [
                       {
@@ -1213,8 +1215,7 @@
                             "id": "P314008.8.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "MAN",
@@ -1244,8 +1245,10 @@
                     ],
                     "cf": "šarru",
                     "gw": "king",
+                    "sense": "king",
                     "norm": "šarri",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
@@ -1367,7 +1370,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU]—{1}ia-ki-[ni",
+                  "frag": "DUMU]-{1}ia-ki-[ni",
                   "id": "P314008.l0d2b2",
                   "ref": "P314008.9.3",
                   "inst": "Mar-Yakin[]PN$Mar-Yakini",
@@ -1390,8 +1393,7 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P314008.9.1.0",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

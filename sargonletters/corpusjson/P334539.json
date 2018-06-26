@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:31",
+  "UTC-timestamp": "2018-06-22T06:08:26",
   "textid": "P334539",
   "cdl": [
     {
@@ -217,14 +217,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}MAN—IGI.LAL]-ni",
+                  "frag": "{1}MAN-IGI.LAL]-ni",
                   "id": "P334539.l1235b",
                   "ref": "P334539.3.1",
                   "inst": "Šarru-emuranni[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}MAN-IGI.LAL-ni=Šarru-emuranni[1//1]PN'PN$Šarru-emuranni",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}MAN—IGI.LAL-ni",
+                    "form": "{1}MAN-IGI.LAL-ni",
                     "delim": "",
                     "gdl": [
                       {
@@ -259,8 +259,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "IGI",
@@ -292,19 +291,22 @@
                     ],
                     "cf": "Šarru-emuranni",
                     "gw": "1",
-                    "pos": "PN"
+                    "sense": "1",
+                    "norm": "Šarru-emuranni",
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "{1}MAN—IGI.LAL-ni-ma",
+                  "frag": "{1}MAN-IGI.LAL-ni-ma",
                   "id": "P334539.l1235c",
                   "ref": "P334539.3.2",
                   "inst": "Šarru-emuranni[2]PN$Šarru-emurannimma",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}MAN-IGI.LAL-ni-ma=Šarru-emuranni[2//2]PN'PN$Šarru-emurannimma",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}MAN—IGI.LAL-ni-ma",
+                    "form": "{1}MAN-IGI.LAL-ni-ma",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -334,8 +336,7 @@
                             "id": "P334539.3.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "IGI",

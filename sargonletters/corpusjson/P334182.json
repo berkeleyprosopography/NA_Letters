@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:32:36",
+  "UTC-timestamp": "2018-06-22T06:07:57",
   "textid": "P334182",
   "cdl": [
     {
@@ -207,14 +207,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur—EN—KALAG-in",
+                  "frag": "{1}aš-šur-EN-KALAG-in",
                   "id": "P334182.l08008",
                   "ref": "P334182.3.2",
                   "inst": "Aššur-belu-daʾʾin[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}aš-šur-EN-KALAG-in=Aššur-belu-daʾʾin[1//1]PN'PN$Aššur-belu-daʾʾin",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}aš-šur-EN—KALAG-in",
+                    "form": "{1}aš-šur-EN-KALAG-in",
                     "gdl": [
                       {
                         "det": "semantic",
@@ -244,8 +244,7 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P334182.3.2.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -257,8 +256,7 @@
                             "id": "P334182.3.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "KALAG",

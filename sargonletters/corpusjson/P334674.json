@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:54",
+  "UTC-timestamp": "2018-06-22T06:08:38",
   "textid": "P334674",
   "cdl": [
     {
@@ -199,7 +199,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DI-mu—EN—la-aš₂-me",
+                  "frag": "{1}DI-mu-EN-la-aš₂-me",
                   "id": "P334674.l08077",
                   "ref": "P334674.3.2",
                   "inst": "Šulmu-beli-lašme[]PN$",
@@ -244,8 +244,7 @@
                         "v": "mu",
                         "gdl_utf8": "𒈬",
                         "id": "P334674.3.2.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -257,8 +256,7 @@
                             "id": "P334674.3.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -3079,14 +3077,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}man-nu—GIM—PAB-⸢MEŠ⸣",
+                  "frag": "{1}man-nu-GIM-PAB-⸢MEŠ⸣",
                   "id": "P334674.l080d0",
                   "ref": "P334674.24.2",
                   "inst": "Mannu-ki-ahhe[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}man-nu-GIM-PAB-MEŠ=Mannu-ki-ahhe[1//1]PN'PN$Mannu-ki-ahhe",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}man-nu-GIM—PAB-MEŠ",
+                    "form": "{1}man-nu-GIM-PAB-MEŠ",
                     "gdl": [
                       {
                         "det": "semantic",
@@ -3116,8 +3114,7 @@
                         "v": "nu",
                         "gdl_utf8": "𒉡",
                         "id": "P334674.24.2.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -3129,8 +3126,7 @@
                             "id": "P334674.24.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "PAB",

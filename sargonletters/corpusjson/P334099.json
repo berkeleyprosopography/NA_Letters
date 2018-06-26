@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:32:09",
+  "UTC-timestamp": "2018-06-22T06:07:44",
   "textid": "P334099",
   "cdl": [
     {
@@ -199,7 +199,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}UTU—tak-lak",
+                  "frag": "{1}{d}UTU-tak-lak",
                   "id": "P334099.l13da1",
                   "ref": "P334099.3.1",
                   "inst": "Šamaš-taklak[1]PN",
@@ -248,8 +248,7 @@
                             "id": "P334099.3.1.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:08",
+  "UTC-timestamp": "2018-06-22T06:08:14",
   "textid": "P334372",
   "cdl": [
     {
@@ -225,7 +225,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DUG₃.[GA—ṣil—E₂.ŠAR₂.RA]",
+                  "frag": "{1}DUG₃.[GA-ṣil-E₂.ŠAR₂.RA]",
                   "id": "P334372.l025b0",
                   "ref": "P334372.3.2",
                   "inst": "Ṭab-ṣil-Ešarra[1]PN",
@@ -273,8 +273,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -283,8 +282,7 @@
                         "gdl_utf8": "𒉣",
                         "id": "P334372.3.2.3",
                         "break": "missing",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -3799,7 +3797,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}GAL—da-a.a-li-ia",
+                  "frag": "{lu₂v}GAL-da-a.a-li-ia",
                   "id": "P334372.l02606",
                   "ref": "P334372.28.2",
                   "cof-tails": "P334372.l02607",
@@ -3846,8 +3844,7 @@
                             "id": "P334372.28.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -3897,7 +3894,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}GAL—da-a.a-li-ia",
+                  "frag": "{lu₂v}GAL-da-a.a-li-ia",
                   "id": "P334372.l02607",
                   "ref": "P334372.28.2",
                   "cof-head": "P334372.l02606",
@@ -3944,8 +3941,7 @@
                             "id": "P334372.28.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

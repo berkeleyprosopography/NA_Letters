@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:06",
+  "UTC-timestamp": "2018-06-22T06:08:13",
   "textid": "P334357",
   "cdl": [
     {
@@ -197,14 +197,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}IM—DU₃",
+                  "frag": "{1}{d}IM-DU₃",
                   "id": "P334357.l0b272",
                   "ref": "P334357.3.2",
                   "inst": "Adad-ibni[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}IM-DU₃=Adad-ibni[1//1]PN'PN$Adad-ibni",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}IM—DU₃",
+                    "form": "{1}{d}IM-DU₃",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -245,8 +245,7 @@
                             "id": "P334357.3.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "DU₃",
@@ -260,8 +259,10 @@
                     ],
                     "cf": "Adad-ibni",
                     "gw": "1",
+                    "sense": "1",
                     "norm": "Adad-ibni",
-                    "pos": "PN"
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {
@@ -447,15 +448,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU—KA₂.DINGIR.RA{ki}",
+                  "frag": "DUMU-KA₂.DINGIR.RA{ki}",
                   "id": "P334357.l0b278",
                   "ref": "P334357.6.1",
                   "cof-tails": "P334357.l0b279",
                   "inst": "māru[son]N$mār&Babili[Babylon]GN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:DUMU-KA₂.DINGIR.RA{KI}=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:=Babili[Babylon//Babylon]GN'GN$Babili",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU—KA₂.DINGIR.RA{KI}",
+                    "form": "DUMU-KA₂.DINGIR.RA{KI}",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -467,8 +468,7 @@
                             "id": "P334357.6.1.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "KA₂",
@@ -511,20 +511,23 @@
                     ],
                     "cf": "māru",
                     "gw": "son",
+                    "sense": "son",
                     "norm": "mār",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU—KA₂.DINGIR.RA{ki}",
+                  "frag": "DUMU-KA₂.DINGIR.RA{ki}",
                   "id": "P334357.l0b279",
                   "ref": "P334357.6.1",
                   "cof-head": "P334357.l0b278",
                   "inst": "māru[son]N$mār&Babili[Babylon]GN",
+                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=Babili[Babylon//Babylon]GN'GN$Babili",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU—KA₂.DINGIR.RA{KI}",
+                    "form": "DUMU-KA₂.DINGIR.RA{KI}",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -536,8 +539,7 @@
                             "id": "P334357.6.1.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "KA₂",
@@ -580,7 +582,10 @@
                     ],
                     "cf": "Babili",
                     "gw": "Babylon",
-                    "pos": "GN"
+                    "sense": "Babylon",
+                    "norm": "Babili",
+                    "pos": "GN",
+                    "epos": "GN"
                   }
                 },
                 {

@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:30:19",
+  "UTC-timestamp": "2018-06-22T06:06:33",
   "textid": "P313719",
   "cdl": [
     {
@@ -497,7 +497,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a—dan]-niš",
+                  "frag": "a-dan]-niš",
                   "id": "P313719.l02700",
                   "ref": "P313719.6.4",
                   "inst": "adanniš[very much]AV",
@@ -511,8 +511,7 @@
                         "gdl_utf8": "𒀀",
                         "id": "P313719.6.4.0",
                         "break": "missing",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "dan",
@@ -653,14 +652,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{⸢d⸣}MES—MU—AŠ",
+                  "frag": "{1}{⸢d⸣}MES-MU-AŠ",
                   "id": "P313719.l02706",
                   "ref": "P313719.7.6",
                   "inst": "Marduk-šumu-iddina[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}MES-MU-AŠ=Marduk-šumu-iddina[1//1]PN'PN$Marduk-šumu-iddina",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}MES—MU—AŠ",
+                    "form": "{1}{d}MES-MU-AŠ",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -707,8 +706,7 @@
                             "id": "P313719.7.6.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "MU",
@@ -716,8 +714,7 @@
                             "id": "P313719.7.6.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "AŠ",
@@ -731,8 +728,10 @@
                     ],
                     "cf": "Marduk-šumu-iddina",
                     "gw": "1",
+                    "sense": "1",
                     "norm": "Marduk-šumu-iddina",
-                    "pos": "PN"
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {

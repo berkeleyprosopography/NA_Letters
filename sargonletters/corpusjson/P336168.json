@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:34:39",
+  "UTC-timestamp": "2018-06-22T06:09:01",
   "textid": "P336168",
   "cdl": [
     {
@@ -199,7 +199,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-⸢šur⸣—ba-ni",
+                  "frag": "{1}aš-⸢šur⸣-ba-ni",
                   "id": "P336168.l03218",
                   "ref": "P336168.3.2",
                   "inst": "Aššur-bani[1]PN",
@@ -238,8 +238,7 @@
                         "id": "P336168.3.2.2",
                         "break": "damaged",
                         "ho": "1",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "hc": "1"
                       },
                       {
@@ -516,7 +515,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂—tu-ʾi-in-te",
+                  "frag": "E₂-tu-ʾi-in-te",
                   "id": "P336168.l03220",
                   "ref": "P336168.5.3",
                   "cof-tails": "P336168.l03221",
@@ -536,8 +535,7 @@
                             "id": "P336168.5.3.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -575,7 +573,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂—tu-ʾi-in-te",
+                  "frag": "E₂-tu-ʾi-in-te",
                   "id": "P336168.l03221",
                   "ref": "P336168.5.3",
                   "cof-head": "P336168.l03220",
@@ -595,8 +593,7 @@
                             "id": "P336168.5.3.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -725,7 +722,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂—ra-ma-ki",
+                  "frag": "E₂-ra-ma-ki",
                   "id": "P336168.l03224",
                   "ref": "P336168.6.3",
                   "cof-tails": "P336168.l03225",
@@ -745,8 +742,7 @@
                             "id": "P336168.6.3.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -778,7 +774,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂—ra-ma-ki",
+                  "frag": "E₂-ra-ma-ki",
                   "id": "P336168.l03225",
                   "ref": "P336168.6.3",
                   "cof-head": "P336168.l03224",
@@ -798,8 +794,7 @@
                             "id": "P336168.6.3.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

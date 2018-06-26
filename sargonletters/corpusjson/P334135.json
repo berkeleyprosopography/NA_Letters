@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:32:20",
+  "UTC-timestamp": "2018-06-22T06:07:49",
   "textid": "P334135",
   "cdl": [
     {
@@ -206,7 +206,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}ki-ṣir—aš-šur",
+                  "frag": "{1}ki-ṣir-aš-šur",
                   "id": "P334135.l032a0",
                   "ref": "P334135.3.2",
                   "inst": "Kiṣir-Aššur[1]PN",
@@ -243,8 +243,7 @@
                         "v": "ṣir",
                         "gdl_utf8": "𒈲",
                         "id": "P334135.3.2.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "aš",
@@ -3590,7 +3589,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}GIR₃.2—aš-šur",
+                  "frag": "{1}GIR₃.2-aš-šur",
                   "id": "P334135.l032ef",
                   "ref": "P334135.19.7",
                   "inst": "Šep-Aššur[]PN$",
@@ -3635,8 +3634,7 @@
                             "form": "2",
                             "gdl_utf8": "𒈫",
                             "id": "P334135.19.7.2",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "seq": [
                               {
                                 "r": "2"
@@ -4187,7 +4185,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}GIR₃.2—aš-šur",
+                  "frag": "{1}GIR₃.2-aš-šur",
                   "id": "P334135.l032fc",
                   "ref": "P334135.22.3",
                   "inst": "Šep-Aššur[1]PN",
@@ -4233,8 +4231,7 @@
                             "form": "2",
                             "gdl_utf8": "𒈫",
                             "id": "P334135.22.3.2",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "seq": [
                               {
                                 "r": "2"
@@ -4856,7 +4853,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}GIR₃.2—aš-šur",
+                  "frag": "{1}GIR₃.2-aš-šur",
                   "id": "P334135.l03308",
                   "ref": "P334135.26.1",
                   "inst": "Šep-Aššur[1]PN",
@@ -4902,8 +4899,7 @@
                             "form": "2",
                             "gdl_utf8": "𒈫",
                             "id": "P334135.26.1.2",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "seq": [
                               {
                                 "r": "2"
@@ -5259,14 +5255,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}BAD₃—MAN—[GIN",
+                  "frag": "{uru}BAD₃-MAN-[GIN",
                   "id": "P334135.l0330f",
                   "ref": "P334135.29.2",
                   "inst": "Dur-Šarruken[1]GN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}BAD₃-MAN-GIN=Dur-Šarruken[1//1]GN'GN$Dur-Šarruken",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}BAD₃—MAN—GIN",
+                    "form": "{URU}BAD₃-MAN-GIN",
                     "delim": "",
                     "gdl": [
                       {
@@ -5298,8 +5294,7 @@
                             "id": "P334135.29.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "MAN",
@@ -5307,8 +5302,7 @@
                             "id": "P334135.29.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "GIN",
@@ -6137,7 +6131,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}GIR₃.2—aš-šur",
+                  "frag": "{1}GIR₃.2-aš-šur",
                   "id": "P334135.l03321",
                   "ref": "P334135.33.2",
                   "inst": "Šep-Aššur[1]PN",
@@ -6183,8 +6177,7 @@
                             "form": "2",
                             "gdl_utf8": "𒈫",
                             "id": "P334135.33.2.2",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "seq": [
                               {
                                 "r": "2"
@@ -6498,7 +6491,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}[GIR₃.2—aš]-⸢šur⸣",
+                  "frag": "{1}[GIR₃.2-aš]-⸢šur⸣",
                   "id": "P334135.l03329",
                   "ref": "P334135.34.5",
                   "inst": "Šep-Aššur[1]PN",
@@ -6547,8 +6540,7 @@
                             "gdl_utf8": "𒈫",
                             "id": "P334135.34.5.2",
                             "break": "missing",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "seq": [
                               {
                                 "r": "2"
@@ -6770,14 +6762,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}⸢BAD₃⸣—{1}MAN—GI].NA",
+                  "frag": "{uru}⸢BAD₃⸣-{1}MAN-GI].NA",
                   "id": "P334135.l0332e",
                   "ref": "P334135.35.5",
                   "inst": "Dur-Šarruken[1]GN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}BAD₃-{1}MAN-GI.NA=Dur-Šarruken[1//1]GN'GN$Dur-Šarruken",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}BAD₃-{1}MAN—GI.NA",
+                    "form": "{URU}BAD₃-{1}MAN-GI.NA",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -6810,8 +6802,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "hc": "1"
                           }
                         ]
@@ -6848,8 +6839,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "GI",

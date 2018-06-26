@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:34:11",
+  "UTC-timestamp": "2018-06-22T06:08:47",
   "textid": "P334774",
   "cdl": [
     {
@@ -211,7 +211,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}a]-⸢mar⸣—DINGIR",
+                  "frag": "{1}a]-⸢mar⸣-DINGIR",
                   "id": "P334774.l03974",
                   "ref": "P334774.3.2",
                   "inst": "Amar-ili[1]PN$",
@@ -254,8 +254,7 @@
                         "id": "P334774.3.2.2",
                         "break": "damaged",
                         "ho": "1",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "hc": "1"
                       },
                       {
@@ -2964,7 +2963,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "[a—dan-niš]",
+                  "frag": "[a-dan-niš]",
                   "id": "P334774.l039bc",
                   "ref": "P334774.23.3",
                   "inst": "adanniš[very much]AV",
@@ -2980,8 +2979,7 @@
                         "breakStart": "1",
                         "o": "[",
                         "break": "missing",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "dan",

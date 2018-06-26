@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:31:01",
+  "UTC-timestamp": "2018-06-22T06:07:02",
   "textid": "P313978",
   "cdl": [
     {
@@ -55,7 +55,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}man-[nu—ki-i—x",
+                  "frag": "{1}man-[nu-ki-i-x",
                   "id": "P313978.l13e70",
                   "ref": "P313978.3.1",
                   "inst": "u",
@@ -95,8 +95,7 @@
                         "breakStart": "1",
                         "o": "[",
                         "break": "missing",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "ki",
@@ -110,8 +109,7 @@
                         "gdl_utf8": "𒄿",
                         "id": "P313978.3.1.4",
                         "break": "missing",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "x",

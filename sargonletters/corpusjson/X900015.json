@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:34:52",
+  "UTC-timestamp": "2018-06-22T06:09:08",
   "textid": "X900015",
   "cdl": [
     {
@@ -197,14 +197,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA—⸢EN—GIN⸣-in",
+                  "frag": "{1}{d}PA-⸢EN-GIN⸣-in",
                   "id": "X900015.l0e643",
                   "ref": "X900015.3.2",
                   "inst": "Nabu-belu-kaʾʾin[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}PA-EN-GIN-in=Nabu-belu-kaʾʾin[1//1]PN'PN$Nabu-belu-kaʾʾin",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}PA—EN—GIN-in",
+                    "form": "{1}{d}PA-EN-GIN-in",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -245,8 +245,7 @@
                             "id": "X900015.3.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "EN",
@@ -256,8 +255,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "GIN",
@@ -279,7 +277,10 @@
                     ],
                     "cf": "Nabu-belu-kaʾʾin",
                     "gw": "1",
-                    "pos": "PN"
+                    "sense": "1",
+                    "norm": "Nabu-belu-kaʾʾin",
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {
@@ -467,7 +468,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a—dan-niš",
+                  "frag": "a-dan-niš",
                   "id": "X900015.l0e649",
                   "ref": "X900015.5.1",
                   "inst": "adanniš[very much]AV",
@@ -481,8 +482,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "X900015.5.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "dan",
@@ -506,7 +506,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a—dan-niš",
+                  "frag": "a-dan-niš",
                   "id": "X900015.l0e64a",
                   "ref": "X900015.5.2",
                   "inst": "adanniš[very much]AV",
@@ -519,8 +519,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "X900015.5.2.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "dan",
@@ -1290,7 +1289,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a—dan-niš",
+                  "frag": "a-dan-niš",
                   "id": "X900015.l0e65e",
                   "ref": "X900015.11.3",
                   "inst": "adanniš[very much]AV",
@@ -1303,8 +1302,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "X900015.11.3.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "dan",
@@ -4595,7 +4593,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur—KALAG-an-ni",
+                  "frag": "{1}aš-šur-KALAG-an-ni",
                   "id": "X900015.l0e6b8",
                   "ref": "X900015.36.2",
                   "inst": "Aššur-daʾʾinanni[]PN$",
@@ -4633,8 +4631,7 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "X900015.36.2.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",

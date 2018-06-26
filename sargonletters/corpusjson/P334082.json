@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:32:05",
+  "UTC-timestamp": "2018-06-22T06:07:42",
   "textid": "P334082",
   "cdl": [
     {
@@ -210,7 +210,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d]}AG—pa-⸢šir⸣",
+                  "frag": "{1}{d]}AG-pa-⸢šir⸣",
                   "id": "P334082.l04de8",
                   "ref": "P334082.3.2",
                   "inst": "Nabu-pašir[1]PN",
@@ -262,8 +262,7 @@
                             "id": "P334082.3.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1017,7 +1016,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}⸢IM⸣—[x",
+                  "frag": "{1}{d}⸢IM⸣-[x",
                   "id": "P334082.l04dfd",
                   "ref": "P334082.8.4",
                   "inst": "u",
@@ -1068,8 +1067,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "hc": "1"
                           }
                         ]

@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:34:15",
+  "UTC-timestamp": "2018-06-22T06:08:49",
   "textid": "P334793",
   "cdl": [
     {
@@ -1174,7 +1174,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}DUMU—šip-ri-ia",
+                  "frag": "{lu₂v}DUMU-šip-ri-ia",
                   "id": "P334793.l0ba75",
                   "ref": "P334793.11.1",
                   "cof-tails": "P334793.l0ba76",
@@ -1222,8 +1222,7 @@
                             "id": "P334793.11.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1255,7 +1254,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}DUMU—šip-ri-ia",
+                  "frag": "{lu₂v}DUMU-šip-ri-ia",
                   "id": "P334793.l0ba76",
                   "ref": "P334793.11.1",
                   "cof-head": "P334793.l0ba75",
@@ -1303,8 +1302,7 @@
                             "id": "P334793.11.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1454,7 +1452,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}qur-di\\d—{d}15",
+                  "frag": "{1}qur-di\\d-{d}15",
                   "id": "P334793.l0ba7a",
                   "ref": "P334793.12.3",
                   "inst": "Qurdi-Issar[]PN$",
@@ -1491,8 +1489,7 @@
                         "form": "di",
                         "gdl_utf8": "𒁲",
                         "id": "P334793.12.3.2",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "mods": [
                           {
                             "b": "di"

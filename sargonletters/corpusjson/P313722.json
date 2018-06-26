@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:30:21",
+  "UTC-timestamp": "2018-06-22T06:06:34",
   "textid": "P313722",
   "cdl": [
     {
@@ -212,14 +212,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}30—PAB-MEŠ—SU]",
+                  "frag": "{1}30-PAB-MEŠ-SU]",
                   "id": "P313722.l01545",
                   "ref": "P313722.3.2",
                   "inst": "Sin-ahhe-eriba[Sennacherib]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}30-PAB-MEŠ-SU=Sin-ahhe-eriba[Sennacherib//Sennacherib]PN'PN$Sin-ahhe-eriba",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}30-PAB-MEŠ—SU",
+                    "form": "{1}30-PAB-MEŠ-SU",
                     "gdl": [
                       {
                         "det": "semantic",
@@ -247,8 +247,7 @@
                         "gdl_utf8": "𒌍",
                         "id": "P313722.3.2.1",
                         "break": "missing",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "seq": [
                           {
                             "r": "30"
@@ -275,8 +274,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "SU",
@@ -576,7 +574,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR—aš-šur{ki]}",
+                  "frag": "KUR-aš-šur{ki]}",
                   "id": "P313722.l0154d",
                   "ref": "P313722.5.3",
                   "cof-tails": "P313722.l0154e",
@@ -597,8 +595,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -648,7 +645,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR—aš-šur{ki]}",
+                  "frag": "KUR-aš-šur{ki]}",
                   "id": "P313722.l0154e",
                   "ref": "P313722.5.3",
                   "cof-head": "P313722.l0154d",
@@ -668,8 +665,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1262,7 +1258,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a—dan-niš",
+                  "frag": "a-dan-niš",
                   "id": "P313722.l0155c",
                   "ref": "P313722.8.5",
                   "inst": "adanniš[very much]AV",
@@ -1277,8 +1273,7 @@
                         "gdl_utf8": "𒀀",
                         "id": "P313722.8.5.0",
                         "break": "missing",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "dan",
@@ -4137,7 +4132,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂}ša\\m—pa-[an—E₂.GAL",
+                  "frag": "{lu₂}ša\\m-pa-[an-E₂.GAL",
                   "id": "P313722.l015c4",
                   "ref": "P313722.24.2",
                   "inst": "ša-pān-ēkalli[palace supervisor]N$",
@@ -4170,8 +4165,7 @@
                         "form": "ša",
                         "gdl_utf8": "𒊭",
                         "id": "P313722.24.2.1",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "mods": [
                           {
                             "b": "ša"
@@ -4194,8 +4188,7 @@
                         "breakStart": "1",
                         "o": "[",
                         "break": "missing",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",

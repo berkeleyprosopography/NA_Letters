@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:32:41",
+  "UTC-timestamp": "2018-06-22T06:07:59",
   "textid": "P334200",
   "cdl": [
     {
@@ -203,14 +203,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}LUGAL—IGI.LAL-[an-ni]",
+                  "frag": "{1}LUGAL-IGI.LAL-[an-ni]",
                   "id": "P334200.l0a684",
                   "ref": "P334200.3.2",
                   "inst": "Šarru-emuranni[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}LUGAL-IGI.LAL-an-ni=Šarru-emuranni[1//1]PN'PN$Šarru-emuranni",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}LUGAL—IGI.LAL-an-ni",
+                    "form": "{1}LUGAL-IGI.LAL-an-ni",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -240,8 +240,7 @@
                             "id": "P334200.3.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "IGI",
@@ -281,8 +280,10 @@
                     ],
                     "cf": "Šarru-emuranni",
                     "gw": "1",
+                    "sense": "1",
                     "norm": "Šarru-emuranni",
-                    "pos": "PN"
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {
@@ -2725,7 +2726,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{kur}E₂—⸢ha⸣-ban",
+                  "frag": "{kur}E₂-⸢ha⸣-ban",
                   "id": "P334200.l0a6c4",
                   "ref": "P334200.18.3",
                   "inst": "Bit-Hamban[]GN$",
@@ -2764,8 +2765,7 @@
                             "id": "P334200.18.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -3832,14 +3832,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}EN—SUM\\p-na",
+                  "frag": "{1}EN-SUM\\p-na",
                   "id": "P334200.l0a6e8",
                   "ref": "P334200.27.3",
                   "inst": "Bel-iddina[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}EN-SUM-na=Bel-iddina[1//1]PN'PN$Bel-iddina",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}EN—SUM-na",
+                    "form": "{1}EN-SUM-na",
                     "delim": "",
                     "gdl": [
                       {
@@ -3870,8 +3870,7 @@
                             "id": "P334200.27.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "form": "SUM",
@@ -4518,7 +4517,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}ša₂—E₂—ku-din",
+                  "frag": "{lu₂vy}ša₂-E₂-ku-din",
                   "id": "P334200.l0a6f8",
                   "ref": "P334200.31.2",
                   "inst": "ša-bēt-kūdin[mule stable man]N",
@@ -4562,8 +4561,7 @@
                         "v": "ša₂",
                         "gdl_utf8": "𒃻",
                         "id": "P334200.31.2.1",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -4575,8 +4573,7 @@
                             "id": "P334200.31.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:32",
+  "UTC-timestamp": "2018-06-22T06:08:27",
   "textid": "P334540",
   "cdl": [
     {
@@ -213,14 +213,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}LUGAL—IGI.LAL-a-ni",
+                  "frag": "{1}LUGAL-IGI.LAL-a-ni",
                   "id": "P334540.l1229e",
                   "ref": "P334540.3.2",
                   "inst": "Šarru-emuranni[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}LUGAL-IGI.LAL-a-ni=Šarru-emuranni[1//1]PN'PN$Šarru-emuranni",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}LUGAL—IGI.LAL-a-ni",
+                    "form": "{1}LUGAL-IGI.LAL-a-ni",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -250,8 +250,7 @@
                             "id": "P334540.3.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "IGI",
@@ -285,7 +284,10 @@
                     ],
                     "cf": "Šarru-emuranni",
                     "gw": "1",
-                    "pos": "PN"
+                    "sense": "1",
+                    "norm": "Šarru-emuranni",
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {
@@ -1484,15 +1486,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU—KA₂.DINGIR.⸢RA{ki⸣}",
+                  "frag": "DUMU-KA₂.DINGIR.⸢RA{ki⸣}",
                   "id": "P334540.l122b9",
                   "ref": "P334540.12.3",
                   "cof-tails": "P334540.l122ba",
                   "inst": "+māru[son]N$mār&+Babili[Babylon]GN$",
-                  "newsig": "@saao/sargonletters%akk-x-neoass:DUMU—KA₂.DINGIR.RA{KI}=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:DUMU—KA₂.DINGIR.RA{KI}=Babili[Babylon//Babylon]GN'GN$Babili",
+                  "sig": "@saao/sargonletters%akk-x-neoass:DUMU-KA₂.DINGIR.RA{KI}=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:=Babili[Babylon//Babylon]GN'GN$Babili",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU—KA₂.DINGIR.RA{KI}",
+                    "form": "DUMU-KA₂.DINGIR.RA{KI}",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -1505,8 +1507,7 @@
                             "gdl_collated": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "KA₂",
@@ -1562,15 +1563,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU—KA₂.DINGIR.⸢RA{ki⸣}",
+                  "frag": "DUMU-KA₂.DINGIR.⸢RA{ki⸣}",
                   "id": "P334540.l122ba",
                   "ref": "P334540.12.3",
                   "cof-head": "P334540.l122b9",
                   "inst": "+māru[son]N$mār&+Babili[Babylon]GN$",
-                  "bad": "yes",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "DUMU—KA₂.DINGIR.RA{KI}",
+                    "form": "DUMU-KA₂.DINGIR.RA{KI}",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -1583,8 +1583,7 @@
                             "gdl_collated": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "KA₂",
@@ -1632,8 +1631,10 @@
                     ],
                     "cf": "Babili",
                     "gw": "Babylon",
+                    "sense": "Babylon",
                     "norm": "Babili",
-                    "pos": "GN"
+                    "pos": "GN",
+                    "epos": "GN"
                   }
                 },
                 {
@@ -2885,7 +2886,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU—{1}⸢NUMUN⸣-[i]",
+                  "frag": "DUMU-{1}⸢NUMUN⸣-[i]",
                   "id": "P334540.l122d9",
                   "ref": "P334540.24.3",
                   "inst": "Mar-Zeri[]PN$",
@@ -2904,8 +2905,7 @@
                             "id": "P334540.24.3.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -3385,7 +3385,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}u₂-ṣur—{d}IM",
+                  "frag": "{uru}u₂-ṣur-{d}IM",
                   "id": "P334540.l122e4",
                   "ref": "P334540.27.4",
                   "inst": "Uṣur-Adad[]GN$",
@@ -3423,8 +3423,7 @@
                         "v": "ṣur",
                         "gdl_utf8": "𒀫",
                         "id": "P334540.27.4.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",

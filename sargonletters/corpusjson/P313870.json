@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:30:44",
+  "UTC-timestamp": "2018-06-22T06:06:51",
   "textid": "P313870",
   "cdl": [
     {
@@ -1140,7 +1140,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}kal-⸢bi⸣—[u₂-ku-u",
+                  "frag": "{1}kal-⸢bi⸣-[u₂-ku-u",
                   "id": "P313870.l10958",
                   "ref": "P313870.8.2",
                   "inst": "Kalbi-Uku[]PN$",
@@ -1180,8 +1180,7 @@
                         "id": "P313870.8.2.2",
                         "break": "damaged",
                         "ho": "1",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "hc": "1"
                       },
                       {

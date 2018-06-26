@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:44",
+  "UTC-timestamp": "2018-06-22T06:08:33",
   "textid": "P334617",
   "cdl": [
     {
@@ -212,7 +212,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}⸢man⸣-nu—ki—{d}IM",
+                  "frag": "{1}⸢man⸣-nu-ki-{d}IM",
                   "id": "P334617.l0b251",
                   "ref": "P334617.3.2",
                   "inst": "Mannu-ki-Adad[1]PN",
@@ -255,15 +255,13 @@
                         "v": "nu",
                         "gdl_utf8": "𒉡",
                         "id": "P334617.3.2.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "ki",
                         "gdl_utf8": "𒆠",
                         "id": "P334617.3.2.3",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -604,13 +602,13 @@
                 },
                 {
                   "node": "l",
-                  "frag": "x]+⸢x⸣—{d}UTU",
+                  "frag": "x]+⸢x⸣-{d}UTU",
                   "id": "P334617.l0b25a",
                   "ref": "P334617.5.4",
                   "inst": "u",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "x+x—-{d}UTU",
+                    "form": "x+x-{d}UTU",
                     "delim": "",
                     "gdl": [
                       {
@@ -632,8 +630,7 @@
                             "id": "P334617.5.4.1",
                             "break": "damaged",
                             "ho": "1",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "hc": "1"
                           }
                         ]

@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:32:51",
+  "UTC-timestamp": "2018-06-22T06:08:05",
   "textid": "P334282",
   "cdl": [
     {
@@ -215,14 +215,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}a-bat—MAN—PAB",
+                  "frag": "{1}a-bat-MAN-PAB",
                   "id": "P334282.l09f18",
                   "ref": "P334282.3.2",
                   "inst": "Abat-šarri-uṣur[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}a-bat-MAN-PAB=Abat-šarri-uṣur[1//1]PN'PN$Abat-šarri-uṣur",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}a-bat-MAN—PAB",
+                    "form": "{1}a-bat-MAN-PAB",
                     "gdl": [
                       {
                         "det": "semantic",
@@ -252,8 +252,7 @@
                         "v": "bat",
                         "gdl_utf8": "𒁁",
                         "id": "P334282.3.2.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -265,8 +264,7 @@
                             "id": "P334282.3.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "PAB",
@@ -280,8 +278,10 @@
                     ],
                     "cf": "Abat-šarri-uṣur",
                     "gw": "1",
+                    "sense": "1",
                     "norm": "Abat-šarri-uṣur",
-                    "pos": "PN"
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {
@@ -539,14 +539,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA—KAM-eš",
+                  "frag": "{1}{d}PA-KAM-eš",
                   "id": "P334282.l09f20",
                   "ref": "P334282.5.3",
                   "inst": "Nabu-ereš[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}PA-KAM-eš=Nabu-ereš[1//1]PN'PN$Nabu-ereš",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}PA—KAM-eš",
+                    "form": "{1}{d}PA-KAM-eš",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -587,8 +587,7 @@
                             "id": "P334282.5.3.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "KAM",
@@ -608,8 +607,10 @@
                     ],
                     "cf": "Nabu-ereš",
                     "gw": "1",
+                    "sense": "1",
                     "norm": "Nabu-ereš",
-                    "pos": "PN"
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {

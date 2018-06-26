@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:30:04",
+  "UTC-timestamp": "2018-06-22T06:06:23",
   "textid": "P313626",
   "cdl": [
     {
@@ -342,14 +342,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂}ša₂—⸢IGI⸣—[E₂.GAL]",
+                  "frag": "{lu₂}ša₂-⸢IGI⸣-[E₂.GAL]",
                   "id": "P313626.l060a7",
                   "ref": "P313626.4.1",
                   "inst": "ša-pān-ēkalli[palace supervisor]N",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}ša₂-IGI-E₂.GAL=ša-pān-ēkalli[palace supervisor//palace supervisor]N'N$ša-pān-ēkalli",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}ša₂-IGI—E₂.GAL",
+                    "form": "{LU₂}ša₂-IGI-E₂.GAL",
                     "gdl": [
                       {
                         "det": "semantic",
@@ -374,8 +374,7 @@
                         "v": "ša₂",
                         "gdl_utf8": "𒃻",
                         "id": "P313626.4.1.1",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -389,8 +388,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "hc": "1"
                           },
                           {
@@ -3538,14 +3536,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur—TEŠ₂—UN-MEŠ",
+                  "frag": "{1}aš-šur-TEŠ₂-UN-MEŠ",
                   "id": "P313626.l060f2",
                   "ref": "P313626.29.1",
                   "inst": "Aššur-balti-niše[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}aš-šur-TEŠ₂-UN-MEŠ=Aššur-balti-niše[1//1]PN'PN$Aššur-balti-niše",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}aš-šur-TEŠ₂—UN-MEŠ",
+                    "form": "{1}aš-šur-TEŠ₂-UN-MEŠ",
                     "delim": "",
                     "gdl": [
                       {
@@ -3576,8 +3574,7 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P313626.29.1.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -3589,8 +3586,7 @@
                             "id": "P313626.29.1.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "UN",
@@ -3612,19 +3608,22 @@
                     ],
                     "cf": "Aššur-balti-niše",
                     "gw": "1",
-                    "pos": "PN"
+                    "sense": "1",
+                    "norm": "Aššur-balti-niše",
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}ša₂—IGI—KUR",
+                  "frag": "{lu₂vy}ša₂-IGI-KUR",
                   "id": "P313626.l060f3",
                   "ref": "P313626.29.2",
                   "inst": "ša-pān-ēkalli[palace supervisor]N",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}ša₂-IGI-KUR=ša-pān-ēkalli[palace supervisor//palace supervisor]N'N$ša-pān-ēkalli",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}ša₂-IGI—KUR",
+                    "form": "{LU₂}ša₂-IGI-KUR",
                     "gdl": [
                       {
                         "det": "semantic",
@@ -3660,8 +3659,7 @@
                         "v": "ša₂",
                         "gdl_utf8": "𒃻",
                         "id": "P313626.29.2.1",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -3673,8 +3671,7 @@
                             "id": "P313626.29.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "KUR",

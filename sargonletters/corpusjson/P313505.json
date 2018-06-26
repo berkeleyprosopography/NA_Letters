@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:29:41",
+  "UTC-timestamp": "2018-06-22T06:06:10",
   "textid": "P313505",
   "cdl": [
     {
@@ -1522,7 +1522,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d]}⸢IM⸣—i-⸢ri⸣-[ba",
+                  "frag": "{1}{d]}⸢IM⸣-i-⸢ri⸣-[ba",
                   "id": "P313505.l05097",
                   "ref": "P313505.11.4",
                   "inst": "Adad-iriba[]PN$",
@@ -1577,8 +1577,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "hc": "1"
                           }
                         ]

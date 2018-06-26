@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:31:49",
+  "UTC-timestamp": "2018-06-22T06:07:34",
   "textid": "P314329",
   "cdl": [
     {
@@ -229,7 +229,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KUR—aš-šur{ki}",
+                  "frag": "KUR-aš-šur{ki}",
                   "id": "P314329.l12af6",
                   "ref": "P314329.6.2",
                   "inst": "+Mat-Aššur[Assyria]GN$",
@@ -250,8 +250,7 @@
                             "gdl_collated": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -393,7 +392,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i—ši-ia-ri",
+                  "frag": "i-ši-ia-ri",
                   "id": "P314329.l12af9",
                   "ref": "P314329.7.2",
                   "cof-tails": "P314329.l12afa",
@@ -408,8 +407,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P314329.7.2.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "ši",
@@ -439,7 +437,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i—ši-ia-ri",
+                  "frag": "i-ši-ia-ri",
                   "id": "P314329.l12afa",
                   "ref": "P314329.7.2",
                   "cof-head": "P314329.l12af9",
@@ -454,8 +452,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P314329.7.2.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "ši",
@@ -788,7 +785,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}BAD₃—la-di-ni\\d",
+                  "frag": "{uru}BAD₃-la-di-ni\\d",
                   "id": "P314329.l12b04",
                   "ref": "P314329.9.5",
                   "inst": "Dur-Ladini[1]GN$",
@@ -826,8 +823,7 @@
                             "id": "P314329.9.5.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

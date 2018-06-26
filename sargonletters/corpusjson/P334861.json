@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:34:28",
+  "UTC-timestamp": "2018-06-22T06:08:56",
   "textid": "P334861",
   "cdl": [
     {
@@ -208,7 +208,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}UTU]—⸢re⸣-ʾu-u₂-a",
+                  "frag": "{1}{d}UTU]-⸢re⸣-ʾu-u₂-a",
                   "id": "P334861.l13d58",
                   "ref": "P334861.3.2",
                   "inst": "Šamaš-reʾuwa[]PN$",
@@ -262,8 +262,7 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P334861.3.1.0",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -2015,7 +2014,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA—kil-an-[ni]",
+                  "frag": "{1}{d}PA-kil-an-[ni]",
                   "id": "P334861.l13d8e",
                   "ref": "P334861.12.6",
                   "inst": "Nabu-killanni[]PN$",
@@ -2063,8 +2062,7 @@
                             "id": "P334861.12.6.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

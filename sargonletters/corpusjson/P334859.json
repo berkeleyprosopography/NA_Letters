@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:34:27",
+  "UTC-timestamp": "2018-06-22T06:08:56",
   "textid": "P334859",
   "cdl": [
     {
@@ -202,14 +202,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur—EN—MAN-[MEŠ-ni]",
+                  "frag": "{1}aš-šur-EN-MAN-[MEŠ-ni]",
                   "id": "P334859.l129b7",
                   "ref": "P334859.3.2",
                   "inst": "Aššur-bel-šarrani[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}aš-šur-EN-MAN-MEŠ-ni=Aššur-bel-šarrani[1//1]PN'PN$Aššur-bel-šarrani",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}aš-šur-EN—MAN-MEŠ-ni",
+                    "form": "{1}aš-šur-EN-MAN-MEŠ-ni",
                     "gdl": [
                       {
                         "det": "semantic",
@@ -239,8 +239,7 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P334859.3.2.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -252,8 +251,7 @@
                             "id": "P334859.3.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "MAN",

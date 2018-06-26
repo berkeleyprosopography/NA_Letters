@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:32:42",
+  "UTC-timestamp": "2018-06-22T06:08:00",
   "textid": "P334204",
   "cdl": [
     {
@@ -212,14 +212,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}MAN—IGI.LAL-an-ni",
+                  "frag": "{1}MAN-IGI.LAL-an-ni",
                   "id": "P334204.l12524",
                   "ref": "P334204.3.2",
                   "inst": "Šarru-emuranni[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}MAN-IGI.LAL-an-ni=Šarru-emuranni[1//1]PN'PN$Šarru-emuranni",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}MAN—IGI.LAL-an-ni",
+                    "form": "{1}MAN-IGI.LAL-an-ni",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -249,8 +249,7 @@
                             "id": "P334204.3.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "IGI",
@@ -284,7 +283,10 @@
                     ],
                     "cf": "Šarru-emuranni",
                     "gw": "1",
-                    "pos": "PN"
+                    "sense": "1",
+                    "norm": "Šarru-emuranni",
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {
@@ -487,14 +489,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}EN—BA\\t-ša₂",
+                  "frag": "{1}EN-BA\\t-ša₂",
                   "id": "P334204.l1252a",
                   "ref": "P334204.5.2",
                   "inst": "Bel-iqiša[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}EN-BA-ša₂=Bel-iqiša[1//1]PN'PN$Bel-iqiša",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}EN—BA-ša₂",
+                    "form": "{1}EN-BA-ša₂",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -524,8 +526,7 @@
                             "id": "P334204.5.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "form": "BA",
@@ -1493,7 +1494,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{[lu₂v}ša₂]—⸢EN.NUN⸣",
+                  "frag": "{[lu₂v}ša₂]-⸢EN.NUN⸣",
                   "id": "P334204.l12547",
                   "ref": "P334204.19.1",
                   "inst": "ša-maṣṣarti[guard]N",
@@ -1540,8 +1541,7 @@
                         "break": "missing",
                         "o": "]",
                         "breakEnd": "P334204.19.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",

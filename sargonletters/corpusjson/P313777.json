@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:30:31",
+  "UTC-timestamp": "2018-06-22T06:06:41",
   "textid": "P313777",
   "cdl": [
     {
@@ -691,7 +691,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KA₂—[x",
+                  "frag": "KA₂-[x",
                   "id": "P313777.l13978",
                   "ref": "P313777.6.4",
                   "inst": "u",
@@ -710,8 +710,7 @@
                             "id": "P313777.6.4.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1367,7 +1366,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "KA₂—⸢x⸣+[x",
+                  "frag": "KA₂-⸢x⸣+[x",
                   "id": "P313777.l1398d",
                   "ref": "P313777.10.4",
                   "inst": "u",
@@ -1386,8 +1385,7 @@
                             "id": "P313777.10.4.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1955,15 +1953,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂—LUGAL",
+                  "frag": "E₂-LUGAL",
                   "id": "P313777.l1399d",
                   "ref": "P313777.13.7",
                   "cof-tails": "P313777.l1399e",
                   "inst": "bītu[house]N$bēt&šarru[king]N$šarri",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:E₂-LUGAL=bītu[house//house]N'N$bēt&&@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "E₂—LUGAL",
+                    "form": "E₂-LUGAL",
                     "delim": "",
                     "gdl": [
                       {
@@ -1976,8 +1974,7 @@
                             "id": "P313777.13.7.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "LUGAL",
@@ -1991,20 +1988,23 @@
                     ],
                     "cf": "bītu",
                     "gw": "house",
+                    "sense": "house",
                     "norm": "bēt",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "E₂—LUGAL",
+                  "frag": "E₂-LUGAL",
                   "id": "P313777.l1399e",
                   "ref": "P313777.13.7",
                   "cof-head": "P313777.l1399d",
                   "inst": "bītu[house]N$bēt&šarru[king]N$šarri",
+                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=šarru[king//king]N'N$šarri",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "E₂—LUGAL",
+                    "form": "E₂-LUGAL",
                     "delim": "",
                     "gdl": [
                       {
@@ -2017,8 +2017,7 @@
                             "id": "P313777.13.7.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "LUGAL",
@@ -2032,8 +2031,10 @@
                     ],
                     "cf": "šarru",
                     "gw": "king",
+                    "sense": "king",
                     "norm": "šarri",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
@@ -2944,7 +2945,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "E₂—[x",
+                  "frag": "E₂-[x",
                   "id": "P313777.l139bb",
                   "ref": "P313777.19.4",
                   "inst": "u",
@@ -2963,8 +2964,7 @@
                             "id": "P313777.19.4.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

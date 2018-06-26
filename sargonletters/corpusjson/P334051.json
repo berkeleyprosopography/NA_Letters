@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:31:57",
+  "UTC-timestamp": "2018-06-22T06:07:38",
   "textid": "P334051",
   "cdl": [
     {
@@ -212,14 +212,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DUG₃]—IM—aš-šur",
+                  "frag": "{1}DUG₃]-IM-aš-šur",
                   "id": "P334051.l02031",
                   "ref": "P334051.3.2",
                   "inst": "Ṭab-šar-Aššur[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}DUG₃-IM-aš-šur=Ṭab-šar-Aššur[1//1]PN'PN$Ṭab-šar-Aššur",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}DUG₃—IM-aš-šur",
+                    "form": "{1}DUG₃-IM-aš-šur",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -253,8 +253,7 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P334051.3.1.0",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "IM",
@@ -262,8 +261,7 @@
                             "id": "P334051.3.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -281,7 +279,10 @@
                     ],
                     "cf": "Ṭab-šar-Aššur",
                     "gw": "1",
-                    "pos": "PN"
+                    "sense": "1",
+                    "norm": "Ṭab-šar-Aššur",
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {

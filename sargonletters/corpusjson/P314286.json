@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:31:39",
+  "UTC-timestamp": "2018-06-22T06:07:28",
   "textid": "P314286",
   "cdl": [
     {
@@ -3746,15 +3746,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}A—KIN\\tdm-⸢MEŠ\\m⸣",
+                  "frag": "{lu₂v}A-KIN\\tdm-⸢MEŠ\\m⸣",
                   "id": "P314286.l1210d",
                   "ref": "P314286.22.1",
                   "cof-tails": "P314286.l1210e",
                   "inst": "māru[son]N$mār&šipru[sending]N$šiprāni",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}A-KIN-MEŠ=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:=šipru[sending//sending]N'N$šiprāni",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}A—KIN-MEŠ",
+                    "form": "{LU₂}A-KIN-MEŠ",
                     "delim": "",
                     "gdl": [
                       {
@@ -3794,8 +3794,7 @@
                             "id": "P314286.22.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "form": "KIN",
@@ -3836,20 +3835,23 @@
                     ],
                     "cf": "māru",
                     "gw": "son",
+                    "sense": "son",
                     "norm": "mār",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}A—KIN\\tdm-⸢MEŠ\\m⸣",
+                  "frag": "{lu₂v}A-KIN\\tdm-⸢MEŠ\\m⸣",
                   "id": "P314286.l1210e",
                   "ref": "P314286.22.1",
                   "cof-head": "P314286.l1210d",
                   "inst": "māru[son]N$mār&šipru[sending]N$šiprāni",
+                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=šipru[sending//sending]N'N$šiprāni",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}A—KIN-MEŠ",
+                    "form": "{LU₂}A-KIN-MEŠ",
                     "delim": "",
                     "gdl": [
                       {
@@ -3889,8 +3891,7 @@
                             "id": "P314286.22.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "form": "KIN",
@@ -3931,8 +3932,10 @@
                     ],
                     "cf": "šipru",
                     "gw": "sending",
+                    "sense": "sending",
                     "norm": "šiprāni",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
@@ -4160,7 +4163,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU—{1}⸢NUMUN⸣-[i",
+                  "frag": "DUMU-{1}⸢NUMUN⸣-[i",
                   "id": "P314286.l12118",
                   "ref": "P314286.23.3",
                   "inst": "Mar-Zeri[1]PN",
@@ -4180,8 +4183,7 @@
                             "id": "P314286.23.3.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -4764,15 +4766,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}A—KIN\\tdm-MEŠ\\m",
+                  "frag": "{lu₂v}A-KIN\\tdm-MEŠ\\m",
                   "id": "P314286.l1212c",
                   "ref": "P314286.26.1",
                   "cof-tails": "P314286.l1212d",
                   "inst": "māru[son]N$mār&šipru[sending]N$šiprāni",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}A-KIN-MEŠ=māru[son//son]N'N$mār&&@saao/sargonletters%akk-x-neoass:=šipru[sending//sending]N'N$šiprāni",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}A—KIN-MEŠ",
+                    "form": "{LU₂}A-KIN-MEŠ",
                     "delim": "",
                     "gdl": [
                       {
@@ -4812,8 +4814,7 @@
                             "id": "P314286.26.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "form": "KIN",
@@ -4851,20 +4852,23 @@
                     ],
                     "cf": "māru",
                     "gw": "son",
+                    "sense": "son",
                     "norm": "mār",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}A—KIN\\tdm-MEŠ\\m",
+                  "frag": "{lu₂v}A-KIN\\tdm-MEŠ\\m",
                   "id": "P314286.l1212d",
                   "ref": "P314286.26.1",
                   "cof-head": "P314286.l1212c",
                   "inst": "māru[son]N$mār&šipru[sending]N$šiprāni",
+                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=šipru[sending//sending]N'N$šiprāni",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}A—KIN-MEŠ",
+                    "form": "{LU₂}A-KIN-MEŠ",
                     "delim": "",
                     "gdl": [
                       {
@@ -4904,8 +4908,7 @@
                             "id": "P314286.26.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "form": "KIN",
@@ -4943,8 +4946,10 @@
                     ],
                     "cf": "šipru",
                     "gw": "sending",
+                    "sense": "sending",
                     "norm": "šiprāni",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {

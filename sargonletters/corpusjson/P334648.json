@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:50",
+  "UTC-timestamp": "2018-06-22T06:08:36",
   "textid": "P334648",
   "cdl": [
     {
@@ -119,7 +119,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "x—aš]-⸢šur⸣",
+                  "frag": "x-aš]-⸢šur⸣",
                   "id": "P334648.l1213e",
                   "ref": "P334648.3.4",
                   "inst": "u",
@@ -132,8 +132,7 @@
                         "gdl_utf8": "x",
                         "id": "P334648.3.4.0",
                         "break": "missing",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "aš",
@@ -436,7 +435,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "DUMU—{1}NUMUN-i",
+                  "frag": "DUMU-{1}NUMUN-i",
                   "id": "P334648.l12146",
                   "ref": "P334648.7.2",
                   "inst": "Mar-Zeri[1]PN",
@@ -455,8 +454,7 @@
                             "id": "P334648.7.2.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -603,14 +601,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}SUH₃—KAR-ir",
+                  "frag": "{1}SUH₃-KAR-ir",
                   "id": "P334648.l12149",
                   "ref": "P334648.9.2",
                   "inst": "Teši-eṭir[1]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}SUH₃-KAR-ir=Teši-eṭir[1//1]PN'PN$Teši-eṭir",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}SUH₃—KAR-ir",
+                    "form": "{1}SUH₃-KAR-ir",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -640,8 +638,7 @@
                             "id": "P334648.9.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "KAR",

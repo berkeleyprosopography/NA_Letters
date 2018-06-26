@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:30:40",
+  "UTC-timestamp": "2018-06-22T06:06:48",
   "textid": "P313848",
   "cdl": [
     {
@@ -2267,7 +2267,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}⸢DINGIR⸣—ia-da\\d-aʾ",
+                  "frag": "{1}⸢DINGIR⸣-ia-da\\d-aʾ",
                   "id": "P313848.l1170c",
                   "ref": "P313848.10.5",
                   "inst": "Il-yadaʾ[1]PN",
@@ -2310,8 +2310,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "hc": "1"
                           }
                         ]
@@ -2897,7 +2896,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{kur}E₂]—⸢ši-la-nu⸣",
+                  "frag": "{kur}E₂]-⸢ši-la-nu⸣",
                   "id": "P313848.l11722",
                   "ref": "P313848.12.6",
                   "inst": "Bit-Šilanu[]GN$",
@@ -2940,8 +2939,7 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P313848.12.1.0",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

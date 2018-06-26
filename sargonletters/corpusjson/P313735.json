@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:30:24",
+  "UTC-timestamp": "2018-06-22T06:06:35",
   "textid": "P313735",
   "cdl": [
     {
@@ -281,7 +281,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur—SAG—i-ši",
+                  "frag": "{1}aš-šur-SAG-i-ši",
                   "id": "P313735.l0edd1",
                   "ref": "P313735.4.2",
                   "inst": "Aššur-reši-išši[]PN$",
@@ -322,8 +322,7 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P313735.4.2.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -335,8 +334,7 @@
                             "id": "P313735.4.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -362,7 +360,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}⸢GAL⸣—[x",
+                  "frag": "{lu₂v}⸢GAL⸣-[x",
                   "id": "P313735.l0edd2",
                   "ref": "P313735.4.3",
                   "inst": "u",
@@ -410,8 +408,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "hc": "1"
                           }
                         ]
@@ -565,7 +562,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}⸢GAL⸣—[x",
+                  "frag": "{lu₂v}⸢GAL⸣-[x",
                   "id": "P313735.l0edd7",
                   "ref": "P313735.5.3",
                   "inst": "u",
@@ -613,8 +610,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "hc": "1"
                           }
                         ]

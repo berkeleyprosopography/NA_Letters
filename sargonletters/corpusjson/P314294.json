@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:31:42",
+  "UTC-timestamp": "2018-06-22T06:07:30",
   "textid": "P314294",
   "cdl": [
     {
@@ -238,14 +238,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{[d}IM—KI-ia]",
+                  "frag": "{1}{[d}IM-KI-ia]",
                   "id": "P314294.l0ab41",
                   "ref": "P314294.3.2",
                   "inst": "Adad-isseʾa[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}IM-KI-ia=Adad-isseʾa[1//1]PN'PN$Adad-isseʾa",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}IM—KI-ia",
+                    "form": "{1}{d}IM-KI-ia",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -290,8 +290,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "KI",
@@ -315,7 +314,10 @@
                     ],
                     "cf": "Adad-isseʾa",
                     "gw": "1",
-                    "pos": "PN"
+                    "sense": "1",
+                    "norm": "Adad-isseʾa",
+                    "pos": "PN",
+                    "epos": "PN"
                   }
                 },
                 {
@@ -2707,7 +2709,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}600—E₂.GAL",
+                  "frag": "{lu₂vy}600-E₂.GAL",
                   "id": "P314294.l0ab96",
                   "ref": "P314294.19.1",
                   "cof-tails": "P314294.l0ab97",
@@ -2754,8 +2756,7 @@
                         "form": "600",
                         "gdl_utf8": "𒐞",
                         "id": "P314294.19.1.1",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "seq": [
                           {
                             "r": "600"
@@ -2794,7 +2795,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}600—E₂.GAL",
+                  "frag": "{lu₂vy}600-E₂.GAL",
                   "id": "P314294.l0ab97",
                   "ref": "P314294.19.1",
                   "cof-head": "P314294.l0ab96",
@@ -2841,8 +2842,7 @@
                         "form": "600",
                         "gdl_utf8": "𒐞",
                         "id": "P314294.19.1.1",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "seq": [
                           {
                             "r": "600"

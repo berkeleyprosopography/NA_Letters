@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:10",
+  "UTC-timestamp": "2018-06-22T06:08:15",
   "textid": "P334381",
   "cdl": [
     {
@@ -1407,14 +1407,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}kar—LUGAL—GI.NA",
+                  "frag": "{uru}kar-LUGAL-GI.NA",
                   "id": "P334381.l0db55",
                   "ref": "P334381.9.4",
                   "inst": "Kar-Šarrukin[]GN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}kar-LUGAL-GI.NA=Kar-Šarrukin[1//1]GN'GN$Kar-Šarrukin",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}kar-LUGAL—GI.NA",
+                    "form": "{URU}kar-LUGAL-GI.NA",
                     "gdl": [
                       {
                         "det": "semantic",
@@ -1439,8 +1439,7 @@
                         "v": "kar",
                         "gdl_utf8": "𒋼𒀀",
                         "id": "P334381.9.4.1",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -1452,8 +1451,7 @@
                             "id": "P334381.9.4.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "GI",
@@ -1475,8 +1473,10 @@
                     ],
                     "cf": "Kar-Šarrukin",
                     "gw": "1",
+                    "sense": "1",
                     "norm": "Kar-Šarrukin",
-                    "pos": "GN"
+                    "pos": "GN",
+                    "epos": "GN"
                   }
                 },
                 {
@@ -6859,14 +6859,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}SAG—MAN",
+                  "frag": "{lu₂vy}SAG-MAN",
                   "id": "P334381.l0dbc9",
                   "ref": "P334381.43.3",
                   "inst": "ša-rēš-šarri[royal eunuch]N$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}SAG-MAN=ša-rēš-šarri[royal eunuch//royal eunuch]N'N$ša-rēš-šarri",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}SAG—MAN",
+                    "form": "{LU₂}SAG-MAN",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -6908,8 +6908,7 @@
                             "id": "P334381.43.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "MAN",

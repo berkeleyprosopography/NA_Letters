@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:26",
+  "UTC-timestamp": "2018-06-22T06:08:23",
   "textid": "P334501",
   "cdl": [
     {
@@ -209,7 +209,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{⸢d⸣}15—du-ri",
+                  "frag": "{1}{⸢d⸣}15-du-ri",
                   "id": "P334501.l0cb2e",
                   "ref": "P334501.3.2",
                   "inst": "Issar-duri[]PN$",
@@ -259,8 +259,7 @@
                         "form": "15",
                         "gdl_utf8": "𒌋𒐊",
                         "id": "P334501.3.2.2",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "seq": [
                           {
                             "r": "15"
@@ -568,14 +567,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}EN—PAB-MEŠ\\m—SU",
+                  "frag": "{1}EN-PAB-MEŠ\\m-SU",
                   "id": "P334501.l0cb36",
                   "ref": "P334501.5.3",
                   "inst": "Bel-ahhe-riba[]PN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}EN-PAB-MEŠ-SU=Bel-ahhe-riba[1//1]PN'PN$Bel-ahhe-riba",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}EN—PAB-MEŠ—SU",
+                    "form": "{1}EN-PAB-MEŠ-SU",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -605,8 +604,7 @@
                             "id": "P334501.5.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "PAB",
@@ -622,8 +620,7 @@
                             "id": "P334501.5.3.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "mods": [
                               {
                                 "b": "MEŠ"
@@ -1169,13 +1166,13 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}MAŠ.MAŠ—GAR—[x]",
+                  "frag": "{1}{d}MAŠ.MAŠ-GAR-[x]",
                   "id": "P334501.l0cb43",
                   "ref": "P334501.9.2",
                   "inst": "u",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}MAŠ.MAŠ—GAR-x",
+                    "form": "{1}{d}MAŠ.MAŠ-GAR-x",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -1224,8 +1221,7 @@
                             "id": "P334501.9.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "GAR",
@@ -1233,8 +1229,7 @@
                             "id": "P334501.9.2.4",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

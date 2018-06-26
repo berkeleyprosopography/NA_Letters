@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:32:36",
+  "UTC-timestamp": "2018-06-22T06:07:57",
   "textid": "P334180",
   "cdl": [
     {
@@ -199,14 +199,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur—EN—KALAG-in",
+                  "frag": "{1}aš-šur-EN-KALAG-in",
                   "id": "P334180.l07fbd",
                   "ref": "P334180.3.2",
                   "inst": "Aššur-belu-daʾʾin[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}aš-šur-EN-KALAG-in=Aššur-belu-daʾʾin[1//1]PN'PN$Aššur-belu-daʾʾin",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}aš-šur-EN—KALAG-in",
+                    "form": "{1}aš-šur-EN-KALAG-in",
                     "gdl": [
                       {
                         "det": "semantic",
@@ -236,8 +236,7 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P334180.3.2.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -249,8 +248,7 @@
                             "id": "P334180.3.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "KALAG",
@@ -469,7 +467,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}ša\\y—E₂—ku-din",
+                  "frag": "{lu₂vy}ša\\y-E₂-ku-din",
                   "id": "P334180.l07fc3",
                   "ref": "P334180.5.1",
                   "inst": "ša-bēt-kūdini[mule stable man]N$ša-bēt-kūdin",
@@ -512,8 +510,7 @@
                         "form": "ša",
                         "gdl_utf8": "𒊭",
                         "id": "P334180.5.1.1",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "mods": [
                           {
                             "b": "ša"
@@ -533,8 +530,7 @@
                             "id": "P334180.5.1.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1160,7 +1156,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{kur}hal-zi\\p—AD.BAR-a.a",
+                  "frag": "{kur}hal-zi\\p-AD.BAR-a.a",
                   "id": "P334180.l07fd0",
                   "ref": "P334180.10.1",
                   "inst": "Halzi-atbaraya[]EN$",
@@ -1198,8 +1194,7 @@
                         "form": "zi",
                         "gdl_utf8": "𒍣",
                         "id": "P334180.10.1.2",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "mods": [
                           {
                             "b": "zi"
@@ -1586,7 +1581,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}ša\\y—E₂—ku-din",
+                  "frag": "{lu₂vy}ša\\y-E₂-ku-din",
                   "id": "P334180.l07fd9",
                   "ref": "P334180.14.1",
                   "inst": "ša-bēt-kūdini[mule stable man]N$ša-bēt-kūdin",
@@ -1629,8 +1624,7 @@
                         "form": "ša",
                         "gdl_utf8": "𒊭",
                         "id": "P334180.14.1.1",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "mods": [
                           {
                             "b": "ša"
@@ -1650,8 +1644,7 @@
                             "id": "P334180.14.1.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1996,7 +1989,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}ša—E₂—ku-din",
+                  "frag": "{lu₂vy}ša-E₂-ku-din",
                   "id": "P334180.l07fe0",
                   "ref": "P334180.19.1",
                   "inst": "ša-bēt-kūdini[mule stable man]N$ša-bēt-kūdin",
@@ -2039,8 +2032,7 @@
                         "v": "ša",
                         "gdl_utf8": "𒊭",
                         "id": "P334180.19.1.1",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -2052,8 +2044,7 @@
                             "id": "P334180.19.1.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -2790,7 +2781,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{kur}E₂—za-ma-ni",
+                  "frag": "{kur}E₂-za-ma-ni",
                   "id": "P334180.l07ff2",
                   "ref": "P334180.24.3",
                   "inst": "Bit-Zamani[1]GN",
@@ -2828,8 +2819,7 @@
                             "id": "P334180.24.3.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

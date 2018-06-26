@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:32:47",
+  "UTC-timestamp": "2018-06-22T06:08:03",
   "textid": "P334257",
   "cdl": [
     {
@@ -207,7 +207,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur—re\\d-ṣu-u-a",
+                  "frag": "{1}aš-šur-re\\d-ṣu-u-a",
                   "id": "P334257.l08109",
                   "ref": "P334257.3.2",
                   "inst": "Aššur-reṣuwa[1]PN",
@@ -244,8 +244,7 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P334257.3.2.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "form": "re",
@@ -774,7 +773,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i—na-gi-e",
+                  "frag": "i-na-gi-e",
                   "id": "P334257.l08115",
                   "ref": "P334257.7.1",
                   "cof-tails": "P334257.l08116",
@@ -789,8 +788,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P334257.7.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "na",
@@ -820,7 +818,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i—na-gi-e",
+                  "frag": "i-na-gi-e",
                   "id": "P334257.l08116",
                   "ref": "P334257.7.1",
                   "cof-head": "P334257.l08115",
@@ -835,8 +833,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P334257.7.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "na",
@@ -2417,7 +2414,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i—pa-ni-šu₂",
+                  "frag": "i-pa-ni-šu₂",
                   "id": "P334257.l08135",
                   "ref": "P334257.22.1",
                   "cof-tails": "P334257.l08136",
@@ -2432,8 +2429,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P334257.22.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "pa",
@@ -2463,7 +2459,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i—pa-ni-šu₂",
+                  "frag": "i-pa-ni-šu₂",
                   "id": "P334257.l08136",
                   "ref": "P334257.22.1",
                   "cof-head": "P334257.l08135",
@@ -2478,8 +2474,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P334257.22.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "pa",

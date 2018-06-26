@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:29:57",
+  "UTC-timestamp": "2018-06-22T06:06:20",
   "textid": "P313598",
   "cdl": [
     {
@@ -210,7 +210,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DINGIR—iq]-bi",
+                  "frag": "{1}DINGIR-iq]-bi",
                   "id": "P313598.l03a85",
                   "ref": "P313598.3.2",
                   "inst": "Ilu-iqbi[1]PN",
@@ -249,8 +249,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -286,14 +285,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "[BARAG—NAM-MEŠ]",
+                  "frag": "[BARAG-NAM-MEŠ]",
                   "id": "P313598.l03a86",
                   "ref": "P313598.4.1",
                   "inst": "Parak-šimati[Throne-of-Destiny]TN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:BARAG-NAM-MEŠ=Parak-šimati[Throne-of-Destiny//Throne-of-Destiny]TN'TN$Parak-šimati",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "BARAG—NAM-MEŠ",
+                    "form": "BARAG-NAM-MEŠ",
                     "delim": "",
                     "gdl": [
                       {
@@ -309,8 +308,7 @@
                             "break": "missing",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "NAM",
@@ -2060,7 +2058,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "[am—mar]",
+                  "frag": "[am-mar]",
                   "id": "P313598.l03abc",
                   "ref": "P313598.19.1",
                   "inst": "ammar[as many as]REL",
@@ -2077,8 +2075,7 @@
                         "breakStart": "1",
                         "o": "[",
                         "break": "missing",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "mar",

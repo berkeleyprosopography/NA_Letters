@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:52",
+  "UTC-timestamp": "2018-06-22T06:08:37",
   "textid": "P334668",
   "cdl": [
     {
@@ -56,7 +56,7 @@
                 {
                   "node": "l",
                   "frag": "[x",
-                  "id": "P334668.l14c52",
+                  "id": "P334668.l14c53",
                   "ref": "P334668.3.1",
                   "inst": "u",
                   "f": {
@@ -79,7 +79,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P334668.l14c53",
+                  "id": "P334668.l14c54",
                   "ref": "P334668.3.2",
                   "inst": "u",
                   "f": {
@@ -100,7 +100,7 @@
                 {
                   "node": "l",
                   "frag": "x",
-                  "id": "P334668.l14c54",
+                  "id": "P334668.l14c55",
                   "ref": "P334668.3.3",
                   "inst": "u",
                   "f": {
@@ -121,7 +121,7 @@
                 {
                   "node": "l",
                   "frag": "x]-⸢di⸣",
-                  "id": "P334668.l14c55",
+                  "id": "P334668.l14c56",
                   "ref": "P334668.3.4",
                   "inst": "u",
                   "f": {
@@ -159,7 +159,7 @@
                 {
                   "node": "l",
                   "frag": "[šu-up]-⸢ru⸣",
-                  "id": "P334668.l14c56",
+                  "id": "P334668.l14c57",
                   "ref": "P334668.4.1",
                   "inst": "šupru[send]V",
                   "sig": "@saao/sargonletters%akk-x-neoass:šu-up-ru=šapāru[send//send]V'V$šupru",
@@ -212,7 +212,7 @@
                 {
                   "node": "l",
                   "frag": "[a]-⸢na⸣",
-                  "id": "P334668.l14c57",
+                  "id": "P334668.l14c58",
                   "ref": "P334668.5.1",
                   "inst": "ana[to]PRP",
                   "sig": "@saao/sargonletters%akk-x-neoass:a-na=ana[to//to]PRP'PRP$ana",
@@ -251,7 +251,7 @@
                 {
                   "node": "l",
                   "frag": "ZAG",
-                  "id": "P334668.l14c58",
+                  "id": "P334668.l14c59",
                   "ref": "P334668.5.2",
                   "inst": "imitti[right side]N",
                   "sig": "@saao/sargonletters%akk-x-neoass:ZAG=imittu[right side//right side]N'N$imitti",
@@ -291,7 +291,7 @@
                 {
                   "node": "l",
                   "frag": "a-na",
-                  "id": "P334668.l14c59",
+                  "id": "P334668.l14c5a",
                   "ref": "P334668.6.1",
                   "inst": "ana[to]PRP",
                   "sig": "@saao/sargonletters%akk-x-neoass:a-na=ana[to//to]PRP'PRP$ana",
@@ -323,7 +323,7 @@
                 {
                   "node": "l",
                   "frag": "šu-me-li",
-                  "id": "P334668.l14c5a",
+                  "id": "P334668.l14c5b",
                   "ref": "P334668.6.2",
                   "inst": "šumēlu[left side]N$šumēli",
                   "sig": "@saao/sargonletters%akk-x-neoass:šu-me-li=šumēlu[left side//left side]N'N$šumēli",
@@ -367,7 +367,7 @@
                 {
                   "node": "l",
                   "frag": "ni-sa-ta-pa-ar",
-                  "id": "P334668.l14c5b",
+                  "id": "P334668.l14c5c",
                   "ref": "P334668.7.1",
                   "inst": "šapāru[send]V$nissatappar",
                   "sig": "@saao/sargonletters%akk-x-neoass:ni-sa-ta-pa-ar=šapāru[send//send]V'V$nissatappar",
@@ -429,8 +429,8 @@
                 },
                 {
                   "node": "l",
-                  "frag": "i—su\\t-ri",
-                  "id": "P334668.l14c5c",
+                  "frag": "i-su\\t-ri",
+                  "id": "P334668.l14c5d",
                   "ref": "P334668.9.1",
                   "inst": "issurri[perhaps]AV",
                   "sig": "@saao/sargonletters%akk-x-neoass:i-su-ri=issurri[perhaps//perhaps]AV'AV$issurri",
@@ -442,8 +442,7 @@
                         "v": "i",
                         "gdl_utf8": "𒄿",
                         "id": "P334668.9.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "form": "su",
@@ -483,7 +482,7 @@
                 {
                   "node": "l",
                   "frag": "i-ba\\t-aš₂-ši",
-                  "id": "P334668.l14c5d",
+                  "id": "P334668.l14c5e",
                   "ref": "P334668.10.1",
                   "inst": "bašû[exist//really]V'AV$ibašši",
                   "sig": "@saao/sargonletters%akk-x-neoass:i-ba-aš₂-ši=bašû[exist//really]V'AV$ibašši",
@@ -541,7 +540,7 @@
                 {
                   "node": "l",
                   "frag": "ne₂-ma-ra",
-                  "id": "P334668.l14c5e",
+                  "id": "P334668.l14c5f",
                   "ref": "P334668.11.1",
                   "inst": "amāru[see]V$nemmāra",
                   "sig": "@saao/sargonletters%akk-x-neoass:ne₂-ma-ra=amāru[see//see]V'V$nemmāra",
@@ -585,7 +584,7 @@
                 {
                   "node": "l",
                   "frag": "a-na",
-                  "id": "P334668.l14c5f",
+                  "id": "P334668.l14c60",
                   "ref": "P334668.12.1",
                   "inst": "ana[to]PRP",
                   "sig": "@saao/sargonletters%akk-x-neoass:a-na=ana[to//to]PRP'PRP$ana",
@@ -617,7 +616,7 @@
                 {
                   "node": "l",
                   "frag": "LUGAL",
-                  "id": "P334668.l14c60",
+                  "id": "P334668.l14c61",
                   "ref": "P334668.12.2",
                   "inst": "šarri[king]N",
                   "sig": "@saao/sargonletters%akk-x-neoass:LUGAL=šarru[king//king]N'N$šarri",
@@ -651,7 +650,7 @@
                 {
                   "node": "l",
                   "frag": "EN-ia",
-                  "id": "P334668.l14c61",
+                  "id": "P334668.l14c62",
                   "ref": "P334668.12.3",
                   "inst": "bēlīya[lord]N",
                   "sig": "@saao/sargonletters%akk-x-neoass:EN-ia=bēlu[lord//lord]N'N$bēlīya",
@@ -697,7 +696,7 @@
                 {
                   "node": "l",
                   "frag": "u₂-še-bal\\d",
-                  "id": "P334668.l14c62",
+                  "id": "P334668.l14c63",
                   "ref": "P334668.13.1",
                   "inst": "ušebbal[send]V",
                   "sig": "@saao/sargonletters%akk-x-neoass:u₂-še-bal=wabālu[bring//send]V'V$ušebbal",

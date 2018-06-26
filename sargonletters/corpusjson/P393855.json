@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:34:46",
+  "UTC-timestamp": "2018-06-22T06:09:05",
   "textid": "P393855",
   "cdl": [
     {
@@ -2370,14 +2370,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur⸣—MAN—PAB",
+                  "frag": "{1}aš-šur⸣-MAN-PAB",
                   "id": "P393855.l05ecb",
                   "ref": "P393855.22.3",
                   "inst": "Aššur-šarru-uṣur[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}aš-šur-MAN-PAB=Aššur-šarru-uṣur[1//1]PN'PN$Aššur-šarru-uṣur",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}aš-šur-MAN—PAB",
+                    "form": "{1}aš-šur-MAN-PAB",
                     "gdl": [
                       {
                         "det": "semantic",
@@ -2411,8 +2411,7 @@
                         "gdl_utf8": "𒋩",
                         "id": "P393855.22.3.2",
                         "break": "damaged",
-                        "delim": "—",
-                        "gdl_em": "1",
+                        "delim": "-",
                         "hc": "1"
                       },
                       {
@@ -2425,8 +2424,7 @@
                             "id": "P393855.22.3.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "PAB",

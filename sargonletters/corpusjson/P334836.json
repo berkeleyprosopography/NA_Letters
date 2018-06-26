@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:34:23",
+  "UTC-timestamp": "2018-06-22T06:08:53",
   "textid": "P334836",
   "cdl": [
     {
@@ -855,15 +855,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂}GAL—URU-MEŠ-[ma]",
+                  "frag": "{lu₂}GAL-URU-MEŠ-[ma]",
                   "id": "P334836.l0a189",
                   "ref": "P334836.10.2",
                   "cof-tails": "P334836.l0a18a",
                   "inst": "rabû[big one]N$rab&ālu[city]N$ālānīma",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}GAL-URU-MEŠ-ma=rabû[big one//big one]N'N$rab&&@saao/sargonletters%akk-x-neoass:=ālu[city//city]N'N$ālānīma",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL—URU-MEŠ-ma",
+                    "form": "{LU₂}GAL-URU-MEŠ-ma",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -894,8 +894,7 @@
                             "id": "P334836.10.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "URU",
@@ -927,20 +926,23 @@
                     ],
                     "cf": "rabû",
                     "gw": "big one",
+                    "sense": "big one",
                     "norm": "rab",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂}GAL—URU-MEŠ-[ma]",
+                  "frag": "{lu₂}GAL-URU-MEŠ-[ma]",
                   "id": "P334836.l0a18a",
                   "ref": "P334836.10.2",
                   "cof-head": "P334836.l0a189",
                   "inst": "rabû[big one]N$rab&ālu[city]N$ālānīma",
+                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=ālu[city//city]N'N$ālānīma",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL—URU-MEŠ-ma",
+                    "form": "{LU₂}GAL-URU-MEŠ-ma",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -971,8 +973,7 @@
                             "id": "P334836.10.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "URU",
@@ -1004,8 +1005,10 @@
                     ],
                     "cf": "ālu",
                     "gw": "city",
+                    "sense": "city",
                     "norm": "ālānīma",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
@@ -1752,7 +1755,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂}ša₂—UGU—[x",
+                  "frag": "{lu₂}ša₂-UGU-[x",
                   "id": "P334836.l0a19e",
                   "ref": "P334836.15.4",
                   "inst": "u",
@@ -1784,8 +1787,7 @@
                         "v": "ša₂",
                         "gdl_utf8": "𒃻",
                         "id": "P334836.15.4.1",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -1797,8 +1799,7 @@
                             "id": "P334836.15.4.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

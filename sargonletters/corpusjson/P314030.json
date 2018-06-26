@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:31:08",
+  "UTC-timestamp": "2018-06-22T06:07:07",
   "textid": "P314030",
   "cdl": [
     {
@@ -490,7 +490,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}HAL-⸢ni—aš-šur⸣",
+                  "frag": "{1}HAL-⸢ni-aš-šur⸣",
                   "id": "P314030.l06206",
                   "ref": "P314030.7.2",
                   "inst": "Išmanni-Aššur[1]PN",
@@ -538,8 +538,7 @@
                         "id": "P314030.7.2.2",
                         "break": "damaged",
                         "ho": "1",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "aš",

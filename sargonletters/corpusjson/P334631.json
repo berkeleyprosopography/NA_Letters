@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:46",
+  "UTC-timestamp": "2018-06-22T06:08:34",
   "textid": "P334631",
   "cdl": [
     {
@@ -85,14 +85,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}PA—BAD₃\\m—PAB",
+                  "frag": "{1}{d}PA-BAD₃\\m-PAB",
                   "id": "P334631.l051ca",
                   "ref": "P334631.2.2",
                   "inst": "Nabu-duru-uṣur[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}PA-BAD₃-PAB=Nabu-duru-uṣur[1//1]PN'PN$Nabu-duru-uṣur",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}PA—BAD₃—PAB",
+                    "form": "{1}{d}PA-BAD₃-PAB",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -133,8 +133,7 @@
                             "id": "P334631.2.2.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "form": "BAD₃",
@@ -142,8 +141,7 @@
                             "id": "P334631.2.2.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "mods": [
                               {
                                 "b": "BAD₃"
@@ -218,14 +216,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DINGIR-a.a—EN",
+                  "frag": "{1}DINGIR-a.a-EN",
                   "id": "P334631.l051cc",
                   "ref": "P334631.3.2",
                   "inst": "Ilaʾi-Bel[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}DINGIR-a.a-EN=Ilaʾi-Bel[1//1]PN'PN$Ilaʾi-Bel",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}DINGIR-a.a—EN",
+                    "form": "{1}DINGIR-a.a-EN",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -273,8 +271,7 @@
                             "v": "a",
                             "gdl_utf8": "𒀀",
                             "id": "P334631.3.2.3",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "EN",
@@ -467,7 +464,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}⸢tar⸣-ri-ki—hal-⸢lu⸣",
+                  "frag": "{1}⸢tar⸣-ri-ki-hal-⸢lu⸣",
                   "id": "P334631.l051d1",
                   "ref": "P334631.5.1",
                   "inst": "Tarriki-hallu[]PN$",
@@ -518,8 +515,7 @@
                         "v": "ki",
                         "gdl_utf8": "𒆠",
                         "id": "P334631.5.1.3",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "hal",
@@ -997,7 +993,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}DUMU—šip-ri",
+                  "frag": "{lu₂vy}DUMU-šip-ri",
                   "id": "P334631.l051dd",
                   "ref": "P334631.9.1",
                   "cof-tails": "P334631.l051de",
@@ -1048,8 +1044,7 @@
                             "id": "P334631.9.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -1075,7 +1070,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂vy}DUMU—šip-ri",
+                  "frag": "{lu₂vy}DUMU-šip-ri",
                   "id": "P334631.l051de",
                   "ref": "P334631.9.1",
                   "cof-head": "P334631.l051dd",
@@ -1126,8 +1121,7 @@
                             "id": "P334631.9.1.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },

@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:31:21",
+  "UTC-timestamp": "2018-06-22T06:07:17",
   "textid": "P314151",
   "cdl": [
     {
@@ -710,14 +710,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru}BAD₃]—⸢MAN⸣—GIN",
+                  "frag": "{uru}BAD₃]-⸢MAN⸣-GIN",
                   "id": "P314151.l138ad",
                   "ref": "P314151.7.2",
                   "inst": "Dur-Šarruken[1]GN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}BAD₃-MAN-GIN=Dur-Šarruken[1//1]GN'GN$Dur-Šarruken",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}BAD₃—MAN—GIN",
+                    "form": "{URU}BAD₃-MAN-GIN",
                     "delim": "",
                     "gdl": [
                       {
@@ -753,8 +753,7 @@
                             "logolang": "sux",
                             "o": "]",
                             "breakEnd": "P314151.7.1.0",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "MAN",
@@ -764,8 +763,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "hc": "1"
                           },
                           {
@@ -1768,14 +1766,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{uru]}⸢BAD₃⸣—MAN—GIN",
+                  "frag": "{uru]}⸢BAD₃⸣-MAN-GIN",
                   "id": "P314151.l138cc",
                   "ref": "P314151.15.5",
                   "inst": "Dur-Šarruken[1]GN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{URU}BAD₃-MAN-GIN=Dur-Šarruken[1//1]GN'GN$Dur-Šarruken",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{URU}BAD₃—MAN—GIN",
+                    "form": "{URU}BAD₃-MAN-GIN",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -1811,8 +1809,7 @@
                             "ho": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1",
+                            "delim": "-",
                             "hc": "1"
                           },
                           {
@@ -1821,8 +1818,7 @@
                             "id": "P314151.15.5.2",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "GIN",

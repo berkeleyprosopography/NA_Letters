@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:03",
+  "UTC-timestamp": "2018-06-22T06:08:11",
   "textid": "P334344",
   "cdl": [
     {
@@ -197,7 +197,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}DINGIR—ia-da\\d-aʾ",
+                  "frag": "{1}DINGIR-ia-da\\d-aʾ",
                   "id": "P334344.l10beb",
                   "ref": "P334344.3.2",
                   "inst": "Il-yadaʾ[1]PN",
@@ -234,8 +234,7 @@
                             "id": "P334344.3.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           }
                         ]
                       },
@@ -3376,7 +3375,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a—dan-niš",
+                  "frag": "a-dan-niš",
                   "id": "P334344.l10c34",
                   "ref": "P334344.21.2",
                   "inst": "adanniš[very much]AV",
@@ -3390,8 +3389,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P334344.21.2.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "dan",
@@ -5951,14 +5949,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}aš-šur—U—LAL",
+                  "frag": "{1}aš-šur-U-LAL",
                   "id": "P334344.l10c70",
                   "ref": "P334344.40.4",
                   "inst": "Aššur-belu-taqqin[1]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}aš-šur-U-LAL=Aššur-belu-taqqin[1//1]PN'PN$Aššur-belu-taqqin",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}aš-šur-U—LAL",
+                    "form": "{1}aš-šur-U-LAL",
                     "delim": "",
                     "gdl": [
                       {
@@ -5989,8 +5987,7 @@
                         "v": "šur",
                         "gdl_utf8": "𒋩",
                         "id": "P334344.40.4.2",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "gg": "logo",
@@ -6003,8 +6000,7 @@
                             "gdl_collated": "1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "LAL",
@@ -7006,7 +7002,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "a—dan-niš",
+                  "frag": "a-dan-niš",
                   "id": "P334344.l10c88",
                   "ref": "P334344.46.1",
                   "inst": "adanniš[very much]AV",
@@ -7020,8 +7016,7 @@
                         "v": "a",
                         "gdl_utf8": "𒀀",
                         "id": "P334344.46.1.0",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "dan",
@@ -7115,14 +7110,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "BAD₃—LUGAL—GIN{ki}",
+                  "frag": "BAD₃-LUGAL-GIN{ki}",
                   "id": "P334344.l10c8b",
                   "ref": "P334344.46.4",
                   "inst": "Dur-Šarrukku[]GN$",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:BAD₃-LUGAL-GIN{KI}=Dur-Šarrukku[1//1]GN'GN$Dur-Šarrukku",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "BAD₃—LUGAL—GIN{KI}",
+                    "form": "BAD₃-LUGAL-GIN{KI}",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -7134,8 +7129,7 @@
                             "id": "P334344.46.4.0",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "LUGAL",
@@ -7143,8 +7137,7 @@
                             "id": "P334344.46.4.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "GIN",
@@ -7936,14 +7929,14 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}{d}AMAR.UTU—A—AŠ",
+                  "frag": "{1}{d}AMAR.UTU-A-AŠ",
                   "id": "P334344.l10c9e",
                   "ref": "P334344.50.3",
                   "inst": "Marduk-apla-iddina[Merodach-Baladan]PN",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{1}{d}AMAR.UTU-A-AŠ=Marduk-apla-iddina[Merodach-Baladan//Merodach-Baladan]PN'PN$Marduk-apla-iddina",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{1}{d}AMAR.UTU—A—AŠ",
+                    "form": "{1}{d}AMAR.UTU-A-AŠ",
                     "gdl": [
                       {
                         "gg": "logo",
@@ -7993,8 +7986,7 @@
                             "id": "P334344.50.3.3",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "A",
@@ -8002,8 +7994,7 @@
                             "id": "P334344.50.3.4",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "AŠ",
@@ -8016,8 +8007,8 @@
                       }
                     ],
                     "cf": "Marduk-apla-iddina",
-                    "gw": "Merodach-baladan",
-                    "sense": "Merodach-baladan",
+                    "gw": "Merodach-Baladan",
+                    "sense": "Merodach-Baladan",
                     "norm": "Marduk-apla-iddina",
                     "pos": "PN",
                     "epos": "PN"

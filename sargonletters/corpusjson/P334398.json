@@ -5,7 +5,7 @@
   "license": "This data is released under the CC0 license",
   "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
   "more-info": "http://oracc.org/doc/opendata/",
-  "UTC-timestamp": "2018-05-31T05:33:15",
+  "UTC-timestamp": "2018-06-22T06:08:18",
   "textid": "P334398",
   "cdl": [
     {
@@ -215,7 +215,7 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{1}[gab-bu—ana—aš-šur]",
+                  "frag": "{1}[gab-bu-ana-aš-šur]",
                   "id": "P334398.l08d22",
                   "ref": "P334398.3.2",
                   "inst": "Gabbu-ana-Aššur[1]PN",
@@ -256,16 +256,14 @@
                         "gdl_utf8": "𒁍",
                         "id": "P334398.3.2.2",
                         "break": "missing",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "ana",
                         "gdl_utf8": "𒁹",
                         "id": "P334398.3.2.3",
                         "break": "missing",
-                        "delim": "—",
-                        "gdl_em": "1"
+                        "delim": "-"
                       },
                       {
                         "v": "aš",
@@ -1174,15 +1172,15 @@
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}GAL—E₂",
+                  "frag": "{lu₂v}GAL-E₂",
                   "id": "P334398.l08d35",
                   "ref": "P334398.10.2",
                   "cof-tails": "P334398.l08d36",
                   "inst": "rabû[big one]N$rab&bītu[house]N$bēti",
-                  "bad": "yes",
+                  "sig": "@saao/sargonletters%akk-x-neoass:{LU₂}GAL-E₂=rabû[big one//big one]N'N$rab&&@saao/sargonletters%akk-x-neoass:=bītu[house//house]N'N$bēti",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL—E₂",
+                    "form": "{LU₂}GAL-E₂",
                     "delim": "",
                     "gdl": [
                       {
@@ -1222,8 +1220,7 @@
                             "id": "P334398.10.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "E₂",
@@ -1237,20 +1234,23 @@
                     ],
                     "cf": "rabû",
                     "gw": "big one",
+                    "sense": "big one",
                     "norm": "rab",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
                   "node": "l",
-                  "frag": "{lu₂v}GAL—E₂",
+                  "frag": "{lu₂v}GAL-E₂",
                   "id": "P334398.l08d36",
                   "ref": "P334398.10.2",
                   "cof-head": "P334398.l08d35",
                   "inst": "rabû[big one]N$rab&bītu[house]N$bēti",
+                  "tail-sig": "@saao/sargonletters%akk-x-neoass:=bītu[house//house]N'N$bēti",
                   "f": {
                     "lang": "akk-x-neoass",
-                    "form": "{LU₂}GAL—E₂",
+                    "form": "{LU₂}GAL-E₂",
                     "delim": "",
                     "gdl": [
                       {
@@ -1290,8 +1290,7 @@
                             "id": "P334398.10.2.1",
                             "role": "logo",
                             "logolang": "sux",
-                            "delim": "—",
-                            "gdl_em": "1"
+                            "delim": "-"
                           },
                           {
                             "s": "E₂",
@@ -1305,8 +1304,10 @@
                     ],
                     "cf": "bītu",
                     "gw": "house",
+                    "sense": "house",
                     "norm": "bēti",
-                    "pos": "N"
+                    "pos": "N",
+                    "epos": "N"
                   }
                 },
                 {
