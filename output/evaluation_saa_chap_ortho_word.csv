@@ -1,0 +1,64 @@
+,group,group_len,purity
+0,"['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']",2,0.11882229232386961
+1,"['bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']",2,0.14616193480546794
+2,"['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']",4,0.17981072555205047
+3,"['lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']",2,0.12828601472134596
+4,"['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']",4,0.1598317560462671
+5,"['bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']",4,0.1829652996845426
+6,"['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']",6,0.19978969505783387
+7,"['lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']",2,0.12513144058885384
+8,"['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']",4,0.1661409043112513
+9,"['bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']",4,0.19348054679284962
+10,"['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']",6,0.20715036803364878
+11,"['lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']",4,0.16298633017875921
+12,"['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']",6,0.1829652996845426
+13,"['bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']",6,0.19558359621451105
+14,"['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']",8,0.20715036803364878
+15,"['šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']",2,0.12513144058885384
+16,"['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']",4,0.15036803364879076
+17,"['bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']",4,0.1829652996845426
+18,"['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']",6,0.20189274447949526
+19,"['lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']",4,0.15562565720294427
+20,"['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']",6,0.1871713985278654
+21,"['bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']",6,0.19453207150368035
+22,"['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']",8,0.2092534174553102
+23,"['lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']",4,0.15562565720294427
+24,"['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']",6,0.1892744479495268
+25,"['bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']",6,0.2092534174553102
+26,"['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']",8,0.21345951629863302
+27,"['lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']",6,0.17875920084121977
+28,"['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']",8,0.19242902208201892
+29,"['bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']",8,0.20609884332281808
+30,"['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']",10,0.20294426919032596
+31,"['mā[saying]PRP:mā:ma', 'mā[saying]PRP:mā:ma-a']",2,0.12197686645636173
+32,"['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'mā[saying]PRP:mā:ma', 'mā[saying]PRP:mā:ma-a']",4,0.15141955835962145
+33,"['bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'mā[saying]PRP:mā:ma', 'mā[saying]PRP:mā:ma-a']",4,0.17560462670872765
+34,"['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'mā[saying]PRP:mā:ma', 'mā[saying]PRP:mā:ma-a']",6,0.19137749737118823
+35,"['lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'mā[saying]PRP:mā:ma', 'mā[saying]PRP:mā:ma-a']",4,0.15772870662460567
+36,"['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'mā[saying]PRP:mā:ma', 'mā[saying]PRP:mā:ma-a']",6,0.17034700315457413
+37,"['bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'mā[saying]PRP:mā:ma', 'mā[saying]PRP:mā:ma-a']",6,0.1871713985278654
+38,"['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'mā[saying]PRP:mā:ma', 'mā[saying]PRP:mā:ma-a']",8,0.20189274447949526
+39,"['lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'mā[saying]PRP:mā:ma', 'mā[saying]PRP:mā:ma-a']",4,0.16298633017875921
+40,"['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'mā[saying]PRP:mā:ma', 'mā[saying]PRP:mā:ma-a']",6,0.1808622502628812
+41,"['bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'mā[saying]PRP:mā:ma', 'mā[saying]PRP:mā:ma-a']",6,0.19137749737118823
+42,"['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'mā[saying]PRP:mā:ma', 'mā[saying]PRP:mā:ma-a']",8,0.20715036803364878
+43,"['lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'mā[saying]PRP:mā:ma', 'mā[saying]PRP:mā:ma-a']",6,0.16824395373291273
+44,"['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'mā[saying]PRP:mā:ma', 'mā[saying]PRP:mā:ma-a']",8,0.1871713985278654
+45,"['bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'mā[saying]PRP:mā:ma', 'mā[saying]PRP:mā:ma-a']",8,0.19978969505783387
+46,"['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'mā[saying]PRP:mā:ma', 'mā[saying]PRP:mā:ma-a']",10,0.20715036803364878
+47,"['šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu', 'mā[saying]PRP:mā:ma', 'mā[saying]PRP:mā:ma-a']",4,0.15772870662460567
+48,"['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu', 'mā[saying]PRP:mā:ma', 'mā[saying]PRP:mā:ma-a']",6,0.17034700315457413
+49,"['bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu', 'mā[saying]PRP:mā:ma', 'mā[saying]PRP:mā:ma-a']",6,0.19663512092534174
+50,"['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu', 'mā[saying]PRP:mā:ma', 'mā[saying]PRP:mā:ma-a']",8,0.20294426919032596
+51,"['lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu', 'mā[saying]PRP:mā:ma', 'mā[saying]PRP:mā:ma-a']",6,0.16929547844374343
+52,"['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu', 'mā[saying]PRP:mā:ma', 'mā[saying]PRP:mā:ma-a']",8,0.1892744479495268
+53,"['bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu', 'mā[saying]PRP:mā:ma', 'mā[saying]PRP:mā:ma-a']",8,0.19978969505783387
+54,"['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu', 'mā[saying]PRP:mā:ma', 'mā[saying]PRP:mā:ma-a']",10,0.21240799158780233
+55,"['lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu', 'mā[saying]PRP:mā:ma', 'mā[saying]PRP:mā:ma-a']",6,0.17875920084121977
+56,"['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu', 'mā[saying]PRP:mā:ma', 'mā[saying]PRP:mā:ma-a']",8,0.19032597266035753
+57,"['bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu', 'mā[saying]PRP:mā:ma', 'mā[saying]PRP:mā:ma-a']",8,0.20715036803364878
+58,"['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu', 'mā[saying]PRP:mā:ma', 'mā[saying]PRP:mā:ma-a']",10,0.21240799158780233
+59,"['lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu', 'mā[saying]PRP:mā:ma', 'mā[saying]PRP:mā:ma-a']",8,0.1808622502628812
+60,"['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu', 'mā[saying]PRP:mā:ma', 'mā[saying]PRP:mā:ma-a']",10,0.1871713985278654
+61,"['bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu', 'mā[saying]PRP:mā:ma', 'mā[saying]PRP:mā:ma-a']",10,0.20189274447949526
+62,"['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu', 'mā[saying]PRP:mā:ma', 'mā[saying]PRP:mā:ma-a']",12,0.21451104100946372

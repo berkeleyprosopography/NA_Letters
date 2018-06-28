@@ -1,0 +1,991 @@
+	group	group_len	purity
+0	['BU:..', 'BU:.p.']	2	0.13396004700352526
+1	['DI:..', 'DI:.d.']	2	0.136310223266745
+2	['LI:..', 'LI:.d.']	2	0.12808460634547592
+3	['NA:..', 'NA:.t.']	2	0.18331374853113983
+4	['NI:..', 'NI:.d.']	2	0.18801410105757932
+5	['RU:..', 'RU:.d.']	2	0.13278495887191538
+6	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.']	2	0.15511163337250294
+7	['ŠA:..', 'ŠA:.dm.']	2	0.14806110458284372
+8	['ia', 'ia₂']	2	0.16568742655699178
+9	['li', 'li₂']	2	0.16333725029377202
+10	['ša', 'ša₂']	2	0.1762632197414806
+11	['šu', 'šu₂']	2	0.17391304347826086
+12	['u', 'u₂']	2	0.1844888366627497
+13	['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	2	0.1410105757931845
+14	['bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	2	0.15041128084606345
+15	['lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	2	0.13278495887191538
+16	['lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	2	0.12808460634547592
+17	['šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	2	0.1492361927144536
+18	['BU:..', 'BU:.p.', 'DI:..', 'DI:.d.']	4	0.18331374853113983
+19	['BU:..', 'BU:.p.', 'LI:..', 'LI:.d.']	4	0.1762632197414806
+20	['BU:..', 'BU:.p.', 'NA:..', 'NA:.t.']	4	0.199764982373678
+21	['BU:..', 'BU:.p.', 'NI:..', 'NI:.d.']	4	0.18683901292596944
+22	['BU:..', 'BU:.p.', 'RU:..', 'RU:.d.']	4	0.18566392479435959
+23	['BU:..', 'BU:.p.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.']	4	0.1797884841363102
+24	['BU:..', 'BU:.p.', 'ŠA:..', 'ŠA:.dm.']	4	0.17861339600470036
+25	['BU:..', 'BU:.p.', 'ia', 'ia₂']	4	0.2009400705052879
+26	['BU:..', 'BU:.p.', 'li', 'li₂']	4	0.19623971797884843
+27	['BU:..', 'BU:.p.', 'ša', 'ša₂']	4	0.18683901292596944
+28	['BU:..', 'BU:.p.', 'šu', 'šu₂']	4	0.1762632197414806
+29	['BU:..', 'BU:.p.', 'u', 'u₂']	4	0.19036427732079905
+30	['BU:..', 'BU:.p.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	4	0.19623971797884843
+31	['BU:..', 'BU:.p.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	4	0.20211515863689777
+32	['BU:..', 'BU:.p.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	4	0.17391304347826086
+33	['BU:..', 'BU:.p.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	4	0.19858989424206816
+34	['BU:..', 'BU:.p.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	4	0.21386603995299647
+35	['DI:..', 'DI:.d.', 'LI:..', 'LI:.d.']	4	0.17508813160987075
+36	['DI:..', 'DI:.d.', 'NA:..', 'NA:.t.']	4	0.19741480611045828
+37	['DI:..', 'DI:.d.', 'NI:..', 'NI:.d.']	4	0.20211515863689777
+38	['DI:..', 'DI:.d.', 'RU:..', 'RU:.d.']	4	0.1809635722679201
+39	['DI:..', 'DI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.']	4	0.18801410105757932
+40	['DI:..', 'DI:.d.', 'ŠA:..', 'ŠA:.dm.']	4	0.19153936545240893
+41	['DI:..', 'DI:.d.', 'ia', 'ia₂']	4	0.20211515863689777
+42	['DI:..', 'DI:.d.', 'li', 'li₂']	4	0.18683901292596944
+43	['DI:..', 'DI:.d.', 'ša', 'ša₂']	4	0.19506462984723855
+44	['DI:..', 'DI:.d.', 'šu', 'šu₂']	4	0.18566392479435959
+45	['DI:..', 'DI:.d.', 'u', 'u₂']	4	0.199764982373678
+46	['DI:..', 'DI:.d.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	4	0.19506462984723855
+47	['DI:..', 'DI:.d.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	4	0.20681551116333724
+48	['DI:..', 'DI:.d.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	4	0.18801410105757932
+49	['DI:..', 'DI:.d.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	4	0.1927144535840188
+50	['DI:..', 'DI:.d.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	4	0.2009400705052879
+51	['LI:..', 'LI:.d.', 'NA:..', 'NA:.t.']	4	0.19388954171562867
+52	['LI:..', 'LI:.d.', 'NI:..', 'NI:.d.']	4	0.1891891891891892
+53	['LI:..', 'LI:.d.', 'RU:..', 'RU:.d.']	4	0.17861339600470036
+54	['LI:..', 'LI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.']	4	0.17038777908343125
+55	['LI:..', 'LI:.d.', 'ŠA:..', 'ŠA:.dm.']	4	0.18213866039952997
+56	['LI:..', 'LI:.d.', 'ia', 'ia₂']	4	0.18683901292596944
+57	['LI:..', 'LI:.d.', 'li', 'li₂']	4	0.1797884841363102
+58	['LI:..', 'LI:.d.', 'ša', 'ša₂']	4	0.1809635722679201
+59	['LI:..', 'LI:.d.', 'šu', 'šu₂']	4	0.17156286721504113
+60	['LI:..', 'LI:.d.', 'u', 'u₂']	4	0.17743830787309048
+61	['LI:..', 'LI:.d.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	4	0.18683901292596944
+62	['LI:..', 'LI:.d.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	4	0.19623971797884843
+63	['LI:..', 'LI:.d.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	4	0.1762632197414806
+64	['LI:..', 'LI:.d.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	4	0.18213866039952997
+65	['LI:..', 'LI:.d.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	4	0.19858989424206816
+66	['NA:..', 'NA:.t.', 'NI:..', 'NI:.d.']	4	0.19858989424206816
+67	['NA:..', 'NA:.t.', 'RU:..', 'RU:.d.']	4	0.20211515863689777
+68	['NA:..', 'NA:.t.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.']	4	0.19623971797884843
+69	['NA:..', 'NA:.t.', 'ŠA:..', 'ŠA:.dm.']	4	0.2009400705052879
+70	['NA:..', 'NA:.t.', 'ia', 'ia₂']	4	0.20329024676850763
+71	['NA:..', 'NA:.t.', 'li', 'li₂']	4	0.20681551116333724
+72	['NA:..', 'NA:.t.', 'ša', 'ša₂']	4	0.19623971797884843
+73	['NA:..', 'NA:.t.', 'šu', 'šu₂']	4	0.1891891891891892
+74	['NA:..', 'NA:.t.', 'u', 'u₂']	4	0.20329024676850763
+75	['NA:..', 'NA:.t.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	4	0.20329024676850763
+76	['NA:..', 'NA:.t.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	4	0.21151586368977673
+77	['NA:..', 'NA:.t.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	4	0.19741480611045828
+78	['NA:..', 'NA:.t.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	4	0.209165687426557
+79	['NA:..', 'NA:.t.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	4	0.22326674500587543
+80	['NI:..', 'NI:.d.', 'RU:..', 'RU:.d.']	4	0.19388954171562867
+81	['NI:..', 'NI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.']	4	0.18566392479435959
+82	['NI:..', 'NI:.d.', 'ŠA:..', 'ŠA:.dm.']	4	0.1927144535840188
+83	['NI:..', 'NI:.d.', 'ia', 'ia₂']	4	0.2009400705052879
+84	['NI:..', 'NI:.d.', 'li', 'li₂']	4	0.2044653349001175
+85	['NI:..', 'NI:.d.', 'ša', 'ša₂']	4	0.19506462984723855
+86	['NI:..', 'NI:.d.', 'šu', 'šu₂']	4	0.18683901292596944
+87	['NI:..', 'NI:.d.', 'u', 'u₂']	4	0.19858989424206816
+88	['NI:..', 'NI:.d.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	4	0.2056404230317274
+89	['NI:..', 'NI:.d.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	4	0.209165687426557
+90	['NI:..', 'NI:.d.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	4	0.18566392479435959
+91	['NI:..', 'NI:.d.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	4	0.19623971797884843
+92	['NI:..', 'NI:.d.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	4	0.21739130434782608
+93	['RU:..', 'RU:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.']	4	0.17508813160987075
+94	['RU:..', 'RU:.d.', 'ŠA:..', 'ŠA:.dm.']	4	0.19153936545240893
+95	['RU:..', 'RU:.d.', 'ia', 'ia₂']	4	0.1927144535840188
+96	['RU:..', 'RU:.d.', 'li', 'li₂']	4	0.1891891891891892
+97	['RU:..', 'RU:.d.', 'ša', 'ša₂']	4	0.19153936545240893
+98	['RU:..', 'RU:.d.', 'šu', 'šu₂']	4	0.19741480611045828
+99	['RU:..', 'RU:.d.', 'u', 'u₂']	4	0.1927144535840188
+100	['RU:..', 'RU:.d.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	4	0.19036427732079905
+101	['RU:..', 'RU:.d.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	4	0.199764982373678
+102	['RU:..', 'RU:.d.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	4	0.1797884841363102
+103	['RU:..', 'RU:.d.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	4	0.1927144535840188
+104	['RU:..', 'RU:.d.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	4	0.2044653349001175
+105	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ŠA:..', 'ŠA:.dm.']	4	0.18331374853113983
+106	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ia', 'ia₂']	4	0.18213866039952997
+107	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'li', 'li₂']	4	0.18683901292596944
+108	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ša', 'ša₂']	4	0.19623971797884843
+109	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'šu', 'šu₂']	4	0.17391304347826086
+110	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'u', 'u₂']	4	0.18801410105757932
+111	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	4	0.17861339600470036
+112	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	4	0.1891891891891892
+113	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	4	0.17743830787309048
+114	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	4	0.1844888366627497
+115	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	4	0.2044653349001175
+116	['ŠA:..', 'ŠA:.dm.', 'ia', 'ia₂']	4	0.199764982373678
+117	['ŠA:..', 'ŠA:.dm.', 'li', 'li₂']	4	0.18566392479435959
+118	['ŠA:..', 'ŠA:.dm.', 'ša', 'ša₂']	4	0.18801410105757932
+119	['ŠA:..', 'ŠA:.dm.', 'šu', 'šu₂']	4	0.1797884841363102
+120	['ŠA:..', 'ŠA:.dm.', 'u', 'u₂']	4	0.2009400705052879
+121	['ŠA:..', 'ŠA:.dm.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	4	0.1927144535840188
+122	['ŠA:..', 'ŠA:.dm.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	4	0.209165687426557
+123	['ŠA:..', 'ŠA:.dm.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	4	0.19036427732079905
+124	['ŠA:..', 'ŠA:.dm.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	4	0.18801410105757932
+125	['ŠA:..', 'ŠA:.dm.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	4	0.199764982373678
+126	['ia', 'ia₂', 'li', 'li₂']	4	0.19858989424206816
+127	['ia', 'ia₂', 'ša', 'ša₂']	4	0.19858989424206816
+128	['ia', 'ia₂', 'šu', 'šu₂']	4	0.19741480611045828
+129	['ia', 'ia₂', 'u', 'u₂']	4	0.19858989424206816
+130	['ia', 'ia₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	4	0.19741480611045828
+131	['ia', 'ia₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	4	0.209165687426557
+132	['ia', 'ia₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	4	0.19623971797884843
+133	['ia', 'ia₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	4	0.21386603995299647
+134	['ia', 'ia₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	4	0.23384253819036427
+135	['li', 'li₂', 'ša', 'ša₂']	4	0.1927144535840188
+136	['li', 'li₂', 'šu', 'šu₂']	4	0.18801410105757932
+137	['li', 'li₂', 'u', 'u₂']	4	0.19623971797884843
+138	['li', 'li₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	4	0.19153936545240893
+139	['li', 'li₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	4	0.2056404230317274
+140	['li', 'li₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	4	0.18331374853113983
+141	['li', 'li₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	4	0.19741480611045828
+142	['li', 'li₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	4	0.21856639247943596
+143	['ša', 'ša₂', 'šu', 'šu₂']	4	0.19153936545240893
+144	['ša', 'ša₂', 'u', 'u₂']	4	0.1927144535840188
+145	['ša', 'ša₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	4	0.19036427732079905
+146	['ša', 'ša₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	4	0.21386603995299647
+147	['ša', 'ša₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	4	0.1891891891891892
+148	['ša', 'ša₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	4	0.19623971797884843
+149	['ša', 'ša₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	4	0.2009400705052879
+150	['šu', 'šu₂', 'u', 'u₂']	4	0.18331374853113983
+151	['šu', 'šu₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	4	0.1844888366627497
+152	['šu', 'šu₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	4	0.2044653349001175
+153	['šu', 'šu₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	4	0.1809635722679201
+154	['šu', 'šu₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	4	0.19388954171562867
+155	['šu', 'šu₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	4	0.19858989424206816
+156	['u', 'u₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	4	0.19506462984723855
+157	['u', 'u₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	4	0.21386603995299647
+158	['u', 'u₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	4	0.1797884841363102
+159	['u', 'u₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	4	0.199764982373678
+160	['u', 'u₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	4	0.21034077555816685
+161	['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	4	0.20681551116333724
+162	['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	4	0.18801410105757932
+163	['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	4	0.19506462984723855
+164	['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	4	0.21269095182138661
+165	['bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	4	0.19741480611045828
+166	['bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	4	0.20799059929494712
+167	['bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	4	0.23619271445358403
+168	['lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	4	0.19388954171562867
+169	['lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	4	0.21034077555816685
+170	['lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	4	0.21151586368977673
+171	['BU:..', 'BU:.p.', 'DI:..', 'DI:.d.', 'LI:..', 'LI:.d.']	6	0.18801410105757932
+172	['BU:..', 'BU:.p.', 'DI:..', 'DI:.d.', 'NA:..', 'NA:.t.']	6	0.20681551116333724
+173	['BU:..', 'BU:.p.', 'DI:..', 'DI:.d.', 'NI:..', 'NI:.d.']	6	0.19858989424206816
+174	['BU:..', 'BU:.p.', 'DI:..', 'DI:.d.', 'RU:..', 'RU:.d.']	6	0.19506462984723855
+175	['BU:..', 'BU:.p.', 'DI:..', 'DI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.']	6	0.18683901292596944
+176	['BU:..', 'BU:.p.', 'DI:..', 'DI:.d.', 'ŠA:..', 'ŠA:.dm.']	6	0.18683901292596944
+177	['BU:..', 'BU:.p.', 'DI:..', 'DI:.d.', 'ia', 'ia₂']	6	0.19506462984723855
+178	['BU:..', 'BU:.p.', 'DI:..', 'DI:.d.', 'li', 'li₂']	6	0.20681551116333724
+179	['BU:..', 'BU:.p.', 'DI:..', 'DI:.d.', 'ša', 'ša₂']	6	0.18566392479435959
+180	['BU:..', 'BU:.p.', 'DI:..', 'DI:.d.', 'šu', 'šu₂']	6	0.19036427732079905
+181	['BU:..', 'BU:.p.', 'DI:..', 'DI:.d.', 'u', 'u₂']	6	0.19623971797884843
+182	['BU:..', 'BU:.p.', 'DI:..', 'DI:.d.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.21034077555816685
+183	['BU:..', 'BU:.p.', 'DI:..', 'DI:.d.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.21504112808460635
+184	['BU:..', 'BU:.p.', 'DI:..', 'DI:.d.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.18801410105757932
+185	['BU:..', 'BU:.p.', 'DI:..', 'DI:.d.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21151586368977673
+186	['BU:..', 'BU:.p.', 'DI:..', 'DI:.d.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21151586368977673
+187	['BU:..', 'BU:.p.', 'LI:..', 'LI:.d.', 'NA:..', 'NA:.t.']	6	0.19153936545240893
+188	['BU:..', 'BU:.p.', 'LI:..', 'LI:.d.', 'NI:..', 'NI:.d.']	6	0.18331374853113983
+189	['BU:..', 'BU:.p.', 'LI:..', 'LI:.d.', 'RU:..', 'RU:.d.']	6	0.18566392479435959
+190	['BU:..', 'BU:.p.', 'LI:..', 'LI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.']	6	0.18566392479435959
+191	['BU:..', 'BU:.p.', 'LI:..', 'LI:.d.', 'ŠA:..', 'ŠA:.dm.']	6	0.19153936545240893
+192	['BU:..', 'BU:.p.', 'LI:..', 'LI:.d.', 'ia', 'ia₂']	6	0.18683901292596944
+193	['BU:..', 'BU:.p.', 'LI:..', 'LI:.d.', 'li', 'li₂']	6	0.19153936545240893
+194	['BU:..', 'BU:.p.', 'LI:..', 'LI:.d.', 'ša', 'ša₂']	6	0.18566392479435959
+195	['BU:..', 'BU:.p.', 'LI:..', 'LI:.d.', 'šu', 'šu₂']	6	0.17508813160987075
+196	['BU:..', 'BU:.p.', 'LI:..', 'LI:.d.', 'u', 'u₂']	6	0.19036427732079905
+197	['BU:..', 'BU:.p.', 'LI:..', 'LI:.d.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.2044653349001175
+198	['BU:..', 'BU:.p.', 'LI:..', 'LI:.d.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.2044653349001175
+199	['BU:..', 'BU:.p.', 'LI:..', 'LI:.d.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.18801410105757932
+200	['BU:..', 'BU:.p.', 'LI:..', 'LI:.d.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.20329024676850763
+201	['BU:..', 'BU:.p.', 'LI:..', 'LI:.d.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.2044653349001175
+202	['BU:..', 'BU:.p.', 'NA:..', 'NA:.t.', 'NI:..', 'NI:.d.']	6	0.2009400705052879
+203	['BU:..', 'BU:.p.', 'NA:..', 'NA:.t.', 'RU:..', 'RU:.d.']	6	0.2056404230317274
+204	['BU:..', 'BU:.p.', 'NA:..', 'NA:.t.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.']	6	0.20329024676850763
+205	['BU:..', 'BU:.p.', 'NA:..', 'NA:.t.', 'ŠA:..', 'ŠA:.dm.']	6	0.20681551116333724
+206	['BU:..', 'BU:.p.', 'NA:..', 'NA:.t.', 'ia', 'ia₂']	6	0.209165687426557
+207	['BU:..', 'BU:.p.', 'NA:..', 'NA:.t.', 'li', 'li₂']	6	0.209165687426557
+208	['BU:..', 'BU:.p.', 'NA:..', 'NA:.t.', 'ša', 'ša₂']	6	0.19858989424206816
+209	['BU:..', 'BU:.p.', 'NA:..', 'NA:.t.', 'šu', 'šu₂']	6	0.19153936545240893
+210	['BU:..', 'BU:.p.', 'NA:..', 'NA:.t.', 'u', 'u₂']	6	0.20799059929494712
+211	['BU:..', 'BU:.p.', 'NA:..', 'NA:.t.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.21974148061104584
+212	['BU:..', 'BU:.p.', 'NA:..', 'NA:.t.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.21739130434782608
+213	['BU:..', 'BU:.p.', 'NA:..', 'NA:.t.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19741480611045828
+214	['BU:..', 'BU:.p.', 'NA:..', 'NA:.t.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21504112808460635
+215	['BU:..', 'BU:.p.', 'NA:..', 'NA:.t.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.22679200940070504
+216	['BU:..', 'BU:.p.', 'NI:..', 'NI:.d.', 'RU:..', 'RU:.d.']	6	0.19623971797884843
+217	['BU:..', 'BU:.p.', 'NI:..', 'NI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.']	6	0.18683901292596944
+218	['BU:..', 'BU:.p.', 'NI:..', 'NI:.d.', 'ŠA:..', 'ŠA:.dm.']	6	0.19153936545240893
+219	['BU:..', 'BU:.p.', 'NI:..', 'NI:.d.', 'ia', 'ia₂']	6	0.19388954171562867
+220	['BU:..', 'BU:.p.', 'NI:..', 'NI:.d.', 'li', 'li₂']	6	0.19623971797884843
+221	['BU:..', 'BU:.p.', 'NI:..', 'NI:.d.', 'ša', 'ša₂']	6	0.19153936545240893
+222	['BU:..', 'BU:.p.', 'NI:..', 'NI:.d.', 'šu', 'šu₂']	6	0.1809635722679201
+223	['BU:..', 'BU:.p.', 'NI:..', 'NI:.d.', 'u', 'u₂']	6	0.1891891891891892
+224	['BU:..', 'BU:.p.', 'NI:..', 'NI:.d.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.21151586368977673
+225	['BU:..', 'BU:.p.', 'NI:..', 'NI:.d.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.2044653349001175
+226	['BU:..', 'BU:.p.', 'NI:..', 'NI:.d.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.18683901292596944
+227	['BU:..', 'BU:.p.', 'NI:..', 'NI:.d.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.20799059929494712
+228	['BU:..', 'BU:.p.', 'NI:..', 'NI:.d.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21621621621621623
+229	['BU:..', 'BU:.p.', 'RU:..', 'RU:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.']	6	0.19741480611045828
+230	['BU:..', 'BU:.p.', 'RU:..', 'RU:.d.', 'ŠA:..', 'ŠA:.dm.']	6	0.19858989424206816
+231	['BU:..', 'BU:.p.', 'RU:..', 'RU:.d.', 'ia', 'ia₂']	6	0.1891891891891892
+232	['BU:..', 'BU:.p.', 'RU:..', 'RU:.d.', 'li', 'li₂']	6	0.2044653349001175
+233	['BU:..', 'BU:.p.', 'RU:..', 'RU:.d.', 'ša', 'ša₂']	6	0.19623971797884843
+234	['BU:..', 'BU:.p.', 'RU:..', 'RU:.d.', 'šu', 'šu₂']	6	0.18683901292596944
+235	['BU:..', 'BU:.p.', 'RU:..', 'RU:.d.', 'u', 'u₂']	6	0.2009400705052879
+236	['BU:..', 'BU:.p.', 'RU:..', 'RU:.d.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.209165687426557
+237	['BU:..', 'BU:.p.', 'RU:..', 'RU:.d.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.199764982373678
+238	['BU:..', 'BU:.p.', 'RU:..', 'RU:.d.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.1809635722679201
+239	['BU:..', 'BU:.p.', 'RU:..', 'RU:.d.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.2044653349001175
+240	['BU:..', 'BU:.p.', 'RU:..', 'RU:.d.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21269095182138661
+241	['BU:..', 'BU:.p.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ŠA:..', 'ŠA:.dm.']	6	0.18801410105757932
+242	['BU:..', 'BU:.p.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ia', 'ia₂']	6	0.19741480611045828
+243	['BU:..', 'BU:.p.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'li', 'li₂']	6	0.1927144535840188
+244	['BU:..', 'BU:.p.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ša', 'ša₂']	6	0.1891891891891892
+245	['BU:..', 'BU:.p.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'šu', 'šu₂']	6	0.1809635722679201
+246	['BU:..', 'BU:.p.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'u', 'u₂']	6	0.18566392479435959
+247	['BU:..', 'BU:.p.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.19858989424206816
+248	['BU:..', 'BU:.p.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.199764982373678
+249	['BU:..', 'BU:.p.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.1891891891891892
+250	['BU:..', 'BU:.p.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.20329024676850763
+251	['BU:..', 'BU:.p.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21269095182138661
+252	['BU:..', 'BU:.p.', 'ŠA:..', 'ŠA:.dm.', 'ia', 'ia₂']	6	0.19506462984723855
+253	['BU:..', 'BU:.p.', 'ŠA:..', 'ŠA:.dm.', 'li', 'li₂']	6	0.2009400705052879
+254	['BU:..', 'BU:.p.', 'ŠA:..', 'ŠA:.dm.', 'ša', 'ša₂']	6	0.18566392479435959
+255	['BU:..', 'BU:.p.', 'ŠA:..', 'ŠA:.dm.', 'šu', 'šu₂']	6	0.18213866039952997
+256	['BU:..', 'BU:.p.', 'ŠA:..', 'ŠA:.dm.', 'u', 'u₂']	6	0.19623971797884843
+257	['BU:..', 'BU:.p.', 'ŠA:..', 'ŠA:.dm.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.2009400705052879
+258	['BU:..', 'BU:.p.', 'ŠA:..', 'ŠA:.dm.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.20681551116333724
+259	['BU:..', 'BU:.p.', 'ŠA:..', 'ŠA:.dm.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19036427732079905
+260	['BU:..', 'BU:.p.', 'ŠA:..', 'ŠA:.dm.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.2009400705052879
+261	['BU:..', 'BU:.p.', 'ŠA:..', 'ŠA:.dm.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.2044653349001175
+262	['BU:..', 'BU:.p.', 'ia', 'ia₂', 'li', 'li₂']	6	0.2009400705052879
+263	['BU:..', 'BU:.p.', 'ia', 'ia₂', 'ša', 'ša₂']	6	0.20329024676850763
+264	['BU:..', 'BU:.p.', 'ia', 'ia₂', 'šu', 'šu₂']	6	0.18566392479435959
+265	['BU:..', 'BU:.p.', 'ia', 'ia₂', 'u', 'u₂']	6	0.20329024676850763
+266	['BU:..', 'BU:.p.', 'ia', 'ia₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.21034077555816685
+267	['BU:..', 'BU:.p.', 'ia', 'ia₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.21856639247943596
+268	['BU:..', 'BU:.p.', 'ia', 'ia₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19741480611045828
+269	['BU:..', 'BU:.p.', 'ia', 'ia₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21504112808460635
+270	['BU:..', 'BU:.p.', 'ia', 'ia₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.23149236192714454
+271	['BU:..', 'BU:.p.', 'li', 'li₂', 'ša', 'ša₂']	6	0.20799059929494712
+272	['BU:..', 'BU:.p.', 'li', 'li₂', 'šu', 'šu₂']	6	0.199764982373678
+273	['BU:..', 'BU:.p.', 'li', 'li₂', 'u', 'u₂']	6	0.20211515863689777
+274	['BU:..', 'BU:.p.', 'li', 'li₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.21034077555816685
+275	['BU:..', 'BU:.p.', 'li', 'li₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.20681551116333724
+276	['BU:..', 'BU:.p.', 'li', 'li₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19858989424206816
+277	['BU:..', 'BU:.p.', 'li', 'li₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21974148061104584
+278	['BU:..', 'BU:.p.', 'li', 'li₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.23149236192714454
+279	['BU:..', 'BU:.p.', 'ša', 'ša₂', 'šu', 'šu₂']	6	0.1797884841363102
+280	['BU:..', 'BU:.p.', 'ša', 'ša₂', 'u', 'u₂']	6	0.19623971797884843
+281	['BU:..', 'BU:.p.', 'ša', 'ša₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.21621621621621623
+282	['BU:..', 'BU:.p.', 'ša', 'ša₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.22209165687426558
+283	['BU:..', 'BU:.p.', 'ša', 'ša₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19153936545240893
+284	['BU:..', 'BU:.p.', 'ša', 'ša₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21269095182138661
+285	['BU:..', 'BU:.p.', 'ša', 'ša₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21151586368977673
+286	['BU:..', 'BU:.p.', 'šu', 'šu₂', 'u', 'u₂']	6	0.18683901292596944
+287	['BU:..', 'BU:.p.', 'šu', 'šu₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.2009400705052879
+288	['BU:..', 'BU:.p.', 'šu', 'šu₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.19388954171562867
+289	['BU:..', 'BU:.p.', 'šu', 'šu₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.18683901292596944
+290	['BU:..', 'BU:.p.', 'šu', 'šu₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21034077555816685
+291	['BU:..', 'BU:.p.', 'šu', 'šu₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21151586368977673
+292	['BU:..', 'BU:.p.', 'u', 'u₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.21269095182138661
+293	['BU:..', 'BU:.p.', 'u', 'u₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.20799059929494712
+294	['BU:..', 'BU:.p.', 'u', 'u₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.18801410105757932
+295	['BU:..', 'BU:.p.', 'u', 'u₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21151586368977673
+296	['BU:..', 'BU:.p.', 'u', 'u₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21621621621621623
+297	['BU:..', 'BU:.p.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.21856639247943596
+298	['BU:..', 'BU:.p.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19858989424206816
+299	['BU:..', 'BU:.p.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.2209165687426557
+300	['BU:..', 'BU:.p.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.22796709753231492
+301	['BU:..', 'BU:.p.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.2056404230317274
+302	['BU:..', 'BU:.p.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21621621621621623
+303	['BU:..', 'BU:.p.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.23854289071680376
+304	['BU:..', 'BU:.p.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21034077555816685
+305	['BU:..', 'BU:.p.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21504112808460635
+306	['BU:..', 'BU:.p.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.22796709753231492
+307	['DI:..', 'DI:.d.', 'LI:..', 'LI:.d.', 'NA:..', 'NA:.t.']	6	0.19388954171562867
+308	['DI:..', 'DI:.d.', 'LI:..', 'LI:.d.', 'NI:..', 'NI:.d.']	6	0.18331374853113983
+309	['DI:..', 'DI:.d.', 'LI:..', 'LI:.d.', 'RU:..', 'RU:.d.']	6	0.18801410105757932
+310	['DI:..', 'DI:.d.', 'LI:..', 'LI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.']	6	0.19036427732079905
+311	['DI:..', 'DI:.d.', 'LI:..', 'LI:.d.', 'ŠA:..', 'ŠA:.dm.']	6	0.18683901292596944
+312	['DI:..', 'DI:.d.', 'LI:..', 'LI:.d.', 'ia', 'ia₂']	6	0.19153936545240893
+313	['DI:..', 'DI:.d.', 'LI:..', 'LI:.d.', 'li', 'li₂']	6	0.19858989424206816
+314	['DI:..', 'DI:.d.', 'LI:..', 'LI:.d.', 'ša', 'ša₂']	6	0.199764982373678
+315	['DI:..', 'DI:.d.', 'LI:..', 'LI:.d.', 'šu', 'šu₂']	6	0.18566392479435959
+316	['DI:..', 'DI:.d.', 'LI:..', 'LI:.d.', 'u', 'u₂']	6	0.18801410105757932
+317	['DI:..', 'DI:.d.', 'LI:..', 'LI:.d.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.19741480611045828
+318	['DI:..', 'DI:.d.', 'LI:..', 'LI:.d.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.2009400705052879
+319	['DI:..', 'DI:.d.', 'LI:..', 'LI:.d.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.18801410105757932
+320	['DI:..', 'DI:.d.', 'LI:..', 'LI:.d.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.19506462984723855
+321	['DI:..', 'DI:.d.', 'LI:..', 'LI:.d.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.1891891891891892
+322	['DI:..', 'DI:.d.', 'NA:..', 'NA:.t.', 'NI:..', 'NI:.d.']	6	0.20799059929494712
+323	['DI:..', 'DI:.d.', 'NA:..', 'NA:.t.', 'RU:..', 'RU:.d.']	6	0.21034077555816685
+324	['DI:..', 'DI:.d.', 'NA:..', 'NA:.t.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.']	6	0.20329024676850763
+325	['DI:..', 'DI:.d.', 'NA:..', 'NA:.t.', 'ŠA:..', 'ŠA:.dm.']	6	0.2056404230317274
+326	['DI:..', 'DI:.d.', 'NA:..', 'NA:.t.', 'ia', 'ia₂']	6	0.21504112808460635
+327	['DI:..', 'DI:.d.', 'NA:..', 'NA:.t.', 'li', 'li₂']	6	0.21151586368977673
+328	['DI:..', 'DI:.d.', 'NA:..', 'NA:.t.', 'ša', 'ša₂']	6	0.2044653349001175
+329	['DI:..', 'DI:.d.', 'NA:..', 'NA:.t.', 'šu', 'šu₂']	6	0.20799059929494712
+330	['DI:..', 'DI:.d.', 'NA:..', 'NA:.t.', 'u', 'u₂']	6	0.2056404230317274
+331	['DI:..', 'DI:.d.', 'NA:..', 'NA:.t.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.22209165687426558
+332	['DI:..', 'DI:.d.', 'NA:..', 'NA:.t.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.21151586368977673
+333	['DI:..', 'DI:.d.', 'NA:..', 'NA:.t.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.20329024676850763
+334	['DI:..', 'DI:.d.', 'NA:..', 'NA:.t.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21974148061104584
+335	['DI:..', 'DI:.d.', 'NA:..', 'NA:.t.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21621621621621623
+336	['DI:..', 'DI:.d.', 'NI:..', 'NI:.d.', 'RU:..', 'RU:.d.']	6	0.21386603995299647
+337	['DI:..', 'DI:.d.', 'NI:..', 'NI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.']	6	0.19388954171562867
+338	['DI:..', 'DI:.d.', 'NI:..', 'NI:.d.', 'ŠA:..', 'ŠA:.dm.']	6	0.19858989424206816
+339	['DI:..', 'DI:.d.', 'NI:..', 'NI:.d.', 'ia', 'ia₂']	6	0.21151586368977673
+340	['DI:..', 'DI:.d.', 'NI:..', 'NI:.d.', 'li', 'li₂']	6	0.21269095182138661
+341	['DI:..', 'DI:.d.', 'NI:..', 'NI:.d.', 'ša', 'ša₂']	6	0.19858989424206816
+342	['DI:..', 'DI:.d.', 'NI:..', 'NI:.d.', 'šu', 'šu₂']	6	0.19388954171562867
+343	['DI:..', 'DI:.d.', 'NI:..', 'NI:.d.', 'u', 'u₂']	6	0.2009400705052879
+344	['DI:..', 'DI:.d.', 'NI:..', 'NI:.d.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.21386603995299647
+345	['DI:..', 'DI:.d.', 'NI:..', 'NI:.d.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.20799059929494712
+346	['DI:..', 'DI:.d.', 'NI:..', 'NI:.d.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.199764982373678
+347	['DI:..', 'DI:.d.', 'NI:..', 'NI:.d.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21034077555816685
+348	['DI:..', 'DI:.d.', 'NI:..', 'NI:.d.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21856639247943596
+349	['DI:..', 'DI:.d.', 'RU:..', 'RU:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.']	6	0.19506462984723855
+350	['DI:..', 'DI:.d.', 'RU:..', 'RU:.d.', 'ŠA:..', 'ŠA:.dm.']	6	0.20329024676850763
+351	['DI:..', 'DI:.d.', 'RU:..', 'RU:.d.', 'ia', 'ia₂']	6	0.20329024676850763
+352	['DI:..', 'DI:.d.', 'RU:..', 'RU:.d.', 'li', 'li₂']	6	0.20329024676850763
+353	['DI:..', 'DI:.d.', 'RU:..', 'RU:.d.', 'ša', 'ša₂']	6	0.19741480611045828
+354	['DI:..', 'DI:.d.', 'RU:..', 'RU:.d.', 'šu', 'šu₂']	6	0.20211515863689777
+355	['DI:..', 'DI:.d.', 'RU:..', 'RU:.d.', 'u', 'u₂']	6	0.20329024676850763
+356	['DI:..', 'DI:.d.', 'RU:..', 'RU:.d.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.21386603995299647
+357	['DI:..', 'DI:.d.', 'RU:..', 'RU:.d.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.2056404230317274
+358	['DI:..', 'DI:.d.', 'RU:..', 'RU:.d.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.20211515863689777
+359	['DI:..', 'DI:.d.', 'RU:..', 'RU:.d.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.2056404230317274
+360	['DI:..', 'DI:.d.', 'RU:..', 'RU:.d.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.20681551116333724
+361	['DI:..', 'DI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ŠA:..', 'ŠA:.dm.']	6	0.19388954171562867
+362	['DI:..', 'DI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ia', 'ia₂']	6	0.19388954171562867
+363	['DI:..', 'DI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'li', 'li₂']	6	0.199764982373678
+364	['DI:..', 'DI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ša', 'ša₂']	6	0.19506462984723855
+365	['DI:..', 'DI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'šu', 'šu₂']	6	0.18683901292596944
+366	['DI:..', 'DI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'u', 'u₂']	6	0.19623971797884843
+367	['DI:..', 'DI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.20211515863689777
+368	['DI:..', 'DI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.21269095182138661
+369	['DI:..', 'DI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19388954171562867
+370	['DI:..', 'DI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.2009400705052879
+371	['DI:..', 'DI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.199764982373678
+372	['DI:..', 'DI:.d.', 'ŠA:..', 'ŠA:.dm.', 'ia', 'ia₂']	6	0.2009400705052879
+373	['DI:..', 'DI:.d.', 'ŠA:..', 'ŠA:.dm.', 'li', 'li₂']	6	0.19388954171562867
+374	['DI:..', 'DI:.d.', 'ŠA:..', 'ŠA:.dm.', 'ša', 'ša₂']	6	0.1927144535840188
+375	['DI:..', 'DI:.d.', 'ŠA:..', 'ŠA:.dm.', 'šu', 'šu₂']	6	0.19153936545240893
+376	['DI:..', 'DI:.d.', 'ŠA:..', 'ŠA:.dm.', 'u', 'u₂']	6	0.20329024676850763
+377	['DI:..', 'DI:.d.', 'ŠA:..', 'ŠA:.dm.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.21621621621621623
+378	['DI:..', 'DI:.d.', 'ŠA:..', 'ŠA:.dm.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.22326674500587543
+379	['DI:..', 'DI:.d.', 'ŠA:..', 'ŠA:.dm.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.2009400705052879
+380	['DI:..', 'DI:.d.', 'ŠA:..', 'ŠA:.dm.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.2044653349001175
+381	['DI:..', 'DI:.d.', 'ŠA:..', 'ŠA:.dm.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.20211515863689777
+382	['DI:..', 'DI:.d.', 'ia', 'ia₂', 'li', 'li₂']	6	0.2009400705052879
+383	['DI:..', 'DI:.d.', 'ia', 'ia₂', 'ša', 'ša₂']	6	0.19623971797884843
+384	['DI:..', 'DI:.d.', 'ia', 'ia₂', 'šu', 'šu₂']	6	0.19506462984723855
+385	['DI:..', 'DI:.d.', 'ia', 'ia₂', 'u', 'u₂']	6	0.20799059929494712
+386	['DI:..', 'DI:.d.', 'ia', 'ia₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.21504112808460635
+387	['DI:..', 'DI:.d.', 'ia', 'ia₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.21151586368977673
+388	['DI:..', 'DI:.d.', 'ia', 'ia₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19623971797884843
+389	['DI:..', 'DI:.d.', 'ia', 'ia₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21739130434782608
+390	['DI:..', 'DI:.d.', 'ia', 'ia₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21504112808460635
+391	['DI:..', 'DI:.d.', 'li', 'li₂', 'ša', 'ša₂']	6	0.2044653349001175
+392	['DI:..', 'DI:.d.', 'li', 'li₂', 'šu', 'šu₂']	6	0.19388954171562867
+393	['DI:..', 'DI:.d.', 'li', 'li₂', 'u', 'u₂']	6	0.2056404230317274
+394	['DI:..', 'DI:.d.', 'li', 'li₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.21151586368977673
+395	['DI:..', 'DI:.d.', 'li', 'li₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.20799059929494712
+396	['DI:..', 'DI:.d.', 'li', 'li₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19741480611045828
+397	['DI:..', 'DI:.d.', 'li', 'li₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21386603995299647
+398	['DI:..', 'DI:.d.', 'li', 'li₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.209165687426557
+399	['DI:..', 'DI:.d.', 'ša', 'ša₂', 'šu', 'šu₂']	6	0.19858989424206816
+400	['DI:..', 'DI:.d.', 'ša', 'ša₂', 'u', 'u₂']	6	0.199764982373678
+401	['DI:..', 'DI:.d.', 'ša', 'ša₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.20681551116333724
+402	['DI:..', 'DI:.d.', 'ša', 'ša₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.21034077555816685
+403	['DI:..', 'DI:.d.', 'ša', 'ša₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19623971797884843
+404	['DI:..', 'DI:.d.', 'ša', 'ša₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.2056404230317274
+405	['DI:..', 'DI:.d.', 'ša', 'ša₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.2056404230317274
+406	['DI:..', 'DI:.d.', 'šu', 'šu₂', 'u', 'u₂']	6	0.1927144535840188
+407	['DI:..', 'DI:.d.', 'šu', 'šu₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.19506462984723855
+408	['DI:..', 'DI:.d.', 'šu', 'šu₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.19506462984723855
+409	['DI:..', 'DI:.d.', 'šu', 'šu₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19741480611045828
+410	['DI:..', 'DI:.d.', 'šu', 'šu₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.19036427732079905
+411	['DI:..', 'DI:.d.', 'šu', 'šu₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.19858989424206816
+412	['DI:..', 'DI:.d.', 'u', 'u₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.20681551116333724
+413	['DI:..', 'DI:.d.', 'u', 'u₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.209165687426557
+414	['DI:..', 'DI:.d.', 'u', 'u₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19741480611045828
+415	['DI:..', 'DI:.d.', 'u', 'u₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21151586368977673
+416	['DI:..', 'DI:.d.', 'u', 'u₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21269095182138661
+417	['DI:..', 'DI:.d.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.21856639247943596
+418	['DI:..', 'DI:.d.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.20681551116333724
+419	['DI:..', 'DI:.d.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.20799059929494712
+420	['DI:..', 'DI:.d.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21269095182138661
+421	['DI:..', 'DI:.d.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.20799059929494712
+422	['DI:..', 'DI:.d.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21269095182138661
+423	['DI:..', 'DI:.d.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.22679200940070504
+424	['DI:..', 'DI:.d.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21034077555816685
+425	['DI:..', 'DI:.d.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.2056404230317274
+426	['DI:..', 'DI:.d.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21269095182138661
+427	['LI:..', 'LI:.d.', 'NA:..', 'NA:.t.', 'NI:..', 'NI:.d.']	6	0.19858989424206816
+428	['LI:..', 'LI:.d.', 'NA:..', 'NA:.t.', 'RU:..', 'RU:.d.']	6	0.2009400705052879
+429	['LI:..', 'LI:.d.', 'NA:..', 'NA:.t.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.']	6	0.18801410105757932
+430	['LI:..', 'LI:.d.', 'NA:..', 'NA:.t.', 'ŠA:..', 'ŠA:.dm.']	6	0.2044653349001175
+431	['LI:..', 'LI:.d.', 'NA:..', 'NA:.t.', 'ia', 'ia₂']	6	0.20329024676850763
+432	['LI:..', 'LI:.d.', 'NA:..', 'NA:.t.', 'li', 'li₂']	6	0.21386603995299647
+433	['LI:..', 'LI:.d.', 'NA:..', 'NA:.t.', 'ša', 'ša₂']	6	0.2009400705052879
+434	['LI:..', 'LI:.d.', 'NA:..', 'NA:.t.', 'šu', 'šu₂']	6	0.19153936545240893
+435	['LI:..', 'LI:.d.', 'NA:..', 'NA:.t.', 'u', 'u₂']	6	0.19388954171562867
+436	['LI:..', 'LI:.d.', 'NA:..', 'NA:.t.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.20681551116333724
+437	['LI:..', 'LI:.d.', 'NA:..', 'NA:.t.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.21034077555816685
+438	['LI:..', 'LI:.d.', 'NA:..', 'NA:.t.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.21034077555816685
+439	['LI:..', 'LI:.d.', 'NA:..', 'NA:.t.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21151586368977673
+440	['LI:..', 'LI:.d.', 'NA:..', 'NA:.t.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21739130434782608
+441	['LI:..', 'LI:.d.', 'NI:..', 'NI:.d.', 'RU:..', 'RU:.d.']	6	0.2009400705052879
+442	['LI:..', 'LI:.d.', 'NI:..', 'NI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.']	6	0.18331374853113983
+443	['LI:..', 'LI:.d.', 'NI:..', 'NI:.d.', 'ŠA:..', 'ŠA:.dm.']	6	0.1891891891891892
+444	['LI:..', 'LI:.d.', 'NI:..', 'NI:.d.', 'ia', 'ia₂']	6	0.1844888366627497
+445	['LI:..', 'LI:.d.', 'NI:..', 'NI:.d.', 'li', 'li₂']	6	0.19623971797884843
+446	['LI:..', 'LI:.d.', 'NI:..', 'NI:.d.', 'ša', 'ša₂']	6	0.19036427732079905
+447	['LI:..', 'LI:.d.', 'NI:..', 'NI:.d.', 'šu', 'šu₂']	6	0.1809635722679201
+448	['LI:..', 'LI:.d.', 'NI:..', 'NI:.d.', 'u', 'u₂']	6	0.18801410105757932
+449	['LI:..', 'LI:.d.', 'NI:..', 'NI:.d.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.199764982373678
+450	['LI:..', 'LI:.d.', 'NI:..', 'NI:.d.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.19858989424206816
+451	['LI:..', 'LI:.d.', 'NI:..', 'NI:.d.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19036427732079905
+452	['LI:..', 'LI:.d.', 'NI:..', 'NI:.d.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.20211515863689777
+453	['LI:..', 'LI:.d.', 'NI:..', 'NI:.d.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.209165687426557
+454	['LI:..', 'LI:.d.', 'RU:..', 'RU:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.']	6	0.1797884841363102
+455	['LI:..', 'LI:.d.', 'RU:..', 'RU:.d.', 'ŠA:..', 'ŠA:.dm.']	6	0.1927144535840188
+456	['LI:..', 'LI:.d.', 'RU:..', 'RU:.d.', 'ia', 'ia₂']	6	0.19741480611045828
+457	['LI:..', 'LI:.d.', 'RU:..', 'RU:.d.', 'li', 'li₂']	6	0.1927144535840188
+458	['LI:..', 'LI:.d.', 'RU:..', 'RU:.d.', 'ša', 'ša₂']	6	0.1927144535840188
+459	['LI:..', 'LI:.d.', 'RU:..', 'RU:.d.', 'šu', 'šu₂']	6	0.18331374853113983
+460	['LI:..', 'LI:.d.', 'RU:..', 'RU:.d.', 'u', 'u₂']	6	0.19036427732079905
+461	['LI:..', 'LI:.d.', 'RU:..', 'RU:.d.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.1891891891891892
+462	['LI:..', 'LI:.d.', 'RU:..', 'RU:.d.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.19741480611045828
+463	['LI:..', 'LI:.d.', 'RU:..', 'RU:.d.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.18213866039952997
+464	['LI:..', 'LI:.d.', 'RU:..', 'RU:.d.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.19623971797884843
+465	['LI:..', 'LI:.d.', 'RU:..', 'RU:.d.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.199764982373678
+466	['LI:..', 'LI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ŠA:..', 'ŠA:.dm.']	6	0.1762632197414806
+467	['LI:..', 'LI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ia', 'ia₂']	6	0.1844888366627497
+468	['LI:..', 'LI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'li', 'li₂']	6	0.1927144535840188
+469	['LI:..', 'LI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ša', 'ša₂']	6	0.1762632197414806
+470	['LI:..', 'LI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'šu', 'šu₂']	6	0.1762632197414806
+471	['LI:..', 'LI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'u', 'u₂']	6	0.1927144535840188
+472	['LI:..', 'LI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.1891891891891892
+473	['LI:..', 'LI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.19623971797884843
+474	['LI:..', 'LI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.17508813160987075
+475	['LI:..', 'LI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.18683901292596944
+476	['LI:..', 'LI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.19036427732079905
+477	['LI:..', 'LI:.d.', 'ŠA:..', 'ŠA:.dm.', 'ia', 'ia₂']	6	0.19036427732079905
+478	['LI:..', 'LI:.d.', 'ŠA:..', 'ŠA:.dm.', 'li', 'li₂']	6	0.19036427732079905
+479	['LI:..', 'LI:.d.', 'ŠA:..', 'ŠA:.dm.', 'ša', 'ša₂']	6	0.19623971797884843
+480	['LI:..', 'LI:.d.', 'ŠA:..', 'ŠA:.dm.', 'šu', 'šu₂']	6	0.18683901292596944
+481	['LI:..', 'LI:.d.', 'ŠA:..', 'ŠA:.dm.', 'u', 'u₂']	6	0.19388954171562867
+482	['LI:..', 'LI:.d.', 'ŠA:..', 'ŠA:.dm.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.199764982373678
+483	['LI:..', 'LI:.d.', 'ŠA:..', 'ŠA:.dm.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.21739130434782608
+484	['LI:..', 'LI:.d.', 'ŠA:..', 'ŠA:.dm.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.2009400705052879
+485	['LI:..', 'LI:.d.', 'ŠA:..', 'ŠA:.dm.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.19858989424206816
+486	['LI:..', 'LI:.d.', 'ŠA:..', 'ŠA:.dm.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.2044653349001175
+487	['LI:..', 'LI:.d.', 'ia', 'ia₂', 'li', 'li₂']	6	0.20211515863689777
+488	['LI:..', 'LI:.d.', 'ia', 'ia₂', 'ša', 'ša₂']	6	0.19153936545240893
+489	['LI:..', 'LI:.d.', 'ia', 'ia₂', 'šu', 'šu₂']	6	0.19036427732079905
+490	['LI:..', 'LI:.d.', 'ia', 'ia₂', 'u', 'u₂']	6	0.19388954171562867
+491	['LI:..', 'LI:.d.', 'ia', 'ia₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.19388954171562867
+492	['LI:..', 'LI:.d.', 'ia', 'ia₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.21269095182138661
+493	['LI:..', 'LI:.d.', 'ia', 'ia₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19036427732079905
+494	['LI:..', 'LI:.d.', 'ia', 'ia₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.209165687426557
+495	['LI:..', 'LI:.d.', 'ia', 'ia₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21621621621621623
+496	['LI:..', 'LI:.d.', 'li', 'li₂', 'ša', 'ša₂']	6	0.19623971797884843
+497	['LI:..', 'LI:.d.', 'li', 'li₂', 'šu', 'šu₂']	6	0.18801410105757932
+498	['LI:..', 'LI:.d.', 'li', 'li₂', 'u', 'u₂']	6	0.19858989424206816
+499	['LI:..', 'LI:.d.', 'li', 'li₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.19858989424206816
+500	['LI:..', 'LI:.d.', 'li', 'li₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.199764982373678
+501	['LI:..', 'LI:.d.', 'li', 'li₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19623971797884843
+502	['LI:..', 'LI:.d.', 'li', 'li₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21386603995299647
+503	['LI:..', 'LI:.d.', 'li', 'li₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21386603995299647
+504	['LI:..', 'LI:.d.', 'ša', 'ša₂', 'šu', 'šu₂']	6	0.19036427732079905
+505	['LI:..', 'LI:.d.', 'ša', 'ša₂', 'u', 'u₂']	6	0.18566392479435959
+506	['LI:..', 'LI:.d.', 'ša', 'ša₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.2009400705052879
+507	['LI:..', 'LI:.d.', 'ša', 'ša₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.209165687426557
+508	['LI:..', 'LI:.d.', 'ša', 'ša₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19153936545240893
+509	['LI:..', 'LI:.d.', 'ša', 'ša₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.1927144535840188
+510	['LI:..', 'LI:.d.', 'ša', 'ša₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.19741480611045828
+511	['LI:..', 'LI:.d.', 'šu', 'šu₂', 'u', 'u₂']	6	0.1844888366627497
+512	['LI:..', 'LI:.d.', 'šu', 'šu₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.18566392479435959
+513	['LI:..', 'LI:.d.', 'šu', 'šu₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.19741480611045828
+514	['LI:..', 'LI:.d.', 'šu', 'šu₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19036427732079905
+515	['LI:..', 'LI:.d.', 'šu', 'šu₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.2044653349001175
+516	['LI:..', 'LI:.d.', 'šu', 'šu₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.19858989424206816
+517	['LI:..', 'LI:.d.', 'u', 'u₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.2009400705052879
+518	['LI:..', 'LI:.d.', 'u', 'u₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.20799059929494712
+519	['LI:..', 'LI:.d.', 'u', 'u₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.18331374853113983
+520	['LI:..', 'LI:.d.', 'u', 'u₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.2009400705052879
+521	['LI:..', 'LI:.d.', 'u', 'u₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.19388954171562867
+522	['LI:..', 'LI:.d.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.20681551116333724
+523	['LI:..', 'LI:.d.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19153936545240893
+524	['LI:..', 'LI:.d.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.19858989424206816
+525	['LI:..', 'LI:.d.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21034077555816685
+526	['LI:..', 'LI:.d.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19623971797884843
+527	['LI:..', 'LI:.d.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.20681551116333724
+528	['LI:..', 'LI:.d.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.2244418331374853
+529	['LI:..', 'LI:.d.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.19506462984723855
+530	['LI:..', 'LI:.d.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.19858989424206816
+531	['LI:..', 'LI:.d.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.20799059929494712
+532	['NA:..', 'NA:.t.', 'NI:..', 'NI:.d.', 'RU:..', 'RU:.d.']	6	0.2056404230317274
+533	['NA:..', 'NA:.t.', 'NI:..', 'NI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.']	6	0.1927144535840188
+534	['NA:..', 'NA:.t.', 'NI:..', 'NI:.d.', 'ŠA:..', 'ŠA:.dm.']	6	0.20799059929494712
+535	['NA:..', 'NA:.t.', 'NI:..', 'NI:.d.', 'ia', 'ia₂']	6	0.2056404230317274
+536	['NA:..', 'NA:.t.', 'NI:..', 'NI:.d.', 'li', 'li₂']	6	0.199764982373678
+537	['NA:..', 'NA:.t.', 'NI:..', 'NI:.d.', 'ša', 'ša₂']	6	0.2044653349001175
+538	['NA:..', 'NA:.t.', 'NI:..', 'NI:.d.', 'šu', 'šu₂']	6	0.19741480611045828
+539	['NA:..', 'NA:.t.', 'NI:..', 'NI:.d.', 'u', 'u₂']	6	0.21034077555816685
+540	['NA:..', 'NA:.t.', 'NI:..', 'NI:.d.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.21739130434782608
+541	['NA:..', 'NA:.t.', 'NI:..', 'NI:.d.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.21386603995299647
+542	['NA:..', 'NA:.t.', 'NI:..', 'NI:.d.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.199764982373678
+543	['NA:..', 'NA:.t.', 'NI:..', 'NI:.d.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21151586368977673
+544	['NA:..', 'NA:.t.', 'NI:..', 'NI:.d.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21621621621621623
+545	['NA:..', 'NA:.t.', 'RU:..', 'RU:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.']	6	0.2009400705052879
+546	['NA:..', 'NA:.t.', 'RU:..', 'RU:.d.', 'ŠA:..', 'ŠA:.dm.']	6	0.21269095182138661
+547	['NA:..', 'NA:.t.', 'RU:..', 'RU:.d.', 'ia', 'ia₂']	6	0.21151586368977673
+548	['NA:..', 'NA:.t.', 'RU:..', 'RU:.d.', 'li', 'li₂']	6	0.21269095182138661
+549	['NA:..', 'NA:.t.', 'RU:..', 'RU:.d.', 'ša', 'ša₂']	6	0.21151586368977673
+550	['NA:..', 'NA:.t.', 'RU:..', 'RU:.d.', 'šu', 'šu₂']	6	0.21621621621621623
+551	['NA:..', 'NA:.t.', 'RU:..', 'RU:.d.', 'u', 'u₂']	6	0.2009400705052879
+552	['NA:..', 'NA:.t.', 'RU:..', 'RU:.d.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.21739130434782608
+553	['NA:..', 'NA:.t.', 'RU:..', 'RU:.d.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.2291421856639248
+554	['NA:..', 'NA:.t.', 'RU:..', 'RU:.d.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.2044653349001175
+555	['NA:..', 'NA:.t.', 'RU:..', 'RU:.d.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.2244418331374853
+556	['NA:..', 'NA:.t.', 'RU:..', 'RU:.d.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.23384253819036427
+557	['NA:..', 'NA:.t.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ŠA:..', 'ŠA:.dm.']	6	0.20329024676850763
+558	['NA:..', 'NA:.t.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ia', 'ia₂']	6	0.19858989424206816
+559	['NA:..', 'NA:.t.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'li', 'li₂']	6	0.2056404230317274
+560	['NA:..', 'NA:.t.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ša', 'ša₂']	6	0.19741480611045828
+561	['NA:..', 'NA:.t.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'šu', 'šu₂']	6	0.20211515863689777
+562	['NA:..', 'NA:.t.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'u', 'u₂']	6	0.19623971797884843
+563	['NA:..', 'NA:.t.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.21386603995299647
+564	['NA:..', 'NA:.t.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.21151586368977673
+565	['NA:..', 'NA:.t.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.2044653349001175
+566	['NA:..', 'NA:.t.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.20799059929494712
+567	['NA:..', 'NA:.t.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21386603995299647
+568	['NA:..', 'NA:.t.', 'ŠA:..', 'ŠA:.dm.', 'ia', 'ia₂']	6	0.20211515863689777
+569	['NA:..', 'NA:.t.', 'ŠA:..', 'ŠA:.dm.', 'li', 'li₂']	6	0.2044653349001175
+570	['NA:..', 'NA:.t.', 'ŠA:..', 'ŠA:.dm.', 'ša', 'ša₂']	6	0.19858989424206816
+571	['NA:..', 'NA:.t.', 'ŠA:..', 'ŠA:.dm.', 'šu', 'šu₂']	6	0.199764982373678
+572	['NA:..', 'NA:.t.', 'ŠA:..', 'ŠA:.dm.', 'u', 'u₂']	6	0.20681551116333724
+573	['NA:..', 'NA:.t.', 'ŠA:..', 'ŠA:.dm.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.21856639247943596
+574	['NA:..', 'NA:.t.', 'ŠA:..', 'ŠA:.dm.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.2244418331374853
+575	['NA:..', 'NA:.t.', 'ŠA:..', 'ŠA:.dm.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.2009400705052879
+576	['NA:..', 'NA:.t.', 'ŠA:..', 'ŠA:.dm.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21386603995299647
+577	['NA:..', 'NA:.t.', 'ŠA:..', 'ŠA:.dm.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21269095182138661
+578	['NA:..', 'NA:.t.', 'ia', 'ia₂', 'li', 'li₂']	6	0.21739130434782608
+579	['NA:..', 'NA:.t.', 'ia', 'ia₂', 'ša', 'ša₂']	6	0.20329024676850763
+580	['NA:..', 'NA:.t.', 'ia', 'ia₂', 'šu', 'šu₂']	6	0.2044653349001175
+581	['NA:..', 'NA:.t.', 'ia', 'ia₂', 'u', 'u₂']	6	0.20681551116333724
+582	['NA:..', 'NA:.t.', 'ia', 'ia₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.21856639247943596
+583	['NA:..', 'NA:.t.', 'ia', 'ia₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.22326674500587543
+584	['NA:..', 'NA:.t.', 'ia', 'ia₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.21151586368977673
+585	['NA:..', 'NA:.t.', 'ia', 'ia₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.22326674500587543
+586	['NA:..', 'NA:.t.', 'ia', 'ia₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.23854289071680376
+587	['NA:..', 'NA:.t.', 'li', 'li₂', 'ša', 'ša₂']	6	0.21269095182138661
+588	['NA:..', 'NA:.t.', 'li', 'li₂', 'šu', 'šu₂']	6	0.2009400705052879
+589	['NA:..', 'NA:.t.', 'li', 'li₂', 'u', 'u₂']	6	0.2056404230317274
+590	['NA:..', 'NA:.t.', 'li', 'li₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.21621621621621623
+591	['NA:..', 'NA:.t.', 'li', 'li₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.21856639247943596
+592	['NA:..', 'NA:.t.', 'li', 'li₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.2056404230317274
+593	['NA:..', 'NA:.t.', 'li', 'li₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.22796709753231492
+594	['NA:..', 'NA:.t.', 'li', 'li₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.2244418331374853
+595	['NA:..', 'NA:.t.', 'ša', 'ša₂', 'šu', 'šu₂']	6	0.20799059929494712
+596	['NA:..', 'NA:.t.', 'ša', 'ša₂', 'u', 'u₂']	6	0.2044653349001175
+597	['NA:..', 'NA:.t.', 'ša', 'ša₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.21739130434782608
+598	['NA:..', 'NA:.t.', 'ša', 'ša₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.21504112808460635
+599	['NA:..', 'NA:.t.', 'ša', 'ša₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.20681551116333724
+600	['NA:..', 'NA:.t.', 'ša', 'ša₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.20799059929494712
+601	['NA:..', 'NA:.t.', 'ša', 'ša₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.2209165687426557
+602	['NA:..', 'NA:.t.', 'šu', 'šu₂', 'u', 'u₂']	6	0.199764982373678
+603	['NA:..', 'NA:.t.', 'šu', 'šu₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.209165687426557
+604	['NA:..', 'NA:.t.', 'šu', 'šu₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.21269095182138661
+605	['NA:..', 'NA:.t.', 'šu', 'šu₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.20799059929494712
+606	['NA:..', 'NA:.t.', 'šu', 'šu₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21386603995299647
+607	['NA:..', 'NA:.t.', 'šu', 'šu₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21856639247943596
+608	['NA:..', 'NA:.t.', 'u', 'u₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.20681551116333724
+609	['NA:..', 'NA:.t.', 'u', 'u₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.2056404230317274
+610	['NA:..', 'NA:.t.', 'u', 'u₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19858989424206816
+611	['NA:..', 'NA:.t.', 'u', 'u₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.20799059929494712
+612	['NA:..', 'NA:.t.', 'u', 'u₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21504112808460635
+613	['NA:..', 'NA:.t.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.2244418331374853
+614	['NA:..', 'NA:.t.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.2056404230317274
+615	['NA:..', 'NA:.t.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.2209165687426557
+616	['NA:..', 'NA:.t.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.23266745005875442
+617	['NA:..', 'NA:.t.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.21856639247943596
+618	['NA:..', 'NA:.t.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.23031727379553465
+619	['NA:..', 'NA:.t.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.23736780258519388
+620	['NA:..', 'NA:.t.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21974148061104584
+621	['NA:..', 'NA:.t.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.2244418331374853
+622	['NA:..', 'NA:.t.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.2408930669800235
+623	['NI:..', 'NI:.d.', 'RU:..', 'RU:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.']	6	0.18801410105757932
+624	['NI:..', 'NI:.d.', 'RU:..', 'RU:.d.', 'ŠA:..', 'ŠA:.dm.']	6	0.20211515863689777
+625	['NI:..', 'NI:.d.', 'RU:..', 'RU:.d.', 'ia', 'ia₂']	6	0.199764982373678
+626	['NI:..', 'NI:.d.', 'RU:..', 'RU:.d.', 'li', 'li₂']	6	0.20681551116333724
+627	['NI:..', 'NI:.d.', 'RU:..', 'RU:.d.', 'ša', 'ša₂']	6	0.2009400705052879
+628	['NI:..', 'NI:.d.', 'RU:..', 'RU:.d.', 'šu', 'šu₂']	6	0.19623971797884843
+629	['NI:..', 'NI:.d.', 'RU:..', 'RU:.d.', 'u', 'u₂']	6	0.209165687426557
+630	['NI:..', 'NI:.d.', 'RU:..', 'RU:.d.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.209165687426557
+631	['NI:..', 'NI:.d.', 'RU:..', 'RU:.d.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.209165687426557
+632	['NI:..', 'NI:.d.', 'RU:..', 'RU:.d.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19623971797884843
+633	['NI:..', 'NI:.d.', 'RU:..', 'RU:.d.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.20681551116333724
+634	['NI:..', 'NI:.d.', 'RU:..', 'RU:.d.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.23149236192714454
+635	['NI:..', 'NI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ŠA:..', 'ŠA:.dm.']	6	0.18683901292596944
+636	['NI:..', 'NI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ia', 'ia₂']	6	0.19388954171562867
+637	['NI:..', 'NI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'li', 'li₂']	6	0.19388954171562867
+638	['NI:..', 'NI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ša', 'ša₂']	6	0.19858989424206816
+639	['NI:..', 'NI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'šu', 'šu₂']	6	0.1891891891891892
+640	['NI:..', 'NI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'u', 'u₂']	6	0.19153936545240893
+641	['NI:..', 'NI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.199764982373678
+642	['NI:..', 'NI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.199764982373678
+643	['NI:..', 'NI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.1844888366627497
+644	['NI:..', 'NI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.1927144535840188
+645	['NI:..', 'NI:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.20329024676850763
+646	['NI:..', 'NI:.d.', 'ŠA:..', 'ŠA:.dm.', 'ia', 'ia₂']	6	0.19388954171562867
+647	['NI:..', 'NI:.d.', 'ŠA:..', 'ŠA:.dm.', 'li', 'li₂']	6	0.19858989424206816
+648	['NI:..', 'NI:.d.', 'ŠA:..', 'ŠA:.dm.', 'ša', 'ša₂']	6	0.2009400705052879
+649	['NI:..', 'NI:.d.', 'ŠA:..', 'ŠA:.dm.', 'šu', 'šu₂']	6	0.1927144535840188
+650	['NI:..', 'NI:.d.', 'ŠA:..', 'ŠA:.dm.', 'u', 'u₂']	6	0.19153936545240893
+651	['NI:..', 'NI:.d.', 'ŠA:..', 'ŠA:.dm.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.20681551116333724
+652	['NI:..', 'NI:.d.', 'ŠA:..', 'ŠA:.dm.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.20681551116333724
+653	['NI:..', 'NI:.d.', 'ŠA:..', 'ŠA:.dm.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.1891891891891892
+654	['NI:..', 'NI:.d.', 'ŠA:..', 'ŠA:.dm.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.2009400705052879
+655	['NI:..', 'NI:.d.', 'ŠA:..', 'ŠA:.dm.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21151586368977673
+656	['NI:..', 'NI:.d.', 'ia', 'ia₂', 'li', 'li₂']	6	0.20681551116333724
+657	['NI:..', 'NI:.d.', 'ia', 'ia₂', 'ša', 'ša₂']	6	0.19506462984723855
+658	['NI:..', 'NI:.d.', 'ia', 'ia₂', 'šu', 'šu₂']	6	0.1927144535840188
+659	['NI:..', 'NI:.d.', 'ia', 'ia₂', 'u', 'u₂']	6	0.20211515863689777
+660	['NI:..', 'NI:.d.', 'ia', 'ia₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.2044653349001175
+661	['NI:..', 'NI:.d.', 'ia', 'ia₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.20799059929494712
+662	['NI:..', 'NI:.d.', 'ia', 'ia₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19153936545240893
+663	['NI:..', 'NI:.d.', 'ia', 'ia₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.20681551116333724
+664	['NI:..', 'NI:.d.', 'ia', 'ia₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.23266745005875442
+665	['NI:..', 'NI:.d.', 'li', 'li₂', 'ša', 'ša₂']	6	0.20799059929494712
+666	['NI:..', 'NI:.d.', 'li', 'li₂', 'šu', 'šu₂']	6	0.19741480611045828
+667	['NI:..', 'NI:.d.', 'li', 'li₂', 'u', 'u₂']	6	0.19623971797884843
+668	['NI:..', 'NI:.d.', 'li', 'li₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.20681551116333724
+669	['NI:..', 'NI:.d.', 'li', 'li₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.209165687426557
+670	['NI:..', 'NI:.d.', 'li', 'li₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.20211515863689777
+671	['NI:..', 'NI:.d.', 'li', 'li₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21269095182138661
+672	['NI:..', 'NI:.d.', 'li', 'li₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.22326674500587543
+673	['NI:..', 'NI:.d.', 'ša', 'ša₂', 'šu', 'šu₂']	6	0.19858989424206816
+674	['NI:..', 'NI:.d.', 'ša', 'ša₂', 'u', 'u₂']	6	0.19741480611045828
+675	['NI:..', 'NI:.d.', 'ša', 'ša₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.20329024676850763
+676	['NI:..', 'NI:.d.', 'ša', 'ša₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.21621621621621623
+677	['NI:..', 'NI:.d.', 'ša', 'ša₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.1927144535840188
+678	['NI:..', 'NI:.d.', 'ša', 'ša₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.2056404230317274
+679	['NI:..', 'NI:.d.', 'ša', 'ša₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21856639247943596
+680	['NI:..', 'NI:.d.', 'šu', 'šu₂', 'u', 'u₂']	6	0.19036427732079905
+681	['NI:..', 'NI:.d.', 'šu', 'šu₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.199764982373678
+682	['NI:..', 'NI:.d.', 'šu', 'šu₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.20211515863689777
+683	['NI:..', 'NI:.d.', 'šu', 'šu₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.18331374853113983
+684	['NI:..', 'NI:.d.', 'šu', 'šu₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.2056404230317274
+685	['NI:..', 'NI:.d.', 'šu', 'šu₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.2056404230317274
+686	['NI:..', 'NI:.d.', 'u', 'u₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.2009400705052879
+687	['NI:..', 'NI:.d.', 'u', 'u₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.2044653349001175
+688	['NI:..', 'NI:.d.', 'u', 'u₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.18566392479435959
+689	['NI:..', 'NI:.d.', 'u', 'u₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.20799059929494712
+690	['NI:..', 'NI:.d.', 'u', 'u₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21621621621621623
+691	['NI:..', 'NI:.d.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.21739130434782608
+692	['NI:..', 'NI:.d.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19741480611045828
+693	['NI:..', 'NI:.d.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21621621621621623
+694	['NI:..', 'NI:.d.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.22209165687426558
+695	['NI:..', 'NI:.d.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19741480611045828
+696	['NI:..', 'NI:.d.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21621621621621623
+697	['NI:..', 'NI:.d.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.23384253819036427
+698	['NI:..', 'NI:.d.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.20211515863689777
+699	['NI:..', 'NI:.d.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21621621621621623
+700	['NI:..', 'NI:.d.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.23384253819036427
+701	['RU:..', 'RU:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ŠA:..', 'ŠA:.dm.']	6	0.19623971797884843
+702	['RU:..', 'RU:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ia', 'ia₂']	6	0.19153936545240893
+703	['RU:..', 'RU:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'li', 'li₂']	6	0.199764982373678
+704	['RU:..', 'RU:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ša', 'ša₂']	6	0.19153936545240893
+705	['RU:..', 'RU:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'šu', 'šu₂']	6	0.19036427732079905
+706	['RU:..', 'RU:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'u', 'u₂']	6	0.18566392479435959
+707	['RU:..', 'RU:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.1927144535840188
+708	['RU:..', 'RU:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.2009400705052879
+709	['RU:..', 'RU:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.18566392479435959
+710	['RU:..', 'RU:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.19388954171562867
+711	['RU:..', 'RU:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.20211515863689777
+712	['RU:..', 'RU:.d.', 'ŠA:..', 'ŠA:.dm.', 'ia', 'ia₂']	6	0.199764982373678
+713	['RU:..', 'RU:.d.', 'ŠA:..', 'ŠA:.dm.', 'li', 'li₂']	6	0.20799059929494712
+714	['RU:..', 'RU:.d.', 'ŠA:..', 'ŠA:.dm.', 'ša', 'ša₂']	6	0.20329024676850763
+715	['RU:..', 'RU:.d.', 'ŠA:..', 'ŠA:.dm.', 'šu', 'šu₂']	6	0.19506462984723855
+716	['RU:..', 'RU:.d.', 'ŠA:..', 'ŠA:.dm.', 'u', 'u₂']	6	0.20211515863689777
+717	['RU:..', 'RU:.d.', 'ŠA:..', 'ŠA:.dm.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.21034077555816685
+718	['RU:..', 'RU:.d.', 'ŠA:..', 'ŠA:.dm.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.2256169212690952
+719	['RU:..', 'RU:.d.', 'ŠA:..', 'ŠA:.dm.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.20681551116333724
+720	['RU:..', 'RU:.d.', 'ŠA:..', 'ŠA:.dm.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.2056404230317274
+721	['RU:..', 'RU:.d.', 'ŠA:..', 'ŠA:.dm.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21151586368977673
+722	['RU:..', 'RU:.d.', 'ia', 'ia₂', 'li', 'li₂']	6	0.2009400705052879
+723	['RU:..', 'RU:.d.', 'ia', 'ia₂', 'ša', 'ša₂']	6	0.19153936545240893
+724	['RU:..', 'RU:.d.', 'ia', 'ia₂', 'šu', 'šu₂']	6	0.2044653349001175
+725	['RU:..', 'RU:.d.', 'ia', 'ia₂', 'u', 'u₂']	6	0.19623971797884843
+726	['RU:..', 'RU:.d.', 'ia', 'ia₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.20329024676850763
+727	['RU:..', 'RU:.d.', 'ia', 'ia₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.21621621621621623
+728	['RU:..', 'RU:.d.', 'ia', 'ia₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.20799059929494712
+729	['RU:..', 'RU:.d.', 'ia', 'ia₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21034077555816685
+730	['RU:..', 'RU:.d.', 'ia', 'ia₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21974148061104584
+731	['RU:..', 'RU:.d.', 'li', 'li₂', 'ša', 'ša₂']	6	0.20211515863689777
+732	['RU:..', 'RU:.d.', 'li', 'li₂', 'šu', 'šu₂']	6	0.20211515863689777
+733	['RU:..', 'RU:.d.', 'li', 'li₂', 'u', 'u₂']	6	0.199764982373678
+734	['RU:..', 'RU:.d.', 'li', 'li₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.19741480611045828
+735	['RU:..', 'RU:.d.', 'li', 'li₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.20329024676850763
+736	['RU:..', 'RU:.d.', 'li', 'li₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.1927144535840188
+737	['RU:..', 'RU:.d.', 'li', 'li₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.20681551116333724
+738	['RU:..', 'RU:.d.', 'li', 'li₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21974148061104584
+739	['RU:..', 'RU:.d.', 'ša', 'ša₂', 'šu', 'šu₂']	6	0.19623971797884843
+740	['RU:..', 'RU:.d.', 'ša', 'ša₂', 'u', 'u₂']	6	0.19506462984723855
+741	['RU:..', 'RU:.d.', 'ša', 'ša₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.21151586368977673
+742	['RU:..', 'RU:.d.', 'ša', 'ša₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.21386603995299647
+743	['RU:..', 'RU:.d.', 'ša', 'ša₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19858989424206816
+744	['RU:..', 'RU:.d.', 'ša', 'ša₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.2044653349001175
+745	['RU:..', 'RU:.d.', 'ša', 'ša₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21269095182138661
+746	['RU:..', 'RU:.d.', 'šu', 'šu₂', 'u', 'u₂']	6	0.18566392479435959
+747	['RU:..', 'RU:.d.', 'šu', 'šu₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.2009400705052879
+748	['RU:..', 'RU:.d.', 'šu', 'šu₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.21034077555816685
+749	['RU:..', 'RU:.d.', 'šu', 'šu₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19506462984723855
+750	['RU:..', 'RU:.d.', 'šu', 'šu₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21151586368977673
+751	['RU:..', 'RU:.d.', 'šu', 'šu₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21269095182138661
+752	['RU:..', 'RU:.d.', 'u', 'u₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.20681551116333724
+753	['RU:..', 'RU:.d.', 'u', 'u₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.20681551116333724
+754	['RU:..', 'RU:.d.', 'u', 'u₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.1891891891891892
+755	['RU:..', 'RU:.d.', 'u', 'u₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.2044653349001175
+756	['RU:..', 'RU:.d.', 'u', 'u₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21269095182138661
+757	['RU:..', 'RU:.d.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.209165687426557
+758	['RU:..', 'RU:.d.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19858989424206816
+759	['RU:..', 'RU:.d.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.20799059929494712
+760	['RU:..', 'RU:.d.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21621621621621623
+761	['RU:..', 'RU:.d.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.20211515863689777
+762	['RU:..', 'RU:.d.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.209165687426557
+763	['RU:..', 'RU:.d.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.2244418331374853
+764	['RU:..', 'RU:.d.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21151586368977673
+765	['RU:..', 'RU:.d.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21974148061104584
+766	['RU:..', 'RU:.d.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.2209165687426557
+767	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ŠA:..', 'ŠA:.dm.', 'ia', 'ia₂']	6	0.19623971797884843
+768	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ŠA:..', 'ŠA:.dm.', 'li', 'li₂']	6	0.19506462984723855
+769	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ŠA:..', 'ŠA:.dm.', 'ša', 'ša₂']	6	0.18683901292596944
+770	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ŠA:..', 'ŠA:.dm.', 'šu', 'šu₂']	6	0.18801410105757932
+771	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ŠA:..', 'ŠA:.dm.', 'u', 'u₂']	6	0.18801410105757932
+772	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ŠA:..', 'ŠA:.dm.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.19506462984723855
+773	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ŠA:..', 'ŠA:.dm.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.20329024676850763
+774	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ŠA:..', 'ŠA:.dm.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19036427732079905
+775	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ŠA:..', 'ŠA:.dm.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.1844888366627497
+776	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ŠA:..', 'ŠA:.dm.', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.199764982373678
+777	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ia', 'ia₂', 'li', 'li₂']	6	0.2009400705052879
+778	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ia', 'ia₂', 'ša', 'ša₂']	6	0.18801410105757932
+779	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ia', 'ia₂', 'šu', 'šu₂']	6	0.1844888366627497
+780	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ia', 'ia₂', 'u', 'u₂']	6	0.1844888366627497
+781	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ia', 'ia₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.19036427732079905
+782	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ia', 'ia₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.2009400705052879
+783	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ia', 'ia₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19388954171562867
+784	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ia', 'ia₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.199764982373678
+785	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ia', 'ia₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.209165687426557
+786	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'li', 'li₂', 'ša', 'ša₂']	6	0.1891891891891892
+787	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'li', 'li₂', 'šu', 'šu₂']	6	0.18331374853113983
+788	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'li', 'li₂', 'u', 'u₂']	6	0.1891891891891892
+789	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'li', 'li₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.19388954171562867
+790	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'li', 'li₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.19858989424206816
+791	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'li', 'li₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.18566392479435959
+792	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'li', 'li₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.199764982373678
+793	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'li', 'li₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.20681551116333724
+794	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ša', 'ša₂', 'šu', 'šu₂']	6	0.19506462984723855
+795	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ša', 'ša₂', 'u', 'u₂']	6	0.18683901292596944
+796	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ša', 'ša₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.19858989424206816
+797	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ša', 'ša₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.20329024676850763
+798	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ša', 'ša₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19153936545240893
+799	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ša', 'ša₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.2044653349001175
+800	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ša', 'ša₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.209165687426557
+801	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'šu', 'šu₂', 'u', 'u₂']	6	0.18683901292596944
+802	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'šu', 'šu₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.1891891891891892
+803	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'šu', 'šu₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.18801410105757932
+804	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'šu', 'šu₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.1797884841363102
+805	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'šu', 'šu₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.18566392479435959
+806	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'šu', 'šu₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.19623971797884843
+807	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'u', 'u₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.19388954171562867
+808	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'u', 'u₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.20329024676850763
+809	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'u', 'u₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.1809635722679201
+810	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'u', 'u₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.1891891891891892
+811	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'u', 'u₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.19153936545240893
+812	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.19858989424206816
+813	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.1797884841363102
+814	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.19036427732079905
+815	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.199764982373678
+816	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19858989424206816
+817	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21269095182138661
+818	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21974148061104584
+819	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.19623971797884843
+820	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.2056404230317274
+821	['|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.20799059929494712
+822	['ŠA:..', 'ŠA:.dm.', 'ia', 'ia₂', 'li', 'li₂']	6	0.19623971797884843
+823	['ŠA:..', 'ŠA:.dm.', 'ia', 'ia₂', 'ša', 'ša₂']	6	0.2044653349001175
+824	['ŠA:..', 'ŠA:.dm.', 'ia', 'ia₂', 'šu', 'šu₂']	6	0.19388954171562867
+825	['ŠA:..', 'ŠA:.dm.', 'ia', 'ia₂', 'u', 'u₂']	6	0.199764982373678
+826	['ŠA:..', 'ŠA:.dm.', 'ia', 'ia₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.20799059929494712
+827	['ŠA:..', 'ŠA:.dm.', 'ia', 'ia₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.21151586368977673
+828	['ŠA:..', 'ŠA:.dm.', 'ia', 'ia₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.2009400705052879
+829	['ŠA:..', 'ŠA:.dm.', 'ia', 'ia₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21974148061104584
+830	['ŠA:..', 'ŠA:.dm.', 'ia', 'ia₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21269095182138661
+831	['ŠA:..', 'ŠA:.dm.', 'li', 'li₂', 'ša', 'ša₂']	6	0.20211515863689777
+832	['ŠA:..', 'ŠA:.dm.', 'li', 'li₂', 'šu', 'šu₂']	6	0.1927144535840188
+833	['ŠA:..', 'ŠA:.dm.', 'li', 'li₂', 'u', 'u₂']	6	0.20211515863689777
+834	['ŠA:..', 'ŠA:.dm.', 'li', 'li₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.209165687426557
+835	['ŠA:..', 'ŠA:.dm.', 'li', 'li₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.2056404230317274
+836	['ŠA:..', 'ŠA:.dm.', 'li', 'li₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.20329024676850763
+837	['ŠA:..', 'ŠA:.dm.', 'li', 'li₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.2044653349001175
+838	['ŠA:..', 'ŠA:.dm.', 'li', 'li₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21504112808460635
+839	['ŠA:..', 'ŠA:.dm.', 'ša', 'ša₂', 'šu', 'šu₂']	6	0.19036427732079905
+840	['ŠA:..', 'ŠA:.dm.', 'ša', 'ša₂', 'u', 'u₂']	6	0.18801410105757932
+841	['ŠA:..', 'ŠA:.dm.', 'ša', 'ša₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.21034077555816685
+842	['ŠA:..', 'ŠA:.dm.', 'ša', 'ša₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.21856639247943596
+843	['ŠA:..', 'ŠA:.dm.', 'ša', 'ša₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19858989424206816
+844	['ŠA:..', 'ŠA:.dm.', 'ša', 'ša₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.20681551116333724
+845	['ŠA:..', 'ŠA:.dm.', 'ša', 'ša₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21151586368977673
+846	['ŠA:..', 'ŠA:.dm.', 'šu', 'šu₂', 'u', 'u₂']	6	0.18683901292596944
+847	['ŠA:..', 'ŠA:.dm.', 'šu', 'šu₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.19741480611045828
+848	['ŠA:..', 'ŠA:.dm.', 'šu', 'šu₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.2044653349001175
+849	['ŠA:..', 'ŠA:.dm.', 'šu', 'šu₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.18683901292596944
+850	['ŠA:..', 'ŠA:.dm.', 'šu', 'šu₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.19858989424206816
+851	['ŠA:..', 'ŠA:.dm.', 'šu', 'šu₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.19741480611045828
+852	['ŠA:..', 'ŠA:.dm.', 'u', 'u₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.2056404230317274
+853	['ŠA:..', 'ŠA:.dm.', 'u', 'u₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.21269095182138661
+854	['ŠA:..', 'ŠA:.dm.', 'u', 'u₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.2009400705052879
+855	['ŠA:..', 'ŠA:.dm.', 'u', 'u₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.209165687426557
+856	['ŠA:..', 'ŠA:.dm.', 'u', 'u₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21269095182138661
+857	['ŠA:..', 'ŠA:.dm.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.22796709753231492
+858	['ŠA:..', 'ŠA:.dm.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.20681551116333724
+859	['ŠA:..', 'ŠA:.dm.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.20799059929494712
+860	['ŠA:..', 'ŠA:.dm.', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21974148061104584
+861	['ŠA:..', 'ŠA:.dm.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.21151586368977673
+862	['ŠA:..', 'ŠA:.dm.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21856639247943596
+863	['ŠA:..', 'ŠA:.dm.', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.23031727379553465
+864	['ŠA:..', 'ŠA:.dm.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.20799059929494712
+865	['ŠA:..', 'ŠA:.dm.', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21151586368977673
+866	['ŠA:..', 'ŠA:.dm.', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21739130434782608
+867	['ia', 'ia₂', 'li', 'li₂', 'ša', 'ša₂']	6	0.2009400705052879
+868	['ia', 'ia₂', 'li', 'li₂', 'šu', 'šu₂']	6	0.19506462984723855
+869	['ia', 'ia₂', 'li', 'li₂', 'u', 'u₂']	6	0.20681551116333724
+870	['ia', 'ia₂', 'li', 'li₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.20211515863689777
+871	['ia', 'ia₂', 'li', 'li₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.20211515863689777
+872	['ia', 'ia₂', 'li', 'li₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.1927144535840188
+873	['ia', 'ia₂', 'li', 'li₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21739130434782608
+874	['ia', 'ia₂', 'li', 'li₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21974148061104584
+875	['ia', 'ia₂', 'ša', 'ša₂', 'šu', 'šu₂']	6	0.2009400705052879
+876	['ia', 'ia₂', 'ša', 'ša₂', 'u', 'u₂']	6	0.19858989424206816
+877	['ia', 'ia₂', 'ša', 'ša₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.21151586368977673
+878	['ia', 'ia₂', 'ša', 'ša₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.21621621621621623
+879	['ia', 'ia₂', 'ša', 'ša₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19858989424206816
+880	['ia', 'ia₂', 'ša', 'ša₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.20681551116333724
+881	['ia', 'ia₂', 'ša', 'ša₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21739130434782608
+882	['ia', 'ia₂', 'šu', 'šu₂', 'u', 'u₂']	6	0.18801410105757932
+883	['ia', 'ia₂', 'šu', 'šu₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.19741480611045828
+884	['ia', 'ia₂', 'šu', 'šu₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.21386603995299647
+885	['ia', 'ia₂', 'šu', 'šu₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.1927144535840188
+886	['ia', 'ia₂', 'šu', 'šu₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.2056404230317274
+887	['ia', 'ia₂', 'šu', 'šu₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.2056404230317274
+888	['ia', 'ia₂', 'u', 'u₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.209165687426557
+889	['ia', 'ia₂', 'u', 'u₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.21974148061104584
+890	['ia', 'ia₂', 'u', 'u₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.20329024676850763
+891	['ia', 'ia₂', 'u', 'u₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.20799059929494712
+892	['ia', 'ia₂', 'u', 'u₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21269095182138661
+893	['ia', 'ia₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.21151586368977673
+894	['ia', 'ia₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.20681551116333724
+895	['ia', 'ia₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.22326674500587543
+896	['ia', 'ia₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.2256169212690952
+897	['ia', 'ia₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.20799059929494712
+898	['ia', 'ia₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.2256169212690952
+899	['ia', 'ia₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.24676850763807284
+900	['ia', 'ia₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21386603995299647
+901	['ia', 'ia₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21974148061104584
+902	['ia', 'ia₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.23384253819036427
+903	['li', 'li₂', 'ša', 'ša₂', 'šu', 'šu₂']	6	0.20681551116333724
+904	['li', 'li₂', 'ša', 'ša₂', 'u', 'u₂']	6	0.20799059929494712
+905	['li', 'li₂', 'ša', 'ša₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.2009400705052879
+906	['li', 'li₂', 'ša', 'ša₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.21269095182138661
+907	['li', 'li₂', 'ša', 'ša₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.199764982373678
+908	['li', 'li₂', 'ša', 'ša₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21034077555816685
+909	['li', 'li₂', 'ša', 'ša₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21739130434782608
+910	['li', 'li₂', 'šu', 'šu₂', 'u', 'u₂']	6	0.2009400705052879
+911	['li', 'li₂', 'šu', 'šu₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.2009400705052879
+912	['li', 'li₂', 'šu', 'šu₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.2044653349001175
+913	['li', 'li₂', 'šu', 'šu₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.1927144535840188
+914	['li', 'li₂', 'šu', 'šu₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.2009400705052879
+915	['li', 'li₂', 'šu', 'šu₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.2044653349001175
+916	['li', 'li₂', 'u', 'u₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.20211515863689777
+917	['li', 'li₂', 'u', 'u₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.20799059929494712
+918	['li', 'li₂', 'u', 'u₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19153936545240893
+919	['li', 'li₂', 'u', 'u₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21739130434782608
+920	['li', 'li₂', 'u', 'u₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21386603995299647
+921	['li', 'li₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.20329024676850763
+922	['li', 'li₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19153936545240893
+923	['li', 'li₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.2044653349001175
+924	['li', 'li₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.22209165687426558
+925	['li', 'li₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19858989424206816
+926	['li', 'li₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.20799059929494712
+927	['li', 'li₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.22326674500587543
+928	['li', 'li₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.2056404230317274
+929	['li', 'li₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.2209165687426557
+930	['li', 'li₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.22209165687426558
+931	['ša', 'ša₂', 'šu', 'šu₂', 'u', 'u₂']	6	0.19153936545240893
+932	['ša', 'ša₂', 'šu', 'šu₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.19388954171562867
+933	['ša', 'ša₂', 'šu', 'šu₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.21034077555816685
+934	['ša', 'ša₂', 'šu', 'šu₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19858989424206816
+935	['ša', 'ša₂', 'šu', 'šu₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21269095182138661
+936	['ša', 'ša₂', 'šu', 'šu₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.20799059929494712
+937	['ša', 'ša₂', 'u', 'u₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.21269095182138661
+938	['ša', 'ša₂', 'u', 'u₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.20681551116333724
+939	['ša', 'ša₂', 'u', 'u₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19506462984723855
+940	['ša', 'ša₂', 'u', 'u₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.2044653349001175
+941	['ša', 'ša₂', 'u', 'u₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21739130434782608
+942	['ša', 'ša₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.21974148061104584
+943	['ša', 'ša₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19858989424206816
+944	['ša', 'ša₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21151586368977673
+945	['ša', 'ša₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21856639247943596
+946	['ša', 'ša₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.21739130434782608
+947	['ša', 'ša₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.2291421856639248
+948	['ša', 'ša₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.2291421856639248
+949	['ša', 'ša₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.2044653349001175
+950	['ša', 'ša₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.20799059929494712
+951	['ša', 'ša₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21621621621621623
+952	['šu', 'šu₂', 'u', 'u₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN']	6	0.19388954171562867
+953	['šu', 'šu₂', 'u', 'u₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.19506462984723855
+954	['šu', 'šu₂', 'u', 'u₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.1891891891891892
+955	['šu', 'šu₂', 'u', 'u₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.1891891891891892
+956	['šu', 'šu₂', 'u', 'u₂', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.2009400705052879
+957	['šu', 'šu₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.19858989424206816
+958	['šu', 'šu₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19388954171562867
+959	['šu', 'šu₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.20681551116333724
+960	['šu', 'šu₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.20329024676850763
+961	['šu', 'šu₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.2044653349001175
+962	['šu', 'šu₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21151586368977673
+963	['šu', 'šu₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.23384253819036427
+964	['šu', 'šu₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.19153936545240893
+965	['šu', 'šu₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.2044653349001175
+966	['šu', 'šu₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21269095182138661
+967	['u', 'u₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia']	6	0.2244418331374853
+968	['u', 'u₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.19858989424206816
+969	['u', 'u₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21856639247943596
+970	['u', 'u₂', 'bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.22679200940070504
+971	['u', 'u₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.21151586368977673
+972	['u', 'u₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21621621621621623
+973	['u', 'u₂', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.2256169212690952
+974	['u', 'u₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.199764982373678
+975	['u', 'u₂', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.20681551116333724
+976	['u', 'u₂', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21739130434782608
+977	['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a']	6	0.21504112808460635
+978	['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.2244418331374853
+979	['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.23501762632197415
+980	['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.2056404230317274
+981	['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.2209165687426557
+982	['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.2244418331374853
+983	['bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u']	6	0.21269095182138661
+984	['bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.22796709753231492
+985	['bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.24206815511163338
+986	['lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	6	0.21621621621621623
+987	['BU:..', 'BU:.p.', 'DI:..', 'DI:.d.', 'LI:..', 'LI:.d.', 'NA:..', 'NA:.t.', 'NI:..', 'NI:.d.', 'RU:..', 'RU:.d.', '|ME.U.U.U|:..', '|ME.U.U.U|:.m.', 'ŠA:..', 'ŠA:.dm.']	16	0.209165687426557
+988	['ia', 'ia₂', 'li', 'li₂', 'ša', 'ša₂', 'šu', 'šu₂', 'u', 'u₂']	10	0.21151586368977673
+989	['bēlu[lord]N:bēlī:be-li₂', 'bēlu[lord]N:bēlī:EN', 'bēlu[lord]N:bēlīya:EN-ia', 'bēlu[lord]N:bēlīya:be-li₂-ia', 'lā[not]MOD:lā:la', 'lā[not]MOD:lā:la-a', 'lū[may]MOD:lū:lu', 'lū[may]MOD:lū:lu-u', 'šulmu[completeness]N:šulmu:DI-mu', 'šulmu[completeness]N:šulmu:šul-mu']	10	0.23384253819036427
