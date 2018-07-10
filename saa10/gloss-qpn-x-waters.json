@@ -1,0 +1,210 @@
+{
+  "type": "glossary",
+  "project": "saao/saa10",
+  "source": "http://oracc.org/saao/saa10",
+  "license": "This data is released under the CC0 license",
+  "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "more-info": "http://oracc.org/doc/opendata/",
+  "UTC-timestamp": "2018-06-15T19:38:05",
+  "lang": "qpn-x-waters",
+  "entries": [
+    {
+      "headword": "Diglat[Tigris]WN",
+      "id": "qpn-x-waters.x000000",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r00000",
+      "dc_title": "saao/saa10/qpn-x-waters/Diglat[Tigris]",
+      "cf": "Diglat",
+      "gw": "Tigris",
+      "pos": "WN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-waters.x000001",
+          "n": "{ID₂}MAŠ.GU₂.QAR",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00000"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-waters.x000002",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00000",
+          "n": "Diglat",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-waters.x000003",
+              "ref": "qpn-x-waters.x000001",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00000"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-waters.x000004",
+          "n": "Diglat[Tigris//Tigris]WN'WN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00000",
+          "num": "1.",
+          "pos": "WN",
+          "mng": "Tigris",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-waters.x000005",
+              "n": "%akk-x-stdbab:{ID₂}MAŠ.GU₂.QAR",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00000"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-waters.x000006",
+              "n": "Diglat",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00000"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-waters.x000007",
+              "sig": "@saao/saa10%akk-x-stdbab:{ID₂}MAŠ.GU₂.QAR=Diglat[Tigris//Tigris]WN'WN$Diglat",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00000"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00000.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Purattu[Euphrates]WN",
+      "id": "qpn-x-waters.x000008",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r00001",
+      "dc_title": "saao/saa10/qpn-x-waters/Purattu[Euphrates]",
+      "cf": "Purattu",
+      "gw": "Euphrates",
+      "pos": "WN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-waters.x000009",
+          "n": "{ID₂}UD.KIB.NUN{KI}",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00001"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-waters.x000010",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00001",
+          "n": "Purattu",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-waters.x000011",
+              "ref": "qpn-x-waters.x000009",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00001"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-waters.x000012",
+          "n": "Purattu[Euphrates//Euphrates]WN'WN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00001",
+          "num": "1.",
+          "pos": "WN",
+          "mng": "Euphrates",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-waters.x000013",
+              "n": "%akk-x-stdbab:{ID₂}UD.KIB.NUN{KI}",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00001"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-waters.x000014",
+              "n": "Purattu",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00001"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-waters.x000015",
+              "sig": "@saao/saa10%akk-x-stdbab:{ID₂}UD.KIB.NUN{KI}=Purattu[Euphrates//Euphrates]WN'WN$Purattu",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00001"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00001.p.s000"
+        }
+      ]
+    }
+  ],
+  "instances": {
+    "qpn.r00000": [
+      "saao/saa10:P237220.15.6"
+    ],
+    "qpn.r00001": [
+      "saao/saa10:P237220.15.8"
+    ],
+    "qpn.r00000.p.s000": [
+      "saao/saa10:P237220.15.6"
+    ],
+    "qpn.r00001.p.s000": [
+      "saao/saa10:P237220.15.8"
+    ]
+  },
+  "summaries": {
+    "qpn-x-waters.x000000": "<p class=\"summary\" id=\"qpn-x-waters.x000000\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-waters/qpn-x-waters.x000000.html')\"><span class=\"cf\">Diglat</span> [<span class=\"gw\">TIGRIS</span>] <span class=\"cf\">WN</span></a> (1x) </span>Neo-Assyrian  \"Tigris\"</span></p>",
+    "qpn-x-waters.x000008": "<p class=\"summary\" id=\"qpn-x-waters.x000008\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-waters/qpn-x-waters.x000008.html')\"><span class=\"cf\">Purattu</span> [<span class=\"gw\">EUPHRATES</span>] <span class=\"cf\">WN</span></a> (1x) </span>Neo-Assyrian  \"Euphrates\"</span></p>"
+  }
+}

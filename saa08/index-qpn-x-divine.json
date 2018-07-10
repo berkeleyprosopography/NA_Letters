@@ -1,0 +1,1348 @@
+{
+  "type": "index",
+  "project": "saao/saa08",
+  "source": "http://oracc.org/saao/saa08",
+  "license": "This data is released under the CC0 license",
+  "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "more-info": "http://oracc.org/doc/opendata/",
+  "UTC-timestamp": "2018-06-15T19:43:23",
+  "name": "cbd/qpn-x-divine",
+  "keys": [
+    {
+      "key": "a",
+      "count": "8",
+      "instances": [
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022"
+      ]
+    },
+    {
+      "key": "e",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000104",
+        "qpn-x-divine.x000104"
+      ]
+    },
+    {
+      "key": "Girra[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-divine.x000120"
+      ]
+    },
+    {
+      "key": "utu",
+      "count": "6",
+      "instances": [
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290"
+      ]
+    },
+    {
+      "key": "Ištar[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-divine.x000160"
+      ]
+    },
+    {
+      "key": "išhara",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000152",
+        "qpn-x-divine.x000152"
+      ]
+    },
+    {
+      "key": "nabu",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206"
+      ]
+    },
+    {
+      "key": "ugur",
+      "count": "4",
+      "instances": [
+        "qpn-x-divine.x000234",
+        "qpn-x-divine.x000234",
+        "qpn-x-divine.x000234",
+        "qpn-x-divine.x000234"
+      ]
+    },
+    {
+      "key": "amagandu₃",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000282",
+        "qpn-x-divine.x000282"
+      ]
+    },
+    {
+      "key": "15",
+      "count": "4",
+      "instances": [
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160"
+      ]
+    },
+    {
+      "key": "20",
+      "count": "5",
+      "instances": [
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290"
+      ]
+    },
+    {
+      "key": "Ea[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-divine.x000076"
+      ]
+    },
+    {
+      "key": "30",
+      "count": "9",
+      "instances": [
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000254"
+      ]
+    },
+    {
+      "key": "Zarpanitu[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-divine.x000330"
+      ]
+    },
+    {
+      "key": "bilgi",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000120",
+        "qpn-x-divine.x000120"
+      ]
+    },
+    {
+      "key": "nergal",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000234",
+        "qpn-x-divine.x000234"
+      ]
+    },
+    {
+      "key": "adad",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000000"
+      ]
+    },
+    {
+      "key": "aššur",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000044",
+        "qpn-x-divine.x000044"
+      ]
+    },
+    {
+      "key": "ag",
+      "count": "6",
+      "instances": [
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206"
+      ]
+    },
+    {
+      "key": "Issar[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-divine.x000144"
+      ]
+    },
+    {
+      "key": "en",
+      "count": "6",
+      "instances": [
+        "qpn-x-divine.x000060",
+        "qpn-x-divine.x000060",
+        "qpn-x-divine.x000060",
+        "qpn-x-divine.x000060",
+        "qpn-x-divine.x000060",
+        "qpn-x-divine.x000060"
+      ]
+    },
+    {
+      "key": "ea",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000076",
+        "qpn-x-divine.x000076"
+      ]
+    },
+    {
+      "key": "gu",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000128",
+        "qpn-x-divine.x000128"
+      ]
+    },
+    {
+      "key": "ha",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000152",
+        "qpn-x-divine.x000152"
+      ]
+    },
+    {
+      "key": "ki",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000104",
+        "qpn-x-divine.x000104"
+      ]
+    },
+    {
+      "key": "la",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000128",
+        "qpn-x-divine.x000128"
+      ]
+    },
+    {
+      "key": "im",
+      "count": "8",
+      "instances": [
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000000"
+      ]
+    },
+    {
+      "key": "tar",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160"
+      ]
+    },
+    {
+      "key": "ni",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000330",
+        "qpn-x-divine.x000330"
+      ]
+    },
+    {
+      "key": "nu",
+      "count": "4",
+      "instances": [
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022"
+      ]
+    },
+    {
+      "key": "marduk",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000186"
+      ]
+    },
+    {
+      "key": "ma",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000000"
+      ]
+    },
+    {
+      "key": "ri",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000104",
+        "qpn-x-divine.x000104"
+      ]
+    },
+    {
+      "key": "ra",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000152",
+        "qpn-x-divine.x000152"
+      ]
+    },
+    {
+      "key": "pa",
+      "count": "8",
+      "instances": [
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000330",
+        "qpn-x-divine.x000330"
+      ]
+    },
+    {
+      "key": "tum",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000330",
+        "qpn-x-divine.x000330"
+      ]
+    },
+    {
+      "key": "adadma",
+      "count": "1",
+      "instances": [
+        "qpn-x-divine.x000000"
+      ]
+    },
+    {
+      "key": "Šakkan[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-divine.x000282"
+      ]
+    },
+    {
+      "key": "anu",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022"
+      ]
+    },
+    {
+      "key": "ani",
+      "count": "1",
+      "instances": [
+        "qpn-x-divine.x000022"
+      ]
+    },
+    {
+      "key": "Išhara[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-divine.x000152"
+      ]
+    },
+    {
+      "key": "neobab30",
+      "count": "1",
+      "instances": [
+        "qpn-x-divine.x000254"
+      ]
+    },
+    {
+      "key": "neobab20",
+      "count": "1",
+      "instances": [
+        "qpn-x-divine.x000290"
+      ]
+    },
+    {
+      "key": "Aššur[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-divine.x000044"
+      ]
+    },
+    {
+      "key": "Enlil[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-divine.x000088"
+      ]
+    },
+    {
+      "key": "nim",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022"
+      ]
+    },
+    {
+      "key": "num",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022"
+      ]
+    },
+    {
+      "key": "šakkan",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000282",
+        "qpn-x-divine.x000282"
+      ]
+    },
+    {
+      "key": "neoassaš",
+      "count": "1",
+      "instances": [
+        "qpn-x-divine.x000044"
+      ]
+    },
+    {
+      "key": "šur",
+      "count": "6",
+      "instances": [
+        "qpn-x-divine.x000044",
+        "qpn-x-divine.x000044",
+        "qpn-x-divine.x000044",
+        "qpn-x-divine.x000044",
+        "qpn-x-divine.x000044",
+        "qpn-x-divine.x000044"
+      ]
+    },
+    {
+      "key": "Ereškigal[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-divine.x000104"
+      ]
+    },
+    {
+      "key": "Anu[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-divine.x000022"
+      ]
+    },
+    {
+      "key": "e₂a",
+      "count": "4",
+      "instances": [
+        "qpn-x-divine.x000076",
+        "qpn-x-divine.x000076",
+        "qpn-x-divine.x000076",
+        "qpn-x-divine.x000076"
+      ]
+    },
+    {
+      "key": "amarutu",
+      "count": "6",
+      "instances": [
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000186"
+      ]
+    },
+    {
+      "key": "Nergal[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-divine.x000234"
+      ]
+    },
+    {
+      "key": "Bel[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-divine.x000060"
+      ]
+    },
+    {
+      "key": "Gula[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-divine.x000128"
+      ]
+    },
+    {
+      "key": "enlil",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000088",
+        "qpn-x-divine.x000088"
+      ]
+    },
+    {
+      "key": "Nabu[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-divine.x000206"
+      ]
+    },
+    {
+      "key": "mes",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000186"
+      ]
+    },
+    {
+      "key": "issar",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000144",
+        "qpn-x-divine.x000160"
+      ]
+    },
+    {
+      "key": "Marduk[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-divine.x000186"
+      ]
+    },
+    {
+      "key": "enlil₂",
+      "count": "6",
+      "instances": [
+        "qpn-x-divine.x000088",
+        "qpn-x-divine.x000088",
+        "qpn-x-divine.x000088",
+        "qpn-x-divine.x000088",
+        "qpn-x-divine.x000088",
+        "qpn-x-divine.x000088"
+      ]
+    },
+    {
+      "key": "ša₂",
+      "count": "4",
+      "instances": [
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290"
+      ]
+    },
+    {
+      "key": "aš",
+      "count": "5",
+      "instances": [
+        "qpn-x-divine.x000044",
+        "qpn-x-divine.x000044",
+        "qpn-x-divine.x000044",
+        "qpn-x-divine.x000044",
+        "qpn-x-divine.x000044"
+      ]
+    },
+    {
+      "key": "udar",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000144",
+        "qpn-x-divine.x000144"
+      ]
+    },
+    {
+      "key": "bel",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000060",
+        "qpn-x-divine.x000060"
+      ]
+    },
+    {
+      "key": "Erra[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-divine.x000112"
+      ]
+    },
+    {
+      "key": "zar",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000330",
+        "qpn-x-divine.x000330"
+      ]
+    },
+    {
+      "key": "innin",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160"
+      ]
+    },
+    {
+      "key": "ereškigal",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000104",
+        "qpn-x-divine.x000104"
+      ]
+    },
+    {
+      "key": "girra",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000120",
+        "qpn-x-divine.x000120"
+      ]
+    },
+    {
+      "key": "Ninurta[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-divine.x000246"
+      ]
+    },
+    {
+      "key": "Igigi[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-divine.x000136"
+      ]
+    },
+    {
+      "key": "Sin[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-divine.x000254"
+      ]
+    },
+    {
+      "key": "neoass30",
+      "count": "1",
+      "instances": [
+        "qpn-x-divine.x000254"
+      ]
+    },
+    {
+      "key": "sin",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000254"
+      ]
+    },
+    {
+      "key": "neoass20",
+      "count": "1",
+      "instances": [
+        "qpn-x-divine.x000290"
+      ]
+    },
+    {
+      "key": "gal",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000104",
+        "qpn-x-divine.x000104"
+      ]
+    },
+    {
+      "key": "511",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000136",
+        "qpn-x-divine.x000136"
+      ]
+    },
+    {
+      "key": "ninurta",
+      "count": "4",
+      "instances": [
+        "qpn-x-divine.x000246",
+        "qpn-x-divine.x000246",
+        "qpn-x-divine.x000246",
+        "qpn-x-divine.x000246"
+      ]
+    },
+    {
+      "key": "neoass",
+      "count": "14",
+      "instances": [
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000044",
+        "qpn-x-divine.x000060",
+        "qpn-x-divine.x000076",
+        "qpn-x-divine.x000088",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290"
+      ]
+    },
+    {
+      "key": "ištar",
+      "count": "5",
+      "instances": [
+        "qpn-x-divine.x000144",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160"
+      ]
+    },
+    {
+      "key": "neobab",
+      "count": "13",
+      "instances": [
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000044",
+        "qpn-x-divine.x000060",
+        "qpn-x-divine.x000088",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000234",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000330"
+      ]
+    },
+    {
+      "key": "iš",
+      "count": "6",
+      "instances": [
+        "qpn-x-divine.x000104",
+        "qpn-x-divine.x000104",
+        "qpn-x-divine.x000152",
+        "qpn-x-divine.x000152",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160"
+      ]
+    },
+    {
+      "key": "gula",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000128",
+        "qpn-x-divine.x000128"
+      ]
+    },
+    {
+      "key": "Šamaš[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-divine.x000290"
+      ]
+    },
+    {
+      "key": "erra",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000112",
+        "qpn-x-divine.x000112"
+      ]
+    },
+    {
+      "key": "zarpanitu",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000330",
+        "qpn-x-divine.x000330"
+      ]
+    },
+    {
+      "key": "stdbab20",
+      "count": "1",
+      "instances": [
+        "qpn-x-divine.x000290"
+      ]
+    },
+    {
+      "key": "stdbab30",
+      "count": "1",
+      "instances": [
+        "qpn-x-divine.x000254"
+      ]
+    },
+    {
+      "key": "šamaš",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290"
+      ]
+    },
+    {
+      "key": "igigi",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000136",
+        "qpn-x-divine.x000136"
+      ]
+    },
+    {
+      "key": "maš",
+      "count": "4",
+      "instances": [
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290"
+      ]
+    },
+    {
+      "key": "Adad[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-divine.x000000"
+      ]
+    },
+    {
+      "key": "ir₃ra",
+      "count": "2",
+      "instances": [
+        "qpn-x-divine.x000112",
+        "qpn-x-divine.x000112"
+      ]
+    },
+    {
+      "key": "1",
+      "count": "44",
+      "instances": [
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000044",
+        "qpn-x-divine.x000044",
+        "qpn-x-divine.x000060",
+        "qpn-x-divine.x000060",
+        "qpn-x-divine.x000076",
+        "qpn-x-divine.x000076",
+        "qpn-x-divine.x000088",
+        "qpn-x-divine.x000088",
+        "qpn-x-divine.x000104",
+        "qpn-x-divine.x000104",
+        "qpn-x-divine.x000112",
+        "qpn-x-divine.x000112",
+        "qpn-x-divine.x000120",
+        "qpn-x-divine.x000120",
+        "qpn-x-divine.x000128",
+        "qpn-x-divine.x000128",
+        "qpn-x-divine.x000136",
+        "qpn-x-divine.x000136",
+        "qpn-x-divine.x000144",
+        "qpn-x-divine.x000144",
+        "qpn-x-divine.x000152",
+        "qpn-x-divine.x000152",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000234",
+        "qpn-x-divine.x000234",
+        "qpn-x-divine.x000246",
+        "qpn-x-divine.x000246",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000282",
+        "qpn-x-divine.x000282",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000330",
+        "qpn-x-divine.x000330"
+      ]
+    },
+    {
+      "key": "#",
+      "count": "108",
+      "instances": [
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000044",
+        "qpn-x-divine.x000044",
+        "qpn-x-divine.x000044",
+        "qpn-x-divine.x000044",
+        "qpn-x-divine.x000060",
+        "qpn-x-divine.x000060",
+        "qpn-x-divine.x000060",
+        "qpn-x-divine.x000060",
+        "qpn-x-divine.x000060",
+        "qpn-x-divine.x000060",
+        "qpn-x-divine.x000076",
+        "qpn-x-divine.x000076",
+        "qpn-x-divine.x000076",
+        "qpn-x-divine.x000076",
+        "qpn-x-divine.x000088",
+        "qpn-x-divine.x000088",
+        "qpn-x-divine.x000088",
+        "qpn-x-divine.x000088",
+        "qpn-x-divine.x000088",
+        "qpn-x-divine.x000088",
+        "qpn-x-divine.x000104",
+        "qpn-x-divine.x000104",
+        "qpn-x-divine.x000112",
+        "qpn-x-divine.x000112",
+        "qpn-x-divine.x000120",
+        "qpn-x-divine.x000120",
+        "qpn-x-divine.x000128",
+        "qpn-x-divine.x000128",
+        "qpn-x-divine.x000136",
+        "qpn-x-divine.x000136",
+        "qpn-x-divine.x000144",
+        "qpn-x-divine.x000144",
+        "qpn-x-divine.x000152",
+        "qpn-x-divine.x000152",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000234",
+        "qpn-x-divine.x000234",
+        "qpn-x-divine.x000234",
+        "qpn-x-divine.x000234",
+        "qpn-x-divine.x000246",
+        "qpn-x-divine.x000246",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000282",
+        "qpn-x-divine.x000282",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000330",
+        "qpn-x-divine.x000330"
+      ]
+    },
+    {
+      "key": "d",
+      "count": "108",
+      "instances": [
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000044",
+        "qpn-x-divine.x000044",
+        "qpn-x-divine.x000044",
+        "qpn-x-divine.x000044",
+        "qpn-x-divine.x000060",
+        "qpn-x-divine.x000060",
+        "qpn-x-divine.x000060",
+        "qpn-x-divine.x000060",
+        "qpn-x-divine.x000060",
+        "qpn-x-divine.x000060",
+        "qpn-x-divine.x000076",
+        "qpn-x-divine.x000076",
+        "qpn-x-divine.x000076",
+        "qpn-x-divine.x000076",
+        "qpn-x-divine.x000088",
+        "qpn-x-divine.x000088",
+        "qpn-x-divine.x000088",
+        "qpn-x-divine.x000088",
+        "qpn-x-divine.x000088",
+        "qpn-x-divine.x000088",
+        "qpn-x-divine.x000104",
+        "qpn-x-divine.x000104",
+        "qpn-x-divine.x000112",
+        "qpn-x-divine.x000112",
+        "qpn-x-divine.x000120",
+        "qpn-x-divine.x000120",
+        "qpn-x-divine.x000128",
+        "qpn-x-divine.x000128",
+        "qpn-x-divine.x000136",
+        "qpn-x-divine.x000136",
+        "qpn-x-divine.x000144",
+        "qpn-x-divine.x000144",
+        "qpn-x-divine.x000152",
+        "qpn-x-divine.x000152",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000234",
+        "qpn-x-divine.x000234",
+        "qpn-x-divine.x000234",
+        "qpn-x-divine.x000234",
+        "qpn-x-divine.x000246",
+        "qpn-x-divine.x000246",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000282",
+        "qpn-x-divine.x000282",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000330",
+        "qpn-x-divine.x000330"
+      ]
+    },
+    {
+      "key": "akk",
+      "count": "61",
+      "instances": [
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000044",
+        "qpn-x-divine.x000044",
+        "qpn-x-divine.x000044",
+        "qpn-x-divine.x000060",
+        "qpn-x-divine.x000060",
+        "qpn-x-divine.x000060",
+        "qpn-x-divine.x000076",
+        "qpn-x-divine.x000076",
+        "qpn-x-divine.x000088",
+        "qpn-x-divine.x000088",
+        "qpn-x-divine.x000088",
+        "qpn-x-divine.x000104",
+        "qpn-x-divine.x000112",
+        "qpn-x-divine.x000120",
+        "qpn-x-divine.x000128",
+        "qpn-x-divine.x000136",
+        "qpn-x-divine.x000144",
+        "qpn-x-divine.x000152",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000234",
+        "qpn-x-divine.x000234",
+        "qpn-x-divine.x000246",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000282",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000330"
+      ]
+    },
+    {
+      "key": "x",
+      "count": "61",
+      "instances": [
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000044",
+        "qpn-x-divine.x000044",
+        "qpn-x-divine.x000044",
+        "qpn-x-divine.x000060",
+        "qpn-x-divine.x000060",
+        "qpn-x-divine.x000060",
+        "qpn-x-divine.x000076",
+        "qpn-x-divine.x000076",
+        "qpn-x-divine.x000088",
+        "qpn-x-divine.x000088",
+        "qpn-x-divine.x000088",
+        "qpn-x-divine.x000104",
+        "qpn-x-divine.x000112",
+        "qpn-x-divine.x000120",
+        "qpn-x-divine.x000128",
+        "qpn-x-divine.x000136",
+        "qpn-x-divine.x000144",
+        "qpn-x-divine.x000152",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000234",
+        "qpn-x-divine.x000234",
+        "qpn-x-divine.x000246",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000282",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000330"
+      ]
+    },
+    {
+      "key": "stdbab",
+      "count": "27",
+      "instances": [
+        "qpn-x-divine.x000000",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000022",
+        "qpn-x-divine.x000060",
+        "qpn-x-divine.x000076",
+        "qpn-x-divine.x000088",
+        "qpn-x-divine.x000104",
+        "qpn-x-divine.x000112",
+        "qpn-x-divine.x000120",
+        "qpn-x-divine.x000128",
+        "qpn-x-divine.x000136",
+        "qpn-x-divine.x000144",
+        "qpn-x-divine.x000152",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000160",
+        "qpn-x-divine.x000186",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000206",
+        "qpn-x-divine.x000234",
+        "qpn-x-divine.x000246",
+        "qpn-x-divine.x000254",
+        "qpn-x-divine.x000282",
+        "qpn-x-divine.x000290",
+        "qpn-x-divine.x000290"
+      ]
+    }
+  ],
+  "map": {
+    "%akk": "akk",
+    "5.1.1": "511",
+    "AG": "ag",
+    "AMA.GAN.DU₃": "amagandu₃",
+    "AMAR.UTU": "amarutu",
+    "Adad": "adad",
+    "Adadma": "adadma",
+    "Ani": "ani",
+    "Anu": "anu",
+    "Aššur": "aššur",
+    "BIL.GI": "bilgi",
+    "Bel": "bel",
+    "EN": "en",
+    "EN.LIL₂": "enlil₂",
+    "Ea": "ea",
+    "Enlil": "enlil",
+    "Ereškigal": "ereškigal",
+    "Erra": "erra",
+    "E₂.A": "e₂a",
+    "Girra": "girra",
+    "Gula": "gula",
+    "IM": "im",
+    "INNIN": "innin",
+    "IR₃.RA": "ir₃ra",
+    "Igigi": "igigi",
+    "Issar": "issar",
+    "IŠ.TAR": "ištar",
+    "Išhara": "išhara",
+    "Ištar": "ištar",
+    "MES": "mes",
+    "Marduk": "marduk",
+    "NIN.URTA": "ninurta",
+    "Nabu": "nabu",
+    "Nergal": "nergal",
+    "Ninurta": "ninurta",
+    "PA": "pa",
+    "Sin": "sin",
+    "U.DAR": "udar",
+    "U.GUR": "ugur",
+    "UTU": "utu",
+    "Zarpanitu": "zarpanitu",
+    "neoass:": "neoass",
+    "neoass:20": "neoass20",
+    "neoass:30": "neoass30",
+    "neoass:aš": "neoassaš",
+    "neobab:": "neobab",
+    "neobab:20": "neobab20",
+    "neobab:30": "neobab30",
+    "stdbab:": "stdbab",
+    "stdbab:20": "stdbab20",
+    "stdbab:30": "stdbab30",
+    "Šakkan": "šakkan",
+    "Šamaš": "šamaš"
+  }
+}

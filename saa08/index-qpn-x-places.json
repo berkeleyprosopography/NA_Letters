@@ -1,0 +1,2256 @@
+{
+  "type": "index",
+  "project": "saao/saa08",
+  "source": "http://oracc.org/saao/saa08",
+  "license": "This data is released under the CC0 license",
+  "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "more-info": "http://oracc.org/doc/opendata/",
+  "UTC-timestamp": "2018-06-15T19:43:24",
+  "name": "cbd/qpn-x-places",
+  "keys": [
+    {
+      "key": "a",
+      "count": "7",
+      "instances": [
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000374",
+        "qpn-x-places.x000374"
+      ]
+    },
+    {
+      "key": "d",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000202",
+        "qpn-x-places.x000202"
+      ]
+    },
+    {
+      "key": "e",
+      "count": "6",
+      "instances": [
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000184",
+        "qpn-x-places.x000184"
+      ]
+    },
+    {
+      "key": "i",
+      "count": "10",
+      "instances": [
+        "qpn-x-places.x000000",
+        "qpn-x-places.x000000",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000184",
+        "qpn-x-places.x000184",
+        "qpn-x-places.x000210",
+        "qpn-x-places.x000210"
+      ]
+    },
+    {
+      "key": "gutie",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000184"
+      ]
+    },
+    {
+      "key": "Uruk[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000468"
+      ]
+    },
+    {
+      "key": "nubia",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000226",
+        "qpn-x-places.x000226"
+      ]
+    },
+    {
+      "key": "neobabgudu₈a",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000234"
+      ]
+    },
+    {
+      "key": "akkad",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000000"
+      ]
+    },
+    {
+      "key": "neobabtintir",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000082"
+      ]
+    },
+    {
+      "key": "neobabkur",
+      "count": "6",
+      "instances": [
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000330"
+      ]
+    },
+    {
+      "key": "kaš",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000210",
+        "qpn-x-places.x000210"
+      ]
+    },
+    {
+      "key": "stdbabsu",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388"
+      ]
+    },
+    {
+      "key": "kuši",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000226"
+      ]
+    },
+    {
+      "key": "Akkad[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000000"
+      ]
+    },
+    {
+      "key": "borsippa",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000094",
+        "qpn-x-places.x000094"
+      ]
+    },
+    {
+      "key": "cutha",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000234",
+        "qpn-x-places.x000234"
+      ]
+    },
+    {
+      "key": "Libbi-ali[Inner City (Assur)]",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000254"
+      ]
+    },
+    {
+      "key": "neoassmartu",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000024"
+      ]
+    },
+    {
+      "key": "baltil",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000016"
+      ]
+    },
+    {
+      "key": "subir₄",
+      "count": "14",
+      "instances": [
+        "qpn-x-places.x000338",
+        "qpn-x-places.x000338",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388"
+      ]
+    },
+    {
+      "key": "Mat-Aššur[Assyria]",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000330"
+      ]
+    },
+    {
+      "key": "stdbabmu",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000358"
+      ]
+    },
+    {
+      "key": "neoassa",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000024"
+      ]
+    },
+    {
+      "key": "stdbabgu",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000184",
+        "qpn-x-places.x000184"
+      ]
+    },
+    {
+      "key": "neoassu₂",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000448"
+      ]
+    },
+    {
+      "key": "kar",
+      "count": "4",
+      "instances": [
+        "qpn-x-places.x000202",
+        "qpn-x-places.x000202",
+        "qpn-x-places.x000202",
+        "qpn-x-places.x000202"
+      ]
+    },
+    {
+      "key": "Ešnunna[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000176"
+      ]
+    },
+    {
+      "key": "aššur",
+      "count": "4",
+      "instances": [
+        "qpn-x-places.x000016",
+        "qpn-x-places.x000016",
+        "qpn-x-places.x000330",
+        "qpn-x-places.x000330"
+      ]
+    },
+    {
+      "key": "ṣir",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000346",
+        "qpn-x-places.x000346"
+      ]
+    },
+    {
+      "key": "al",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000016",
+        "qpn-x-places.x000016"
+      ]
+    },
+    {
+      "key": "gu",
+      "count": "4",
+      "instances": [
+        "qpn-x-places.x000184",
+        "qpn-x-places.x000184",
+        "qpn-x-places.x000184",
+        "qpn-x-places.x000184"
+      ]
+    },
+    {
+      "key": "larsa",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000246",
+        "qpn-x-places.x000246"
+      ]
+    },
+    {
+      "key": "neobabbaltil",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000016"
+      ]
+    },
+    {
+      "key": "ku",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000226",
+        "qpn-x-places.x000226"
+      ]
+    },
+    {
+      "key": "neobabnim",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000114"
+      ]
+    },
+    {
+      "key": "ir",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000346",
+        "qpn-x-places.x000346"
+      ]
+    },
+    {
+      "key": "na",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000374",
+        "qpn-x-places.x000374"
+      ]
+    },
+    {
+      "key": "ni",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000374",
+        "qpn-x-places.x000374"
+      ]
+    },
+    {
+      "key": "of",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000210",
+        "qpn-x-places.x000210"
+      ]
+    },
+    {
+      "key": "Kusu[Kush, Nubia]",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000226"
+      ]
+    },
+    {
+      "key": "ma",
+      "count": "4",
+      "instances": [
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000448",
+        "qpn-x-places.x000448"
+      ]
+    },
+    {
+      "key": "mi",
+      "count": "4",
+      "instances": [
+        "qpn-x-places.x000346",
+        "qpn-x-places.x000346",
+        "qpn-x-places.x000346",
+        "qpn-x-places.x000346"
+      ]
+    },
+    {
+      "key": "mu",
+      "count": "3",
+      "instances": [
+        "qpn-x-places.x000358",
+        "qpn-x-places.x000358",
+        "qpn-x-places.x000358"
+      ]
+    },
+    {
+      "key": "ri",
+      "count": "6",
+      "instances": [
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000448",
+        "qpn-x-places.x000448"
+      ]
+    },
+    {
+      "key": "re",
+      "count": "4",
+      "instances": [
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024"
+      ]
+    },
+    {
+      "key": "su",
+      "count": "3",
+      "instances": [
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388"
+      ]
+    },
+    {
+      "key": "neoassuri",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000262"
+      ]
+    },
+    {
+      "key": "the",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000210",
+        "qpn-x-places.x000210"
+      ]
+    },
+    {
+      "key": "tum",
+      "count": "4",
+      "instances": [
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388"
+      ]
+    },
+    {
+      "key": "ur",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000448",
+        "qpn-x-places.x000448"
+      ]
+    },
+    {
+      "key": "kilizi",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000218"
+      ]
+    },
+    {
+      "key": "ta",
+      "count": "6",
+      "instances": [
+        "qpn-x-places.x000358",
+        "qpn-x-places.x000358",
+        "qpn-x-places.x000358",
+        "qpn-x-places.x000358",
+        "qpn-x-places.x000358",
+        "qpn-x-places.x000358"
+      ]
+    },
+    {
+      "key": "ti",
+      "count": "6",
+      "instances": [
+        "qpn-x-places.x000184",
+        "qpn-x-places.x000184",
+        "qpn-x-places.x000184",
+        "qpn-x-places.x000184",
+        "qpn-x-places.x000184",
+        "qpn-x-places.x000184"
+      ]
+    },
+    {
+      "key": "zi",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000218",
+        "qpn-x-places.x000218"
+      ]
+    },
+    {
+      "key": "Mat-Subarti[Subartu]",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000338"
+      ]
+    },
+    {
+      "key": "Dilbat[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000106"
+      ]
+    },
+    {
+      "key": "elamti",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000114"
+      ]
+    },
+    {
+      "key": "elamtu",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114"
+      ]
+    },
+    {
+      "key": "babylon",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000082",
+        "qpn-x-places.x000082"
+      ]
+    },
+    {
+      "key": "akkadi",
+      "count": "3",
+      "instances": [
+        "qpn-x-places.x000000",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262"
+      ]
+    },
+    {
+      "key": "ninua",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000374",
+        "qpn-x-places.x000374"
+      ]
+    },
+    {
+      "key": "ali",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000254",
+        "qpn-x-places.x000254"
+      ]
+    },
+    {
+      "key": "westland",
+      "count": "4",
+      "instances": [
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286"
+      ]
+    },
+    {
+      "key": "nineveh",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000374",
+        "qpn-x-places.x000374"
+      ]
+    },
+    {
+      "key": "stdbab",
+      "count": "8",
+      "instances": [
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000184",
+        "qpn-x-places.x000210",
+        "qpn-x-places.x000358",
+        "qpn-x-places.x000388"
+      ]
+    },
+    {
+      "key": "gu₂du₈a",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000234"
+      ]
+    },
+    {
+      "key": "stdbabka₂dingirra",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000082"
+      ]
+    },
+    {
+      "key": "elamtima",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000114"
+      ]
+    },
+    {
+      "key": "Kilizi[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000218"
+      ]
+    },
+    {
+      "key": "il₃",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000074",
+        "qpn-x-places.x000074"
+      ]
+    },
+    {
+      "key": "Arbail[Arbela]",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000074"
+      ]
+    },
+    {
+      "key": "Babili[Babylon]",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000082"
+      ]
+    },
+    {
+      "key": "nimma",
+      "count": "11",
+      "instances": [
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114"
+      ]
+    },
+    {
+      "key": "stdbaba",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024"
+      ]
+    },
+    {
+      "key": "egypt",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000346",
+        "qpn-x-places.x000346"
+      ]
+    },
+    {
+      "key": "Subartu[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000388"
+      ]
+    },
+    {
+      "key": "neobabbar₂sipa",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000094"
+      ]
+    },
+    {
+      "key": "nim",
+      "count": "9",
+      "instances": [
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114"
+      ]
+    },
+    {
+      "key": "neobabnimma",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114"
+      ]
+    },
+    {
+      "key": "Al-Aššur[Assur]",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000016"
+      ]
+    },
+    {
+      "key": "libbi",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000254",
+        "qpn-x-places.x000254"
+      ]
+    },
+    {
+      "key": "neobabšešunug",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000448"
+      ]
+    },
+    {
+      "key": "stdbabmartu",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024"
+      ]
+    },
+    {
+      "key": "Mat-Akkadi[Babylonia]",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000262"
+      ]
+    },
+    {
+      "key": "kašši",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000210"
+      ]
+    },
+    {
+      "key": "kaššu",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000210"
+      ]
+    },
+    {
+      "key": "šur",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000330",
+        "qpn-x-places.x000330"
+      ]
+    },
+    {
+      "key": "unug",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000468"
+      ]
+    },
+    {
+      "key": "neoasssubir₄",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000388"
+      ]
+    },
+    {
+      "key": "stdbabmut",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000358"
+      ]
+    },
+    {
+      "key": "neobabbar",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000094"
+      ]
+    },
+    {
+      "key": "stdbabmar",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024"
+      ]
+    },
+    {
+      "key": "neobabunug",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000468"
+      ]
+    },
+    {
+      "key": "neobabsu",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000388"
+      ]
+    },
+    {
+      "key": "eš₃nunna",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000176"
+      ]
+    },
+    {
+      "key": "ši",
+      "count": "4",
+      "instances": [
+        "qpn-x-places.x000210",
+        "qpn-x-places.x000210",
+        "qpn-x-places.x000226",
+        "qpn-x-places.x000226"
+      ]
+    },
+    {
+      "key": "gudu₈a",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000234"
+      ]
+    },
+    {
+      "key": "u₂",
+      "count": "3",
+      "instances": [
+        "qpn-x-places.x000226",
+        "qpn-x-places.x000226",
+        "qpn-x-places.x000448"
+      ]
+    },
+    {
+      "key": "kal₃",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000218",
+        "qpn-x-places.x000218"
+      ]
+    },
+    {
+      "key": "tintir",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000082"
+      ]
+    },
+    {
+      "key": "dilbat",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000106",
+        "qpn-x-places.x000106"
+      ]
+    },
+    {
+      "key": "babili",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000082",
+        "qpn-x-places.x000082"
+      ]
+    },
+    {
+      "key": "Uru[Ur]",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000448"
+      ]
+    },
+    {
+      "key": "barsip",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000094",
+        "qpn-x-places.x000094"
+      ]
+    },
+    {
+      "key": "kassites",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000210",
+        "qpn-x-places.x000210"
+      ]
+    },
+    {
+      "key": "Kute[Cutha]",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000234"
+      ]
+    },
+    {
+      "key": "dil",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000106"
+      ]
+    },
+    {
+      "key": "mar",
+      "count": "10",
+      "instances": [
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286"
+      ]
+    },
+    {
+      "key": "mat",
+      "count": "8",
+      "instances": [
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000330",
+        "qpn-x-places.x000330",
+        "qpn-x-places.x000338",
+        "qpn-x-places.x000338"
+      ]
+    },
+    {
+      "key": "arbela",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000074",
+        "qpn-x-places.x000074"
+      ]
+    },
+    {
+      "key": "land",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000210",
+        "qpn-x-places.x000210"
+      ]
+    },
+    {
+      "key": "mut",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000358"
+      ]
+    },
+    {
+      "key": "mur",
+      "count": "8",
+      "instances": [
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024"
+      ]
+    },
+    {
+      "key": "ša₃",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000254",
+        "qpn-x-places.x000254"
+      ]
+    },
+    {
+      "key": "ṣi",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000346",
+        "qpn-x-places.x000346"
+      ]
+    },
+    {
+      "key": "aš",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000330",
+        "qpn-x-places.x000330"
+      ]
+    },
+    {
+      "key": "ninlil₂",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000202",
+        "qpn-x-places.x000202"
+      ]
+    },
+    {
+      "key": "ešnunna",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000176",
+        "qpn-x-places.x000176"
+      ]
+    },
+    {
+      "key": "ka₂dingirra",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000082"
+      ]
+    },
+    {
+      "key": "inner",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000254",
+        "qpn-x-places.x000254"
+      ]
+    },
+    {
+      "key": "bat",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000106",
+        "qpn-x-places.x000106"
+      ]
+    },
+    {
+      "key": "bar",
+      "count": "5",
+      "instances": [
+        "qpn-x-places.x000094",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388"
+      ]
+    },
+    {
+      "key": "subartu",
+      "count": "4",
+      "instances": [
+        "qpn-x-places.x000338",
+        "qpn-x-places.x000338",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388"
+      ]
+    },
+    {
+      "key": "subarta",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000388"
+      ]
+    },
+    {
+      "key": "bal",
+      "count": "6",
+      "instances": [
+        "qpn-x-places.x000358",
+        "qpn-x-places.x000358",
+        "qpn-x-places.x000358",
+        "qpn-x-places.x000358",
+        "qpn-x-places.x000358",
+        "qpn-x-places.x000358"
+      ]
+    },
+    {
+      "key": "subarti",
+      "count": "3",
+      "instances": [
+        "qpn-x-places.x000338",
+        "qpn-x-places.x000338",
+        "qpn-x-places.x000388"
+      ]
+    },
+    {
+      "key": "kusu",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000226"
+      ]
+    },
+    {
+      "key": "stdbabkur",
+      "count": "6",
+      "instances": [
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000338"
+      ]
+    },
+    {
+      "key": "kush",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000226",
+        "qpn-x-places.x000226"
+      ]
+    },
+    {
+      "key": "kute",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000234",
+        "qpn-x-places.x000234"
+      ]
+    },
+    {
+      "key": "neobabdil",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000106"
+      ]
+    },
+    {
+      "key": "stdbabšešunug",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000448",
+        "qpn-x-places.x000448"
+      ]
+    },
+    {
+      "key": "nina",
+      "count": "3",
+      "instances": [
+        "qpn-x-places.x000374",
+        "qpn-x-places.x000374",
+        "qpn-x-places.x000374"
+      ]
+    },
+    {
+      "key": "babylonia",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262"
+      ]
+    },
+    {
+      "key": "bar₂sipa",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000094"
+      ]
+    },
+    {
+      "key": "Ninua[Nineveh]",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000374"
+      ]
+    },
+    {
+      "key": "Mat-Amurri[Westland]",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000286"
+      ]
+    },
+    {
+      "key": "kalzi",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000218"
+      ]
+    },
+    {
+      "key": "Amurru[Westland]",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000024"
+      ]
+    },
+    {
+      "key": "udunug",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000246"
+      ]
+    },
+    {
+      "key": "Larsa[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000246"
+      ]
+    },
+    {
+      "key": "stdbabsubir₄",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388"
+      ]
+    },
+    {
+      "key": "sip",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000094",
+        "qpn-x-places.x000094"
+      ]
+    },
+    {
+      "key": "elam",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114"
+      ]
+    },
+    {
+      "key": "Muṣur[Egypt]",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000346"
+      ]
+    },
+    {
+      "key": "Gutu[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000184"
+      ]
+    },
+    {
+      "key": "neoasskur",
+      "count": "3",
+      "instances": [
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286"
+      ]
+    },
+    {
+      "key": "stdbabnimma",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114"
+      ]
+    },
+    {
+      "key": "neoass",
+      "count": "5",
+      "instances": [
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000218",
+        "qpn-x-places.x000254",
+        "qpn-x-places.x000374",
+        "qpn-x-places.x000388"
+      ]
+    },
+    {
+      "key": "neobabudunug",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000246"
+      ]
+    },
+    {
+      "key": "amurru",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000024"
+      ]
+    },
+    {
+      "key": "amurra",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000024"
+      ]
+    },
+    {
+      "key": "amurre",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000024"
+      ]
+    },
+    {
+      "key": "amurri",
+      "count": "3",
+      "instances": [
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286"
+      ]
+    },
+    {
+      "key": "uruk",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000468",
+        "qpn-x-places.x000468"
+      ]
+    },
+    {
+      "key": "city",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000254",
+        "qpn-x-places.x000254"
+      ]
+    },
+    {
+      "key": "muṣur",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000346"
+      ]
+    },
+    {
+      "key": "Barsip[Borsippa]",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000094"
+      ]
+    },
+    {
+      "key": "neobabsubir₄",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000388"
+      ]
+    },
+    {
+      "key": "Muttabal[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000358"
+      ]
+    },
+    {
+      "key": "stdbaburi",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000000",
+        "qpn-x-places.x000262"
+      ]
+    },
+    {
+      "key": "muttabal",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000358",
+        "qpn-x-places.x000358"
+      ]
+    },
+    {
+      "key": "neobab",
+      "count": "11",
+      "instances": [
+        "qpn-x-places.x000074",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000202",
+        "qpn-x-places.x000226",
+        "qpn-x-places.x000346",
+        "qpn-x-places.x000346",
+        "qpn-x-places.x000374",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388"
+      ]
+    },
+    {
+      "key": "neobabgu₂du₈a",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000234"
+      ]
+    },
+    {
+      "key": "neobabmartu",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000024"
+      ]
+    },
+    {
+      "key": "Elamtu[Elam]",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000114"
+      ]
+    },
+    {
+      "key": "arbail",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000074",
+        "qpn-x-places.x000074"
+      ]
+    },
+    {
+      "key": "Kar-Mullissu[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000202"
+      ]
+    },
+    {
+      "key": "stdbabeš₃nunna",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000176"
+      ]
+    },
+    {
+      "key": "guti",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000184"
+      ]
+    },
+    {
+      "key": "gutu",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000184"
+      ]
+    },
+    {
+      "key": "šešunug",
+      "count": "3",
+      "instances": [
+        "qpn-x-places.x000448",
+        "qpn-x-places.x000448",
+        "qpn-x-places.x000448"
+      ]
+    },
+    {
+      "key": "neoassnimma",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000114"
+      ]
+    },
+    {
+      "key": "neobaburi",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000000",
+        "qpn-x-places.x000000"
+      ]
+    },
+    {
+      "key": "miṣir",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000346"
+      ]
+    },
+    {
+      "key": "assyria",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000330",
+        "qpn-x-places.x000330"
+      ]
+    },
+    {
+      "key": "arba",
+      "count": "2",
+      "instances": [
+        "qpn-x-places.x000074",
+        "qpn-x-places.x000074"
+      ]
+    },
+    {
+      "key": "mullissu",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000202"
+      ]
+    },
+    {
+      "key": "mullissi",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000202"
+      ]
+    },
+    {
+      "key": "Kaššu[land of the Kassites]",
+      "count": "1",
+      "instances": [
+        "qpn-x-places.x000210"
+      ]
+    },
+    {
+      "key": "assur",
+      "count": "4",
+      "instances": [
+        "qpn-x-places.x000016",
+        "qpn-x-places.x000016",
+        "qpn-x-places.x000254",
+        "qpn-x-places.x000254"
+      ]
+    },
+    {
+      "key": "uri",
+      "count": "12",
+      "instances": [
+        "qpn-x-places.x000000",
+        "qpn-x-places.x000000",
+        "qpn-x-places.x000000",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000448"
+      ]
+    },
+    {
+      "key": "1",
+      "count": "20",
+      "instances": [
+        "qpn-x-places.x000000",
+        "qpn-x-places.x000000",
+        "qpn-x-places.x000106",
+        "qpn-x-places.x000106",
+        "qpn-x-places.x000176",
+        "qpn-x-places.x000176",
+        "qpn-x-places.x000184",
+        "qpn-x-places.x000184",
+        "qpn-x-places.x000202",
+        "qpn-x-places.x000202",
+        "qpn-x-places.x000218",
+        "qpn-x-places.x000218",
+        "qpn-x-places.x000246",
+        "qpn-x-places.x000246",
+        "qpn-x-places.x000358",
+        "qpn-x-places.x000358",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000468",
+        "qpn-x-places.x000468"
+      ]
+    },
+    {
+      "key": "#",
+      "count": "156",
+      "instances": [
+        "qpn-x-places.x000000",
+        "qpn-x-places.x000000",
+        "qpn-x-places.x000000",
+        "qpn-x-places.x000000",
+        "qpn-x-places.x000000",
+        "qpn-x-places.x000000",
+        "qpn-x-places.x000016",
+        "qpn-x-places.x000016",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000074",
+        "qpn-x-places.x000074",
+        "qpn-x-places.x000082",
+        "qpn-x-places.x000082",
+        "qpn-x-places.x000082",
+        "qpn-x-places.x000082",
+        "qpn-x-places.x000094",
+        "qpn-x-places.x000094",
+        "qpn-x-places.x000094",
+        "qpn-x-places.x000094",
+        "qpn-x-places.x000106",
+        "qpn-x-places.x000106",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000176",
+        "qpn-x-places.x000176",
+        "qpn-x-places.x000184",
+        "qpn-x-places.x000184",
+        "qpn-x-places.x000184",
+        "qpn-x-places.x000184",
+        "qpn-x-places.x000202",
+        "qpn-x-places.x000202",
+        "qpn-x-places.x000202",
+        "qpn-x-places.x000202",
+        "qpn-x-places.x000210",
+        "qpn-x-places.x000210",
+        "qpn-x-places.x000218",
+        "qpn-x-places.x000218",
+        "qpn-x-places.x000226",
+        "qpn-x-places.x000226",
+        "qpn-x-places.x000234",
+        "qpn-x-places.x000234",
+        "qpn-x-places.x000234",
+        "qpn-x-places.x000234",
+        "qpn-x-places.x000246",
+        "qpn-x-places.x000246",
+        "qpn-x-places.x000254",
+        "qpn-x-places.x000254",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000338",
+        "qpn-x-places.x000338",
+        "qpn-x-places.x000346",
+        "qpn-x-places.x000346",
+        "qpn-x-places.x000346",
+        "qpn-x-places.x000346",
+        "qpn-x-places.x000358",
+        "qpn-x-places.x000358",
+        "qpn-x-places.x000358",
+        "qpn-x-places.x000358",
+        "qpn-x-places.x000374",
+        "qpn-x-places.x000374",
+        "qpn-x-places.x000374",
+        "qpn-x-places.x000374",
+        "qpn-x-places.x000374",
+        "qpn-x-places.x000374",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000448",
+        "qpn-x-places.x000448",
+        "qpn-x-places.x000448",
+        "qpn-x-places.x000448",
+        "qpn-x-places.x000448",
+        "qpn-x-places.x000448",
+        "qpn-x-places.x000468",
+        "qpn-x-places.x000468"
+      ]
+    },
+    {
+      "key": "ki",
+      "count": "106",
+      "instances": [
+        "qpn-x-places.x000000",
+        "qpn-x-places.x000000",
+        "qpn-x-places.x000000",
+        "qpn-x-places.x000000",
+        "qpn-x-places.x000000",
+        "qpn-x-places.x000000",
+        "qpn-x-places.x000016",
+        "qpn-x-places.x000016",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000082",
+        "qpn-x-places.x000082",
+        "qpn-x-places.x000082",
+        "qpn-x-places.x000082",
+        "qpn-x-places.x000094",
+        "qpn-x-places.x000094",
+        "qpn-x-places.x000094",
+        "qpn-x-places.x000094",
+        "qpn-x-places.x000106",
+        "qpn-x-places.x000106",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000176",
+        "qpn-x-places.x000176",
+        "qpn-x-places.x000184",
+        "qpn-x-places.x000184",
+        "qpn-x-places.x000234",
+        "qpn-x-places.x000234",
+        "qpn-x-places.x000234",
+        "qpn-x-places.x000234",
+        "qpn-x-places.x000246",
+        "qpn-x-places.x000246",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000338",
+        "qpn-x-places.x000338",
+        "qpn-x-places.x000358",
+        "qpn-x-places.x000358",
+        "qpn-x-places.x000374",
+        "qpn-x-places.x000374",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000448",
+        "qpn-x-places.x000448",
+        "qpn-x-places.x000448",
+        "qpn-x-places.x000448",
+        "qpn-x-places.x000448",
+        "qpn-x-places.x000448",
+        "qpn-x-places.x000468",
+        "qpn-x-places.x000468"
+      ]
+    },
+    {
+      "key": "akk",
+      "count": "85",
+      "instances": [
+        "qpn-x-places.x000000",
+        "qpn-x-places.x000000",
+        "qpn-x-places.x000000",
+        "qpn-x-places.x000016",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000074",
+        "qpn-x-places.x000082",
+        "qpn-x-places.x000082",
+        "qpn-x-places.x000094",
+        "qpn-x-places.x000094",
+        "qpn-x-places.x000106",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000176",
+        "qpn-x-places.x000184",
+        "qpn-x-places.x000184",
+        "qpn-x-places.x000184",
+        "qpn-x-places.x000202",
+        "qpn-x-places.x000210",
+        "qpn-x-places.x000218",
+        "qpn-x-places.x000226",
+        "qpn-x-places.x000234",
+        "qpn-x-places.x000234",
+        "qpn-x-places.x000246",
+        "qpn-x-places.x000254",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000330",
+        "qpn-x-places.x000338",
+        "qpn-x-places.x000346",
+        "qpn-x-places.x000346",
+        "qpn-x-places.x000358",
+        "qpn-x-places.x000358",
+        "qpn-x-places.x000358",
+        "qpn-x-places.x000374",
+        "qpn-x-places.x000374",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000448",
+        "qpn-x-places.x000448",
+        "qpn-x-places.x000448",
+        "qpn-x-places.x000448",
+        "qpn-x-places.x000468"
+      ]
+    },
+    {
+      "key": "x",
+      "count": "85",
+      "instances": [
+        "qpn-x-places.x000000",
+        "qpn-x-places.x000000",
+        "qpn-x-places.x000000",
+        "qpn-x-places.x000016",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000074",
+        "qpn-x-places.x000082",
+        "qpn-x-places.x000082",
+        "qpn-x-places.x000094",
+        "qpn-x-places.x000094",
+        "qpn-x-places.x000106",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000176",
+        "qpn-x-places.x000184",
+        "qpn-x-places.x000184",
+        "qpn-x-places.x000184",
+        "qpn-x-places.x000202",
+        "qpn-x-places.x000210",
+        "qpn-x-places.x000218",
+        "qpn-x-places.x000226",
+        "qpn-x-places.x000234",
+        "qpn-x-places.x000234",
+        "qpn-x-places.x000246",
+        "qpn-x-places.x000254",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000330",
+        "qpn-x-places.x000338",
+        "qpn-x-places.x000346",
+        "qpn-x-places.x000346",
+        "qpn-x-places.x000358",
+        "qpn-x-places.x000358",
+        "qpn-x-places.x000358",
+        "qpn-x-places.x000374",
+        "qpn-x-places.x000374",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000448",
+        "qpn-x-places.x000448",
+        "qpn-x-places.x000448",
+        "qpn-x-places.x000448",
+        "qpn-x-places.x000468"
+      ]
+    },
+    {
+      "key": "martu",
+      "count": "16",
+      "instances": [
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286"
+      ]
+    },
+    {
+      "key": "kur",
+      "count": "49",
+      "instances": [
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000024",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000114",
+        "qpn-x-places.x000184",
+        "qpn-x-places.x000184",
+        "qpn-x-places.x000210",
+        "qpn-x-places.x000210",
+        "qpn-x-places.x000226",
+        "qpn-x-places.x000226",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000262",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000286",
+        "qpn-x-places.x000330",
+        "qpn-x-places.x000338",
+        "qpn-x-places.x000346",
+        "qpn-x-places.x000346",
+        "qpn-x-places.x000346",
+        "qpn-x-places.x000346",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388",
+        "qpn-x-places.x000388"
+      ]
+    },
+    {
+      "key": "uru",
+      "count": "17",
+      "instances": [
+        "qpn-x-places.x000074",
+        "qpn-x-places.x000074",
+        "qpn-x-places.x000202",
+        "qpn-x-places.x000202",
+        "qpn-x-places.x000218",
+        "qpn-x-places.x000218",
+        "qpn-x-places.x000254",
+        "qpn-x-places.x000254",
+        "qpn-x-places.x000254",
+        "qpn-x-places.x000254",
+        "qpn-x-places.x000358",
+        "qpn-x-places.x000358",
+        "qpn-x-places.x000374",
+        "qpn-x-places.x000374",
+        "qpn-x-places.x000374",
+        "qpn-x-places.x000374",
+        "qpn-x-places.x000448"
+      ]
+    }
+  ],
+  "map": {
+    "%akk": "akk",
+    "(Assur)": "assur",
+    "Akkad": "akkad",
+    "Akkadi": "akkadi",
+    "Al": "al",
+    "Amurra": "amurra",
+    "Amurre": "amurre",
+    "Amurri": "amurri",
+    "Amurru": "amurru",
+    "Arbail": "arbail",
+    "Arbela": "arbela",
+    "Assur": "assur",
+    "Assyria": "assyria",
+    "Aššur": "aššur",
+    "BAL.TIL": "baltil",
+    "BAR₂.SIPA": "bar₂sipa",
+    "Babili": "babili",
+    "Babylon": "babylon",
+    "Babylonia": "babylonia",
+    "Barsip": "barsip",
+    "Borsippa": "borsippa",
+    "City": "city",
+    "Cutha": "cutha",
+    "Dilbat": "dilbat",
+    "Egypt": "egypt",
+    "Elam": "elam",
+    "Elamti": "elamti",
+    "Elamtima": "elamtima",
+    "Elamtu": "elamtu",
+    "EŠ₃.NUN.NA": "eš₃nunna",
+    "Ešnunna": "ešnunna",
+    "GU.DU₈.A": "gudu₈a",
+    "GU₂.DU₈.A": "gu₂du₈a",
+    "Guti": "guti",
+    "Gutie": "gutie",
+    "Gutu": "gutu",
+    "Inner": "inner",
+    "KA₂.DINGIR.RA": "ka₂dingirra",
+    "KI": "ki",
+    "KUR": "kur",
+    "Kalzi": "kalzi",
+    "Kar": "kar",
+    "Kassites": "kassites",
+    "Kašši": "kašši",
+    "Kaššu": "kaššu",
+    "Kilizi": "kilizi",
+    "Kush": "kush",
+    "Kusu": "kusu",
+    "Kute": "kute",
+    "Kuši": "kuši",
+    "Larsa": "larsa",
+    "Libbi": "libbi",
+    "MAR": "mar",
+    "MAR.TU": "martu",
+    "Mat": "mat",
+    "Miṣir": "miṣir",
+    "Mullissi": "mullissi",
+    "Mullissu": "mullissu",
+    "Muttabal": "muttabal",
+    "Muṣur": "muṣur",
+    "NIM": "nim",
+    "NIM.MA": "nimma",
+    "NIN.LIL₂": "ninlil₂",
+    "NINA": "nina",
+    "Nina": "nina",
+    "Nineveh": "nineveh",
+    "Ninua": "ninua",
+    "Nubia": "nubia",
+    "SU": "su",
+    "SU.BIR₄": "subir₄",
+    "Subarta": "subarta",
+    "Subarti": "subarti",
+    "Subartu": "subartu",
+    "TIN.TIR": "tintir",
+    "UD.UNUG": "udunug",
+    "UNUG": "unug",
+    "URI": "uri",
+    "URU": "uru",
+    "Ur": "ur",
+    "Uri": "uri",
+    "Uru": "uru",
+    "Uruk": "uruk",
+    "Westland": "westland",
+    "neoass:": "neoass",
+    "neoass:KUR": "neoasskur",
+    "neoass:MAR.TU": "neoassmartu",
+    "neoass:NIM.MA": "neoassnimma",
+    "neoass:SU.BIR₄": "neoasssubir₄",
+    "neoass:URI": "neoassuri",
+    "neoass:a": "neoassa",
+    "neoass:u₂": "neoassu₂",
+    "neobab:": "neobab",
+    "neobab:BAL.TIL": "neobabbaltil",
+    "neobab:BAR₂.SIPA": "neobabbar₂sipa",
+    "neobab:GU.DU₈.A": "neobabgudu₈a",
+    "neobab:GU₂.DU₈.A": "neobabgu₂du₈a",
+    "neobab:KUR": "neobabkur",
+    "neobab:MAR.TU": "neobabmartu",
+    "neobab:NIM": "neobabnim",
+    "neobab:NIM.MA": "neobabnimma",
+    "neobab:SU.BIR₄": "neobabsubir₄",
+    "neobab:TIN.TIR": "neobabtintir",
+    "neobab:UD.UNUG": "neobabudunug",
+    "neobab:UNUG": "neobabunug",
+    "neobab:URI": "neobaburi",
+    "neobab:bar": "neobabbar",
+    "neobab:dil": "neobabdil",
+    "neobab:su": "neobabsu",
+    "neobab:ŠEŠ.UNUG": "neobabšešunug",
+    "stdbab:": "stdbab",
+    "stdbab:EŠ₃.NUN.NA": "stdbabeš₃nunna",
+    "stdbab:KA₂.DINGIR.RA": "stdbabka₂dingirra",
+    "stdbab:KUR": "stdbabkur",
+    "stdbab:MAR": "stdbabmar",
+    "stdbab:MAR.TU": "stdbabmartu",
+    "stdbab:NIM.MA": "stdbabnimma",
+    "stdbab:SU": "stdbabsu",
+    "stdbab:SU.BIR₄": "stdbabsubir₄",
+    "stdbab:URI": "stdbaburi",
+    "stdbab:a": "stdbaba",
+    "stdbab:gu": "stdbabgu",
+    "stdbab:mu": "stdbabmu",
+    "stdbab:mut": "stdbabmut",
+    "stdbab:su": "stdbabsu",
+    "stdbab:ŠEŠ.UNUG": "stdbabšešunug",
+    "ŠA₃": "ša₃",
+    "ŠEŠ.UNUG": "šešunug"
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "type": "glossary",
+  "project": "saao/saa08",
+  "source": "http://oracc.org/saao/saa08",
+  "license": "This data is released under the CC0 license",
+  "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "more-info": "http://oracc.org/doc/opendata/",
+  "UTC-timestamp": "2018-06-15T19:43:22",
+  "lang": "qpn-x-temple",
+  "entries": [
+    {
+      "headword": "bit-Ištar[Temple of Ištar]TN",
+      "id": "qpn-x-temple.x000000",
+      "icount": "2",
+      "ipct": "100",
+      "xis": "qpn.r00001",
+      "dc_title": "saao/saa08/qpn-x-temple/bit-Ištar[Temple of Ištar]",
+      "cf": "bit-Ištar",
+      "gw": "Temple of Ištar",
+      "pos": "TN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-temple.x000001",
+          "n": "E₂-{d}INNIN",
+          "icount": "2",
+          "ipct": "100",
+          "xis": "qpn.r00001"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-temple.x000002",
+          "icount": "2",
+          "ipct": "100",
+          "xis": "qpn.r00001",
+          "n": "bit-Ištar",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-temple.x000003",
+              "ref": "qpn-x-temple.x000001",
+              "icount": "2",
+              "ipct": "100",
+              "xis": "qpn.r00001"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-temple.x000004",
+          "n": "bit-Ištar[Temple of Ištar//Temple of Ištar]TN'TN",
+          "icount": "2",
+          "ipct": "100",
+          "xis": "qpn.r00001",
+          "num": "1.",
+          "pos": "TN",
+          "mng": "Temple of Ištar",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-temple.x000005",
+              "n": "%akk-x-stdbab:E₂-{d}INNIN",
+              "icount": "2",
+              "ipct": "100",
+              "xis": "qpn.r00001"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-temple.x000006",
+              "n": "bit-Ištar",
+              "icount": "2",
+              "ipct": "100",
+              "xis": "qpn.r00001"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-temple.x000007",
+              "sig": "@saao/saa08%akk-x-stdbab:E₂-{d}INNIN=bit-Ištar[Temple of Ištar//Temple of Ištar]TN'TN$bit-Ištar",
+              "icount": "2",
+              "ipct": "100",
+              "xis": "qpn.r00001"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "2",
+          "ipct": "100",
+          "xis": "qpn.r00001.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "bit-Nušku[temple of Nusku]TN",
+      "id": "qpn-x-temple.x000008",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r00002",
+      "dc_title": "saao/saa08/qpn-x-temple/bit-Nušku[temple of Nusku]",
+      "cf": "bit-Nušku",
+      "gw": "temple of Nusku",
+      "pos": "TN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-temple.x000009",
+          "n": "E₂-{d}PA.TUG₂",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00002"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-temple.x000010",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00002",
+          "n": "bit-Nušku",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-temple.x000011",
+              "ref": "qpn-x-temple.x000009",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00002"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-temple.x000012",
+          "n": "bit-Nušku[temple of Nusku//temple of Nusku]TN'TN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00002",
+          "num": "1.",
+          "pos": "TN",
+          "mng": "temple of Nusku",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-temple.x000013",
+              "n": "%akk-x-stdbab:E₂-{d}PA.TUG₂",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00002"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-temple.x000014",
+              "n": "bit-Nušku",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00002"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-temple.x000015",
+              "sig": "@saao/saa08%akk-x-stdbab:E₂-{d}PA.TUG₂=bit-Nušku[temple of Nusku//temple of Nusku]TN'TN$bit-Nušku",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00002"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00002.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Ekur[1]TN",
+      "id": "qpn-x-temple.x000016",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r00000",
+      "dc_title": "saao/saa08/qpn-x-temple/Ekur[1]",
+      "cf": "Ekur",
+      "gw": "1",
+      "pos": "TN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-temple.x000017",
+          "n": "E₂.KUR",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00000"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-temple.x000018",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00000",
+          "n": "Ekur",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-temple.x000019",
+              "ref": "qpn-x-temple.x000017",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00000"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-temple.x000020",
+          "n": "Ekur[1//1]TN'TN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00000",
+          "num": "1.",
+          "pos": "TN",
+          "mng": "1",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-temple.x000021",
+              "n": "%akk-x-stdbab:E₂.KUR",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00000"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-temple.x000022",
+              "n": "Ekur",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00000"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-temple.x000023",
+              "sig": "@saao/saa08%akk-x-stdbab:E₂.KUR=Ekur[1//1]TN'TN$Ekur",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00000"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00000.p.s000"
+        }
+      ]
+    }
+  ],
+  "instances": {
+    "qpn.r00000": [
+      "saao/saa08:P238046.22.8"
+    ],
+    "qpn.r00001": [
+      "saao/saa08:P336152.6.4",
+      "saao/saa08:P336152.9.4"
+    ],
+    "qpn.r00002": [
+      "saao/saa08:P238089.3.4"
+    ],
+    "qpn.r00000.p.s000": [
+      "saao/saa08:P238046.22.8"
+    ],
+    "qpn.r00001.p.s000": [
+      "saao/saa08:P336152.6.4",
+      "saao/saa08:P336152.9.4"
+    ],
+    "qpn.r00002.p.s000": [
+      "saao/saa08:P238089.3.4"
+    ]
+  },
+  "summaries": {
+    "qpn-x-temple.x000000": "<p class=\"summary\" id=\"qpn-x-temple.x000000\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa08/cbd/qpn-x-temple/qpn-x-temple.x000000.html')\"><span class=\"cf\">bit-Ištar</span> [<span class=\"gw\">TEMPLE OF IšTAR</span>] <span class=\"cf\">TN</span></a> (2x) </span>Neo-Assyrian  \"Temple of Ištar\"</span></p>",
+    "qpn-x-temple.x000008": "<p class=\"summary\" id=\"qpn-x-temple.x000008\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa08/cbd/qpn-x-temple/qpn-x-temple.x000008.html')\"><span class=\"cf\">bit-Nušku</span> [<span class=\"gw\">TEMPLE OF NUSKU</span>] <span class=\"cf\">TN</span></a> (1x) </span>Neo-Assyrian  \"temple of Nusku\"</span></p>",
+    "qpn-x-temple.x000016": "<p class=\"summary\" id=\"qpn-x-temple.x000016\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa08/cbd/qpn-x-temple/qpn-x-temple.x000016.html')\"><span class=\"cf\">Ekur</span> [<span class=\"gw\">1</span>] <span class=\"cf\">TN</span></a> (1x) </span>Neo-Assyrian  \"1\"</span></p>"
+  }
+}

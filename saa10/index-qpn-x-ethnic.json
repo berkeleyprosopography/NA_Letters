@@ -1,0 +1,1718 @@
+{
+  "type": "index",
+  "project": "saao/saa10",
+  "source": "http://oracc.org/saao/saa10",
+  "license": "This data is released under the CC0 license",
+  "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "more-info": "http://oracc.org/doc/opendata/",
+  "UTC-timestamp": "2018-06-15T19:38:07",
+  "name": "cbd/qpn-x-ethnic",
+  "keys": [
+    {
+      "key": "a",
+      "count": "6",
+      "instances": [
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000244",
+        "qpn-x-ethnic.x000244"
+      ]
+    },
+    {
+      "key": "i",
+      "count": "6",
+      "instances": [
+        "qpn-x-ethnic.x000060",
+        "qpn-x-ethnic.x000060",
+        "qpn-x-ethnic.x000084",
+        "qpn-x-ethnic.x000084",
+        "qpn-x-ethnic.x000092",
+        "qpn-x-ethnic.x000092"
+      ]
+    },
+    {
+      "key": "u",
+      "count": "8",
+      "instances": [
+        "qpn-x-ethnic.x000000",
+        "qpn-x-ethnic.x000000",
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000244",
+        "qpn-x-ethnic.x000244"
+      ]
+    },
+    {
+      "key": "aramaeans",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000000",
+        "qpn-x-ethnic.x000000"
+      ]
+    },
+    {
+      "key": "akkad",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000016"
+      ]
+    },
+    {
+      "key": "kummuhaya",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000180"
+      ]
+    },
+    {
+      "key": "kur",
+      "count": "15",
+      "instances": [
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000116",
+        "qpn-x-ethnic.x000116",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000156",
+        "qpn-x-ethnic.x000156",
+        "qpn-x-ethnic.x000180",
+        "qpn-x-ethnic.x000180",
+        "qpn-x-ethnic.x000212",
+        "qpn-x-ethnic.x000212",
+        "qpn-x-ethnic.x000244",
+        "qpn-x-ethnic.x000244"
+      ]
+    },
+    {
+      "key": "mannean",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000212",
+        "qpn-x-ethnic.x000212"
+      ]
+    },
+    {
+      "key": "from",
+      "count": "8",
+      "instances": [
+        "qpn-x-ethnic.x000028",
+        "qpn-x-ethnic.x000028",
+        "qpn-x-ethnic.x000172",
+        "qpn-x-ethnic.x000172",
+        "qpn-x-ethnic.x000180",
+        "qpn-x-ethnic.x000180",
+        "qpn-x-ethnic.x000204",
+        "qpn-x-ethnic.x000204"
+      ]
+    },
+    {
+      "key": "stdbabah",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000000"
+      ]
+    },
+    {
+      "key": "mar-Babili[Babylonian]",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000220"
+      ]
+    },
+    {
+      "key": "aššuriti",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000060"
+      ]
+    },
+    {
+      "key": "aššuritu",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000060"
+      ]
+    },
+    {
+      "key": "kal",
+      "count": "4",
+      "instances": [
+        "qpn-x-ethnic.x000156",
+        "qpn-x-ethnic.x000156",
+        "qpn-x-ethnic.x000164",
+        "qpn-x-ethnic.x000164"
+      ]
+    },
+    {
+      "key": "kad",
+      "count": "4",
+      "instances": [
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000016"
+      ]
+    },
+    {
+      "key": "Indaraya[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000148"
+      ]
+    },
+    {
+      "key": "ibaya",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000092",
+        "qpn-x-ethnic.x000092"
+      ]
+    },
+    {
+      "key": "ṣir",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000228",
+        "qpn-x-ethnic.x000228"
+      ]
+    },
+    {
+      "key": "ah",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000000"
+      ]
+    },
+    {
+      "key": "ak",
+      "count": "4",
+      "instances": [
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000016"
+      ]
+    },
+    {
+      "key": "ar",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000036",
+        "qpn-x-ethnic.x000036"
+      ]
+    },
+    {
+      "key": "da",
+      "count": "4",
+      "instances": [
+        "qpn-x-ethnic.x000148",
+        "qpn-x-ethnic.x000148",
+        "qpn-x-ethnic.x000156",
+        "qpn-x-ethnic.x000156"
+      ]
+    },
+    {
+      "key": "ba",
+      "count": "4",
+      "instances": [
+        "qpn-x-ethnic.x000092",
+        "qpn-x-ethnic.x000092",
+        "qpn-x-ethnic.x000236",
+        "qpn-x-ethnic.x000236"
+      ]
+    },
+    {
+      "key": "bu",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000116",
+        "qpn-x-ethnic.x000116"
+      ]
+    },
+    {
+      "key": "gi",
+      "count": "4",
+      "instances": [
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124"
+      ]
+    },
+    {
+      "key": "hi",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000196",
+        "qpn-x-ethnic.x000196"
+      ]
+    },
+    {
+      "key": "ha",
+      "count": "6",
+      "instances": [
+        "qpn-x-ethnic.x000036",
+        "qpn-x-ethnic.x000036",
+        "qpn-x-ethnic.x000164",
+        "qpn-x-ethnic.x000164",
+        "qpn-x-ethnic.x000180",
+        "qpn-x-ethnic.x000180"
+      ]
+    },
+    {
+      "key": "Elamaya[Elamite]",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000108"
+      ]
+    },
+    {
+      "key": "Kalhaya[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000164"
+      ]
+    },
+    {
+      "key": "neoassnim",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000108"
+      ]
+    },
+    {
+      "key": "ka",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000100",
+        "qpn-x-ethnic.x000100"
+      ]
+    },
+    {
+      "key": "kalziaya",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000172"
+      ]
+    },
+    {
+      "key": "la",
+      "count": "6",
+      "instances": [
+        "qpn-x-ethnic.x000000",
+        "qpn-x-ethnic.x000000",
+        "qpn-x-ethnic.x000116",
+        "qpn-x-ethnic.x000116",
+        "qpn-x-ethnic.x000196",
+        "qpn-x-ethnic.x000196"
+      ]
+    },
+    {
+      "key": "in",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000148",
+        "qpn-x-ethnic.x000148"
+      ]
+    },
+    {
+      "key": "na",
+      "count": "4",
+      "instances": [
+        "qpn-x-ethnic.x000212",
+        "qpn-x-ethnic.x000212",
+        "qpn-x-ethnic.x000236",
+        "qpn-x-ethnic.x000236"
+      ]
+    },
+    {
+      "key": "ni",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000156",
+        "qpn-x-ethnic.x000156"
+      ]
+    },
+    {
+      "key": "of",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000016"
+      ]
+    },
+    {
+      "key": "cimmerian",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124"
+      ]
+    },
+    {
+      "key": "mi",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000228",
+        "qpn-x-ethnic.x000228"
+      ]
+    },
+    {
+      "key": "mu",
+      "count": "4",
+      "instances": [
+        "qpn-x-ethnic.x000000",
+        "qpn-x-ethnic.x000000",
+        "qpn-x-ethnic.x000180",
+        "qpn-x-ethnic.x000180"
+      ]
+    },
+    {
+      "key": "ru",
+      "count": "6",
+      "instances": [
+        "qpn-x-ethnic.x000100",
+        "qpn-x-ethnic.x000100",
+        "qpn-x-ethnic.x000148",
+        "qpn-x-ethnic.x000148",
+        "qpn-x-ethnic.x000244",
+        "qpn-x-ethnic.x000244"
+      ]
+    },
+    {
+      "key": "Lahiraya[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000196"
+      ]
+    },
+    {
+      "key": "ra",
+      "count": "10",
+      "instances": [
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000196",
+        "qpn-x-ethnic.x000196"
+      ]
+    },
+    {
+      "key": "neoassuri",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000008"
+      ]
+    },
+    {
+      "key": "kilizi",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000172",
+        "qpn-x-ethnic.x000172"
+      ]
+    },
+    {
+      "key": "ti",
+      "count": "6",
+      "instances": [
+        "qpn-x-ethnic.x000060",
+        "qpn-x-ethnic.x000060",
+        "qpn-x-ethnic.x000084",
+        "qpn-x-ethnic.x000084",
+        "qpn-x-ethnic.x000236",
+        "qpn-x-ethnic.x000236"
+      ]
+    },
+    {
+      "key": "kilizaya",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000172"
+      ]
+    },
+    {
+      "key": "arbailaya",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000028",
+        "qpn-x-ethnic.x000028"
+      ]
+    },
+    {
+      "key": "zi",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000172",
+        "qpn-x-ethnic.x000172"
+      ]
+    },
+    {
+      "key": "egyptian",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000228",
+        "qpn-x-ethnic.x000228"
+      ]
+    },
+    {
+      "key": "urukean",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000252",
+        "qpn-x-ethnic.x000252"
+      ]
+    },
+    {
+      "key": "kalhaya",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000164",
+        "qpn-x-ethnic.x000164"
+      ]
+    },
+    {
+      "key": "akkadu",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000008",
+        "qpn-x-ethnic.x000008"
+      ]
+    },
+    {
+      "key": "ka₂dingir",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000220",
+        "qpn-x-ethnic.x000220"
+      ]
+    },
+    {
+      "key": "Bit-Ibaya[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000092"
+      ]
+    },
+    {
+      "key": "Nabayati[Nabataean]",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000236"
+      ]
+    },
+    {
+      "key": "Kilizaya[from Kilizi]",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000172"
+      ]
+    },
+    {
+      "key": "barsipaya",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000076",
+        "qpn-x-ethnic.x000076"
+      ]
+    },
+    {
+      "key": "nabataean",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000236",
+        "qpn-x-ethnic.x000236"
+      ]
+    },
+    {
+      "key": "gimraya",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000124"
+      ]
+    },
+    {
+      "key": "gu₂du₈a",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000188",
+        "qpn-x-ethnic.x000188"
+      ]
+    },
+    {
+      "key": "Kaldaya[Chaldean]",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000156"
+      ]
+    },
+    {
+      "key": "Ruʾuaya[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000244"
+      ]
+    },
+    {
+      "key": "il₃",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000028",
+        "qpn-x-ethnic.x000028"
+      ]
+    },
+    {
+      "key": "Aššuraya[Assyrian]",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000044"
+      ]
+    },
+    {
+      "key": "gimiraya",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124"
+      ]
+    },
+    {
+      "key": "borsippean",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000076",
+        "qpn-x-ethnic.x000076"
+      ]
+    },
+    {
+      "key": "elamaya",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000108",
+        "qpn-x-ethnic.x000108"
+      ]
+    },
+    {
+      "key": "Kummuhaya[from Commagene]",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000180"
+      ]
+    },
+    {
+      "key": "Akkaduʾa[inhabitant of Akkad]",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000016"
+      ]
+    },
+    {
+      "key": "gimirraya",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000124"
+      ]
+    },
+    {
+      "key": "neobabbar₂sipa",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000084"
+      ]
+    },
+    {
+      "key": "Miṣiraya[Egyptian]",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000228"
+      ]
+    },
+    {
+      "key": "nim",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000108"
+      ]
+    },
+    {
+      "key": "Arbailaya[from Arbela]",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000028"
+      ]
+    },
+    {
+      "key": "Barsipitu[Borsippan]",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000084"
+      ]
+    },
+    {
+      "key": "Babilaya[Babylonian]",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000068"
+      ]
+    },
+    {
+      "key": "indaraya",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000148",
+        "qpn-x-ethnic.x000148"
+      ]
+    },
+    {
+      "key": "Gambulaya[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000116"
+      ]
+    },
+    {
+      "key": "elamite",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000108",
+        "qpn-x-ethnic.x000108"
+      ]
+    },
+    {
+      "key": "dumu",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000220"
+      ]
+    },
+    {
+      "key": "neoassaš",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000044"
+      ]
+    },
+    {
+      "key": "šur",
+      "count": "6",
+      "instances": [
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000060",
+        "qpn-x-ethnic.x000060"
+      ]
+    },
+    {
+      "key": "arraphaya",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000036",
+        "qpn-x-ethnic.x000036"
+      ]
+    },
+    {
+      "key": "unug",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000252",
+        "qpn-x-ethnic.x000252"
+      ]
+    },
+    {
+      "key": "Urukaya[Urukean]",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000252"
+      ]
+    },
+    {
+      "key": "šar",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000100",
+        "qpn-x-ethnic.x000100"
+      ]
+    },
+    {
+      "key": "gambulaya",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000116",
+        "qpn-x-ethnic.x000116"
+      ]
+    },
+    {
+      "key": "šu",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000044"
+      ]
+    },
+    {
+      "key": "dur",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000100",
+        "qpn-x-ethnic.x000100"
+      ]
+    },
+    {
+      "key": "libbalaya",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000204",
+        "qpn-x-ethnic.x000204"
+      ]
+    },
+    {
+      "key": "u₂",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000008",
+        "qpn-x-ethnic.x000008"
+      ]
+    },
+    {
+      "key": "kal₃",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000172",
+        "qpn-x-ethnic.x000172"
+      ]
+    },
+    {
+      "key": "tintir",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000068",
+        "qpn-x-ethnic.x000068"
+      ]
+    },
+    {
+      "key": "kimmuhaya",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000180"
+      ]
+    },
+    {
+      "key": "babili",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000220"
+      ]
+    },
+    {
+      "key": "šarrukkaya",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000100",
+        "qpn-x-ethnic.x000100"
+      ]
+    },
+    {
+      "key": "Arraphaya[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000036"
+      ]
+    },
+    {
+      "key": "Aššuritu[Assyrian]",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000060"
+      ]
+    },
+    {
+      "key": "desig",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000000",
+        "qpn-x-ethnic.x000000"
+      ]
+    },
+    {
+      "key": "assyrian",
+      "count": "4",
+      "instances": [
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000060",
+        "qpn-x-ethnic.x000060"
+      ]
+    },
+    {
+      "key": "kuteʾaya",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000188",
+        "qpn-x-ethnic.x000188"
+      ]
+    },
+    {
+      "key": "Barsipaya[Borsippean]",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000076"
+      ]
+    },
+    {
+      "key": "bad₃",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000100",
+        "qpn-x-ethnic.x000100"
+      ]
+    },
+    {
+      "key": "man",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000212",
+        "qpn-x-ethnic.x000212"
+      ]
+    },
+    {
+      "key": "mar",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000220",
+        "qpn-x-ethnic.x000220"
+      ]
+    },
+    {
+      "key": "arbela",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000028",
+        "qpn-x-ethnic.x000028"
+      ]
+    },
+    {
+      "key": "urukaya",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000252",
+        "qpn-x-ethnic.x000252"
+      ]
+    },
+    {
+      "key": "mir",
+      "count": "4",
+      "instances": [
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124"
+      ]
+    },
+    {
+      "key": "chaldean",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000156",
+        "qpn-x-ethnic.x000156"
+      ]
+    },
+    {
+      "key": "ša₃",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000204",
+        "qpn-x-ethnic.x000204"
+      ]
+    },
+    {
+      "key": "aš",
+      "count": "4",
+      "instances": [
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000060"
+      ]
+    },
+    {
+      "key": "Gimiraya[Cimmerian]",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000124"
+      ]
+    },
+    {
+      "key": "miṣiraya",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000228",
+        "qpn-x-ethnic.x000228"
+      ]
+    },
+    {
+      "key": "bit",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000092",
+        "qpn-x-ethnic.x000092"
+      ]
+    },
+    {
+      "key": "e₂",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000092"
+      ]
+    },
+    {
+      "key": "babylonian",
+      "count": "6",
+      "instances": [
+        "qpn-x-ethnic.x000008",
+        "qpn-x-ethnic.x000008",
+        "qpn-x-ethnic.x000068",
+        "qpn-x-ethnic.x000068",
+        "qpn-x-ethnic.x000220",
+        "qpn-x-ethnic.x000220"
+      ]
+    },
+    {
+      "key": "rap",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000036",
+        "qpn-x-ethnic.x000036"
+      ]
+    },
+    {
+      "key": "Kuteʾaya[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000188"
+      ]
+    },
+    {
+      "key": "lahiraya",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000196",
+        "qpn-x-ethnic.x000196"
+      ]
+    },
+    {
+      "key": "bar₂sipa",
+      "count": "3",
+      "instances": [
+        "qpn-x-ethnic.x000076",
+        "qpn-x-ethnic.x000076",
+        "qpn-x-ethnic.x000084"
+      ]
+    },
+    {
+      "key": "aššuraya",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000044"
+      ]
+    },
+    {
+      "key": "barsipiti",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000084"
+      ]
+    },
+    {
+      "key": "barsipitu",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000084"
+      ]
+    },
+    {
+      "key": "Mannaya[Mannean]",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000212"
+      ]
+    },
+    {
+      "key": "ahlamu",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000000",
+        "qpn-x-ethnic.x000000"
+      ]
+    },
+    {
+      "key": "aš₂",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000044"
+      ]
+    },
+    {
+      "key": "inhabitant",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000016"
+      ]
+    },
+    {
+      "key": "neobabaš",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000060"
+      ]
+    },
+    {
+      "key": "mannaya",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000212",
+        "qpn-x-ethnic.x000212"
+      ]
+    },
+    {
+      "key": "gam",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000116",
+        "qpn-x-ethnic.x000116"
+      ]
+    },
+    {
+      "key": "babilaya",
+      "count": "3",
+      "instances": [
+        "qpn-x-ethnic.x000068",
+        "qpn-x-ethnic.x000068",
+        "qpn-x-ethnic.x000220"
+      ]
+    },
+    {
+      "key": "gim",
+      "count": "4",
+      "instances": [
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124"
+      ]
+    },
+    {
+      "key": "neoasskur",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000044"
+      ]
+    },
+    {
+      "key": "ruʾuaya",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000244",
+        "qpn-x-ethnic.x000244"
+      ]
+    },
+    {
+      "key": "commagene",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000180",
+        "qpn-x-ethnic.x000180"
+      ]
+    },
+    {
+      "key": "neoassdumu",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000220"
+      ]
+    },
+    {
+      "key": "Libbalaya[from Assur]",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000204"
+      ]
+    },
+    {
+      "key": "neobab",
+      "count": "7",
+      "instances": [
+        "qpn-x-ethnic.x000068",
+        "qpn-x-ethnic.x000076",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000148",
+        "qpn-x-ethnic.x000180",
+        "qpn-x-ethnic.x000212",
+        "qpn-x-ethnic.x000228"
+      ]
+    },
+    {
+      "key": "borsippan",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000084",
+        "qpn-x-ethnic.x000084"
+      ]
+    },
+    {
+      "key": "meš",
+      "count": "6",
+      "instances": [
+        "qpn-x-ethnic.x000068",
+        "qpn-x-ethnic.x000068",
+        "qpn-x-ethnic.x000076",
+        "qpn-x-ethnic.x000076",
+        "qpn-x-ethnic.x000220",
+        "qpn-x-ethnic.x000220"
+      ]
+    },
+    {
+      "key": "akkaduʾa",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000016"
+      ]
+    },
+    {
+      "key": "neoasse₂",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000092"
+      ]
+    },
+    {
+      "key": "nabayati",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000236",
+        "qpn-x-ethnic.x000236"
+      ]
+    },
+    {
+      "key": "Akkadu[Babylonian]",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000008"
+      ]
+    },
+    {
+      "key": "kaldani",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000156"
+      ]
+    },
+    {
+      "key": "Ahlamu[(desig. for Aramaeans)]",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000000"
+      ]
+    },
+    {
+      "key": "arba",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000028",
+        "qpn-x-ethnic.x000028"
+      ]
+    },
+    {
+      "key": "for",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000000",
+        "qpn-x-ethnic.x000000"
+      ]
+    },
+    {
+      "key": "Dur-Šarrukkaya[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000100"
+      ]
+    },
+    {
+      "key": "kaldaya",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000156"
+      ]
+    },
+    {
+      "key": "assur",
+      "count": "2",
+      "instances": [
+        "qpn-x-ethnic.x000204",
+        "qpn-x-ethnic.x000204"
+      ]
+    },
+    {
+      "key": "uri",
+      "count": "1",
+      "instances": [
+        "qpn-x-ethnic.x000008"
+      ]
+    },
+    {
+      "key": "akk",
+      "count": "35",
+      "instances": [
+        "qpn-x-ethnic.x000000",
+        "qpn-x-ethnic.x000008",
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000028",
+        "qpn-x-ethnic.x000036",
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000060",
+        "qpn-x-ethnic.x000068",
+        "qpn-x-ethnic.x000076",
+        "qpn-x-ethnic.x000084",
+        "qpn-x-ethnic.x000092",
+        "qpn-x-ethnic.x000100",
+        "qpn-x-ethnic.x000108",
+        "qpn-x-ethnic.x000116",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000148",
+        "qpn-x-ethnic.x000156",
+        "qpn-x-ethnic.x000164",
+        "qpn-x-ethnic.x000172",
+        "qpn-x-ethnic.x000180",
+        "qpn-x-ethnic.x000188",
+        "qpn-x-ethnic.x000196",
+        "qpn-x-ethnic.x000204",
+        "qpn-x-ethnic.x000212",
+        "qpn-x-ethnic.x000220",
+        "qpn-x-ethnic.x000228",
+        "qpn-x-ethnic.x000236",
+        "qpn-x-ethnic.x000244",
+        "qpn-x-ethnic.x000252"
+      ]
+    },
+    {
+      "key": "x",
+      "count": "35",
+      "instances": [
+        "qpn-x-ethnic.x000000",
+        "qpn-x-ethnic.x000008",
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000028",
+        "qpn-x-ethnic.x000036",
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000060",
+        "qpn-x-ethnic.x000068",
+        "qpn-x-ethnic.x000076",
+        "qpn-x-ethnic.x000084",
+        "qpn-x-ethnic.x000092",
+        "qpn-x-ethnic.x000100",
+        "qpn-x-ethnic.x000108",
+        "qpn-x-ethnic.x000116",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000148",
+        "qpn-x-ethnic.x000156",
+        "qpn-x-ethnic.x000164",
+        "qpn-x-ethnic.x000172",
+        "qpn-x-ethnic.x000180",
+        "qpn-x-ethnic.x000188",
+        "qpn-x-ethnic.x000196",
+        "qpn-x-ethnic.x000204",
+        "qpn-x-ethnic.x000212",
+        "qpn-x-ethnic.x000220",
+        "qpn-x-ethnic.x000228",
+        "qpn-x-ethnic.x000236",
+        "qpn-x-ethnic.x000244",
+        "qpn-x-ethnic.x000252"
+      ]
+    },
+    {
+      "key": "#",
+      "count": "74",
+      "instances": [
+        "qpn-x-ethnic.x000008",
+        "qpn-x-ethnic.x000008",
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000028",
+        "qpn-x-ethnic.x000028",
+        "qpn-x-ethnic.x000036",
+        "qpn-x-ethnic.x000036",
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000060",
+        "qpn-x-ethnic.x000060",
+        "qpn-x-ethnic.x000068",
+        "qpn-x-ethnic.x000068",
+        "qpn-x-ethnic.x000068",
+        "qpn-x-ethnic.x000068",
+        "qpn-x-ethnic.x000076",
+        "qpn-x-ethnic.x000076",
+        "qpn-x-ethnic.x000076",
+        "qpn-x-ethnic.x000076",
+        "qpn-x-ethnic.x000084",
+        "qpn-x-ethnic.x000084",
+        "qpn-x-ethnic.x000100",
+        "qpn-x-ethnic.x000100",
+        "qpn-x-ethnic.x000108",
+        "qpn-x-ethnic.x000108",
+        "qpn-x-ethnic.x000116",
+        "qpn-x-ethnic.x000116",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000148",
+        "qpn-x-ethnic.x000148",
+        "qpn-x-ethnic.x000156",
+        "qpn-x-ethnic.x000156",
+        "qpn-x-ethnic.x000164",
+        "qpn-x-ethnic.x000164",
+        "qpn-x-ethnic.x000172",
+        "qpn-x-ethnic.x000172",
+        "qpn-x-ethnic.x000180",
+        "qpn-x-ethnic.x000180",
+        "qpn-x-ethnic.x000188",
+        "qpn-x-ethnic.x000188",
+        "qpn-x-ethnic.x000188",
+        "qpn-x-ethnic.x000188",
+        "qpn-x-ethnic.x000196",
+        "qpn-x-ethnic.x000196",
+        "qpn-x-ethnic.x000196",
+        "qpn-x-ethnic.x000196",
+        "qpn-x-ethnic.x000204",
+        "qpn-x-ethnic.x000204",
+        "qpn-x-ethnic.x000212",
+        "qpn-x-ethnic.x000212",
+        "qpn-x-ethnic.x000228",
+        "qpn-x-ethnic.x000228",
+        "qpn-x-ethnic.x000236",
+        "qpn-x-ethnic.x000236",
+        "qpn-x-ethnic.x000244",
+        "qpn-x-ethnic.x000244",
+        "qpn-x-ethnic.x000252",
+        "qpn-x-ethnic.x000252",
+        "qpn-x-ethnic.x000252",
+        "qpn-x-ethnic.x000252"
+      ]
+    },
+    {
+      "key": "ki",
+      "count": "20",
+      "instances": [
+        "qpn-x-ethnic.x000008",
+        "qpn-x-ethnic.x000008",
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000060",
+        "qpn-x-ethnic.x000060",
+        "qpn-x-ethnic.x000068",
+        "qpn-x-ethnic.x000068",
+        "qpn-x-ethnic.x000076",
+        "qpn-x-ethnic.x000076",
+        "qpn-x-ethnic.x000084",
+        "qpn-x-ethnic.x000084",
+        "qpn-x-ethnic.x000108",
+        "qpn-x-ethnic.x000108",
+        "qpn-x-ethnic.x000180",
+        "qpn-x-ethnic.x000180",
+        "qpn-x-ethnic.x000188",
+        "qpn-x-ethnic.x000188",
+        "qpn-x-ethnic.x000252",
+        "qpn-x-ethnic.x000252"
+      ]
+    },
+    {
+      "key": "lu₂",
+      "count": "28",
+      "instances": [
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000068",
+        "qpn-x-ethnic.x000068",
+        "qpn-x-ethnic.x000076",
+        "qpn-x-ethnic.x000076",
+        "qpn-x-ethnic.x000100",
+        "qpn-x-ethnic.x000100",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000148",
+        "qpn-x-ethnic.x000148",
+        "qpn-x-ethnic.x000188",
+        "qpn-x-ethnic.x000188",
+        "qpn-x-ethnic.x000196",
+        "qpn-x-ethnic.x000196",
+        "qpn-x-ethnic.x000228",
+        "qpn-x-ethnic.x000228",
+        "qpn-x-ethnic.x000236",
+        "qpn-x-ethnic.x000236",
+        "qpn-x-ethnic.x000252",
+        "qpn-x-ethnic.x000252"
+      ]
+    },
+    {
+      "key": "uru",
+      "count": "16",
+      "instances": [
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000028",
+        "qpn-x-ethnic.x000028",
+        "qpn-x-ethnic.x000036",
+        "qpn-x-ethnic.x000036",
+        "qpn-x-ethnic.x000164",
+        "qpn-x-ethnic.x000164",
+        "qpn-x-ethnic.x000172",
+        "qpn-x-ethnic.x000172",
+        "qpn-x-ethnic.x000196",
+        "qpn-x-ethnic.x000196",
+        "qpn-x-ethnic.x000204",
+        "qpn-x-ethnic.x000204",
+        "qpn-x-ethnic.x000204",
+        "qpn-x-ethnic.x000204"
+      ]
+    },
+    {
+      "key": "neoass",
+      "count": "19",
+      "instances": [
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000016",
+        "qpn-x-ethnic.x000028",
+        "qpn-x-ethnic.x000036",
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000100",
+        "qpn-x-ethnic.x000116",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000156",
+        "qpn-x-ethnic.x000164",
+        "qpn-x-ethnic.x000172",
+        "qpn-x-ethnic.x000188",
+        "qpn-x-ethnic.x000196",
+        "qpn-x-ethnic.x000204",
+        "qpn-x-ethnic.x000236",
+        "qpn-x-ethnic.x000244",
+        "qpn-x-ethnic.x000252"
+      ]
+    },
+    {
+      "key": "aa",
+      "count": "52",
+      "instances": [
+        "qpn-x-ethnic.x000028",
+        "qpn-x-ethnic.x000028",
+        "qpn-x-ethnic.x000036",
+        "qpn-x-ethnic.x000036",
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000044",
+        "qpn-x-ethnic.x000060",
+        "qpn-x-ethnic.x000060",
+        "qpn-x-ethnic.x000092",
+        "qpn-x-ethnic.x000092",
+        "qpn-x-ethnic.x000100",
+        "qpn-x-ethnic.x000100",
+        "qpn-x-ethnic.x000108",
+        "qpn-x-ethnic.x000108",
+        "qpn-x-ethnic.x000116",
+        "qpn-x-ethnic.x000116",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000124",
+        "qpn-x-ethnic.x000148",
+        "qpn-x-ethnic.x000148",
+        "qpn-x-ethnic.x000164",
+        "qpn-x-ethnic.x000164",
+        "qpn-x-ethnic.x000172",
+        "qpn-x-ethnic.x000172",
+        "qpn-x-ethnic.x000180",
+        "qpn-x-ethnic.x000180",
+        "qpn-x-ethnic.x000188",
+        "qpn-x-ethnic.x000188",
+        "qpn-x-ethnic.x000196",
+        "qpn-x-ethnic.x000196",
+        "qpn-x-ethnic.x000204",
+        "qpn-x-ethnic.x000204",
+        "qpn-x-ethnic.x000212",
+        "qpn-x-ethnic.x000212",
+        "qpn-x-ethnic.x000228",
+        "qpn-x-ethnic.x000228",
+        "qpn-x-ethnic.x000236",
+        "qpn-x-ethnic.x000236",
+        "qpn-x-ethnic.x000244",
+        "qpn-x-ethnic.x000244",
+        "qpn-x-ethnic.x000252",
+        "qpn-x-ethnic.x000252"
+      ]
+    },
+    {
+      "key": "1",
+      "count": "18",
+      "instances": [
+        "qpn-x-ethnic.x000036",
+        "qpn-x-ethnic.x000036",
+        "qpn-x-ethnic.x000092",
+        "qpn-x-ethnic.x000092",
+        "qpn-x-ethnic.x000100",
+        "qpn-x-ethnic.x000100",
+        "qpn-x-ethnic.x000116",
+        "qpn-x-ethnic.x000116",
+        "qpn-x-ethnic.x000148",
+        "qpn-x-ethnic.x000148",
+        "qpn-x-ethnic.x000164",
+        "qpn-x-ethnic.x000164",
+        "qpn-x-ethnic.x000188",
+        "qpn-x-ethnic.x000188",
+        "qpn-x-ethnic.x000196",
+        "qpn-x-ethnic.x000196",
+        "qpn-x-ethnic.x000244",
+        "qpn-x-ethnic.x000244"
+      ]
+    }
+  ],
+  "map": {
+    "%akk": "akk",
+    "(desig.": "desig",
+    "Ahlamu": "ahlamu",
+    "Akkad": "akkad",
+    "Akkadu": "akkadu",
+    "Akkaduʾa": "akkaduʾa",
+    "Aramaeans)": "aramaeans",
+    "Arbailaya": "arbailaya",
+    "Arbela": "arbela",
+    "Arraphaya": "arraphaya",
+    "Assur": "assur",
+    "Assyrian": "assyrian",
+    "Aššuraya": "aššuraya",
+    "Aššuriti": "aššuriti",
+    "Aššuritu": "aššuritu",
+    "BAD₃": "bad₃",
+    "BAR₂.SIPA": "bar₂sipa",
+    "Babilaya": "babilaya",
+    "Babili": "babili",
+    "Babylonian": "babylonian",
+    "Barsipaya": "barsipaya",
+    "Barsipiti": "barsipiti",
+    "Barsipitu": "barsipitu",
+    "Bit": "bit",
+    "Borsippan": "borsippan",
+    "Borsippean": "borsippean",
+    "Chaldean": "chaldean",
+    "Cimmerian": "cimmerian",
+    "Commagene": "commagene",
+    "DUMU": "dumu",
+    "Dur": "dur",
+    "Egyptian": "egyptian",
+    "Elamaya": "elamaya",
+    "Elamite": "elamite",
+    "E₂": "e₂",
+    "GU₂.DU₈.A": "gu₂du₈a",
+    "Gambulaya": "gambulaya",
+    "Gimiraya": "gimiraya",
+    "Gimirraya": "gimirraya",
+    "Gimraya": "gimraya",
+    "Ibaya": "ibaya",
+    "Indaraya": "indaraya",
+    "KA₂.DINGIR": "ka₂dingir",
+    "KI": "ki",
+    "KUR": "kur",
+    "Kaldani": "kaldani",
+    "Kaldaya": "kaldaya",
+    "Kalhaya": "kalhaya",
+    "Kalziaya": "kalziaya",
+    "Kilizaya": "kilizaya",
+    "Kilizi": "kilizi",
+    "Kimmuhaya": "kimmuhaya",
+    "Kummuhaya": "kummuhaya",
+    "Kuteʾaya": "kuteʾaya",
+    "LU₂": "lu₂",
+    "Lahiraya": "lahiraya",
+    "Libbalaya": "libbalaya",
+    "MEŠ": "meš",
+    "Mannaya": "mannaya",
+    "Mannean": "mannean",
+    "Miṣiraya": "miṣiraya",
+    "NIM": "nim",
+    "Nabataean": "nabataean",
+    "Nabayati": "nabayati",
+    "Ruʾuaya": "ruʾuaya",
+    "TIN.TIR": "tintir",
+    "UNUG": "unug",
+    "URI": "uri",
+    "URU": "uru",
+    "Urukaya": "urukaya",
+    "Urukean": "urukean",
+    "a.a": "aa",
+    "neoass:": "neoass",
+    "neoass:DUMU": "neoassdumu",
+    "neoass:E₂": "neoasse₂",
+    "neoass:KUR": "neoasskur",
+    "neoass:NIM": "neoassnim",
+    "neoass:URI": "neoassuri",
+    "neoass:aš": "neoassaš",
+    "neobab:": "neobab",
+    "neobab:BAR₂.SIPA": "neobabbar₂sipa",
+    "neobab:aš": "neobabaš",
+    "stdbab:ah": "stdbabah",
+    "ŠA₃": "ša₃",
+    "Šarrukkaya": "šarrukkaya"
+  }
+}

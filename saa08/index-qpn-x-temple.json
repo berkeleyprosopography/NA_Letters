@@ -1,0 +1,203 @@
+{
+  "type": "index",
+  "project": "saao/saa08",
+  "source": "http://oracc.org/saao/saa08",
+  "license": "This data is released under the CC0 license",
+  "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "more-info": "http://oracc.org/doc/opendata/",
+  "UTC-timestamp": "2018-06-15T19:43:24",
+  "name": "cbd/qpn-x-temple",
+  "keys": [
+    {
+      "key": "#",
+      "count": "4",
+      "instances": [
+        "qpn-x-temple.x000000",
+        "qpn-x-temple.x000000",
+        "qpn-x-temple.x000008",
+        "qpn-x-temple.x000008"
+      ]
+    },
+    {
+      "key": "1",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000016",
+        "qpn-x-temple.x000016"
+      ]
+    },
+    {
+      "key": "d",
+      "count": "4",
+      "instances": [
+        "qpn-x-temple.x000000",
+        "qpn-x-temple.x000000",
+        "qpn-x-temple.x000008",
+        "qpn-x-temple.x000008"
+      ]
+    },
+    {
+      "key": "x",
+      "count": "3",
+      "instances": [
+        "qpn-x-temple.x000000",
+        "qpn-x-temple.x000008",
+        "qpn-x-temple.x000016"
+      ]
+    },
+    {
+      "key": "stdbabe₂kur",
+      "count": "1",
+      "instances": [
+        "qpn-x-temple.x000016"
+      ]
+    },
+    {
+      "key": "bit-Nušku[temple of Nusku]",
+      "count": "1",
+      "instances": [
+        "qpn-x-temple.x000008"
+      ]
+    },
+    {
+      "key": "nušku",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000008",
+        "qpn-x-temple.x000008"
+      ]
+    },
+    {
+      "key": "patug₂",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000008",
+        "qpn-x-temple.x000008"
+      ]
+    },
+    {
+      "key": "of",
+      "count": "4",
+      "instances": [
+        "qpn-x-temple.x000000",
+        "qpn-x-temple.x000000",
+        "qpn-x-temple.x000008",
+        "qpn-x-temple.x000008"
+      ]
+    },
+    {
+      "key": "akk",
+      "count": "3",
+      "instances": [
+        "qpn-x-temple.x000000",
+        "qpn-x-temple.x000008",
+        "qpn-x-temple.x000016"
+      ]
+    },
+    {
+      "key": "bit-Ištar[Temple of Ištar]",
+      "count": "1",
+      "instances": [
+        "qpn-x-temple.x000000"
+      ]
+    },
+    {
+      "key": "ekur",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000016",
+        "qpn-x-temple.x000016"
+      ]
+    },
+    {
+      "key": "nusku",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000008",
+        "qpn-x-temple.x000008"
+      ]
+    },
+    {
+      "key": "stdbabe₂",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000000",
+        "qpn-x-temple.x000008"
+      ]
+    },
+    {
+      "key": "e₂kur",
+      "count": "1",
+      "instances": [
+        "qpn-x-temple.x000016"
+      ]
+    },
+    {
+      "key": "bit",
+      "count": "4",
+      "instances": [
+        "qpn-x-temple.x000000",
+        "qpn-x-temple.x000000",
+        "qpn-x-temple.x000008",
+        "qpn-x-temple.x000008"
+      ]
+    },
+    {
+      "key": "e₂",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000000",
+        "qpn-x-temple.x000008"
+      ]
+    },
+    {
+      "key": "innin",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000000",
+        "qpn-x-temple.x000000"
+      ]
+    },
+    {
+      "key": "temple",
+      "count": "4",
+      "instances": [
+        "qpn-x-temple.x000000",
+        "qpn-x-temple.x000000",
+        "qpn-x-temple.x000008",
+        "qpn-x-temple.x000008"
+      ]
+    },
+    {
+      "key": "ištar",
+      "count": "4",
+      "instances": [
+        "qpn-x-temple.x000000",
+        "qpn-x-temple.x000000",
+        "qpn-x-temple.x000000",
+        "qpn-x-temple.x000000"
+      ]
+    },
+    {
+      "key": "Ekur[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-temple.x000016"
+      ]
+    }
+  ],
+  "map": {
+    "%akk": "akk",
+    "Ekur": "ekur",
+    "E₂": "e₂",
+    "E₂.KUR": "e₂kur",
+    "INNIN": "innin",
+    "Ištar": "ištar",
+    "Nusku": "nusku",
+    "Nušku": "nušku",
+    "PA.TUG₂": "patug₂",
+    "Temple": "temple",
+    "stdbab:E₂": "stdbabe₂",
+    "stdbab:E₂.KUR": "stdbabe₂kur"
+  }
+}

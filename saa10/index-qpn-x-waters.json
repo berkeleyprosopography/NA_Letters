@@ -1,0 +1,140 @@
+{
+  "type": "index",
+  "project": "saao/saa10",
+  "source": "http://oracc.org/saao/saa10",
+  "license": "This data is released under the CC0 license",
+  "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "more-info": "http://oracc.org/doc/opendata/",
+  "UTC-timestamp": "2018-06-15T19:38:08",
+  "name": "cbd/qpn-x-waters",
+  "keys": [
+    {
+      "key": "#",
+      "count": "6",
+      "instances": [
+        "qpn-x-waters.x000000",
+        "qpn-x-waters.x000000",
+        "qpn-x-waters.x000008",
+        "qpn-x-waters.x000008",
+        "qpn-x-waters.x000008",
+        "qpn-x-waters.x000008"
+      ]
+    },
+    {
+      "key": "diglat",
+      "count": "2",
+      "instances": [
+        "qpn-x-waters.x000000",
+        "qpn-x-waters.x000000"
+      ]
+    },
+    {
+      "key": "x",
+      "count": "2",
+      "instances": [
+        "qpn-x-waters.x000000",
+        "qpn-x-waters.x000008"
+      ]
+    },
+    {
+      "key": "purattu",
+      "count": "2",
+      "instances": [
+        "qpn-x-waters.x000008",
+        "qpn-x-waters.x000008"
+      ]
+    },
+    {
+      "key": "tigris",
+      "count": "2",
+      "instances": [
+        "qpn-x-waters.x000000",
+        "qpn-x-waters.x000000"
+      ]
+    },
+    {
+      "key": "udkibnun",
+      "count": "2",
+      "instances": [
+        "qpn-x-waters.x000008",
+        "qpn-x-waters.x000008"
+      ]
+    },
+    {
+      "key": "ki",
+      "count": "2",
+      "instances": [
+        "qpn-x-waters.x000008",
+        "qpn-x-waters.x000008"
+      ]
+    },
+    {
+      "key": "Diglat[Tigris]",
+      "count": "1",
+      "instances": [
+        "qpn-x-waters.x000000"
+      ]
+    },
+    {
+      "key": "stdbab",
+      "count": "2",
+      "instances": [
+        "qpn-x-waters.x000000",
+        "qpn-x-waters.x000008"
+      ]
+    },
+    {
+      "key": "akk",
+      "count": "2",
+      "instances": [
+        "qpn-x-waters.x000000",
+        "qpn-x-waters.x000008"
+      ]
+    },
+    {
+      "key": "mašgu₂qar",
+      "count": "2",
+      "instances": [
+        "qpn-x-waters.x000000",
+        "qpn-x-waters.x000000"
+      ]
+    },
+    {
+      "key": "Purattu[Euphrates]",
+      "count": "1",
+      "instances": [
+        "qpn-x-waters.x000008"
+      ]
+    },
+    {
+      "key": "euphrates",
+      "count": "2",
+      "instances": [
+        "qpn-x-waters.x000008",
+        "qpn-x-waters.x000008"
+      ]
+    },
+    {
+      "key": "id₂",
+      "count": "4",
+      "instances": [
+        "qpn-x-waters.x000000",
+        "qpn-x-waters.x000000",
+        "qpn-x-waters.x000008",
+        "qpn-x-waters.x000008"
+      ]
+    }
+  ],
+  "map": {
+    "%akk": "akk",
+    "Diglat": "diglat",
+    "Euphrates": "euphrates",
+    "ID₂": "id₂",
+    "KI": "ki",
+    "MAŠ.GU₂.QAR": "mašgu₂qar",
+    "Purattu": "purattu",
+    "Tigris": "tigris",
+    "UD.KIB.NUN": "udkibnun",
+    "stdbab:": "stdbab"
+  }
+}

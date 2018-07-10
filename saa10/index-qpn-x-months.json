@@ -1,0 +1,890 @@
+{
+  "type": "index",
+  "project": "saao/saa10",
+  "source": "http://oracc.org/saao/saa10",
+  "license": "This data is released under the CC0 license",
+  "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "more-info": "http://oracc.org/doc/opendata/",
+  "UTC-timestamp": "2018-06-15T19:38:07",
+  "name": "cbd/qpn-x-months",
+  "keys": [
+    {
+      "key": "ṭebetu",
+      "count": "1",
+      "instances": [
+        "qpn-x-months.x000198"
+      ]
+    },
+    {
+      "key": "ṭebeti",
+      "count": "1",
+      "instances": [
+        "qpn-x-months.x000198"
+      ]
+    },
+    {
+      "key": "Addaru[Adar]",
+      "count": "1",
+      "instances": [
+        "qpn-x-months.x000012"
+      ]
+    },
+    {
+      "key": "apin",
+      "count": "4",
+      "instances": [
+        "qpn-x-months.x000028",
+        "qpn-x-months.x000028",
+        "qpn-x-months.x000028",
+        "qpn-x-months.x000028"
+      ]
+    },
+    {
+      "key": "Ayaru[Iyyar]",
+      "count": "1",
+      "instances": [
+        "qpn-x-months.x000044"
+      ]
+    },
+    {
+      "key": "kan",
+      "count": "2",
+      "instances": [
+        "qpn-x-months.x000096",
+        "qpn-x-months.x000096"
+      ]
+    },
+    {
+      "key": "adar",
+      "count": "2",
+      "instances": [
+        "qpn-x-months.x000012",
+        "qpn-x-months.x000012"
+      ]
+    },
+    {
+      "key": "kin",
+      "count": "2",
+      "instances": [
+        "qpn-x-months.x000084",
+        "qpn-x-months.x000084"
+      ]
+    },
+    {
+      "key": "Duʾuzu[Tammuz]",
+      "count": "1",
+      "instances": [
+        "qpn-x-months.x000068"
+      ]
+    },
+    {
+      "key": "ab",
+      "count": "8",
+      "instances": [
+        "qpn-x-months.x000000",
+        "qpn-x-months.x000000",
+        "qpn-x-months.x000198",
+        "qpn-x-months.x000198",
+        "qpn-x-months.x000198",
+        "qpn-x-months.x000198",
+        "qpn-x-months.x000198",
+        "qpn-x-months.x000198"
+      ]
+    },
+    {
+      "key": "ne",
+      "count": "4",
+      "instances": [
+        "qpn-x-months.x000000",
+        "qpn-x-months.x000000",
+        "qpn-x-months.x000000",
+        "qpn-x-months.x000000"
+      ]
+    },
+    {
+      "key": "ni",
+      "count": "2",
+      "instances": [
+        "qpn-x-months.x000132",
+        "qpn-x-months.x000132"
+      ]
+    },
+    {
+      "key": "ma",
+      "count": "2",
+      "instances": [
+        "qpn-x-months.x000156",
+        "qpn-x-months.x000156"
+      ]
+    },
+    {
+      "key": "si",
+      "count": "2",
+      "instances": [
+        "qpn-x-months.x000132",
+        "qpn-x-months.x000132"
+      ]
+    },
+    {
+      "key": "Ayyaru[Iyyar]",
+      "count": "1",
+      "instances": [
+        "qpn-x-months.x000060"
+      ]
+    },
+    {
+      "key": "Tašritu[Tishri]",
+      "count": "1",
+      "instances": [
+        "qpn-x-months.x000186"
+      ]
+    },
+    {
+      "key": "abi",
+      "count": "1",
+      "instances": [
+        "qpn-x-months.x000000"
+      ]
+    },
+    {
+      "key": "abu",
+      "count": "1",
+      "instances": [
+        "qpn-x-months.x000000"
+      ]
+    },
+    {
+      "key": "stdbab",
+      "count": "5",
+      "instances": [
+        "qpn-x-months.x000044",
+        "qpn-x-months.x000068",
+        "qpn-x-months.x000112",
+        "qpn-x-months.x000132",
+        "qpn-x-months.x000198"
+      ]
+    },
+    {
+      "key": "Simanu[Sivan]",
+      "count": "1",
+      "instances": [
+        "qpn-x-months.x000132"
+      ]
+    },
+    {
+      "key": "sig₄",
+      "count": "4",
+      "instances": [
+        "qpn-x-months.x000132",
+        "qpn-x-months.x000132",
+        "qpn-x-months.x000132",
+        "qpn-x-months.x000132"
+      ]
+    },
+    {
+      "key": "taʾuzu",
+      "count": "2",
+      "instances": [
+        "qpn-x-months.x000178",
+        "qpn-x-months.x000178"
+      ]
+    },
+    {
+      "key": "taʾuzi",
+      "count": "1",
+      "instances": [
+        "qpn-x-months.x000068"
+      ]
+    },
+    {
+      "key": "Taʾuzu[Tammuz]",
+      "count": "1",
+      "instances": [
+        "qpn-x-months.x000178"
+      ]
+    },
+    {
+      "key": "eluli",
+      "count": "1",
+      "instances": [
+        "qpn-x-months.x000084"
+      ]
+    },
+    {
+      "key": "elulu",
+      "count": "2",
+      "instances": [
+        "qpn-x-months.x000084",
+        "qpn-x-months.x000084"
+      ]
+    },
+    {
+      "key": "duʾuzu",
+      "count": "1",
+      "instances": [
+        "qpn-x-months.x000068"
+      ]
+    },
+    {
+      "key": "nisannu",
+      "count": "2",
+      "instances": [
+        "qpn-x-months.x000112",
+        "qpn-x-months.x000112"
+      ]
+    },
+    {
+      "key": "nisanni",
+      "count": "1",
+      "instances": [
+        "qpn-x-months.x000112"
+      ]
+    },
+    {
+      "key": "tishri",
+      "count": "2",
+      "instances": [
+        "qpn-x-months.x000186",
+        "qpn-x-months.x000186"
+      ]
+    },
+    {
+      "key": "du₆",
+      "count": "4",
+      "instances": [
+        "qpn-x-months.x000186",
+        "qpn-x-months.x000186",
+        "qpn-x-months.x000186",
+        "qpn-x-months.x000186"
+      ]
+    },
+    {
+      "key": "tammuz",
+      "count": "4",
+      "instances": [
+        "qpn-x-months.x000068",
+        "qpn-x-months.x000068",
+        "qpn-x-months.x000178",
+        "qpn-x-months.x000178"
+      ]
+    },
+    {
+      "key": "iyyar",
+      "count": "4",
+      "instances": [
+        "qpn-x-months.x000044",
+        "qpn-x-months.x000044",
+        "qpn-x-months.x000060",
+        "qpn-x-months.x000060"
+      ]
+    },
+    {
+      "key": "shebat",
+      "count": "2",
+      "instances": [
+        "qpn-x-months.x000156",
+        "qpn-x-months.x000156"
+      ]
+    },
+    {
+      "key": "šu",
+      "count": "8",
+      "instances": [
+        "qpn-x-months.x000068",
+        "qpn-x-months.x000068",
+        "qpn-x-months.x000068",
+        "qpn-x-months.x000068",
+        "qpn-x-months.x000068",
+        "qpn-x-months.x000068",
+        "qpn-x-months.x000178",
+        "qpn-x-months.x000178"
+      ]
+    },
+    {
+      "key": "še",
+      "count": "4",
+      "instances": [
+        "qpn-x-months.x000012",
+        "qpn-x-months.x000012",
+        "qpn-x-months.x000012",
+        "qpn-x-months.x000012"
+      ]
+    },
+    {
+      "key": "Elulu[Elul]",
+      "count": "1",
+      "instances": [
+        "qpn-x-months.x000084"
+      ]
+    },
+    {
+      "key": "ziz₂",
+      "count": "6",
+      "instances": [
+        "qpn-x-months.x000156",
+        "qpn-x-months.x000156",
+        "qpn-x-months.x000156",
+        "qpn-x-months.x000156",
+        "qpn-x-months.x000156",
+        "qpn-x-months.x000156"
+      ]
+    },
+    {
+      "key": "Ṭebetu[Tebet]",
+      "count": "1",
+      "instances": [
+        "qpn-x-months.x000198"
+      ]
+    },
+    {
+      "key": "man",
+      "count": "2",
+      "instances": [
+        "qpn-x-months.x000132",
+        "qpn-x-months.x000132"
+      ]
+    },
+    {
+      "key": "nisan",
+      "count": "2",
+      "instances": [
+        "qpn-x-months.x000112",
+        "qpn-x-months.x000112"
+      ]
+    },
+    {
+      "key": "kislev",
+      "count": "2",
+      "instances": [
+        "qpn-x-months.x000096",
+        "qpn-x-months.x000096"
+      ]
+    },
+    {
+      "key": "šabaṭimma",
+      "count": "1",
+      "instances": [
+        "qpn-x-months.x000156"
+      ]
+    },
+    {
+      "key": "ayyaru",
+      "count": "1",
+      "instances": [
+        "qpn-x-months.x000060"
+      ]
+    },
+    {
+      "key": "tebet",
+      "count": "2",
+      "instances": [
+        "qpn-x-months.x000198",
+        "qpn-x-months.x000198"
+      ]
+    },
+    {
+      "key": "arahsamni",
+      "count": "1",
+      "instances": [
+        "qpn-x-months.x000028"
+      ]
+    },
+    {
+      "key": "arahsamnu",
+      "count": "2",
+      "instances": [
+        "qpn-x-months.x000028",
+        "qpn-x-months.x000028"
+      ]
+    },
+    {
+      "key": "simanni",
+      "count": "1",
+      "instances": [
+        "qpn-x-months.x000132"
+      ]
+    },
+    {
+      "key": "gan",
+      "count": "2",
+      "instances": [
+        "qpn-x-months.x000096",
+        "qpn-x-months.x000096"
+      ]
+    },
+    {
+      "key": "kislimi",
+      "count": "1",
+      "instances": [
+        "qpn-x-months.x000096"
+      ]
+    },
+    {
+      "key": "kislimu",
+      "count": "2",
+      "instances": [
+        "qpn-x-months.x000096",
+        "qpn-x-months.x000096"
+      ]
+    },
+    {
+      "key": "Kislimu[Kislev]",
+      "count": "1",
+      "instances": [
+        "qpn-x-months.x000096"
+      ]
+    },
+    {
+      "key": "Arahsamnu[Marchesvan]",
+      "count": "1",
+      "instances": [
+        "qpn-x-months.x000028"
+      ]
+    },
+    {
+      "key": "elul",
+      "count": "2",
+      "instances": [
+        "qpn-x-months.x000084",
+        "qpn-x-months.x000084"
+      ]
+    },
+    {
+      "key": "addaru",
+      "count": "2",
+      "instances": [
+        "qpn-x-months.x000012",
+        "qpn-x-months.x000012"
+      ]
+    },
+    {
+      "key": "addari",
+      "count": "1",
+      "instances": [
+        "qpn-x-months.x000012"
+      ]
+    },
+    {
+      "key": "gud",
+      "count": "6",
+      "instances": [
+        "qpn-x-months.x000044",
+        "qpn-x-months.x000044",
+        "qpn-x-months.x000044",
+        "qpn-x-months.x000044",
+        "qpn-x-months.x000060",
+        "qpn-x-months.x000060"
+      ]
+    },
+    {
+      "key": "ayaru",
+      "count": "2",
+      "instances": [
+        "qpn-x-months.x000044",
+        "qpn-x-months.x000044"
+      ]
+    },
+    {
+      "key": "ayari",
+      "count": "2",
+      "instances": [
+        "qpn-x-months.x000044",
+        "qpn-x-months.x000060"
+      ]
+    },
+    {
+      "key": "neobab",
+      "count": "9",
+      "instances": [
+        "qpn-x-months.x000000",
+        "qpn-x-months.x000012",
+        "qpn-x-months.x000028",
+        "qpn-x-months.x000060",
+        "qpn-x-months.x000068",
+        "qpn-x-months.x000112",
+        "qpn-x-months.x000156",
+        "qpn-x-months.x000186",
+        "qpn-x-months.x000198"
+      ]
+    },
+    {
+      "key": "šabaṭi",
+      "count": "1",
+      "instances": [
+        "qpn-x-months.x000156"
+      ]
+    },
+    {
+      "key": "tašriti",
+      "count": "1",
+      "instances": [
+        "qpn-x-months.x000186"
+      ]
+    },
+    {
+      "key": "šabaṭu",
+      "count": "2",
+      "instances": [
+        "qpn-x-months.x000156",
+        "qpn-x-months.x000156"
+      ]
+    },
+    {
+      "key": "tašritu",
+      "count": "1",
+      "instances": [
+        "qpn-x-months.x000186"
+      ]
+    },
+    {
+      "key": "Abu[Ab]",
+      "count": "1",
+      "instances": [
+        "qpn-x-months.x000000"
+      ]
+    },
+    {
+      "key": "barag",
+      "count": "6",
+      "instances": [
+        "qpn-x-months.x000112",
+        "qpn-x-months.x000112",
+        "qpn-x-months.x000112",
+        "qpn-x-months.x000112",
+        "qpn-x-months.x000112",
+        "qpn-x-months.x000112"
+      ]
+    },
+    {
+      "key": "simani",
+      "count": "1",
+      "instances": [
+        "qpn-x-months.x000132"
+      ]
+    },
+    {
+      "key": "simanu",
+      "count": "2",
+      "instances": [
+        "qpn-x-months.x000132",
+        "qpn-x-months.x000132"
+      ]
+    },
+    {
+      "key": "marchesvan",
+      "count": "2",
+      "instances": [
+        "qpn-x-months.x000028",
+        "qpn-x-months.x000028"
+      ]
+    },
+    {
+      "key": "Šabaṭu[Shebat]",
+      "count": "1",
+      "instances": [
+        "qpn-x-months.x000156"
+      ]
+    },
+    {
+      "key": "sivan",
+      "count": "2",
+      "instances": [
+        "qpn-x-months.x000132",
+        "qpn-x-months.x000132"
+      ]
+    },
+    {
+      "key": "Nisannu[Nisan]",
+      "count": "1",
+      "instances": [
+        "qpn-x-months.x000112"
+      ]
+    },
+    {
+      "key": "#",
+      "count": "60",
+      "instances": [
+        "qpn-x-months.x000000",
+        "qpn-x-months.x000000",
+        "qpn-x-months.x000000",
+        "qpn-x-months.x000000",
+        "qpn-x-months.x000012",
+        "qpn-x-months.x000012",
+        "qpn-x-months.x000012",
+        "qpn-x-months.x000012",
+        "qpn-x-months.x000028",
+        "qpn-x-months.x000028",
+        "qpn-x-months.x000028",
+        "qpn-x-months.x000028",
+        "qpn-x-months.x000044",
+        "qpn-x-months.x000044",
+        "qpn-x-months.x000044",
+        "qpn-x-months.x000044",
+        "qpn-x-months.x000060",
+        "qpn-x-months.x000060",
+        "qpn-x-months.x000068",
+        "qpn-x-months.x000068",
+        "qpn-x-months.x000068",
+        "qpn-x-months.x000068",
+        "qpn-x-months.x000068",
+        "qpn-x-months.x000068",
+        "qpn-x-months.x000084",
+        "qpn-x-months.x000084",
+        "qpn-x-months.x000096",
+        "qpn-x-months.x000096",
+        "qpn-x-months.x000096",
+        "qpn-x-months.x000096",
+        "qpn-x-months.x000112",
+        "qpn-x-months.x000112",
+        "qpn-x-months.x000112",
+        "qpn-x-months.x000112",
+        "qpn-x-months.x000112",
+        "qpn-x-months.x000112",
+        "qpn-x-months.x000132",
+        "qpn-x-months.x000132",
+        "qpn-x-months.x000132",
+        "qpn-x-months.x000132",
+        "qpn-x-months.x000132",
+        "qpn-x-months.x000132",
+        "qpn-x-months.x000156",
+        "qpn-x-months.x000156",
+        "qpn-x-months.x000156",
+        "qpn-x-months.x000156",
+        "qpn-x-months.x000156",
+        "qpn-x-months.x000156",
+        "qpn-x-months.x000178",
+        "qpn-x-months.x000178",
+        "qpn-x-months.x000186",
+        "qpn-x-months.x000186",
+        "qpn-x-months.x000186",
+        "qpn-x-months.x000186",
+        "qpn-x-months.x000198",
+        "qpn-x-months.x000198",
+        "qpn-x-months.x000198",
+        "qpn-x-months.x000198",
+        "qpn-x-months.x000198",
+        "qpn-x-months.x000198"
+      ]
+    },
+    {
+      "key": "iti",
+      "count": "60",
+      "instances": [
+        "qpn-x-months.x000000",
+        "qpn-x-months.x000000",
+        "qpn-x-months.x000000",
+        "qpn-x-months.x000000",
+        "qpn-x-months.x000012",
+        "qpn-x-months.x000012",
+        "qpn-x-months.x000012",
+        "qpn-x-months.x000012",
+        "qpn-x-months.x000028",
+        "qpn-x-months.x000028",
+        "qpn-x-months.x000028",
+        "qpn-x-months.x000028",
+        "qpn-x-months.x000044",
+        "qpn-x-months.x000044",
+        "qpn-x-months.x000044",
+        "qpn-x-months.x000044",
+        "qpn-x-months.x000060",
+        "qpn-x-months.x000060",
+        "qpn-x-months.x000068",
+        "qpn-x-months.x000068",
+        "qpn-x-months.x000068",
+        "qpn-x-months.x000068",
+        "qpn-x-months.x000068",
+        "qpn-x-months.x000068",
+        "qpn-x-months.x000084",
+        "qpn-x-months.x000084",
+        "qpn-x-months.x000096",
+        "qpn-x-months.x000096",
+        "qpn-x-months.x000096",
+        "qpn-x-months.x000096",
+        "qpn-x-months.x000112",
+        "qpn-x-months.x000112",
+        "qpn-x-months.x000112",
+        "qpn-x-months.x000112",
+        "qpn-x-months.x000112",
+        "qpn-x-months.x000112",
+        "qpn-x-months.x000132",
+        "qpn-x-months.x000132",
+        "qpn-x-months.x000132",
+        "qpn-x-months.x000132",
+        "qpn-x-months.x000132",
+        "qpn-x-months.x000132",
+        "qpn-x-months.x000156",
+        "qpn-x-months.x000156",
+        "qpn-x-months.x000156",
+        "qpn-x-months.x000156",
+        "qpn-x-months.x000156",
+        "qpn-x-months.x000156",
+        "qpn-x-months.x000178",
+        "qpn-x-months.x000178",
+        "qpn-x-months.x000186",
+        "qpn-x-months.x000186",
+        "qpn-x-months.x000186",
+        "qpn-x-months.x000186",
+        "qpn-x-months.x000198",
+        "qpn-x-months.x000198",
+        "qpn-x-months.x000198",
+        "qpn-x-months.x000198",
+        "qpn-x-months.x000198",
+        "qpn-x-months.x000198"
+      ]
+    },
+    {
+      "key": "akk",
+      "count": "30",
+      "instances": [
+        "qpn-x-months.x000000",
+        "qpn-x-months.x000000",
+        "qpn-x-months.x000012",
+        "qpn-x-months.x000012",
+        "qpn-x-months.x000028",
+        "qpn-x-months.x000028",
+        "qpn-x-months.x000044",
+        "qpn-x-months.x000044",
+        "qpn-x-months.x000060",
+        "qpn-x-months.x000068",
+        "qpn-x-months.x000068",
+        "qpn-x-months.x000068",
+        "qpn-x-months.x000084",
+        "qpn-x-months.x000096",
+        "qpn-x-months.x000096",
+        "qpn-x-months.x000112",
+        "qpn-x-months.x000112",
+        "qpn-x-months.x000112",
+        "qpn-x-months.x000132",
+        "qpn-x-months.x000132",
+        "qpn-x-months.x000132",
+        "qpn-x-months.x000156",
+        "qpn-x-months.x000156",
+        "qpn-x-months.x000156",
+        "qpn-x-months.x000178",
+        "qpn-x-months.x000186",
+        "qpn-x-months.x000186",
+        "qpn-x-months.x000198",
+        "qpn-x-months.x000198",
+        "qpn-x-months.x000198"
+      ]
+    },
+    {
+      "key": "x",
+      "count": "30",
+      "instances": [
+        "qpn-x-months.x000000",
+        "qpn-x-months.x000000",
+        "qpn-x-months.x000012",
+        "qpn-x-months.x000012",
+        "qpn-x-months.x000028",
+        "qpn-x-months.x000028",
+        "qpn-x-months.x000044",
+        "qpn-x-months.x000044",
+        "qpn-x-months.x000060",
+        "qpn-x-months.x000068",
+        "qpn-x-months.x000068",
+        "qpn-x-months.x000068",
+        "qpn-x-months.x000084",
+        "qpn-x-months.x000096",
+        "qpn-x-months.x000096",
+        "qpn-x-months.x000112",
+        "qpn-x-months.x000112",
+        "qpn-x-months.x000112",
+        "qpn-x-months.x000132",
+        "qpn-x-months.x000132",
+        "qpn-x-months.x000132",
+        "qpn-x-months.x000156",
+        "qpn-x-months.x000156",
+        "qpn-x-months.x000156",
+        "qpn-x-months.x000178",
+        "qpn-x-months.x000186",
+        "qpn-x-months.x000186",
+        "qpn-x-months.x000198",
+        "qpn-x-months.x000198",
+        "qpn-x-months.x000198"
+      ]
+    },
+    {
+      "key": "neoass",
+      "count": "16",
+      "instances": [
+        "qpn-x-months.x000000",
+        "qpn-x-months.x000012",
+        "qpn-x-months.x000028",
+        "qpn-x-months.x000044",
+        "qpn-x-months.x000068",
+        "qpn-x-months.x000084",
+        "qpn-x-months.x000096",
+        "qpn-x-months.x000096",
+        "qpn-x-months.x000112",
+        "qpn-x-months.x000132",
+        "qpn-x-months.x000132",
+        "qpn-x-months.x000156",
+        "qpn-x-months.x000156",
+        "qpn-x-months.x000178",
+        "qpn-x-months.x000186",
+        "qpn-x-months.x000198"
+      ]
+    }
+  ],
+  "map": {
+    "%akk": "akk",
+    "AB": "ab",
+    "APIN": "apin",
+    "Ab": "ab",
+    "Abi": "abi",
+    "Abu": "abu",
+    "Adar": "adar",
+    "Addari": "addari",
+    "Addaru": "addaru",
+    "Arahsamni": "arahsamni",
+    "Arahsamnu": "arahsamnu",
+    "Ayari": "ayari",
+    "Ayaru": "ayaru",
+    "Ayyaru": "ayyaru",
+    "BARAG": "barag",
+    "DU₆": "du₆",
+    "Duʾuzu": "duʾuzu",
+    "Elul": "elul",
+    "Eluli": "eluli",
+    "Elulu": "elulu",
+    "GAN": "gan",
+    "GUD": "gud",
+    "ITI": "iti",
+    "Iyyar": "iyyar",
+    "KAN": "kan",
+    "KIN": "kin",
+    "Kislev": "kislev",
+    "Kislimi": "kislimi",
+    "Kislimu": "kislimu",
+    "Marchesvan": "marchesvan",
+    "NE": "ne",
+    "Nisan": "nisan",
+    "Nisanni": "nisanni",
+    "Nisannu": "nisannu",
+    "SIG₄": "sig₄",
+    "Shebat": "shebat",
+    "Simani": "simani",
+    "Simanni": "simanni",
+    "Simanu": "simanu",
+    "Sivan": "sivan",
+    "Tammuz": "tammuz",
+    "Tašriti": "tašriti",
+    "Tašritu": "tašritu",
+    "Taʾuzi": "taʾuzi",
+    "Taʾuzu": "taʾuzu",
+    "Tebet": "tebet",
+    "Tishri": "tishri",
+    "ZIZ₂": "ziz₂",
+    "neoass:": "neoass",
+    "neobab:": "neobab",
+    "stdbab:": "stdbab",
+    "ŠE": "še",
+    "ŠU": "šu",
+    "Šabaṭi": "šabaṭi",
+    "Šabaṭimma": "šabaṭimma",
+    "Šabaṭu": "šabaṭu",
+    "Ṭebeti": "ṭebeti",
+    "Ṭebetu": "ṭebetu"
+  }
+}

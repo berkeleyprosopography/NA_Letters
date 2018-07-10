@@ -1,0 +1,807 @@
+{
+  "type": "index",
+  "project": "saao/saa10",
+  "source": "http://oracc.org/saao/saa10",
+  "license": "This data is released under the CC0 license",
+  "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "more-info": "http://oracc.org/doc/opendata/",
+  "UTC-timestamp": "2018-06-15T19:38:08",
+  "name": "cbd/qpn-x-temple",
+  "keys": [
+    {
+      "key": "a",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000048",
+        "qpn-x-temple.x000048"
+      ]
+    },
+    {
+      "key": "utu",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000024",
+        "qpn-x-temple.x000024"
+      ]
+    },
+    {
+      "key": "Bet-Sebetti[temple of Sibitti]",
+      "count": "1",
+      "instances": [
+        "qpn-x-temple.x000016"
+      ]
+    },
+    {
+      "key": "e₂zida",
+      "count": "1",
+      "instances": [
+        "qpn-x-temple.x000124"
+      ]
+    },
+    {
+      "key": "nabu",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000124",
+        "qpn-x-temple.x000124"
+      ]
+    },
+    {
+      "key": "ugur",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000096",
+        "qpn-x-temple.x000096"
+      ]
+    },
+    {
+      "key": "nušku",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000104",
+        "qpn-x-temple.x000104"
+      ]
+    },
+    {
+      "key": "uraš",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000032",
+        "qpn-x-temple.x000032"
+      ]
+    },
+    {
+      "key": "nergal",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000096",
+        "qpn-x-temple.x000096"
+      ]
+    },
+    {
+      "key": "patug₂",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000104",
+        "qpn-x-temple.x000104"
+      ]
+    },
+    {
+      "key": "Bit-Amurri[temple of Amurru]",
+      "count": "1",
+      "instances": [
+        "qpn-x-temple.x000040"
+      ]
+    },
+    {
+      "key": "Bit-Bel-Harran[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-temple.x000056"
+      ]
+    },
+    {
+      "key": "aššur",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000000",
+        "qpn-x-temple.x000000"
+      ]
+    },
+    {
+      "key": "kid",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000072",
+        "qpn-x-temple.x000072"
+      ]
+    },
+    {
+      "key": "en",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000056",
+        "qpn-x-temple.x000056"
+      ]
+    },
+    {
+      "key": "esaggil",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000112",
+        "qpn-x-temple.x000112"
+      ]
+    },
+    {
+      "key": "gu",
+      "count": "4",
+      "instances": [
+        "qpn-x-temple.x000008",
+        "qpn-x-temple.x000008",
+        "qpn-x-temple.x000064",
+        "qpn-x-temple.x000064"
+      ]
+    },
+    {
+      "key": "la",
+      "count": "4",
+      "instances": [
+        "qpn-x-temple.x000008",
+        "qpn-x-temple.x000008",
+        "qpn-x-temple.x000064",
+        "qpn-x-temple.x000064"
+      ]
+    },
+    {
+      "key": "ib",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000032",
+        "qpn-x-temple.x000032"
+      ]
+    },
+    {
+      "key": "of",
+      "count": "8",
+      "instances": [
+        "qpn-x-temple.x000016",
+        "qpn-x-temple.x000016",
+        "qpn-x-temple.x000040",
+        "qpn-x-temple.x000040",
+        "qpn-x-temple.x000048",
+        "qpn-x-temple.x000048",
+        "qpn-x-temple.x000124",
+        "qpn-x-temple.x000124"
+      ]
+    },
+    {
+      "key": "marduk",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000080",
+        "qpn-x-temple.x000080"
+      ]
+    },
+    {
+      "key": "mu",
+      "count": "4",
+      "instances": [
+        "qpn-x-temple.x000088",
+        "qpn-x-temple.x000088",
+        "qpn-x-temple.x000088",
+        "qpn-x-temple.x000088"
+      ]
+    },
+    {
+      "key": "Bit-Ani[temple of Anu]",
+      "count": "1",
+      "instances": [
+        "qpn-x-temple.x000048"
+      ]
+    },
+    {
+      "key": "ri",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000072",
+        "qpn-x-temple.x000072"
+      ]
+    },
+    {
+      "key": "um",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000088",
+        "qpn-x-temple.x000088"
+      ]
+    },
+    {
+      "key": "kidmuri",
+      "count": "1",
+      "instances": [
+        "qpn-x-temple.x000072"
+      ]
+    },
+    {
+      "key": "Bit-Mummu[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-temple.x000088"
+      ]
+    },
+    {
+      "key": "Bit-Nušku[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-temple.x000104"
+      ]
+    },
+    {
+      "key": "anu",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000048",
+        "qpn-x-temple.x000048"
+      ]
+    },
+    {
+      "key": "ani",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000048",
+        "qpn-x-temple.x000048"
+      ]
+    },
+    {
+      "key": "Bet-Uraš[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-temple.x000032"
+      ]
+    },
+    {
+      "key": "Bit-Nergal[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-temple.x000096"
+      ]
+    },
+    {
+      "key": "neobabe₂",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000056",
+        "qpn-x-temple.x000104"
+      ]
+    },
+    {
+      "key": "e₂sagil₂",
+      "count": "1",
+      "instances": [
+        "qpn-x-temple.x000112"
+      ]
+    },
+    {
+      "key": "nim",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000048",
+        "qpn-x-temple.x000048"
+      ]
+    },
+    {
+      "key": "kidmurri",
+      "count": "1",
+      "instances": [
+        "qpn-x-temple.x000072"
+      ]
+    },
+    {
+      "key": "harran",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000056",
+        "qpn-x-temple.x000056"
+      ]
+    },
+    {
+      "key": "Bit-Marduk[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-temple.x000080"
+      ]
+    },
+    {
+      "key": "šur",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000000",
+        "qpn-x-temple.x000000"
+      ]
+    },
+    {
+      "key": "mummu",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000088",
+        "qpn-x-temple.x000088"
+      ]
+    },
+    {
+      "key": "neobabe₂sagil₂",
+      "count": "1",
+      "instances": [
+        "qpn-x-temple.x000112"
+      ]
+    },
+    {
+      "key": "amarutu",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000080",
+        "qpn-x-temple.x000080"
+      ]
+    },
+    {
+      "key": "kaskal",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000056",
+        "qpn-x-temple.x000056"
+      ]
+    },
+    {
+      "key": "Bet-Aššur[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-temple.x000000"
+      ]
+    },
+    {
+      "key": "neoasse₂zida",
+      "count": "1",
+      "instances": [
+        "qpn-x-temple.x000124"
+      ]
+    },
+    {
+      "key": "mur",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000072",
+        "qpn-x-temple.x000072"
+      ]
+    },
+    {
+      "key": "aš",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000000",
+        "qpn-x-temple.x000000"
+      ]
+    },
+    {
+      "key": "bit",
+      "count": "14",
+      "instances": [
+        "qpn-x-temple.x000040",
+        "qpn-x-temple.x000040",
+        "qpn-x-temple.x000048",
+        "qpn-x-temple.x000048",
+        "qpn-x-temple.x000056",
+        "qpn-x-temple.x000056",
+        "qpn-x-temple.x000064",
+        "qpn-x-temple.x000072",
+        "qpn-x-temple.x000080",
+        "qpn-x-temple.x000080",
+        "qpn-x-temple.x000088",
+        "qpn-x-temple.x000096",
+        "qpn-x-temple.x000104",
+        "qpn-x-temple.x000104"
+      ]
+    },
+    {
+      "key": "bel",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000056",
+        "qpn-x-temple.x000056"
+      ]
+    },
+    {
+      "key": "bet",
+      "count": "14",
+      "instances": [
+        "qpn-x-temple.x000000",
+        "qpn-x-temple.x000000",
+        "qpn-x-temple.x000008",
+        "qpn-x-temple.x000008",
+        "qpn-x-temple.x000016",
+        "qpn-x-temple.x000016",
+        "qpn-x-temple.x000024",
+        "qpn-x-temple.x000024",
+        "qpn-x-temple.x000032",
+        "qpn-x-temple.x000032",
+        "qpn-x-temple.x000064",
+        "qpn-x-temple.x000072",
+        "qpn-x-temple.x000088",
+        "qpn-x-temple.x000096"
+      ]
+    },
+    {
+      "key": "ezida",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000124",
+        "qpn-x-temple.x000124"
+      ]
+    },
+    {
+      "key": "Bet-Šamaš[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-temple.x000024"
+      ]
+    },
+    {
+      "key": "bet-Gula[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-temple.x000008"
+      ]
+    },
+    {
+      "key": "Esaggil[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-temple.x000112"
+      ]
+    },
+    {
+      "key": "7bi",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000016",
+        "qpn-x-temple.x000016"
+      ]
+    },
+    {
+      "key": "sag",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000112",
+        "qpn-x-temple.x000112"
+      ]
+    },
+    {
+      "key": "Bit-Kidmuri[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-temple.x000072"
+      ]
+    },
+    {
+      "key": "neoass",
+      "count": "1",
+      "instances": [
+        "qpn-x-temple.x000112"
+      ]
+    },
+    {
+      "key": "amurru",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000040",
+        "qpn-x-temple.x000040"
+      ]
+    },
+    {
+      "key": "amurri",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000040",
+        "qpn-x-temple.x000040"
+      ]
+    },
+    {
+      "key": "temple",
+      "count": "8",
+      "instances": [
+        "qpn-x-temple.x000016",
+        "qpn-x-temple.x000016",
+        "qpn-x-temple.x000040",
+        "qpn-x-temple.x000040",
+        "qpn-x-temple.x000048",
+        "qpn-x-temple.x000048",
+        "qpn-x-temple.x000124",
+        "qpn-x-temple.x000124"
+      ]
+    },
+    {
+      "key": "gil₂",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000112",
+        "qpn-x-temple.x000112"
+      ]
+    },
+    {
+      "key": "Ezida[Temple of Nabu]",
+      "count": "1",
+      "instances": [
+        "qpn-x-temple.x000124"
+      ]
+    },
+    {
+      "key": "gula",
+      "count": "4",
+      "instances": [
+        "qpn-x-temple.x000008",
+        "qpn-x-temple.x000008",
+        "qpn-x-temple.x000064",
+        "qpn-x-temple.x000064"
+      ]
+    },
+    {
+      "key": "neoasse₂",
+      "count": "12",
+      "instances": [
+        "qpn-x-temple.x000000",
+        "qpn-x-temple.x000008",
+        "qpn-x-temple.x000016",
+        "qpn-x-temple.x000024",
+        "qpn-x-temple.x000032",
+        "qpn-x-temple.x000040",
+        "qpn-x-temple.x000048",
+        "qpn-x-temple.x000064",
+        "qpn-x-temple.x000072",
+        "qpn-x-temple.x000080",
+        "qpn-x-temple.x000088",
+        "qpn-x-temple.x000096"
+      ]
+    },
+    {
+      "key": "bit-Gula[1]",
+      "count": "1",
+      "instances": [
+        "qpn-x-temple.x000064"
+      ]
+    },
+    {
+      "key": "sibitti",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000016",
+        "qpn-x-temple.x000016"
+      ]
+    },
+    {
+      "key": "šamaš",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000024",
+        "qpn-x-temple.x000024"
+      ]
+    },
+    {
+      "key": "sebetti",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000016",
+        "qpn-x-temple.x000016"
+      ]
+    },
+    {
+      "key": "martu",
+      "count": "2",
+      "instances": [
+        "qpn-x-temple.x000040",
+        "qpn-x-temple.x000040"
+      ]
+    },
+    {
+      "key": "1",
+      "count": "24",
+      "instances": [
+        "qpn-x-temple.x000000",
+        "qpn-x-temple.x000000",
+        "qpn-x-temple.x000008",
+        "qpn-x-temple.x000008",
+        "qpn-x-temple.x000024",
+        "qpn-x-temple.x000024",
+        "qpn-x-temple.x000032",
+        "qpn-x-temple.x000032",
+        "qpn-x-temple.x000056",
+        "qpn-x-temple.x000056",
+        "qpn-x-temple.x000064",
+        "qpn-x-temple.x000064",
+        "qpn-x-temple.x000072",
+        "qpn-x-temple.x000072",
+        "qpn-x-temple.x000080",
+        "qpn-x-temple.x000080",
+        "qpn-x-temple.x000088",
+        "qpn-x-temple.x000088",
+        "qpn-x-temple.x000096",
+        "qpn-x-temple.x000096",
+        "qpn-x-temple.x000104",
+        "qpn-x-temple.x000104",
+        "qpn-x-temple.x000112",
+        "qpn-x-temple.x000112"
+      ]
+    },
+    {
+      "key": "e₂",
+      "count": "16",
+      "instances": [
+        "qpn-x-temple.x000000",
+        "qpn-x-temple.x000008",
+        "qpn-x-temple.x000016",
+        "qpn-x-temple.x000024",
+        "qpn-x-temple.x000032",
+        "qpn-x-temple.x000040",
+        "qpn-x-temple.x000048",
+        "qpn-x-temple.x000056",
+        "qpn-x-temple.x000064",
+        "qpn-x-temple.x000072",
+        "qpn-x-temple.x000080",
+        "qpn-x-temple.x000088",
+        "qpn-x-temple.x000096",
+        "qpn-x-temple.x000104",
+        "qpn-x-temple.x000112",
+        "qpn-x-temple.x000112"
+      ]
+    },
+    {
+      "key": "akk",
+      "count": "17",
+      "instances": [
+        "qpn-x-temple.x000000",
+        "qpn-x-temple.x000008",
+        "qpn-x-temple.x000016",
+        "qpn-x-temple.x000024",
+        "qpn-x-temple.x000032",
+        "qpn-x-temple.x000040",
+        "qpn-x-temple.x000048",
+        "qpn-x-temple.x000056",
+        "qpn-x-temple.x000064",
+        "qpn-x-temple.x000072",
+        "qpn-x-temple.x000080",
+        "qpn-x-temple.x000088",
+        "qpn-x-temple.x000096",
+        "qpn-x-temple.x000104",
+        "qpn-x-temple.x000112",
+        "qpn-x-temple.x000112",
+        "qpn-x-temple.x000124"
+      ]
+    },
+    {
+      "key": "x",
+      "count": "17",
+      "instances": [
+        "qpn-x-temple.x000000",
+        "qpn-x-temple.x000008",
+        "qpn-x-temple.x000016",
+        "qpn-x-temple.x000024",
+        "qpn-x-temple.x000032",
+        "qpn-x-temple.x000040",
+        "qpn-x-temple.x000048",
+        "qpn-x-temple.x000056",
+        "qpn-x-temple.x000064",
+        "qpn-x-temple.x000072",
+        "qpn-x-temple.x000080",
+        "qpn-x-temple.x000088",
+        "qpn-x-temple.x000096",
+        "qpn-x-temple.x000104",
+        "qpn-x-temple.x000112",
+        "qpn-x-temple.x000112",
+        "qpn-x-temple.x000124"
+      ]
+    },
+    {
+      "key": "#",
+      "count": "26",
+      "instances": [
+        "qpn-x-temple.x000008",
+        "qpn-x-temple.x000008",
+        "qpn-x-temple.x000016",
+        "qpn-x-temple.x000016",
+        "qpn-x-temple.x000024",
+        "qpn-x-temple.x000024",
+        "qpn-x-temple.x000032",
+        "qpn-x-temple.x000032",
+        "qpn-x-temple.x000040",
+        "qpn-x-temple.x000040",
+        "qpn-x-temple.x000048",
+        "qpn-x-temple.x000048",
+        "qpn-x-temple.x000056",
+        "qpn-x-temple.x000056",
+        "qpn-x-temple.x000064",
+        "qpn-x-temple.x000064",
+        "qpn-x-temple.x000080",
+        "qpn-x-temple.x000080",
+        "qpn-x-temple.x000088",
+        "qpn-x-temple.x000088",
+        "qpn-x-temple.x000096",
+        "qpn-x-temple.x000096",
+        "qpn-x-temple.x000104",
+        "qpn-x-temple.x000104",
+        "qpn-x-temple.x000112",
+        "qpn-x-temple.x000112"
+      ]
+    },
+    {
+      "key": "d",
+      "count": "24",
+      "instances": [
+        "qpn-x-temple.x000008",
+        "qpn-x-temple.x000008",
+        "qpn-x-temple.x000016",
+        "qpn-x-temple.x000016",
+        "qpn-x-temple.x000024",
+        "qpn-x-temple.x000024",
+        "qpn-x-temple.x000032",
+        "qpn-x-temple.x000032",
+        "qpn-x-temple.x000040",
+        "qpn-x-temple.x000040",
+        "qpn-x-temple.x000048",
+        "qpn-x-temple.x000048",
+        "qpn-x-temple.x000056",
+        "qpn-x-temple.x000056",
+        "qpn-x-temple.x000064",
+        "qpn-x-temple.x000064",
+        "qpn-x-temple.x000080",
+        "qpn-x-temple.x000080",
+        "qpn-x-temple.x000088",
+        "qpn-x-temple.x000088",
+        "qpn-x-temple.x000096",
+        "qpn-x-temple.x000096",
+        "qpn-x-temple.x000104",
+        "qpn-x-temple.x000104"
+      ]
+    }
+  ],
+  "map": {
+    "%akk": "akk",
+    "07.BI": "7bi",
+    "AMAR.UTU": "amarutu",
+    "Amurri": "amurri",
+    "Amurru": "amurru",
+    "Ani": "ani",
+    "Anu": "anu",
+    "Aššur": "aššur",
+    "Bel": "bel",
+    "Bet": "bet",
+    "Bit": "bit",
+    "EN": "en",
+    "Esaggil": "esaggil",
+    "Ezida": "ezida",
+    "E₂": "e₂",
+    "E₂.SAG.IL₂": "e₂sagil₂",
+    "E₂.ZI.DA": "e₂zida",
+    "Gula": "gula",
+    "Harran": "harran",
+    "IB": "ib",
+    "KASKAL": "kaskal",
+    "Kidmuri": "kidmuri",
+    "Kidmurri": "kidmurri",
+    "MAR.TU": "martu",
+    "Marduk": "marduk",
+    "Mummu": "mummu",
+    "Nabu": "nabu",
+    "Nergal": "nergal",
+    "Nušku": "nušku",
+    "PA.TUG₂": "patug₂",
+    "Sebetti": "sebetti",
+    "Sibitti": "sibitti",
+    "Temple": "temple",
+    "U.GUR": "ugur",
+    "UTU": "utu",
+    "Uraš": "uraš",
+    "neoass:": "neoass",
+    "neoass:E₂": "neoasse₂",
+    "neoass:E₂.ZI.DA": "neoasse₂zida",
+    "neobab:E₂": "neobabe₂",
+    "neobab:E₂.SAG.IL₂": "neobabe₂sagil₂",
+    "Šamaš": "šamaš"
+  }
+}

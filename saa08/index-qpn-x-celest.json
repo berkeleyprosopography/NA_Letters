@@ -1,0 +1,4677 @@
+{
+  "type": "index",
+  "project": "saao/saa08",
+  "source": "http://oracc.org/saao/saa08",
+  "license": "This data is released under the CC0 license",
+  "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "more-info": "http://oracc.org/doc/opendata/",
+  "UTC-timestamp": "2018-06-15T19:43:23",
+  "name": "cbd/qpn-x-celest",
+  "keys": [
+    {
+      "key": "group",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000260",
+        "qpn-x-celest.x000260"
+      ]
+    },
+    {
+      "key": "udkadu₈a",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000440",
+        "qpn-x-celest.x000440",
+        "qpn-x-celest.x000440",
+        "qpn-x-celest.x000440"
+      ]
+    },
+    {
+      "key": "e",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000314",
+        "qpn-x-celest.x000314",
+        "qpn-x-celest.x000492",
+        "qpn-x-celest.x000492"
+      ]
+    },
+    {
+      "key": "u",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000480",
+        "qpn-x-celest.x000480"
+      ]
+    },
+    {
+      "key": "Šibu[Perseus]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000758"
+      ]
+    },
+    {
+      "key": "Tuʾamu-rabutu[Gemini]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000912"
+      ]
+    },
+    {
+      "key": "gam₃",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000236",
+        "qpn-x-celest.x000236"
+      ]
+    },
+    {
+      "key": "yoke",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000456",
+        "qpn-x-celest.x000456",
+        "qpn-x-celest.x000464",
+        "qpn-x-celest.x000464"
+      ]
+    },
+    {
+      "key": "Šinunutu['Swallow star' (part of Pisces)]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000828"
+      ]
+    },
+    {
+      "key": "suhurmaši",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000598"
+      ]
+    },
+    {
+      "key": "stars",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000260",
+        "qpn-x-celest.x000260"
+      ]
+    },
+    {
+      "key": "suhurmašu",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000598"
+      ]
+    },
+    {
+      "key": "šulpae₃a",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876"
+      ]
+    },
+    {
+      "key": "andromeda",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000524",
+        "qpn-x-celest.x000524"
+      ]
+    },
+    {
+      "key": "Pabilsag[Sagittarius]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000500"
+      ]
+    },
+    {
+      "key": "Epinnu[(a constellation)]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000208"
+      ]
+    },
+    {
+      "key": "Anu-Agu['Crown of Anu' (Hyades)]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000088"
+      ]
+    },
+    {
+      "key": "name",
+      "count": "10",
+      "instances": [
+        "qpn-x-celest.x000180",
+        "qpn-x-celest.x000180",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000582",
+        "qpn-x-celest.x000582",
+        "qpn-x-celest.x000654",
+        "qpn-x-celest.x000654",
+        "qpn-x-celest.x000966",
+        "qpn-x-celest.x000966"
+      ]
+    },
+    {
+      "key": "šar₂ur₃",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000704"
+      ]
+    },
+    {
+      "key": "šar₂ur₄",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000704"
+      ]
+    },
+    {
+      "key": "cancer",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000016",
+        "qpn-x-celest.x000016"
+      ]
+    },
+    {
+      "key": "šukudi",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000860"
+      ]
+    },
+    {
+      "key": "šukudu",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000860",
+        "qpn-x-celest.x000860"
+      ]
+    },
+    {
+      "key": "ṣargaz",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000662"
+      ]
+    },
+    {
+      "key": "goat",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000196"
+      ]
+    },
+    {
+      "key": "centaurus",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000252",
+        "qpn-x-celest.x000252"
+      ]
+    },
+    {
+      "key": "panther",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000440",
+        "qpn-x-celest.x000440"
+      ]
+    },
+    {
+      "key": "apin",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000208",
+        "qpn-x-celest.x000208"
+      ]
+    },
+    {
+      "key": "sirius",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000860",
+        "qpn-x-celest.x000860"
+      ]
+    },
+    {
+      "key": "swallow",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000828",
+        "qpn-x-celest.x000828"
+      ]
+    },
+    {
+      "key": "mušen",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000126",
+        "qpn-x-celest.x000126"
+      ]
+    },
+    {
+      "key": "nešu",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000420",
+        "qpn-x-celest.x000420"
+      ]
+    },
+    {
+      "key": "neši",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000420"
+      ]
+    },
+    {
+      "key": "neša",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000420"
+      ]
+    },
+    {
+      "key": "Kalitu['Kidney']",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000342"
+      ]
+    },
+    {
+      "key": "mulmul",
+      "count": "3",
+      "instances": [
+        "qpn-x-celest.x000978",
+        "qpn-x-celest.x000978",
+        "qpn-x-celest.x000978"
+      ]
+    },
+    {
+      "key": "Irat-Zuqaqipi[(part of Scorpius)]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000302"
+      ]
+    },
+    {
+      "key": "tigris",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000260",
+        "qpn-x-celest.x000260"
+      ]
+    },
+    {
+      "key": "neoassu₂",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000126",
+        "qpn-x-celest.x000196"
+      ]
+    },
+    {
+      "key": "Uṣurtu['Drawing' (a name of Gemini)]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000966"
+      ]
+    },
+    {
+      "key": "imdugud",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000108"
+      ]
+    },
+    {
+      "key": "maštabbagalgalla",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912"
+      ]
+    },
+    {
+      "key": "an",
+      "count": "6",
+      "instances": [
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000492",
+        "qpn-x-celest.x000492",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606"
+      ]
+    },
+    {
+      "key": "ah",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000828",
+        "qpn-x-celest.x000828"
+      ]
+    },
+    {
+      "key": "ar",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000582",
+        "qpn-x-celest.x000582",
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000704"
+      ]
+    },
+    {
+      "key": "du",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000464",
+        "qpn-x-celest.x000464"
+      ]
+    },
+    {
+      "key": "ṣar",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000662"
+      ]
+    },
+    {
+      "key": "bi",
+      "count": "6",
+      "instances": [
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404"
+      ]
+    },
+    {
+      "key": "ba",
+      "count": "6",
+      "instances": [
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002"
+      ]
+    },
+    {
+      "key": "ga",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000126",
+        "qpn-x-celest.x000126"
+      ]
+    },
+    {
+      "key": "kakkab-Marduk[star of Marduk]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000330"
+      ]
+    },
+    {
+      "key": "frond",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000220",
+        "qpn-x-celest.x000220"
+      ]
+    },
+    {
+      "key": "aribi",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000126"
+      ]
+    },
+    {
+      "key": "gudanna",
+      "count": "6",
+      "instances": [
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000038"
+      ]
+    },
+    {
+      "key": "aribu",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000126",
+        "qpn-x-celest.x000126"
+      ]
+    },
+    {
+      "key": "Agru[Aries]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000000"
+      ]
+    },
+    {
+      "key": "ku",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000480"
+      ]
+    },
+    {
+      "key": "ka",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000724"
+      ]
+    },
+    {
+      "key": "le",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000314",
+        "qpn-x-celest.x000314",
+        "qpn-x-celest.x000314",
+        "qpn-x-celest.x000314"
+      ]
+    },
+    {
+      "key": "im",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000828",
+        "qpn-x-celest.x000828"
+      ]
+    },
+    {
+      "key": "in",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000646",
+        "qpn-x-celest.x000646",
+        "qpn-x-celest.x000740",
+        "qpn-x-celest.x000740"
+      ]
+    },
+    {
+      "key": "is",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000314",
+        "qpn-x-celest.x000314",
+        "qpn-x-celest.x000314",
+        "qpn-x-celest.x000314"
+      ]
+    },
+    {
+      "key": "ni",
+      "count": "12",
+      "instances": [
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002"
+      ]
+    },
+    {
+      "key": "Zappu[Pleiades]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000978"
+      ]
+    },
+    {
+      "key": "marduk",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000330",
+        "qpn-x-celest.x000330",
+        "qpn-x-celest.x000330",
+        "qpn-x-celest.x000330"
+      ]
+    },
+    {
+      "key": "Anunitu[(part of Pisces)]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000074"
+      ]
+    },
+    {
+      "key": "aries",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000000",
+        "qpn-x-celest.x000000"
+      ]
+    },
+    {
+      "key": "ma",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000654",
+        "qpn-x-celest.x000654",
+        "qpn-x-celest.x000828",
+        "qpn-x-celest.x000828"
+      ]
+    },
+    {
+      "key": "ru",
+      "count": "8",
+      "instances": [
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000646",
+        "qpn-x-celest.x000646"
+      ]
+    },
+    {
+      "key": "ri",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000582",
+        "qpn-x-celest.x000582"
+      ]
+    },
+    {
+      "key": "rabuti",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000912"
+      ]
+    },
+    {
+      "key": "sa",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000582",
+        "qpn-x-celest.x000582"
+      ]
+    },
+    {
+      "key": "pu",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000546",
+        "qpn-x-celest.x000546"
+      ]
+    },
+    {
+      "key": "rabutu",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912"
+      ]
+    },
+    {
+      "key": "Nun-šame['Fish-of-the-sky' (Piscis Austrinus)]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000492"
+      ]
+    },
+    {
+      "key": "the",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000492",
+        "qpn-x-celest.x000492"
+      ]
+    },
+    {
+      "key": "entenabarguz",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000252",
+        "qpn-x-celest.x000252"
+      ]
+    },
+    {
+      "key": "Rappu['Bridle' (a constellation)]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000546"
+      ]
+    },
+    {
+      "key": "un",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000464",
+        "qpn-x-celest.x000464"
+      ]
+    },
+    {
+      "key": "tum",
+      "count": "12",
+      "instances": [
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000938",
+        "qpn-x-celest.x000938",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002"
+      ]
+    },
+    {
+      "key": "tul",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000938",
+        "qpn-x-celest.x000938"
+      ]
+    },
+    {
+      "key": "ur",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000704"
+      ]
+    },
+    {
+      "key": "Šerʾu[Spica (in Virgo)]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000740"
+      ]
+    },
+    {
+      "key": "ti",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000966",
+        "qpn-x-celest.x000966",
+        "qpn-x-celest.x000966",
+        "qpn-x-celest.x000966"
+      ]
+    },
+    {
+      "key": "ṣur",
+      "count": "6",
+      "instances": [
+        "qpn-x-celest.x000646",
+        "qpn-x-celest.x000646",
+        "qpn-x-celest.x000966",
+        "qpn-x-celest.x000966",
+        "qpn-x-celest.x000966",
+        "qpn-x-celest.x000966"
+      ]
+    },
+    {
+      "key": "epinnu",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000208",
+        "qpn-x-celest.x000208"
+      ]
+    },
+    {
+      "key": "epinni",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000208"
+      ]
+    },
+    {
+      "key": "leo",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000420",
+        "qpn-x-celest.x000420",
+        "qpn-x-celest.x000946",
+        "qpn-x-celest.x000946"
+      ]
+    },
+    {
+      "key": "enmešarra",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000188",
+        "qpn-x-celest.x000188"
+      ]
+    },
+    {
+      "key": "za",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000196",
+        "qpn-x-celest.x000196"
+      ]
+    },
+    {
+      "key": "zi",
+      "count": "6",
+      "instances": [
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002"
+      ]
+    },
+    {
+      "key": "min₃",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000654",
+        "qpn-x-celest.x000654"
+      ]
+    },
+    {
+      "key": "habaṣiranu",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000252",
+        "qpn-x-celest.x000252"
+      ]
+    },
+    {
+      "key": "mars",
+      "count": "6",
+      "instances": [
+        "qpn-x-celest.x000582",
+        "qpn-x-celest.x000582",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000654",
+        "qpn-x-celest.x000654"
+      ]
+    },
+    {
+      "key": "lisi",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000396",
+        "qpn-x-celest.x000396"
+      ]
+    },
+    {
+      "key": "allutti",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000016"
+      ]
+    },
+    {
+      "key": "alluttu",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000016",
+        "qpn-x-celest.x000016"
+      ]
+    },
+    {
+      "key": "Nunu['Fish star' (Piscis Austrinus)]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000480"
+      ]
+    },
+    {
+      "key": "ṣalbatani",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000606"
+      ]
+    },
+    {
+      "key": "ṣalbatanu",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606"
+      ]
+    },
+    {
+      "key": "anzi",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000108"
+      ]
+    },
+    {
+      "key": "anzu",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000108"
+      ]
+    },
+    {
+      "key": "iku",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000268",
+        "qpn-x-celest.x000268"
+      ]
+    },
+    {
+      "key": "iki",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000268"
+      ]
+    },
+    {
+      "key": "gamlu",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000236",
+        "qpn-x-celest.x000236"
+      ]
+    },
+    {
+      "key": "li₉si₄",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000396",
+        "qpn-x-celest.x000396"
+      ]
+    },
+    {
+      "key": "neoassmul",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000322",
+        "qpn-x-celest.x000330"
+      ]
+    },
+    {
+      "key": "agru",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000000",
+        "qpn-x-celest.x000000"
+      ]
+    },
+    {
+      "key": "agri",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000000"
+      ]
+    },
+    {
+      "key": "ka₅a",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000724",
+        "qpn-x-celest.x000724",
+        "qpn-x-celest.x000724",
+        "qpn-x-celest.x000724"
+      ]
+    },
+    {
+      "key": "gagsisa₂",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000860",
+        "qpn-x-celest.x000860",
+        "qpn-x-celest.x000860",
+        "qpn-x-celest.x000860"
+      ]
+    },
+    {
+      "key": "anna",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000096"
+      ]
+    },
+    {
+      "key": "ku₆",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000480",
+        "qpn-x-celest.x000480",
+        "qpn-x-celest.x000492",
+        "qpn-x-celest.x000492"
+      ]
+    },
+    {
+      "key": "Zuqaqipu[Scorpius]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x001018"
+      ]
+    },
+    {
+      "key": "destruction",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000244",
+        "qpn-x-celest.x000244"
+      ]
+    },
+    {
+      "key": "fish",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000480",
+        "qpn-x-celest.x000480",
+        "qpn-x-celest.x000492",
+        "qpn-x-celest.x000492"
+      ]
+    },
+    {
+      "key": "Gilimma['Destruction' star]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000244"
+      ]
+    },
+    {
+      "key": "aga",
+      "count": "6",
+      "instances": [
+        "qpn-x-celest.x000088",
+        "qpn-x-celest.x000088",
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000096"
+      ]
+    },
+    {
+      "key": "agu",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000088",
+        "qpn-x-celest.x000088",
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000096"
+      ]
+    },
+    {
+      "key": "zibanitu",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002"
+      ]
+    },
+    {
+      "key": "Šelebu[Fox (a star)]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000724"
+      ]
+    },
+    {
+      "key": "bull",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000038"
+      ]
+    },
+    {
+      "key": "ali",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000038"
+      ]
+    },
+    {
+      "key": "false",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000582",
+        "qpn-x-celest.x000582"
+      ]
+    },
+    {
+      "key": "capricorn",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000598",
+        "qpn-x-celest.x000598"
+      ]
+    },
+    {
+      "key": "alu",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000038"
+      ]
+    },
+    {
+      "key": "šudun",
+      "count": "6",
+      "instances": [
+        "qpn-x-celest.x000456",
+        "qpn-x-celest.x000456",
+        "qpn-x-celest.x000464",
+        "qpn-x-celest.x000464",
+        "qpn-x-celest.x000464",
+        "qpn-x-celest.x000464"
+      ]
+    },
+    {
+      "key": "anu",
+      "count": "8",
+      "instances": [
+        "qpn-x-celest.x000088",
+        "qpn-x-celest.x000088",
+        "qpn-x-celest.x000088",
+        "qpn-x-celest.x000088",
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000096"
+      ]
+    },
+    {
+      "key": "Šinunutu['Swallo star' (part of Pisces)]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000820"
+      ]
+    },
+    {
+      "key": "allul",
+      "count": "6",
+      "instances": [
+        "qpn-x-celest.x000016",
+        "qpn-x-celest.x000016",
+        "qpn-x-celest.x000016",
+        "qpn-x-celest.x000016",
+        "qpn-x-celest.x000016",
+        "qpn-x-celest.x000016"
+      ]
+    },
+    {
+      "key": "Niru['yoke-star']",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000464"
+      ]
+    },
+    {
+      "key": "virgo",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000740",
+        "qpn-x-celest.x000740"
+      ]
+    },
+    {
+      "key": "annunitu",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000074"
+      ]
+    },
+    {
+      "key": "corvus",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000126",
+        "qpn-x-celest.x000126"
+      ]
+    },
+    {
+      "key": "jaw",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000314",
+        "qpn-x-celest.x000314"
+      ]
+    },
+    {
+      "key": "Neberu[(a name of Jupiter)]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000404"
+      ]
+    },
+    {
+      "key": "nimru",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000440",
+        "qpn-x-celest.x000440"
+      ]
+    },
+    {
+      "key": "nimri",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000440"
+      ]
+    },
+    {
+      "key": "gudud",
+      "count": "6",
+      "instances": [
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778"
+      ]
+    },
+    {
+      "key": "gilimma",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000244",
+        "qpn-x-celest.x000244",
+        "qpn-x-celest.x000244",
+        "qpn-x-celest.x000244"
+      ]
+    },
+    {
+      "key": "gi₆",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000322",
+        "qpn-x-celest.x000322"
+      ]
+    },
+    {
+      "key": "Tultu['Worm']",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000938"
+      ]
+    },
+    {
+      "key": "Aribu['Raven star' (Corvus)]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000126"
+      ]
+    },
+    {
+      "key": "maštabba",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000904",
+        "qpn-x-celest.x000904"
+      ]
+    },
+    {
+      "key": "libra",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002"
+      ]
+    },
+    {
+      "key": "antasurru",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000062",
+        "qpn-x-celest.x000062"
+      ]
+    },
+    {
+      "key": "antasurra",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000062",
+        "qpn-x-celest.x000062",
+        "qpn-x-celest.x000062",
+        "qpn-x-celest.x000062"
+      ]
+    },
+    {
+      "key": "lu₂",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000000",
+        "qpn-x-celest.x000000",
+        "qpn-x-celest.x000000",
+        "qpn-x-celest.x000000"
+      ]
+    },
+    {
+      "key": "uṣurtu",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000966"
+      ]
+    },
+    {
+      "key": "uṣurti",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000966"
+      ]
+    },
+    {
+      "key": "Engišgalanna[(a name of Jupiter)]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000180"
+      ]
+    },
+    {
+      "key": "indubanna",
+      "count": "6",
+      "instances": [
+        "qpn-x-celest.x000288",
+        "qpn-x-celest.x000288",
+        "qpn-x-celest.x000288",
+        "qpn-x-celest.x000288",
+        "qpn-x-celest.x000288",
+        "qpn-x-celest.x000288"
+      ]
+    },
+    {
+      "key": "deleter",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000524",
+        "qpn-x-celest.x000524"
+      ]
+    },
+    {
+      "key": "indubanni",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000288"
+      ]
+    },
+    {
+      "key": "sagmegar",
+      "count": "12",
+      "instances": [
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554"
+      ]
+    },
+    {
+      "key": "nun",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000492",
+        "qpn-x-celest.x000492"
+      ]
+    },
+    {
+      "key": "num",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000096"
+      ]
+    },
+    {
+      "key": "hyades",
+      "count": "6",
+      "instances": [
+        "qpn-x-celest.x000088",
+        "qpn-x-celest.x000088",
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000314",
+        "qpn-x-celest.x000314"
+      ]
+    },
+    {
+      "key": "šulpae₃",
+      "count": "8",
+      "instances": [
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876"
+      ]
+    },
+    {
+      "key": "tuʾami",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000904",
+        "qpn-x-celest.x000912"
+      ]
+    },
+    {
+      "key": "maštabbagalgal",
+      "count": "6",
+      "instances": [
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912"
+      ]
+    },
+    {
+      "key": "neoassšu",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000464"
+      ]
+    },
+    {
+      "key": "neoassši",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000828"
+      ]
+    },
+    {
+      "key": "tuʾamu",
+      "count": "3",
+      "instances": [
+        "qpn-x-celest.x000904",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912"
+      ]
+    },
+    {
+      "key": "stdbabmulmul",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000978"
+      ]
+    },
+    {
+      "key": "jupiter",
+      "count": "8",
+      "instances": [
+        "qpn-x-celest.x000180",
+        "qpn-x-celest.x000180",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876"
+      ]
+    },
+    {
+      "key": "absin₂",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000740",
+        "qpn-x-celest.x000740",
+        "qpn-x-celest.x000740",
+        "qpn-x-celest.x000740"
+      ]
+    },
+    {
+      "key": "hunga₂",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000000",
+        "qpn-x-celest.x000000",
+        "qpn-x-celest.x000000",
+        "qpn-x-celest.x000000"
+      ]
+    },
+    {
+      "key": "šitaddaru",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000840",
+        "qpn-x-celest.x000840"
+      ]
+    },
+    {
+      "key": "šelebu",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000724",
+        "qpn-x-celest.x000724"
+      ]
+    },
+    {
+      "key": "kalitu",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000342",
+        "qpn-x-celest.x000342"
+      ]
+    },
+    {
+      "key": "Gamlu[Auriga]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000236"
+      ]
+    },
+    {
+      "key": "šerʾi",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000740"
+      ]
+    },
+    {
+      "key": "šerʾu",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000740",
+        "qpn-x-celest.x000740"
+      ]
+    },
+    {
+      "key": "neobabmulmul",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000978"
+      ]
+    },
+    {
+      "key": "zuqaqipi",
+      "count": "3",
+      "instances": [
+        "qpn-x-celest.x000302",
+        "qpn-x-celest.x000302",
+        "qpn-x-celest.x001018"
+      ]
+    },
+    {
+      "key": "zuqaqipu",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x001018"
+      ]
+    },
+    {
+      "key": "Anzu[(a star)]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000108"
+      ]
+    },
+    {
+      "key": "Nešu[Leo]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000420"
+      ]
+    },
+    {
+      "key": "zappu",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000978",
+        "qpn-x-celest.x000978"
+      ]
+    },
+    {
+      "key": "stdbabmul",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000330"
+      ]
+    },
+    {
+      "key": "zappa",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000978"
+      ]
+    },
+    {
+      "key": "zappi",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000978"
+      ]
+    },
+    {
+      "key": "idiglat",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000260",
+        "qpn-x-celest.x000260"
+      ]
+    },
+    {
+      "key": "neoassṣar",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000662"
+      ]
+    },
+    {
+      "key": "šitaddiri",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000840"
+      ]
+    },
+    {
+      "key": "Urgulu[Leo]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000946"
+      ]
+    },
+    {
+      "key": "antares",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000396",
+        "qpn-x-celest.x000396"
+      ]
+    },
+    {
+      "key": "šar₂gaz",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000662",
+        "qpn-x-celest.x000662",
+        "qpn-x-celest.x000662",
+        "qpn-x-celest.x000662"
+      ]
+    },
+    {
+      "key": "canis",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000532",
+        "qpn-x-celest.x000532"
+      ]
+    },
+    {
+      "key": "Alu[Bull of Heaven]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000038"
+      ]
+    },
+    {
+      "key": "šu",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000464"
+      ]
+    },
+    {
+      "key": "ši",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000828"
+      ]
+    },
+    {
+      "key": "lugal",
+      "count": "6",
+      "instances": [
+        "qpn-x-celest.x000680",
+        "qpn-x-celest.x000680",
+        "qpn-x-celest.x000680",
+        "qpn-x-celest.x000680",
+        "qpn-x-celest.x000680",
+        "qpn-x-celest.x000680"
+      ]
+    },
+    {
+      "key": "u₂",
+      "count": "6",
+      "instances": [
+        "qpn-x-celest.x000126",
+        "qpn-x-celest.x000196",
+        "qpn-x-celest.x000966",
+        "qpn-x-celest.x000966",
+        "qpn-x-celest.x000966",
+        "qpn-x-celest.x000966"
+      ]
+    },
+    {
+      "key": "regulus",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000680",
+        "qpn-x-celest.x000680"
+      ]
+    },
+    {
+      "key": "Šihṭu[Mercury]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000778"
+      ]
+    },
+    {
+      "key": "Šarru[Regulus]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000680"
+      ]
+    },
+    {
+      "key": "amarutu",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000330",
+        "qpn-x-celest.x000330",
+        "qpn-x-celest.x000330",
+        "qpn-x-celest.x000330"
+      ]
+    },
+    {
+      "key": "aedin",
+      "count": "6",
+      "instances": [
+        "qpn-x-celest.x000220",
+        "qpn-x-celest.x000220",
+        "qpn-x-celest.x000220",
+        "qpn-x-celest.x000220",
+        "qpn-x-celest.x000220",
+        "qpn-x-celest.x000220"
+      ]
+    },
+    {
+      "key": "lyra",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000196"
+      ]
+    },
+    {
+      "key": "dilbat",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156"
+      ]
+    },
+    {
+      "key": "sagittarius",
+      "count": "6",
+      "instances": [
+        "qpn-x-celest.x000062",
+        "qpn-x-celest.x000062",
+        "qpn-x-celest.x000288",
+        "qpn-x-celest.x000288",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500"
+      ]
+    },
+    {
+      "key": "piscis",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000480",
+        "qpn-x-celest.x000480",
+        "qpn-x-celest.x000492",
+        "qpn-x-celest.x000492"
+      ]
+    },
+    {
+      "key": "mercury",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778"
+      ]
+    },
+    {
+      "key": "Sebettu[Pleiades]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000590"
+      ]
+    },
+    {
+      "key": "ṣalbatannu",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000606"
+      ]
+    },
+    {
+      "key": "Sagmegar[Jupiter]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000554"
+      ]
+    },
+    {
+      "key": "bridle",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000546",
+        "qpn-x-celest.x000546"
+      ]
+    },
+    {
+      "key": "dil",
+      "count": "10",
+      "instances": [
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156"
+      ]
+    },
+    {
+      "key": "Habaṣiranu[Centaurus]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000252"
+      ]
+    },
+    {
+      "key": "pisces",
+      "count": "6",
+      "instances": [
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000820",
+        "qpn-x-celest.x000820",
+        "qpn-x-celest.x000828",
+        "qpn-x-celest.x000828"
+      ]
+    },
+    {
+      "key": "plough",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000208"
+      ]
+    },
+    {
+      "key": "Enzu[Goat star]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000196"
+      ]
+    },
+    {
+      "key": "Indubanna[(a part of Sagittarius)]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000288"
+      ]
+    },
+    {
+      "key": "sarru",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000582"
+      ]
+    },
+    {
+      "key": "sarri",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000582"
+      ]
+    },
+    {
+      "key": "suhurmaš₂",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000598",
+        "qpn-x-celest.x000598"
+      ]
+    },
+    {
+      "key": "idigna",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000260",
+        "qpn-x-celest.x000260"
+      ]
+    },
+    {
+      "key": "min",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554"
+      ]
+    },
+    {
+      "key": "heaven",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000038"
+      ]
+    },
+    {
+      "key": "sipazianna",
+      "count": "5",
+      "instances": [
+        "qpn-x-celest.x000840",
+        "qpn-x-celest.x000840",
+        "qpn-x-celest.x000840",
+        "qpn-x-celest.x000840",
+        "qpn-x-celest.x000840"
+      ]
+    },
+    {
+      "key": "ne₂",
+      "count": "6",
+      "instances": [
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404"
+      ]
+    },
+    {
+      "key": "pleiades",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000590",
+        "qpn-x-celest.x000590",
+        "qpn-x-celest.x000978",
+        "qpn-x-celest.x000978"
+      ]
+    },
+    {
+      "key": "šame",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000492",
+        "qpn-x-celest.x000492"
+      ]
+    },
+    {
+      "key": "šargaz",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000662",
+        "qpn-x-celest.x000662"
+      ]
+    },
+    {
+      "key": "orion",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000840",
+        "qpn-x-celest.x000840"
+      ]
+    },
+    {
+      "key": "simmah",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000820",
+        "qpn-x-celest.x000820",
+        "qpn-x-celest.x000828",
+        "qpn-x-celest.x000828"
+      ]
+    },
+    {
+      "key": "Pašittu['Deleter' (a part of Andromeda)]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000524"
+      ]
+    },
+    {
+      "key": "ša₂",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000704"
+      ]
+    },
+    {
+      "key": "kakkabu-ṣalmu[black star]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000322"
+      ]
+    },
+    {
+      "key": "Lisi[Antares]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000396"
+      ]
+    },
+    {
+      "key": "venus",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156"
+      ]
+    },
+    {
+      "key": "enzu",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000196",
+        "qpn-x-celest.x000196"
+      ]
+    },
+    {
+      "key": "bulls",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000314",
+        "qpn-x-celest.x000314"
+      ]
+    },
+    {
+      "key": "šinunuti",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000820"
+      ]
+    },
+    {
+      "key": "šinunutu",
+      "count": "3",
+      "instances": [
+        "qpn-x-celest.x000820",
+        "qpn-x-celest.x000828",
+        "qpn-x-celest.x000828"
+      ]
+    },
+    {
+      "key": "Is-lê['bull's jaw' (Hyades)]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000314"
+      ]
+    },
+    {
+      "key": "kamuši₃ku₂e",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000524",
+        "qpn-x-celest.x000524"
+      ]
+    },
+    {
+      "key": "bow",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000532",
+        "qpn-x-celest.x000532"
+      ]
+    },
+    {
+      "key": "scorpius",
+      "count": "10",
+      "instances": [
+        "qpn-x-celest.x000302",
+        "qpn-x-celest.x000302",
+        "qpn-x-celest.x000646",
+        "qpn-x-celest.x000646",
+        "qpn-x-celest.x000662",
+        "qpn-x-celest.x000662",
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x001018",
+        "qpn-x-celest.x001018"
+      ]
+    },
+    {
+      "key": "Šargaz[(part of Scorpius)]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000662"
+      ]
+    },
+    {
+      "key": "bir",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000342",
+        "qpn-x-celest.x000342",
+        "qpn-x-celest.x000342",
+        "qpn-x-celest.x000342"
+      ]
+    },
+    {
+      "key": "swallo",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000820",
+        "qpn-x-celest.x000820"
+      ]
+    },
+    {
+      "key": "šugi",
+      "count": "6",
+      "instances": [
+        "qpn-x-celest.x000758",
+        "qpn-x-celest.x000758",
+        "qpn-x-celest.x000758",
+        "qpn-x-celest.x000758",
+        "qpn-x-celest.x000758",
+        "qpn-x-celest.x000758"
+      ]
+    },
+    {
+      "key": "urbarra",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000144",
+        "qpn-x-celest.x000144",
+        "qpn-x-celest.x000144",
+        "qpn-x-celest.x000144"
+      ]
+    },
+    {
+      "key": "ban",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000532",
+        "qpn-x-celest.x000532",
+        "qpn-x-celest.x000532",
+        "qpn-x-celest.x000532"
+      ]
+    },
+    {
+      "key": "arcturus",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000456",
+        "qpn-x-celest.x000464"
+      ]
+    },
+    {
+      "key": "Antasurru[(a part of Sagittarius)]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000062"
+      ]
+    },
+    {
+      "key": "šarru",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000680",
+        "qpn-x-celest.x000680"
+      ]
+    },
+    {
+      "key": "šarri",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000680"
+      ]
+    },
+    {
+      "key": "šarra",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000680"
+      ]
+    },
+    {
+      "key": "neoasska",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000724"
+      ]
+    },
+    {
+      "key": "šarur",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000704"
+      ]
+    },
+    {
+      "key": "neoassku",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000480"
+      ]
+    },
+    {
+      "key": "šanumma",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000654",
+        "qpn-x-celest.x000654"
+      ]
+    },
+    {
+      "key": "irat",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000302",
+        "qpn-x-celest.x000302"
+      ]
+    },
+    {
+      "key": "pabilsag",
+      "count": "12",
+      "instances": [
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500"
+      ]
+    },
+    {
+      "key": "ṣurru",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000646",
+        "qpn-x-celest.x000646"
+      ]
+    },
+    {
+      "key": "kakkab",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000330",
+        "qpn-x-celest.x000330"
+      ]
+    },
+    {
+      "key": "uduidimsaguš",
+      "count": "12",
+      "instances": [
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354"
+      ]
+    },
+    {
+      "key": "Tuʾamu[Gemini]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000904"
+      ]
+    },
+    {
+      "key": "ṣalmu",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000322",
+        "qpn-x-celest.x000322"
+      ]
+    },
+    {
+      "key": "spica",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000740",
+        "qpn-x-celest.x000740"
+      ]
+    },
+    {
+      "key": "rap",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000546",
+        "qpn-x-celest.x000546"
+      ]
+    },
+    {
+      "key": "pašittu",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000524"
+      ]
+    },
+    {
+      "key": "pašitta",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000524"
+      ]
+    },
+    {
+      "key": "drawing",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000966",
+        "qpn-x-celest.x000966"
+      ]
+    },
+    {
+      "key": "Dilbat[Venus]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000156"
+      ]
+    },
+    {
+      "key": "niru",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000456",
+        "qpn-x-celest.x000456",
+        "qpn-x-celest.x000464",
+        "qpn-x-celest.x000464"
+      ]
+    },
+    {
+      "key": "šar₂ur",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000704"
+      ]
+    },
+    {
+      "key": "Šarur[(part of Scorpius)]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000704"
+      ]
+    },
+    {
+      "key": "eruʾa",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000220",
+        "qpn-x-celest.x000220"
+      ]
+    },
+    {
+      "key": "black",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000322",
+        "qpn-x-celest.x000322"
+      ]
+    },
+    {
+      "key": "crown",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000088",
+        "qpn-x-celest.x000088",
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000096"
+      ]
+    },
+    {
+      "key": "obsidian",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000646",
+        "qpn-x-celest.x000646"
+      ]
+    },
+    {
+      "key": "perseus",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000188",
+        "qpn-x-celest.x000188",
+        "qpn-x-celest.x000758",
+        "qpn-x-celest.x000758"
+      ]
+    },
+    {
+      "key": "Ṣurru['Obsidian' (a star in Scorpius)]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000646"
+      ]
+    },
+    {
+      "key": "kayyamanu",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000354"
+      ]
+    },
+    {
+      "key": "Suhurmašu[Capricorn]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000598"
+      ]
+    },
+    {
+      "key": "uduidimgudud",
+      "count": "10",
+      "instances": [
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778"
+      ]
+    },
+    {
+      "key": "raven",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000126",
+        "qpn-x-celest.x000126"
+      ]
+    },
+    {
+      "key": "Alluttu[Cancer]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000016"
+      ]
+    },
+    {
+      "key": "barbaru",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000144",
+        "qpn-x-celest.x000144"
+      ]
+    },
+    {
+      "key": "Qaštu['Bow' (a part of Canis maior)]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000532"
+      ]
+    },
+    {
+      "key": "šulpaʾe",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876"
+      ]
+    },
+    {
+      "key": "7bi",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000590",
+        "qpn-x-celest.x000590"
+      ]
+    },
+    {
+      "key": "sky",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000492",
+        "qpn-x-celest.x000492"
+      ]
+    },
+    {
+      "key": "Šukudu[Sirius]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000860"
+      ]
+    },
+    {
+      "key": "gaz",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000662",
+        "qpn-x-celest.x000662"
+      ]
+    },
+    {
+      "key": "urgulu",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000946",
+        "qpn-x-celest.x000946"
+      ]
+    },
+    {
+      "key": "urguli",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000946"
+      ]
+    },
+    {
+      "key": "urgula",
+      "count": "6",
+      "instances": [
+        "qpn-x-celest.x000946",
+        "qpn-x-celest.x000946",
+        "qpn-x-celest.x000946",
+        "qpn-x-celest.x000946",
+        "qpn-x-celest.x000946",
+        "qpn-x-celest.x000946"
+      ]
+    },
+    {
+      "key": "Barbaru[Wolf (a star)]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000144"
+      ]
+    },
+    {
+      "key": "Enmešarra[(a part of Perseus)]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000188"
+      ]
+    },
+    {
+      "key": "kakkabu",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000322",
+        "qpn-x-celest.x000322"
+      ]
+    },
+    {
+      "key": "kayamana",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000354"
+      ]
+    },
+    {
+      "key": "kayamani",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000354"
+      ]
+    },
+    {
+      "key": "enmešar₂ra",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000188",
+        "qpn-x-celest.x000188"
+      ]
+    },
+    {
+      "key": "kayamanu",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000354"
+      ]
+    },
+    {
+      "key": "Šitaddaru[Orion]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000840"
+      ]
+    },
+    {
+      "key": "neberu",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404"
+      ]
+    },
+    {
+      "key": "gir₂tab",
+      "count": "10",
+      "instances": [
+        "qpn-x-celest.x000302",
+        "qpn-x-celest.x000302",
+        "qpn-x-celest.x000302",
+        "qpn-x-celest.x000302",
+        "qpn-x-celest.x001018",
+        "qpn-x-celest.x001018",
+        "qpn-x-celest.x001018",
+        "qpn-x-celest.x001018",
+        "qpn-x-celest.x001018",
+        "qpn-x-celest.x001018"
+      ]
+    },
+    {
+      "key": "Niru['Yoke star']",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000456"
+      ]
+    },
+    {
+      "key": "tultu",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000938",
+        "qpn-x-celest.x000938"
+      ]
+    },
+    {
+      "key": "Iku[Pegasus]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000268"
+      ]
+    },
+    {
+      "key": "saguš",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354"
+      ]
+    },
+    {
+      "key": "širʾu",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000740"
+      ]
+    },
+    {
+      "key": "uz₃",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000196",
+        "qpn-x-celest.x000196"
+      ]
+    },
+    {
+      "key": "engišgalanna",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000180",
+        "qpn-x-celest.x000180",
+        "qpn-x-celest.x000180",
+        "qpn-x-celest.x000180"
+      ]
+    },
+    {
+      "key": "Anu-agu['Crown of Anu' (Hyades)]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000096"
+      ]
+    },
+    {
+      "key": "Zibanitu[Libra]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x001002"
+      ]
+    },
+    {
+      "key": "auriga",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000236",
+        "qpn-x-celest.x000236"
+      ]
+    },
+    {
+      "key": "gemini",
+      "count": "6",
+      "instances": [
+        "qpn-x-celest.x000904",
+        "qpn-x-celest.x000904",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000966",
+        "qpn-x-celest.x000966"
+      ]
+    },
+    {
+      "key": "qašti",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000532"
+      ]
+    },
+    {
+      "key": "qaštu",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000532",
+        "qpn-x-celest.x000532"
+      ]
+    },
+    {
+      "key": "id₂",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000260",
+        "qpn-x-celest.x000260"
+      ]
+    },
+    {
+      "key": "šihṭi",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000778"
+      ]
+    },
+    {
+      "key": "šihṭu",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778"
+      ]
+    },
+    {
+      "key": "neoassmulmul",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000978"
+      ]
+    },
+    {
+      "key": "austrinus",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000480",
+        "qpn-x-celest.x000480",
+        "qpn-x-celest.x000492",
+        "qpn-x-celest.x000492"
+      ]
+    },
+    {
+      "key": "ašgan₂",
+      "count": "6",
+      "instances": [
+        "qpn-x-celest.x000268",
+        "qpn-x-celest.x000268",
+        "qpn-x-celest.x000268",
+        "qpn-x-celest.x000268",
+        "qpn-x-celest.x000268",
+        "qpn-x-celest.x000268"
+      ]
+    },
+    {
+      "key": "urmah",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000420",
+        "qpn-x-celest.x000420",
+        "qpn-x-celest.x000420",
+        "qpn-x-celest.x000420"
+      ]
+    },
+    {
+      "key": "wolf",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000144",
+        "qpn-x-celest.x000144"
+      ]
+    },
+    {
+      "key": "guanna",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000038"
+      ]
+    },
+    {
+      "key": "pegasus",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000268",
+        "qpn-x-celest.x000268"
+      ]
+    },
+    {
+      "key": "Nimru['Panther']",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000440"
+      ]
+    },
+    {
+      "key": "Šulpaʾe[Jupiter]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000876"
+      ]
+    },
+    {
+      "key": "constellation",
+      "count": "3",
+      "instances": [
+        "qpn-x-celest.x000208",
+        "qpn-x-celest.x000546",
+        "qpn-x-celest.x000546"
+      ]
+    },
+    {
+      "key": "kidney",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000342",
+        "qpn-x-celest.x000342"
+      ]
+    },
+    {
+      "key": "gaba",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000302",
+        "qpn-x-celest.x000302",
+        "qpn-x-celest.x000302",
+        "qpn-x-celest.x000302"
+      ]
+    },
+    {
+      "key": "Šanumma[(a name of Mars)]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000654"
+      ]
+    },
+    {
+      "key": "Sarru['False' (a name of Mars)]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000582"
+      ]
+    },
+    {
+      "key": "Eruʾa[Frond (a star)]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000220"
+      ]
+    },
+    {
+      "key": "rappu",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000546",
+        "qpn-x-celest.x000546"
+      ]
+    },
+    {
+      "key": "anunitu",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000074"
+      ]
+    },
+    {
+      "key": "Idiglat['Tigris' (a group of stars)]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000260"
+      ]
+    },
+    {
+      "key": "Kayyamanu[Saturn]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000354"
+      ]
+    },
+    {
+      "key": "sebetti",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000590"
+      ]
+    },
+    {
+      "key": "maior",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000532",
+        "qpn-x-celest.x000532"
+      ]
+    },
+    {
+      "key": "sebettu",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000590"
+      ]
+    },
+    {
+      "key": "worm",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000938",
+        "qpn-x-celest.x000938"
+      ]
+    },
+    {
+      "key": "neoassša₂",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000704"
+      ]
+    },
+    {
+      "key": "fox",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000724",
+        "qpn-x-celest.x000724"
+      ]
+    },
+    {
+      "key": "uga",
+      "count": "4",
+      "instances": [
+        "qpn-x-celest.x000126",
+        "qpn-x-celest.x000126",
+        "qpn-x-celest.x000126",
+        "qpn-x-celest.x000126"
+      ]
+    },
+    {
+      "key": "šibu",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000758",
+        "qpn-x-celest.x000758"
+      ]
+    },
+    {
+      "key": "šibi",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000758"
+      ]
+    },
+    {
+      "key": "nunu",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000480",
+        "qpn-x-celest.x000480"
+      ]
+    },
+    {
+      "key": "saturn",
+      "count": "2",
+      "instances": [
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354"
+      ]
+    },
+    {
+      "key": "neobabsipazianna",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000840"
+      ]
+    },
+    {
+      "key": "Ṣalbatanu[Mars]",
+      "count": "1",
+      "instances": [
+        "qpn-x-celest.x000606"
+      ]
+    },
+    {
+      "key": "#",
+      "count": "322",
+      "instances": [
+        "qpn-x-celest.x000000",
+        "qpn-x-celest.x000000",
+        "qpn-x-celest.x000000",
+        "qpn-x-celest.x000000",
+        "qpn-x-celest.x000000",
+        "qpn-x-celest.x000000",
+        "qpn-x-celest.x000000",
+        "qpn-x-celest.x000000",
+        "qpn-x-celest.x000016",
+        "qpn-x-celest.x000016",
+        "qpn-x-celest.x000016",
+        "qpn-x-celest.x000016",
+        "qpn-x-celest.x000016",
+        "qpn-x-celest.x000016",
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000062",
+        "qpn-x-celest.x000062",
+        "qpn-x-celest.x000062",
+        "qpn-x-celest.x000062",
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000088",
+        "qpn-x-celest.x000088",
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000126",
+        "qpn-x-celest.x000126",
+        "qpn-x-celest.x000126",
+        "qpn-x-celest.x000126",
+        "qpn-x-celest.x000126",
+        "qpn-x-celest.x000126",
+        "qpn-x-celest.x000144",
+        "qpn-x-celest.x000144",
+        "qpn-x-celest.x000144",
+        "qpn-x-celest.x000144",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000180",
+        "qpn-x-celest.x000180",
+        "qpn-x-celest.x000188",
+        "qpn-x-celest.x000188",
+        "qpn-x-celest.x000196",
+        "qpn-x-celest.x000196",
+        "qpn-x-celest.x000208",
+        "qpn-x-celest.x000208",
+        "qpn-x-celest.x000220",
+        "qpn-x-celest.x000220",
+        "qpn-x-celest.x000220",
+        "qpn-x-celest.x000220",
+        "qpn-x-celest.x000220",
+        "qpn-x-celest.x000220",
+        "qpn-x-celest.x000236",
+        "qpn-x-celest.x000236",
+        "qpn-x-celest.x000244",
+        "qpn-x-celest.x000244",
+        "qpn-x-celest.x000252",
+        "qpn-x-celest.x000252",
+        "qpn-x-celest.x000260",
+        "qpn-x-celest.x000260",
+        "qpn-x-celest.x000260",
+        "qpn-x-celest.x000260",
+        "qpn-x-celest.x000268",
+        "qpn-x-celest.x000268",
+        "qpn-x-celest.x000268",
+        "qpn-x-celest.x000268",
+        "qpn-x-celest.x000268",
+        "qpn-x-celest.x000268",
+        "qpn-x-celest.x000288",
+        "qpn-x-celest.x000288",
+        "qpn-x-celest.x000288",
+        "qpn-x-celest.x000288",
+        "qpn-x-celest.x000302",
+        "qpn-x-celest.x000302",
+        "qpn-x-celest.x000302",
+        "qpn-x-celest.x000302",
+        "qpn-x-celest.x000314",
+        "qpn-x-celest.x000314",
+        "qpn-x-celest.x000330",
+        "qpn-x-celest.x000330",
+        "qpn-x-celest.x000330",
+        "qpn-x-celest.x000330",
+        "qpn-x-celest.x000342",
+        "qpn-x-celest.x000342",
+        "qpn-x-celest.x000342",
+        "qpn-x-celest.x000342",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000396",
+        "qpn-x-celest.x000396",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000420",
+        "qpn-x-celest.x000420",
+        "qpn-x-celest.x000420",
+        "qpn-x-celest.x000420",
+        "qpn-x-celest.x000440",
+        "qpn-x-celest.x000440",
+        "qpn-x-celest.x000440",
+        "qpn-x-celest.x000440",
+        "qpn-x-celest.x000456",
+        "qpn-x-celest.x000456",
+        "qpn-x-celest.x000464",
+        "qpn-x-celest.x000464",
+        "qpn-x-celest.x000464",
+        "qpn-x-celest.x000464",
+        "qpn-x-celest.x000480",
+        "qpn-x-celest.x000480",
+        "qpn-x-celest.x000492",
+        "qpn-x-celest.x000492",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000524",
+        "qpn-x-celest.x000524",
+        "qpn-x-celest.x000532",
+        "qpn-x-celest.x000532",
+        "qpn-x-celest.x000532",
+        "qpn-x-celest.x000532",
+        "qpn-x-celest.x000532",
+        "qpn-x-celest.x000532",
+        "qpn-x-celest.x000546",
+        "qpn-x-celest.x000546",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000582",
+        "qpn-x-celest.x000582",
+        "qpn-x-celest.x000590",
+        "qpn-x-celest.x000590",
+        "qpn-x-celest.x000598",
+        "qpn-x-celest.x000598",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000646",
+        "qpn-x-celest.x000646",
+        "qpn-x-celest.x000654",
+        "qpn-x-celest.x000654",
+        "qpn-x-celest.x000662",
+        "qpn-x-celest.x000662",
+        "qpn-x-celest.x000662",
+        "qpn-x-celest.x000662",
+        "qpn-x-celest.x000680",
+        "qpn-x-celest.x000680",
+        "qpn-x-celest.x000680",
+        "qpn-x-celest.x000680",
+        "qpn-x-celest.x000680",
+        "qpn-x-celest.x000680",
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000724",
+        "qpn-x-celest.x000724",
+        "qpn-x-celest.x000724",
+        "qpn-x-celest.x000724",
+        "qpn-x-celest.x000740",
+        "qpn-x-celest.x000740",
+        "qpn-x-celest.x000740",
+        "qpn-x-celest.x000740",
+        "qpn-x-celest.x000758",
+        "qpn-x-celest.x000758",
+        "qpn-x-celest.x000758",
+        "qpn-x-celest.x000758",
+        "qpn-x-celest.x000758",
+        "qpn-x-celest.x000758",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000820",
+        "qpn-x-celest.x000820",
+        "qpn-x-celest.x000828",
+        "qpn-x-celest.x000828",
+        "qpn-x-celest.x000840",
+        "qpn-x-celest.x000840",
+        "qpn-x-celest.x000840",
+        "qpn-x-celest.x000840",
+        "qpn-x-celest.x000860",
+        "qpn-x-celest.x000860",
+        "qpn-x-celest.x000860",
+        "qpn-x-celest.x000860",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000904",
+        "qpn-x-celest.x000904",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000938",
+        "qpn-x-celest.x000938",
+        "qpn-x-celest.x000946",
+        "qpn-x-celest.x000946",
+        "qpn-x-celest.x000946",
+        "qpn-x-celest.x000946",
+        "qpn-x-celest.x000946",
+        "qpn-x-celest.x000946",
+        "qpn-x-celest.x000966",
+        "qpn-x-celest.x000966",
+        "qpn-x-celest.x000966",
+        "qpn-x-celest.x000966",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001018",
+        "qpn-x-celest.x001018",
+        "qpn-x-celest.x001018",
+        "qpn-x-celest.x001018",
+        "qpn-x-celest.x001018",
+        "qpn-x-celest.x001018"
+      ]
+    },
+    {
+      "key": "mul",
+      "count": "247",
+      "instances": [
+        "qpn-x-celest.x000000",
+        "qpn-x-celest.x000000",
+        "qpn-x-celest.x000000",
+        "qpn-x-celest.x000000",
+        "qpn-x-celest.x000016",
+        "qpn-x-celest.x000016",
+        "qpn-x-celest.x000016",
+        "qpn-x-celest.x000016",
+        "qpn-x-celest.x000016",
+        "qpn-x-celest.x000016",
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000062",
+        "qpn-x-celest.x000062",
+        "qpn-x-celest.x000062",
+        "qpn-x-celest.x000062",
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000088",
+        "qpn-x-celest.x000088",
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000126",
+        "qpn-x-celest.x000126",
+        "qpn-x-celest.x000126",
+        "qpn-x-celest.x000126",
+        "qpn-x-celest.x000144",
+        "qpn-x-celest.x000144",
+        "qpn-x-celest.x000144",
+        "qpn-x-celest.x000144",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000180",
+        "qpn-x-celest.x000180",
+        "qpn-x-celest.x000188",
+        "qpn-x-celest.x000188",
+        "qpn-x-celest.x000196",
+        "qpn-x-celest.x000196",
+        "qpn-x-celest.x000208",
+        "qpn-x-celest.x000208",
+        "qpn-x-celest.x000220",
+        "qpn-x-celest.x000220",
+        "qpn-x-celest.x000220",
+        "qpn-x-celest.x000220",
+        "qpn-x-celest.x000220",
+        "qpn-x-celest.x000220",
+        "qpn-x-celest.x000244",
+        "qpn-x-celest.x000244",
+        "qpn-x-celest.x000252",
+        "qpn-x-celest.x000252",
+        "qpn-x-celest.x000260",
+        "qpn-x-celest.x000260",
+        "qpn-x-celest.x000268",
+        "qpn-x-celest.x000268",
+        "qpn-x-celest.x000268",
+        "qpn-x-celest.x000268",
+        "qpn-x-celest.x000268",
+        "qpn-x-celest.x000268",
+        "qpn-x-celest.x000288",
+        "qpn-x-celest.x000288",
+        "qpn-x-celest.x000288",
+        "qpn-x-celest.x000288",
+        "qpn-x-celest.x000302",
+        "qpn-x-celest.x000302",
+        "qpn-x-celest.x000302",
+        "qpn-x-celest.x000302",
+        "qpn-x-celest.x000314",
+        "qpn-x-celest.x000314",
+        "qpn-x-celest.x000322",
+        "qpn-x-celest.x000330",
+        "qpn-x-celest.x000330",
+        "qpn-x-celest.x000342",
+        "qpn-x-celest.x000342",
+        "qpn-x-celest.x000342",
+        "qpn-x-celest.x000342",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000396",
+        "qpn-x-celest.x000396",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000420",
+        "qpn-x-celest.x000420",
+        "qpn-x-celest.x000420",
+        "qpn-x-celest.x000420",
+        "qpn-x-celest.x000440",
+        "qpn-x-celest.x000440",
+        "qpn-x-celest.x000440",
+        "qpn-x-celest.x000440",
+        "qpn-x-celest.x000456",
+        "qpn-x-celest.x000456",
+        "qpn-x-celest.x000464",
+        "qpn-x-celest.x000464",
+        "qpn-x-celest.x000464",
+        "qpn-x-celest.x000464",
+        "qpn-x-celest.x000480",
+        "qpn-x-celest.x000480",
+        "qpn-x-celest.x000492",
+        "qpn-x-celest.x000492",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000524",
+        "qpn-x-celest.x000524",
+        "qpn-x-celest.x000532",
+        "qpn-x-celest.x000532",
+        "qpn-x-celest.x000532",
+        "qpn-x-celest.x000532",
+        "qpn-x-celest.x000546",
+        "qpn-x-celest.x000546",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000582",
+        "qpn-x-celest.x000582",
+        "qpn-x-celest.x000598",
+        "qpn-x-celest.x000598",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000646",
+        "qpn-x-celest.x000646",
+        "qpn-x-celest.x000654",
+        "qpn-x-celest.x000654",
+        "qpn-x-celest.x000662",
+        "qpn-x-celest.x000662",
+        "qpn-x-celest.x000680",
+        "qpn-x-celest.x000680",
+        "qpn-x-celest.x000680",
+        "qpn-x-celest.x000680",
+        "qpn-x-celest.x000680",
+        "qpn-x-celest.x000680",
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000724",
+        "qpn-x-celest.x000724",
+        "qpn-x-celest.x000724",
+        "qpn-x-celest.x000724",
+        "qpn-x-celest.x000740",
+        "qpn-x-celest.x000740",
+        "qpn-x-celest.x000740",
+        "qpn-x-celest.x000740",
+        "qpn-x-celest.x000758",
+        "qpn-x-celest.x000758",
+        "qpn-x-celest.x000758",
+        "qpn-x-celest.x000758",
+        "qpn-x-celest.x000758",
+        "qpn-x-celest.x000758",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000820",
+        "qpn-x-celest.x000820",
+        "qpn-x-celest.x000828",
+        "qpn-x-celest.x000828",
+        "qpn-x-celest.x000840",
+        "qpn-x-celest.x000840",
+        "qpn-x-celest.x000840",
+        "qpn-x-celest.x000840",
+        "qpn-x-celest.x000860",
+        "qpn-x-celest.x000860",
+        "qpn-x-celest.x000860",
+        "qpn-x-celest.x000860",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000904",
+        "qpn-x-celest.x000904",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000938",
+        "qpn-x-celest.x000938",
+        "qpn-x-celest.x000946",
+        "qpn-x-celest.x000946",
+        "qpn-x-celest.x000946",
+        "qpn-x-celest.x000946",
+        "qpn-x-celest.x000946",
+        "qpn-x-celest.x000946",
+        "qpn-x-celest.x000966",
+        "qpn-x-celest.x000966",
+        "qpn-x-celest.x000966",
+        "qpn-x-celest.x000966",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001018",
+        "qpn-x-celest.x001018",
+        "qpn-x-celest.x001018",
+        "qpn-x-celest.x001018",
+        "qpn-x-celest.x001018",
+        "qpn-x-celest.x001018"
+      ]
+    },
+    {
+      "key": "akk",
+      "count": "165",
+      "instances": [
+        "qpn-x-celest.x000000",
+        "qpn-x-celest.x000000",
+        "qpn-x-celest.x000016",
+        "qpn-x-celest.x000016",
+        "qpn-x-celest.x000016",
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000062",
+        "qpn-x-celest.x000062",
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000088",
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000126",
+        "qpn-x-celest.x000126",
+        "qpn-x-celest.x000126",
+        "qpn-x-celest.x000144",
+        "qpn-x-celest.x000144",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000180",
+        "qpn-x-celest.x000188",
+        "qpn-x-celest.x000196",
+        "qpn-x-celest.x000196",
+        "qpn-x-celest.x000208",
+        "qpn-x-celest.x000220",
+        "qpn-x-celest.x000220",
+        "qpn-x-celest.x000220",
+        "qpn-x-celest.x000236",
+        "qpn-x-celest.x000244",
+        "qpn-x-celest.x000252",
+        "qpn-x-celest.x000260",
+        "qpn-x-celest.x000268",
+        "qpn-x-celest.x000268",
+        "qpn-x-celest.x000268",
+        "qpn-x-celest.x000288",
+        "qpn-x-celest.x000288",
+        "qpn-x-celest.x000302",
+        "qpn-x-celest.x000302",
+        "qpn-x-celest.x000314",
+        "qpn-x-celest.x000322",
+        "qpn-x-celest.x000330",
+        "qpn-x-celest.x000330",
+        "qpn-x-celest.x000342",
+        "qpn-x-celest.x000342",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000396",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000420",
+        "qpn-x-celest.x000420",
+        "qpn-x-celest.x000440",
+        "qpn-x-celest.x000440",
+        "qpn-x-celest.x000456",
+        "qpn-x-celest.x000464",
+        "qpn-x-celest.x000464",
+        "qpn-x-celest.x000464",
+        "qpn-x-celest.x000480",
+        "qpn-x-celest.x000480",
+        "qpn-x-celest.x000492",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000524",
+        "qpn-x-celest.x000532",
+        "qpn-x-celest.x000532",
+        "qpn-x-celest.x000546",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000582",
+        "qpn-x-celest.x000590",
+        "qpn-x-celest.x000598",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000646",
+        "qpn-x-celest.x000654",
+        "qpn-x-celest.x000662",
+        "qpn-x-celest.x000662",
+        "qpn-x-celest.x000662",
+        "qpn-x-celest.x000680",
+        "qpn-x-celest.x000680",
+        "qpn-x-celest.x000680",
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000724",
+        "qpn-x-celest.x000724",
+        "qpn-x-celest.x000724",
+        "qpn-x-celest.x000740",
+        "qpn-x-celest.x000740",
+        "qpn-x-celest.x000758",
+        "qpn-x-celest.x000758",
+        "qpn-x-celest.x000758",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000820",
+        "qpn-x-celest.x000828",
+        "qpn-x-celest.x000828",
+        "qpn-x-celest.x000840",
+        "qpn-x-celest.x000840",
+        "qpn-x-celest.x000840",
+        "qpn-x-celest.x000860",
+        "qpn-x-celest.x000860",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000904",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000938",
+        "qpn-x-celest.x000946",
+        "qpn-x-celest.x000946",
+        "qpn-x-celest.x000946",
+        "qpn-x-celest.x000966",
+        "qpn-x-celest.x000966",
+        "qpn-x-celest.x000978",
+        "qpn-x-celest.x000978",
+        "qpn-x-celest.x000978",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001018",
+        "qpn-x-celest.x001018",
+        "qpn-x-celest.x001018"
+      ]
+    },
+    {
+      "key": "x",
+      "count": "165",
+      "instances": [
+        "qpn-x-celest.x000000",
+        "qpn-x-celest.x000000",
+        "qpn-x-celest.x000016",
+        "qpn-x-celest.x000016",
+        "qpn-x-celest.x000016",
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000062",
+        "qpn-x-celest.x000062",
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000088",
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000126",
+        "qpn-x-celest.x000126",
+        "qpn-x-celest.x000126",
+        "qpn-x-celest.x000144",
+        "qpn-x-celest.x000144",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000180",
+        "qpn-x-celest.x000188",
+        "qpn-x-celest.x000196",
+        "qpn-x-celest.x000196",
+        "qpn-x-celest.x000208",
+        "qpn-x-celest.x000220",
+        "qpn-x-celest.x000220",
+        "qpn-x-celest.x000220",
+        "qpn-x-celest.x000236",
+        "qpn-x-celest.x000244",
+        "qpn-x-celest.x000252",
+        "qpn-x-celest.x000260",
+        "qpn-x-celest.x000268",
+        "qpn-x-celest.x000268",
+        "qpn-x-celest.x000268",
+        "qpn-x-celest.x000288",
+        "qpn-x-celest.x000288",
+        "qpn-x-celest.x000302",
+        "qpn-x-celest.x000302",
+        "qpn-x-celest.x000314",
+        "qpn-x-celest.x000322",
+        "qpn-x-celest.x000330",
+        "qpn-x-celest.x000330",
+        "qpn-x-celest.x000342",
+        "qpn-x-celest.x000342",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000396",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000420",
+        "qpn-x-celest.x000420",
+        "qpn-x-celest.x000440",
+        "qpn-x-celest.x000440",
+        "qpn-x-celest.x000456",
+        "qpn-x-celest.x000464",
+        "qpn-x-celest.x000464",
+        "qpn-x-celest.x000464",
+        "qpn-x-celest.x000480",
+        "qpn-x-celest.x000480",
+        "qpn-x-celest.x000492",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000524",
+        "qpn-x-celest.x000532",
+        "qpn-x-celest.x000532",
+        "qpn-x-celest.x000546",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000582",
+        "qpn-x-celest.x000590",
+        "qpn-x-celest.x000598",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000646",
+        "qpn-x-celest.x000654",
+        "qpn-x-celest.x000662",
+        "qpn-x-celest.x000662",
+        "qpn-x-celest.x000662",
+        "qpn-x-celest.x000680",
+        "qpn-x-celest.x000680",
+        "qpn-x-celest.x000680",
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000724",
+        "qpn-x-celest.x000724",
+        "qpn-x-celest.x000724",
+        "qpn-x-celest.x000740",
+        "qpn-x-celest.x000740",
+        "qpn-x-celest.x000758",
+        "qpn-x-celest.x000758",
+        "qpn-x-celest.x000758",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000820",
+        "qpn-x-celest.x000828",
+        "qpn-x-celest.x000828",
+        "qpn-x-celest.x000840",
+        "qpn-x-celest.x000840",
+        "qpn-x-celest.x000840",
+        "qpn-x-celest.x000860",
+        "qpn-x-celest.x000860",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000904",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000938",
+        "qpn-x-celest.x000946",
+        "qpn-x-celest.x000946",
+        "qpn-x-celest.x000946",
+        "qpn-x-celest.x000966",
+        "qpn-x-celest.x000966",
+        "qpn-x-celest.x000978",
+        "qpn-x-celest.x000978",
+        "qpn-x-celest.x000978",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001018",
+        "qpn-x-celest.x001018",
+        "qpn-x-celest.x001018"
+      ]
+    },
+    {
+      "key": "neoass",
+      "count": "40",
+      "instances": [
+        "qpn-x-celest.x000000",
+        "qpn-x-celest.x000016",
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000144",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000220",
+        "qpn-x-celest.x000268",
+        "qpn-x-celest.x000302",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000396",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000420",
+        "qpn-x-celest.x000464",
+        "qpn-x-celest.x000492",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000546",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000598",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000646",
+        "qpn-x-celest.x000680",
+        "qpn-x-celest.x000740",
+        "qpn-x-celest.x000758",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000860",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000946",
+        "qpn-x-celest.x000966",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001018"
+      ]
+    },
+    {
+      "key": "neobab",
+      "count": "39",
+      "instances": [
+        "qpn-x-celest.x000000",
+        "qpn-x-celest.x000016",
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000062",
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000220",
+        "qpn-x-celest.x000268",
+        "qpn-x-celest.x000288",
+        "qpn-x-celest.x000302",
+        "qpn-x-celest.x000342",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000440",
+        "qpn-x-celest.x000456",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000680",
+        "qpn-x-celest.x000724",
+        "qpn-x-celest.x000740",
+        "qpn-x-celest.x000758",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000820",
+        "qpn-x-celest.x000840",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000946",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001018"
+      ]
+    },
+    {
+      "key": "stdbab",
+      "count": "71",
+      "instances": [
+        "qpn-x-celest.x000016",
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000062",
+        "qpn-x-celest.x000088",
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000126",
+        "qpn-x-celest.x000126",
+        "qpn-x-celest.x000144",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000180",
+        "qpn-x-celest.x000188",
+        "qpn-x-celest.x000196",
+        "qpn-x-celest.x000208",
+        "qpn-x-celest.x000220",
+        "qpn-x-celest.x000236",
+        "qpn-x-celest.x000244",
+        "qpn-x-celest.x000252",
+        "qpn-x-celest.x000260",
+        "qpn-x-celest.x000268",
+        "qpn-x-celest.x000288",
+        "qpn-x-celest.x000314",
+        "qpn-x-celest.x000342",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000420",
+        "qpn-x-celest.x000440",
+        "qpn-x-celest.x000464",
+        "qpn-x-celest.x000480",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000524",
+        "qpn-x-celest.x000532",
+        "qpn-x-celest.x000532",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000582",
+        "qpn-x-celest.x000590",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000654",
+        "qpn-x-celest.x000662",
+        "qpn-x-celest.x000662",
+        "qpn-x-celest.x000680",
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000724",
+        "qpn-x-celest.x000758",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000828",
+        "qpn-x-celest.x000840",
+        "qpn-x-celest.x000860",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000904",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000912",
+        "qpn-x-celest.x000938",
+        "qpn-x-celest.x000946",
+        "qpn-x-celest.x000966",
+        "qpn-x-celest.x001002",
+        "qpn-x-celest.x001018"
+      ]
+    },
+    {
+      "key": "of",
+      "count": "44",
+      "instances": [
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000038",
+        "qpn-x-celest.x000062",
+        "qpn-x-celest.x000062",
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000088",
+        "qpn-x-celest.x000088",
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000180",
+        "qpn-x-celest.x000180",
+        "qpn-x-celest.x000188",
+        "qpn-x-celest.x000188",
+        "qpn-x-celest.x000260",
+        "qpn-x-celest.x000260",
+        "qpn-x-celest.x000288",
+        "qpn-x-celest.x000288",
+        "qpn-x-celest.x000302",
+        "qpn-x-celest.x000302",
+        "qpn-x-celest.x000330",
+        "qpn-x-celest.x000330",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000492",
+        "qpn-x-celest.x000492",
+        "qpn-x-celest.x000524",
+        "qpn-x-celest.x000524",
+        "qpn-x-celest.x000532",
+        "qpn-x-celest.x000532",
+        "qpn-x-celest.x000582",
+        "qpn-x-celest.x000582",
+        "qpn-x-celest.x000654",
+        "qpn-x-celest.x000654",
+        "qpn-x-celest.x000662",
+        "qpn-x-celest.x000662",
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000820",
+        "qpn-x-celest.x000820",
+        "qpn-x-celest.x000828",
+        "qpn-x-celest.x000828",
+        "qpn-x-celest.x000966",
+        "qpn-x-celest.x000966"
+      ]
+    },
+    {
+      "key": "a",
+      "count": "57",
+      "instances": [
+        "qpn-x-celest.x000062",
+        "qpn-x-celest.x000062",
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000088",
+        "qpn-x-celest.x000088",
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000144",
+        "qpn-x-celest.x000144",
+        "qpn-x-celest.x000180",
+        "qpn-x-celest.x000180",
+        "qpn-x-celest.x000188",
+        "qpn-x-celest.x000188",
+        "qpn-x-celest.x000208",
+        "qpn-x-celest.x000220",
+        "qpn-x-celest.x000220",
+        "qpn-x-celest.x000260",
+        "qpn-x-celest.x000260",
+        "qpn-x-celest.x000288",
+        "qpn-x-celest.x000288",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000524",
+        "qpn-x-celest.x000524",
+        "qpn-x-celest.x000532",
+        "qpn-x-celest.x000532",
+        "qpn-x-celest.x000546",
+        "qpn-x-celest.x000546",
+        "qpn-x-celest.x000582",
+        "qpn-x-celest.x000582",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000646",
+        "qpn-x-celest.x000646",
+        "qpn-x-celest.x000654",
+        "qpn-x-celest.x000654",
+        "qpn-x-celest.x000724",
+        "qpn-x-celest.x000724",
+        "qpn-x-celest.x000724",
+        "qpn-x-celest.x000724",
+        "qpn-x-celest.x000966",
+        "qpn-x-celest.x000966"
+      ]
+    },
+    {
+      "key": "part",
+      "count": "22",
+      "instances": [
+        "qpn-x-celest.x000062",
+        "qpn-x-celest.x000062",
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000188",
+        "qpn-x-celest.x000188",
+        "qpn-x-celest.x000288",
+        "qpn-x-celest.x000288",
+        "qpn-x-celest.x000302",
+        "qpn-x-celest.x000302",
+        "qpn-x-celest.x000524",
+        "qpn-x-celest.x000524",
+        "qpn-x-celest.x000532",
+        "qpn-x-celest.x000532",
+        "qpn-x-celest.x000662",
+        "qpn-x-celest.x000662",
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000820",
+        "qpn-x-celest.x000820",
+        "qpn-x-celest.x000828",
+        "qpn-x-celest.x000828"
+      ]
+    },
+    {
+      "key": "nu",
+      "count": "20",
+      "instances": [
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000074",
+        "qpn-x-celest.x000088",
+        "qpn-x-celest.x000088",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606"
+      ]
+    },
+    {
+      "key": "d",
+      "count": "68",
+      "instances": [
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000096",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000236",
+        "qpn-x-celest.x000236",
+        "qpn-x-celest.x000330",
+        "qpn-x-celest.x000330",
+        "qpn-x-celest.x000330",
+        "qpn-x-celest.x000330",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000354",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000404",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000500",
+        "qpn-x-celest.x000532",
+        "qpn-x-celest.x000532",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000554",
+        "qpn-x-celest.x000590",
+        "qpn-x-celest.x000590",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000662",
+        "qpn-x-celest.x000662",
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000704",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000778",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876",
+        "qpn-x-celest.x000876"
+      ]
+    },
+    {
+      "key": "star",
+      "count": "30",
+      "instances": [
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000108",
+        "qpn-x-celest.x000126",
+        "qpn-x-celest.x000126",
+        "qpn-x-celest.x000144",
+        "qpn-x-celest.x000144",
+        "qpn-x-celest.x000196",
+        "qpn-x-celest.x000208",
+        "qpn-x-celest.x000220",
+        "qpn-x-celest.x000220",
+        "qpn-x-celest.x000244",
+        "qpn-x-celest.x000244",
+        "qpn-x-celest.x000322",
+        "qpn-x-celest.x000322",
+        "qpn-x-celest.x000330",
+        "qpn-x-celest.x000330",
+        "qpn-x-celest.x000456",
+        "qpn-x-celest.x000456",
+        "qpn-x-celest.x000464",
+        "qpn-x-celest.x000464",
+        "qpn-x-celest.x000480",
+        "qpn-x-celest.x000480",
+        "qpn-x-celest.x000646",
+        "qpn-x-celest.x000646",
+        "qpn-x-celest.x000724",
+        "qpn-x-celest.x000724",
+        "qpn-x-celest.x000820",
+        "qpn-x-celest.x000820",
+        "qpn-x-celest.x000828",
+        "qpn-x-celest.x000828"
+      ]
+    },
+    {
+      "key": "bat",
+      "count": "26",
+      "instances": [
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000156",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606"
+      ]
+    },
+    {
+      "key": "ṣal",
+      "count": "16",
+      "instances": [
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606",
+        "qpn-x-celest.x000606"
+      ]
+    }
+  ],
+  "map": {
+    "%akk": "akk",
+    "'Bow'": "bow",
+    "'Bridle'": "bridle",
+    "'Crown": "crown",
+    "'Deleter'": "deleter",
+    "'Destruction'": "destruction",
+    "'Drawing'": "drawing",
+    "'False'": "false",
+    "'Fish": "fish",
+    "'Kidney'": "kidney",
+    "'Obsidian'": "obsidian",
+    "'Panther'": "panther",
+    "'Raven": "raven",
+    "'Swallo": "swallo",
+    "'Swallow": "swallow",
+    "'Tigris'": "tigris",
+    "'Worm'": "worm",
+    "'Yoke": "yoke",
+    "'bull's": "bulls",
+    "'yoke": "yoke",
+    "(Arcturus)": "arcturus",
+    "(Corvus)": "corvus",
+    "(Hyades)": "hyades",
+    "(Piscis": "piscis",
+    "(a": "a",
+    "(in": "in",
+    "(part": "part",
+    "07.BI": "7bi",
+    "A.EDIN": "aedin",
+    "AB.SIN₂": "absin₂",
+    "AGA": "aga",
+    "AL.LUL": "allul",
+    "AMAR.UTU": "amarutu",
+    "AN": "an",
+    "AN.NA": "anna",
+    "AN.TA.SUR.RA": "antasurra",
+    "AN.ZU": "anzu",
+    "APIN": "apin",
+    "Agri": "agri",
+    "Agru": "agru",
+    "Agu": "agu",
+    "Ali": "ali",
+    "Allutti": "allutti",
+    "Alluttu": "alluttu",
+    "Alu": "alu",
+    "Andromeda)": "andromeda",
+    "Annunitu": "annunitu",
+    "Antares": "antares",
+    "Antasurru": "antasurru",
+    "Anu": "anu",
+    "Anu'": "anu",
+    "Anunitu": "anunitu",
+    "Anzi": "anzi",
+    "Anzu": "anzu",
+    "Aribi": "aribi",
+    "Aribu": "aribu",
+    "Aries": "aries",
+    "Auriga": "auriga",
+    "Austrinus)": "austrinus",
+    "AŠ.GAN₂": "ašgan₂",
+    "BAN": "ban",
+    "BIR": "bir",
+    "Barbaru": "barbaru",
+    "Bull": "bull",
+    "Cancer": "cancer",
+    "Canis": "canis",
+    "Capricorn": "capricorn",
+    "Centaurus": "centaurus",
+    "Dilbat": "dilbat",
+    "EN.GIŠGAL.AN.NA": "engišgalanna",
+    "EN.ME.ŠAR₂.RA": "enmešar₂ra",
+    "EN.TE.NA.BAR.GUZ": "entenabarguz",
+    "Engišgalanna": "engišgalanna",
+    "Enmešarra": "enmešarra",
+    "Enzu": "enzu",
+    "Epinni": "epinni",
+    "Epinnu": "epinnu",
+    "Eruʾa": "eruʾa",
+    "Fox": "fox",
+    "Frond": "frond",
+    "GABA": "gaba",
+    "GAG.SI.SA₂": "gagsisa₂",
+    "GAM₃": "gam₃",
+    "GILIM.MA": "gilimma",
+    "GIR₂.TAB": "gir₂tab",
+    "GI₆": "gi₆",
+    "GU.AN.NA": "guanna",
+    "GUD.AN.NA": "gudanna",
+    "GUD.UD": "gudud",
+    "Gamlu": "gamlu",
+    "Gemini": "gemini",
+    "Gemini)": "gemini",
+    "Gilimma": "gilimma",
+    "Goat": "goat",
+    "HUN.GA₂": "hunga₂",
+    "Habaṣiranu": "habaṣiranu",
+    "Heaven": "heaven",
+    "IDIGNA": "idigna",
+    "ID₂": "id₂",
+    "IM.DUGUD": "imdugud",
+    "IN.DUB.AN.NA": "indubanna",
+    "Idiglat": "idiglat",
+    "Iki": "iki",
+    "Iku": "iku",
+    "Indubanna": "indubanna",
+    "Indubanni": "indubanni",
+    "Irat": "irat",
+    "Is": "is",
+    "Jupiter": "jupiter",
+    "Jupiter)": "jupiter",
+    "KA.MUŠ.I₃.KU₂.E": "kamuši₃ku₂e",
+    "KA₅.A": "ka₅a",
+    "KU₆": "ku₆",
+    "Kalitu": "kalitu",
+    "Kayamana": "kayamana",
+    "Kayamani": "kayamani",
+    "Kayamanu": "kayamanu",
+    "Kayyamanu": "kayyamanu",
+    "LI₉.SI₄": "li₉si₄",
+    "LUGAL": "lugal",
+    "LU₂": "lu₂",
+    "Leo": "leo",
+    "Libra": "libra",
+    "Lisi": "lisi",
+    "Lyra": "lyra",
+    "MAŠ.TAB.BA": "maštabba",
+    "MAŠ.TAB.BA.GAL.GAL": "maštabbagalgal",
+    "MAŠ.TAB.BA.GAL.GAL.LA": "maštabbagalgalla",
+    "MIN": "min",
+    "MIN₃": "min₃",
+    "MUL": "mul",
+    "MUL.MUL": "mulmul",
+    "MUŠEN": "mušen",
+    "Marduk": "marduk",
+    "Mars": "mars",
+    "Mars)": "mars",
+    "Mercury": "mercury",
+    "Neberu": "neberu",
+    "Neša": "neša",
+    "Neši": "neši",
+    "Nešu": "nešu",
+    "Nimri": "nimri",
+    "Nimru": "nimru",
+    "Niru": "niru",
+    "Nun": "nun",
+    "Nunu": "nunu",
+    "Orion": "orion",
+    "PA.BIL.SAG": "pabilsag",
+    "Pabilsag": "pabilsag",
+    "Pašitta": "pašitta",
+    "Pašittu": "pašittu",
+    "Pegasus": "pegasus",
+    "Perseus": "perseus",
+    "Perseus)": "perseus",
+    "Pisces)": "pisces",
+    "Pleiades": "pleiades",
+    "Plough": "plough",
+    "Qašti": "qašti",
+    "Qaštu": "qaštu",
+    "Rappu": "rappu",
+    "Regulus": "regulus",
+    "SAG.ME.GAR": "sagmegar",
+    "SAG.UŠ": "saguš",
+    "SIM.MAH": "simmah",
+    "SIPA.ZI.AN.NA": "sipazianna",
+    "SUHUR.MAŠ₂": "suhurmaš₂",
+    "Sagittarius": "sagittarius",
+    "Sagittarius)": "sagittarius",
+    "Sagmegar": "sagmegar",
+    "Sarri": "sarri",
+    "Sarru": "sarru",
+    "Saturn": "saturn",
+    "Scorpius": "scorpius",
+    "Scorpius)": "scorpius",
+    "Sebetti": "sebetti",
+    "Sebettu": "sebettu",
+    "Sirius": "sirius",
+    "Spica": "spica",
+    "Suhurmaši": "suhurmaši",
+    "Suhurmašu": "suhurmašu",
+    "Tultu": "tultu",
+    "Tuʾami": "tuʾami",
+    "Tuʾamu": "tuʾamu",
+    "UD.KA.DU₈.A": "udkadu₈a",
+    "UDU.IDIM.GUD.UD": "uduidimgudud",
+    "UDU.IDIM.SAG.UŠ": "uduidimsaguš",
+    "UGA": "uga",
+    "UR.BAR.RA": "urbarra",
+    "UR.GU.LA": "urgula",
+    "UR.MAH": "urmah",
+    "UZ₃": "uz₃",
+    "Urguli": "urguli",
+    "Urgulu": "urgulu",
+    "Uṣurti": "uṣurti",
+    "Uṣurtu": "uṣurtu",
+    "Venus": "venus",
+    "Virgo)": "virgo",
+    "Wolf": "wolf",
+    "Zappa": "zappa",
+    "Zappi": "zappi",
+    "Zappu": "zappu",
+    "Zibanitu": "zibanitu",
+    "Zuqaqipi": "zuqaqipi",
+    "Zuqaqipu": "zuqaqipu",
+    "constellation)": "constellation",
+    "jaw'": "jaw",
+    "lê": "le",
+    "maior)": "maior",
+    "neoass:": "neoass",
+    "neoass:MUL": "neoassmul",
+    "neoass:MUL.MUL": "neoassmulmul",
+    "neoass:ka": "neoasska",
+    "neoass:ku": "neoassku",
+    "neoass:u₂": "neoassu₂",
+    "neoass:ša₂": "neoassša₂",
+    "neoass:ši": "neoassši",
+    "neoass:šu": "neoassšu",
+    "neoass:ṣar": "neoassṣar",
+    "neobab:": "neobab",
+    "neobab:MUL.MUL": "neobabmulmul",
+    "neobab:SIPA.ZI.AN.NA": "neobabsipazianna",
+    "sky'": "sky",
+    "star'": "star",
+    "star)": "star",
+    "stars)": "stars",
+    "stdbab:": "stdbab",
+    "stdbab:MUL": "stdbabmul",
+    "stdbab:MUL.MUL": "stdbabmulmul",
+    "ŠAR₂.GAZ": "šar₂gaz",
+    "ŠAR₂.UR": "šar₂ur",
+    "ŠAR₂.UR₃": "šar₂ur₃",
+    "ŠAR₂.UR₄": "šar₂ur₄",
+    "ŠU.GI": "šugi",
+    "ŠUDUN": "šudun",
+    "ŠUL.PA.E₃": "šulpae₃",
+    "ŠUL.PA.E₃.A": "šulpae₃a",
+    "Šanumma": "šanumma",
+    "Šargaz": "šargaz",
+    "Šarra": "šarra",
+    "Šarri": "šarri",
+    "Šarru": "šarru",
+    "Šarur": "šarur",
+    "Šelebu": "šelebu",
+    "Šerʾi": "šerʾi",
+    "Šerʾu": "šerʾu",
+    "Šibi": "šibi",
+    "Šibu": "šibu",
+    "Šihṭi": "šihṭi",
+    "Šihṭu": "šihṭu",
+    "Šinunuti": "šinunuti",
+    "Šinunutu": "šinunutu",
+    "Širʾu": "širʾu",
+    "Šitaddaru": "šitaddaru",
+    "Šitaddiri": "šitaddiri",
+    "Šukudi": "šukudi",
+    "Šukudu": "šukudu",
+    "Šulpaʾe": "šulpaʾe",
+    "Ṣalbatani": "ṣalbatani",
+    "Ṣalbatannu": "ṣalbatannu",
+    "Ṣalbatanu": "ṣalbatanu",
+    "Ṣargaz": "ṣargaz",
+    "Ṣurru": "ṣurru"
+  }
+}

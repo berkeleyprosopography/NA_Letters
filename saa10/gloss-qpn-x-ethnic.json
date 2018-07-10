@@ -1,0 +1,3139 @@
+{
+  "type": "glossary",
+  "project": "saao/saa10",
+  "source": "http://oracc.org/saao/saa10",
+  "license": "This data is released under the CC0 license",
+  "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "more-info": "http://oracc.org/doc/opendata/",
+  "UTC-timestamp": "2018-06-15T19:38:04",
+  "lang": "qpn-x-ethnic",
+  "entries": [
+    {
+      "headword": "Ahlamu[(desig. for Aramaeans)]EN",
+      "id": "qpn-x-ethnic.x000000",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r00000",
+      "dc_title": "saao/saa10/qpn-x-ethnic/Ahlamu[(desig. for Aramaeans)]",
+      "cf": "Ahlamu",
+      "gw": "(desig. for Aramaeans)",
+      "pos": "EN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000001",
+          "n": "ah-la-mu-u",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00000"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-ethnic.x000002",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00000",
+          "n": "Ahlamu",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000003",
+              "ref": "qpn-x-ethnic.x000001",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00000"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-ethnic.x000004",
+          "n": "Ahlamu[(desig. for Aramaeans)//(desig. for Aramaeans)]EN'EN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00000",
+          "num": "1.",
+          "pos": "EN",
+          "mng": "(desig. for Aramaeans)",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000005",
+              "n": "%akk-x-stdbab:ah-la-mu-u",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00000"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-ethnic.x000006",
+              "n": "Ahlamu",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00000"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000007",
+              "sig": "@saao/saa10%akk-x-stdbab:ah-la-mu-u=Ahlamu[(desig. for Aramaeans)//(desig. for Aramaeans)]EN'EN$Ahlamu",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00000"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00000.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Akkadu[Babylonian]EN",
+      "id": "qpn-x-ethnic.x000008",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r00001",
+      "dc_title": "saao/saa10/qpn-x-ethnic/Akkadu[Babylonian]",
+      "cf": "Akkadu",
+      "gw": "Babylonian",
+      "pos": "EN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000009",
+          "n": "URI{KI}-u₂",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00001"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-ethnic.x000010",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00001",
+          "n": "Akkadu",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000011",
+              "ref": "qpn-x-ethnic.x000009",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00001"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-ethnic.x000012",
+          "n": "Akkadu[Babylonian//Babylonian]EN'EN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00001",
+          "num": "1.",
+          "pos": "EN",
+          "mng": "Babylonian",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000013",
+              "n": "%akk-x-neoass:URI{KI}-u₂",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00001"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-ethnic.x000014",
+              "n": "Akkadu",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00001"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000015",
+              "sig": "@saao/saa10%akk-x-neoass:URI{KI}-u₂=Akkadu[Babylonian//Babylonian]EN'EN$Akkadu",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00001"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00001.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Akkaduʾa[inhabitant of Akkad]EN",
+      "id": "qpn-x-ethnic.x000016",
+      "icount": "2",
+      "ipct": "100",
+      "xis": "qpn.r00002",
+      "dc_title": "saao/saa10/qpn-x-ethnic/Akkaduʾa[inhabitant of Akkad]",
+      "cf": "Akkaduʾa",
+      "gw": "inhabitant of Akkad",
+      "pos": "EN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000017",
+          "n": "{LU₂}ak-kad-u-a",
+          "icount": "1",
+          "ipct": "50",
+          "xis": "qpn.r00003"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000018",
+          "n": "{LU₂}{URU}ak-kad-u-a",
+          "icount": "1",
+          "ipct": "50",
+          "xis": "qpn.r00004"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-ethnic.x000019",
+          "icount": "2",
+          "ipct": "100",
+          "xis": "qpn.r00002",
+          "n": "Akkaduʾa",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000020",
+              "ref": "qpn-x-ethnic.x000017",
+              "icount": "1",
+              "ipct": "50",
+              "xis": "qpn.r00003"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000021",
+              "ref": "qpn-x-ethnic.x000018",
+              "icount": "1",
+              "ipct": "50",
+              "xis": "qpn.r00004"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-ethnic.x000022",
+          "n": "Akkaduʾa[inhabitant of Akkad//inhabitant of Akkad]EN'EN",
+          "icount": "2",
+          "ipct": "100",
+          "xis": "qpn.r00002",
+          "num": "1.",
+          "pos": "EN",
+          "mng": "inhabitant of Akkad",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000023",
+              "n": "%akk-x-neoass:{LU₂}ak-kad-u-a",
+              "icount": "1",
+              "ipct": "50",
+              "xis": "qpn.r00003"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000024",
+              "n": "%akk-x-neoass:{LU₂}{URU}ak-kad-u-a",
+              "icount": "1",
+              "ipct": "50",
+              "xis": "qpn.r00004"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-ethnic.x000025",
+              "n": "Akkaduʾa",
+              "icount": "2",
+              "ipct": "100",
+              "xis": "qpn.r00002"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000026",
+              "sig": "@saao/saa10%akk-x-neoass:{LU₂}ak-kad-u-a=Akkaduʾa[inhabitant of Akkad//inhabitant of Akkad]EN'EN$Akkaduʾa",
+              "icount": "1",
+              "ipct": "50",
+              "xis": "qpn.r00003"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000027",
+              "sig": "@saao/saa10%akk-x-neoass:{LU₂}{URU}ak-kad-u-a=Akkaduʾa[inhabitant of Akkad//inhabitant of Akkad]EN'EN$Akkaduʾa",
+              "icount": "1",
+              "ipct": "50",
+              "xis": "qpn.r00004"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "2",
+          "ipct": "100",
+          "xis": "qpn.r00002.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Arbailaya[from Arbela]EN",
+      "id": "qpn-x-ethnic.x000028",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r00005",
+      "dc_title": "saao/saa10/qpn-x-ethnic/Arbailaya[from Arbela]",
+      "cf": "Arbailaya",
+      "gw": "from Arbela",
+      "pos": "EN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000029",
+          "n": "{URU}arba-il₃-a.a",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00005"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-ethnic.x000030",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00005",
+          "n": "Arbailaya",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000031",
+              "ref": "qpn-x-ethnic.x000029",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00005"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-ethnic.x000032",
+          "n": "Arbailaya[from Arbela//from Arbela]EN'EN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00005",
+          "num": "1.",
+          "pos": "EN",
+          "mng": "from Arbela",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000033",
+              "n": "%akk-x-neoass:{URU}arba-il₃-a.a",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00005"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-ethnic.x000034",
+              "n": "Arbailaya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00005"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000035",
+              "sig": "@saao/saa10%akk-x-neoass:{URU}arba-il₃-a.a=Arbailaya[from Arbela//from Arbela]EN'EN$Arbailaya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00005"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00005.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Arraphaya[1]EN",
+      "id": "qpn-x-ethnic.x000036",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r00006",
+      "dc_title": "saao/saa10/qpn-x-ethnic/Arraphaya[1]",
+      "cf": "Arraphaya",
+      "gw": "1",
+      "pos": "EN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000037",
+          "n": "{URU}ar-rap-ha-a.a",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00006"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-ethnic.x000038",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00006",
+          "n": "Arraphaya",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000039",
+              "ref": "qpn-x-ethnic.x000037",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00006"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-ethnic.x000040",
+          "n": "Arraphaya[1//1]EN'EN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00006",
+          "num": "1.",
+          "pos": "EN",
+          "mng": "1",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000041",
+              "n": "%akk-x-neoass:{URU}ar-rap-ha-a.a",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00006"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-ethnic.x000042",
+              "n": "Arraphaya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00006"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000043",
+              "sig": "@saao/saa10%akk-x-neoass:{URU}ar-rap-ha-a.a=Arraphaya[1//1]EN'EN$Arraphaya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00006"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00006.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Aššuraya[Assyrian]EN",
+      "id": "qpn-x-ethnic.x000044",
+      "icount": "3",
+      "ipct": "100",
+      "xis": "qpn.r00007",
+      "dc_title": "saao/saa10/qpn-x-ethnic/Aššuraya[Assyrian]",
+      "cf": "Aššuraya",
+      "gw": "Assyrian",
+      "pos": "EN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000045",
+          "n": "KUR-aš-šur-a.a",
+          "icount": "1",
+          "ipct": "33",
+          "xis": "qpn.r00008"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000046",
+          "n": "aš-šur{KI}-a.a",
+          "icount": "1",
+          "ipct": "33",
+          "xis": "qpn.r00009"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000047",
+          "n": "{LU₂}aš₂-šu-ra-a.a",
+          "icount": "1",
+          "ipct": "33",
+          "xis": "qpn.r0000a"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-ethnic.x000048",
+          "icount": "3",
+          "ipct": "100",
+          "xis": "qpn.r00007",
+          "n": "Aššuraya",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000049",
+              "ref": "qpn-x-ethnic.x000045",
+              "icount": "1",
+              "ipct": "33",
+              "xis": "qpn.r00008"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000050",
+              "ref": "qpn-x-ethnic.x000046",
+              "icount": "1",
+              "ipct": "33",
+              "xis": "qpn.r00009"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000051",
+              "ref": "qpn-x-ethnic.x000047",
+              "icount": "1",
+              "ipct": "33",
+              "xis": "qpn.r0000a"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-ethnic.x000052",
+          "n": "Aššuraya[Assyrian//Assyrian]EN'EN",
+          "icount": "3",
+          "ipct": "100",
+          "xis": "qpn.r00007",
+          "num": "1.",
+          "pos": "EN",
+          "mng": "Assyrian",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000053",
+              "n": "%akk-x-neoass:KUR-aš-šur-a.a",
+              "icount": "1",
+              "ipct": "33",
+              "xis": "qpn.r00008"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000054",
+              "n": "%akk-x-neoass:aš-šur{KI}-a.a",
+              "icount": "1",
+              "ipct": "33",
+              "xis": "qpn.r00009"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000055",
+              "n": "%akk-x-neoass:{LU₂}aš₂-šu-ra-a.a",
+              "icount": "1",
+              "ipct": "33",
+              "xis": "qpn.r0000a"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-ethnic.x000056",
+              "n": "Aššuraya",
+              "icount": "3",
+              "ipct": "100",
+              "xis": "qpn.r00007"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000057",
+              "sig": "@saao/saa10%akk-x-neoass:KUR-aš-šur-a.a=Aššuraya[Assyrian//Assyrian]EN'EN$Aššuraya",
+              "icount": "1",
+              "ipct": "33",
+              "xis": "qpn.r00008"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000058",
+              "sig": "@saao/saa10%akk-x-neoass:aš-šur{KI}-a.a=Aššuraya[Assyrian//Assyrian]EN'EN$Aššuraya",
+              "icount": "1",
+              "ipct": "33",
+              "xis": "qpn.r00009"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000059",
+              "sig": "@saao/saa10%akk-x-neoass:{LU₂}aš₂-šu-ra-a.a=Aššuraya[Assyrian//Assyrian]EN'EN$Aššuraya",
+              "icount": "1",
+              "ipct": "33",
+              "xis": "qpn.r0000a"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "3",
+          "ipct": "100",
+          "xis": "qpn.r00007.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Aššuritu[Assyrian]EN",
+      "id": "qpn-x-ethnic.x000060",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r0000b",
+      "dc_title": "saao/saa10/qpn-x-ethnic/Aššuritu[Assyrian]",
+      "cf": "Aššuritu",
+      "gw": "Assyrian",
+      "pos": "EN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000061",
+          "n": "aš-šur{KI}-a.a-i-ti",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0000b"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-ethnic.x000062",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0000b",
+          "n": "Aššuriti",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000063",
+              "ref": "qpn-x-ethnic.x000061",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0000b"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-ethnic.x000064",
+          "n": "Aššuritu[Assyrian//Assyrian]EN'EN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0000b",
+          "num": "1.",
+          "pos": "EN",
+          "mng": "Assyrian",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000065",
+              "n": "%akk-x-neobab:aš-šur{KI}-a.a-i-ti",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0000b"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-ethnic.x000066",
+              "n": "Aššuriti",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0000b"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000067",
+              "sig": "@saao/saa10%akk-x-neobab:aš-šur{KI}-a.a-i-ti=Aššuritu[Assyrian//Assyrian]EN'EN$Aššuriti",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0000b"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0000b.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Babilaya[Babylonian]EN",
+      "id": "qpn-x-ethnic.x000068",
+      "icount": "2",
+      "ipct": "100",
+      "xis": "qpn.r0000c",
+      "dc_title": "saao/saa10/qpn-x-ethnic/Babilaya[Babylonian]",
+      "cf": "Babilaya",
+      "gw": "Babylonian",
+      "pos": "EN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000069",
+          "n": "{LU₂}TIN.TIR{KI}-MEŠ",
+          "icount": "2",
+          "ipct": "100",
+          "xis": "qpn.r0000c"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-ethnic.x000070",
+          "icount": "2",
+          "ipct": "100",
+          "xis": "qpn.r0000c",
+          "n": "Babilaya",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000071",
+              "ref": "qpn-x-ethnic.x000069",
+              "icount": "2",
+              "ipct": "100",
+              "xis": "qpn.r0000c"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-ethnic.x000072",
+          "n": "Babilaya[Babylonian//Babylonian]EN'EN",
+          "icount": "2",
+          "ipct": "100",
+          "xis": "qpn.r0000c",
+          "num": "1.",
+          "pos": "EN",
+          "mng": "Babylonian",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000073",
+              "n": "%akk-x-neobab:{LU₂}TIN.TIR{KI}-MEŠ",
+              "icount": "2",
+              "ipct": "100",
+              "xis": "qpn.r0000c"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-ethnic.x000074",
+              "n": "Babilaya",
+              "icount": "2",
+              "ipct": "100",
+              "xis": "qpn.r0000c"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000075",
+              "sig": "@saao/saa10%akk-x-neobab:{LU₂}TIN.TIR{KI}-MEŠ=Babilaya[Babylonian//Babylonian]EN'EN$Babilaya",
+              "icount": "2",
+              "ipct": "100",
+              "xis": "qpn.r0000c"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "2",
+          "ipct": "100",
+          "xis": "qpn.r0000c.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Barsipaya[Borsippean]EN",
+      "id": "qpn-x-ethnic.x000076",
+      "icount": "2",
+      "ipct": "100",
+      "xis": "qpn.r0000d",
+      "dc_title": "saao/saa10/qpn-x-ethnic/Barsipaya[Borsippean]",
+      "cf": "Barsipaya",
+      "gw": "Borsippean",
+      "pos": "EN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000077",
+          "n": "{LU₂}BAR₂.SIPA{KI}-MEŠ",
+          "icount": "2",
+          "ipct": "100",
+          "xis": "qpn.r0000d"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-ethnic.x000078",
+          "icount": "2",
+          "ipct": "100",
+          "xis": "qpn.r0000d",
+          "n": "Barsipaya",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000079",
+              "ref": "qpn-x-ethnic.x000077",
+              "icount": "2",
+              "ipct": "100",
+              "xis": "qpn.r0000d"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-ethnic.x000080",
+          "n": "Barsipaya[Borsippean//Borsippean]EN'EN",
+          "icount": "2",
+          "ipct": "100",
+          "xis": "qpn.r0000d",
+          "num": "1.",
+          "pos": "EN",
+          "mng": "Borsippean",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000081",
+              "n": "%akk-x-neobab:{LU₂}BAR₂.SIPA{KI}-MEŠ",
+              "icount": "2",
+              "ipct": "100",
+              "xis": "qpn.r0000d"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-ethnic.x000082",
+              "n": "Barsipaya",
+              "icount": "2",
+              "ipct": "100",
+              "xis": "qpn.r0000d"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000083",
+              "sig": "@saao/saa10%akk-x-neobab:{LU₂}BAR₂.SIPA{KI}-MEŠ=Barsipaya[Borsippean//Borsippean]EN'EN$Barsipaya",
+              "icount": "2",
+              "ipct": "100",
+              "xis": "qpn.r0000d"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "2",
+          "ipct": "100",
+          "xis": "qpn.r0000d.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Barsipitu[Borsippan]EN",
+      "id": "qpn-x-ethnic.x000084",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r0000e",
+      "dc_title": "saao/saa10/qpn-x-ethnic/Barsipitu[Borsippan]",
+      "cf": "Barsipitu",
+      "gw": "Borsippan",
+      "pos": "EN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000085",
+          "n": "BAR₂.SIPA{KI}-i-ti",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0000e"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-ethnic.x000086",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0000e",
+          "n": "Barsipiti",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000087",
+              "ref": "qpn-x-ethnic.x000085",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0000e"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-ethnic.x000088",
+          "n": "Barsipitu[Borsippan//Borsippan]EN'EN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0000e",
+          "num": "1.",
+          "pos": "EN",
+          "mng": "Borsippan",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000089",
+              "n": "%akk-x-neobab:BAR₂.SIPA{KI}-i-ti",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0000e"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-ethnic.x000090",
+              "n": "Barsipiti",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0000e"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000091",
+              "sig": "@saao/saa10%akk-x-neobab:BAR₂.SIPA{KI}-i-ti=Barsipitu[Borsippan//Borsippan]EN'EN$Barsipiti",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0000e"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0000e.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Bit-Ibaya[1]EN",
+      "id": "qpn-x-ethnic.x000092",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r0000f",
+      "dc_title": "saao/saa10/qpn-x-ethnic/Bit-Ibaya[1]",
+      "cf": "Bit-Ibaya",
+      "gw": "1",
+      "pos": "EN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000093",
+          "n": "E₂-i-ba-a.a",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0000f"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-ethnic.x000094",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0000f",
+          "n": "Bit-Ibaya",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000095",
+              "ref": "qpn-x-ethnic.x000093",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0000f"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-ethnic.x000096",
+          "n": "Bit-Ibaya[1//1]EN'EN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0000f",
+          "num": "1.",
+          "pos": "EN",
+          "mng": "1",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000097",
+              "n": "%akk-x-neoass:E₂-i-ba-a.a",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0000f"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-ethnic.x000098",
+              "n": "Bit-Ibaya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0000f"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000099",
+              "sig": "@saao/saa10%akk-x-neoass:E₂-i-ba-a.a=Bit-Ibaya[1//1]EN'EN$Bit-Ibaya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0000f"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0000f.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Dur-Šarrukkaya[1]EN",
+      "id": "qpn-x-ethnic.x000100",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r00010",
+      "dc_title": "saao/saa10/qpn-x-ethnic/Dur-Šarrukkaya[1]",
+      "cf": "Dur-Šarrukkaya",
+      "gw": "1",
+      "pos": "EN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000101",
+          "n": "{LU₂}BAD₃-šar-ru-ka-a.a",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00010"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-ethnic.x000102",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00010",
+          "n": "Dur-Šarrukkaya",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000103",
+              "ref": "qpn-x-ethnic.x000101",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00010"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-ethnic.x000104",
+          "n": "Dur-Šarrukkaya[1//1]EN'EN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00010",
+          "num": "1.",
+          "pos": "EN",
+          "mng": "1",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000105",
+              "n": "%akk-x-neoass:{LU₂}BAD₃-šar-ru-ka-a.a",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00010"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-ethnic.x000106",
+              "n": "Dur-Šarrukkaya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00010"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000107",
+              "sig": "@saao/saa10%akk-x-neoass:{LU₂}BAD₃-šar-ru-ka-a.a=Dur-Šarrukkaya[1//1]EN'EN$Dur-Šarrukkaya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00010"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00010.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Elamaya[Elamite]EN",
+      "id": "qpn-x-ethnic.x000108",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r00011",
+      "dc_title": "saao/saa10/qpn-x-ethnic/Elamaya[Elamite]",
+      "cf": "Elamaya",
+      "gw": "Elamite",
+      "pos": "EN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000109",
+          "n": "NIM{KI}-a.a",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00011"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-ethnic.x000110",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00011",
+          "n": "Elamaya",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000111",
+              "ref": "qpn-x-ethnic.x000109",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00011"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-ethnic.x000112",
+          "n": "Elamaya[Elamite//Elamite]EN'EN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00011",
+          "num": "1.",
+          "pos": "EN",
+          "mng": "Elamite",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000113",
+              "n": "%akk-x-neoass:NIM{KI}-a.a",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00011"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-ethnic.x000114",
+              "n": "Elamaya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00011"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000115",
+              "sig": "@saao/saa10%akk-x-neoass:NIM{KI}-a.a=Elamaya[Elamite//Elamite]EN'EN$Elamaya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00011"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00011.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Gambulaya[1]EN",
+      "id": "qpn-x-ethnic.x000116",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r00012",
+      "dc_title": "saao/saa10/qpn-x-ethnic/Gambulaya[1]",
+      "cf": "Gambulaya",
+      "gw": "1",
+      "pos": "EN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000117",
+          "n": "{KUR}gam-bu-la-a.a",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00012"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-ethnic.x000118",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00012",
+          "n": "Gambulaya",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000119",
+              "ref": "qpn-x-ethnic.x000117",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00012"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-ethnic.x000120",
+          "n": "Gambulaya[1//1]EN'EN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00012",
+          "num": "1.",
+          "pos": "EN",
+          "mng": "1",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000121",
+              "n": "%akk-x-neoass:{KUR}gam-bu-la-a.a",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00012"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-ethnic.x000122",
+              "n": "Gambulaya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00012"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000123",
+              "sig": "@saao/saa10%akk-x-neoass:{KUR}gam-bu-la-a.a=Gambulaya[1//1]EN'EN$Gambulaya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00012"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00012.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Gimiraya[Cimmerian]EN",
+      "id": "qpn-x-ethnic.x000124",
+      "icount": "6",
+      "ipct": "100",
+      "xis": "qpn.r00013",
+      "dc_title": "saao/saa10/qpn-x-ethnic/Gimiraya[Cimmerian]",
+      "cf": "Gimiraya",
+      "gw": "Cimmerian",
+      "pos": "EN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000125",
+          "n": "{KUR}gi-mir-ra-a.a",
+          "icount": "1",
+          "ipct": "17",
+          "xis": "qpn.r00014"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000126",
+          "n": "{KUR}gim-ra-a.a",
+          "icount": "1",
+          "ipct": "17",
+          "xis": "qpn.r00015"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000127",
+          "n": "{LU₂}gim-ra-a.a",
+          "icount": "1",
+          "ipct": "17",
+          "xis": "qpn.r00016"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000128",
+          "n": "{LU₂}gi-mir-a.a",
+          "icount": "3",
+          "ipct": "50",
+          "xis": "qpn.r00017"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-ethnic.x000129",
+          "icount": "3",
+          "ipct": "50",
+          "xis": "qpn.r00017",
+          "n": "Gimiraya",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000130",
+              "ref": "qpn-x-ethnic.x000128",
+              "icount": "3",
+              "ipct": "50",
+              "xis": "qpn.r00017"
+            }
+          ]
+        },
+        {
+          "id": "qpn-x-ethnic.x000131",
+          "icount": "1",
+          "ipct": "17",
+          "xis": "qpn.r00014",
+          "n": "Gimirraya",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000132",
+              "ref": "qpn-x-ethnic.x000125",
+              "icount": "1",
+              "ipct": "17",
+              "xis": "qpn.r00014"
+            }
+          ]
+        },
+        {
+          "id": "qpn-x-ethnic.x000133",
+          "icount": "2",
+          "ipct": "33",
+          "xis": "qpn.r00018",
+          "n": "Gimraya",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000134",
+              "ref": "qpn-x-ethnic.x000126",
+              "icount": "1",
+              "ipct": "17",
+              "xis": "qpn.r00015"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000135",
+              "ref": "qpn-x-ethnic.x000127",
+              "icount": "1",
+              "ipct": "17",
+              "xis": "qpn.r00016"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-ethnic.x000136",
+          "n": "Gimiraya[Cimmerian//Cimmerian]EN'EN",
+          "icount": "6",
+          "ipct": "100",
+          "xis": "qpn.r00013",
+          "num": "1.",
+          "pos": "EN",
+          "mng": "Cimmerian",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000137",
+              "n": "%akk-x-neoass:{KUR}gi-mir-ra-a.a",
+              "icount": "1",
+              "ipct": "17",
+              "xis": "qpn.r00014"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000138",
+              "n": "%akk-x-neoass:{KUR}gim-ra-a.a",
+              "icount": "1",
+              "ipct": "17",
+              "xis": "qpn.r00015"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000139",
+              "n": "%akk-x-neoass:{LU₂}gim-ra-a.a",
+              "icount": "1",
+              "ipct": "17",
+              "xis": "qpn.r00016"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000140",
+              "n": "%akk-x-neobab:{LU₂}gi-mir-a.a",
+              "icount": "3",
+              "ipct": "50",
+              "xis": "qpn.r00017"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-ethnic.x000141",
+              "n": "Gimiraya",
+              "icount": "3",
+              "ipct": "50",
+              "xis": "qpn.r00017"
+            },
+            {
+              "id": "qpn-x-ethnic.x000142",
+              "n": "Gimirraya",
+              "icount": "1",
+              "ipct": "17",
+              "xis": "qpn.r00014"
+            },
+            {
+              "id": "qpn-x-ethnic.x000143",
+              "n": "Gimraya",
+              "icount": "2",
+              "ipct": "33",
+              "xis": "qpn.r00018"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000144",
+              "sig": "@saao/saa10%akk-x-neoass:{KUR}gi-mir-ra-a.a=Gimiraya[Cimmerian//Cimmerian]EN'EN$Gimirraya",
+              "icount": "1",
+              "ipct": "17",
+              "xis": "qpn.r00014"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000145",
+              "sig": "@saao/saa10%akk-x-neoass:{KUR}gim-ra-a.a=Gimiraya[Cimmerian//Cimmerian]EN'EN$Gimraya",
+              "icount": "1",
+              "ipct": "17",
+              "xis": "qpn.r00015"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000146",
+              "sig": "@saao/saa10%akk-x-neoass:{LU₂}gim-ra-a.a=Gimiraya[Cimmerian//Cimmerian]EN'EN$Gimraya",
+              "icount": "1",
+              "ipct": "17",
+              "xis": "qpn.r00016"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000147",
+              "sig": "@saao/saa10%akk-x-neobab:{LU₂}gi-mir-a.a=Gimiraya[Cimmerian//Cimmerian]EN'EN$Gimiraya",
+              "icount": "3",
+              "ipct": "50",
+              "xis": "qpn.r00017"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "6",
+          "ipct": "100",
+          "xis": "qpn.r00013.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Indaraya[1]EN",
+      "id": "qpn-x-ethnic.x000148",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r00019",
+      "dc_title": "saao/saa10/qpn-x-ethnic/Indaraya[1]",
+      "cf": "Indaraya",
+      "gw": "1",
+      "pos": "EN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000149",
+          "n": "{LU₂}in-da-ru-a.a",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00019"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-ethnic.x000150",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00019",
+          "n": "Indaraya",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000151",
+              "ref": "qpn-x-ethnic.x000149",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00019"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-ethnic.x000152",
+          "n": "Indaraya[1//1]EN'EN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00019",
+          "num": "1.",
+          "pos": "EN",
+          "mng": "1",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000153",
+              "n": "%akk-x-neobab:{LU₂}in-da-ru-a.a",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00019"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-ethnic.x000154",
+              "n": "Indaraya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00019"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000155",
+              "sig": "@saao/saa10%akk-x-neobab:{LU₂}in-da-ru-a.a=Indaraya[1//1]EN'EN$Indaraya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00019"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00019.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Kaldaya[Chaldean]EN",
+      "id": "qpn-x-ethnic.x000156",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r0001a",
+      "dc_title": "saao/saa10/qpn-x-ethnic/Kaldaya[Chaldean]",
+      "cf": "Kaldaya",
+      "gw": "Chaldean",
+      "pos": "EN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000157",
+          "n": "{KUR}kal-da-ni",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0001a"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-ethnic.x000158",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0001a",
+          "n": "Kaldani",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000159",
+              "ref": "qpn-x-ethnic.x000157",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0001a"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-ethnic.x000160",
+          "n": "Kaldaya[Chaldean//Chaldean]EN'EN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0001a",
+          "num": "1.",
+          "pos": "EN",
+          "mng": "Chaldean",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000161",
+              "n": "%akk-x-neoass:{KUR}kal-da-ni",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0001a"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-ethnic.x000162",
+              "n": "Kaldani",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0001a"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000163",
+              "sig": "@saao/saa10%akk-x-neoass:{KUR}kal-da-ni=Kaldaya[Chaldean//Chaldean]EN'EN$Kaldani",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0001a"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0001a.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Kalhaya[1]EN",
+      "id": "qpn-x-ethnic.x000164",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r0001b",
+      "dc_title": "saao/saa10/qpn-x-ethnic/Kalhaya[1]",
+      "cf": "Kalhaya",
+      "gw": "1",
+      "pos": "EN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000165",
+          "n": "{URU}kal-ha-a.a",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0001b"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-ethnic.x000166",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0001b",
+          "n": "Kalhaya",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000167",
+              "ref": "qpn-x-ethnic.x000165",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0001b"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-ethnic.x000168",
+          "n": "Kalhaya[1//1]EN'EN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0001b",
+          "num": "1.",
+          "pos": "EN",
+          "mng": "1",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000169",
+              "n": "%akk-x-neoass:{URU}kal-ha-a.a",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0001b"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-ethnic.x000170",
+              "n": "Kalhaya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0001b"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000171",
+              "sig": "@saao/saa10%akk-x-neoass:{URU}kal-ha-a.a=Kalhaya[1//1]EN'EN$Kalhaya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0001b"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0001b.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Kilizaya[from Kilizi]EN",
+      "id": "qpn-x-ethnic.x000172",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r0001c",
+      "dc_title": "saao/saa10/qpn-x-ethnic/Kilizaya[from Kilizi]",
+      "cf": "Kilizaya",
+      "gw": "from Kilizi",
+      "pos": "EN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000173",
+          "n": "{URU}kal₃-zi-a.a",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0001c"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-ethnic.x000174",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0001c",
+          "n": "Kalziaya",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000175",
+              "ref": "qpn-x-ethnic.x000173",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0001c"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-ethnic.x000176",
+          "n": "Kilizaya[from Kilizi//from Kilizi]EN'EN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0001c",
+          "num": "1.",
+          "pos": "EN",
+          "mng": "from Kilizi",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000177",
+              "n": "%akk-x-neoass:{URU}kal₃-zi-a.a",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0001c"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-ethnic.x000178",
+              "n": "Kalziaya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0001c"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000179",
+              "sig": "@saao/saa10%akk-x-neoass:{URU}kal₃-zi-a.a=Kilizaya[from Kilizi//from Kilizi]EN'EN$Kalziaya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0001c"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0001c.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Kummuhaya[from Commagene]EN",
+      "id": "qpn-x-ethnic.x000180",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r0001d",
+      "dc_title": "saao/saa10/qpn-x-ethnic/Kummuhaya[from Commagene]",
+      "cf": "Kummuhaya",
+      "gw": "from Commagene",
+      "pos": "EN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000181",
+          "n": "{KUR}ki-mu-ha-a.a",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0001d"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-ethnic.x000182",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0001d",
+          "n": "Kimmuhaya",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000183",
+              "ref": "qpn-x-ethnic.x000181",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0001d"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-ethnic.x000184",
+          "n": "Kummuhaya[from Commagene//from Commagene]EN'EN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0001d",
+          "num": "1.",
+          "pos": "EN",
+          "mng": "from Commagene",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000185",
+              "n": "%akk-x-neobab:{KUR}ki-mu-ha-a.a",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0001d"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-ethnic.x000186",
+              "n": "Kimmuhaya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0001d"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000187",
+              "sig": "@saao/saa10%akk-x-neobab:{KUR}ki-mu-ha-a.a=Kummuhaya[from Commagene//from Commagene]EN'EN$Kimmuhaya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0001d"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0001d.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Kuteʾaya[1]EN",
+      "id": "qpn-x-ethnic.x000188",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r0001e",
+      "dc_title": "saao/saa10/qpn-x-ethnic/Kuteʾaya[1]",
+      "cf": "Kuteʾaya",
+      "gw": "1",
+      "pos": "EN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000189",
+          "n": "{LU₂}GU₂.DU₈.A{KI}-a.a",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0001e"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-ethnic.x000190",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0001e",
+          "n": "Kuteʾaya",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000191",
+              "ref": "qpn-x-ethnic.x000189",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0001e"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-ethnic.x000192",
+          "n": "Kuteʾaya[1//1]EN'EN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0001e",
+          "num": "1.",
+          "pos": "EN",
+          "mng": "1",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000193",
+              "n": "%akk-x-neoass:{LU₂}GU₂.DU₈.A{KI}-a.a",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0001e"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-ethnic.x000194",
+              "n": "Kuteʾaya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0001e"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000195",
+              "sig": "@saao/saa10%akk-x-neoass:{LU₂}GU₂.DU₈.A{KI}-a.a=Kuteʾaya[1//1]EN'EN$Kuteʾaya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0001e"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0001e.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Lahiraya[1]EN",
+      "id": "qpn-x-ethnic.x000196",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r0001f",
+      "dc_title": "saao/saa10/qpn-x-ethnic/Lahiraya[1]",
+      "cf": "Lahiraya",
+      "gw": "1",
+      "pos": "EN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000197",
+          "n": "{LU₂}{URU}la-hi-ra-a.a",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0001f"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-ethnic.x000198",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0001f",
+          "n": "Lahiraya",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000199",
+              "ref": "qpn-x-ethnic.x000197",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0001f"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-ethnic.x000200",
+          "n": "Lahiraya[1//1]EN'EN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0001f",
+          "num": "1.",
+          "pos": "EN",
+          "mng": "1",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000201",
+              "n": "%akk-x-neoass:{LU₂}{URU}la-hi-ra-a.a",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0001f"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-ethnic.x000202",
+              "n": "Lahiraya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0001f"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000203",
+              "sig": "@saao/saa10%akk-x-neoass:{LU₂}{URU}la-hi-ra-a.a=Lahiraya[1//1]EN'EN$Lahiraya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0001f"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0001f.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Libbalaya[from Assur]EN",
+      "id": "qpn-x-ethnic.x000204",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r00020",
+      "dc_title": "saao/saa10/qpn-x-ethnic/Libbalaya[from Assur]",
+      "cf": "Libbalaya",
+      "gw": "from Assur",
+      "pos": "EN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000205",
+          "n": "{URU}ŠA₃-URU-a.a",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00020"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-ethnic.x000206",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00020",
+          "n": "Libbalaya",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000207",
+              "ref": "qpn-x-ethnic.x000205",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00020"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-ethnic.x000208",
+          "n": "Libbalaya[from Assur//from Assur]EN'EN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00020",
+          "num": "1.",
+          "pos": "EN",
+          "mng": "from Assur",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000209",
+              "n": "%akk-x-neoass:{URU}ŠA₃-URU-a.a",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00020"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-ethnic.x000210",
+              "n": "Libbalaya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00020"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000211",
+              "sig": "@saao/saa10%akk-x-neoass:{URU}ŠA₃-URU-a.a=Libbalaya[from Assur//from Assur]EN'EN$Libbalaya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00020"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00020.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Mannaya[Mannean]EN",
+      "id": "qpn-x-ethnic.x000212",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r00021",
+      "dc_title": "saao/saa10/qpn-x-ethnic/Mannaya[Mannean]",
+      "cf": "Mannaya",
+      "gw": "Mannean",
+      "pos": "EN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000213",
+          "n": "{KUR}man-na-a.a",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00021"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-ethnic.x000214",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00021",
+          "n": "Mannaya",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000215",
+              "ref": "qpn-x-ethnic.x000213",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00021"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-ethnic.x000216",
+          "n": "Mannaya[Mannean//Mannean]EN'EN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00021",
+          "num": "1.",
+          "pos": "EN",
+          "mng": "Mannean",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000217",
+              "n": "%akk-x-neobab:{KUR}man-na-a.a",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00021"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-ethnic.x000218",
+              "n": "Mannaya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00021"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000219",
+              "sig": "@saao/saa10%akk-x-neobab:{KUR}man-na-a.a=Mannaya[Mannean//Mannean]EN'EN$Mannaya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00021"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00021.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "mar-Babili[Babylonian]EN",
+      "id": "qpn-x-ethnic.x000220",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r00026",
+      "dc_title": "saao/saa10/qpn-x-ethnic/mar-Babili[Babylonian]",
+      "cf": "mar-Babili",
+      "gw": "Babylonian",
+      "pos": "EN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000221",
+          "n": "DUMU-KA₂.DINGIR-MEŠ",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00026"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-ethnic.x000222",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00026",
+          "n": "mar-Babilaya",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000223",
+              "ref": "qpn-x-ethnic.x000221",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00026"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-ethnic.x000224",
+          "n": "mar-Babili[Babylonian//Babylonian]EN'EN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00026",
+          "num": "1.",
+          "pos": "EN",
+          "mng": "Babylonian",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000225",
+              "n": "%akk-x-neoass:DUMU-KA₂.DINGIR-MEŠ",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00026"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-ethnic.x000226",
+              "n": "mar-Babilaya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00026"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000227",
+              "sig": "@saao/saa10%akk-x-neoass:DUMU-KA₂.DINGIR-MEŠ=mar-Babili[Babylonian//Babylonian]EN'EN$mar-Babilaya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00026"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00026.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Miṣiraya[Egyptian]EN",
+      "id": "qpn-x-ethnic.x000228",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r00022",
+      "dc_title": "saao/saa10/qpn-x-ethnic/Miṣiraya[Egyptian]",
+      "cf": "Miṣiraya",
+      "gw": "Egyptian",
+      "pos": "EN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000229",
+          "n": "{LU₂}mi-ṣir-a.a",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00022"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-ethnic.x000230",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00022",
+          "n": "Miṣiraya",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000231",
+              "ref": "qpn-x-ethnic.x000229",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00022"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-ethnic.x000232",
+          "n": "Miṣiraya[Egyptian//Egyptian]EN'EN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00022",
+          "num": "1.",
+          "pos": "EN",
+          "mng": "Egyptian",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000233",
+              "n": "%akk-x-neobab:{LU₂}mi-ṣir-a.a",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00022"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-ethnic.x000234",
+              "n": "Miṣiraya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00022"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000235",
+              "sig": "@saao/saa10%akk-x-neobab:{LU₂}mi-ṣir-a.a=Miṣiraya[Egyptian//Egyptian]EN'EN$Miṣiraya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00022"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00022.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Nabayati[Nabataean]EN",
+      "id": "qpn-x-ethnic.x000236",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r00023",
+      "dc_title": "saao/saa10/qpn-x-ethnic/Nabayati[Nabataean]",
+      "cf": "Nabayati",
+      "gw": "Nabataean",
+      "pos": "EN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000237",
+          "n": "{LU₂}na-ba-a.a-ti",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00023"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-ethnic.x000238",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00023",
+          "n": "Nabayati",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000239",
+              "ref": "qpn-x-ethnic.x000237",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00023"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-ethnic.x000240",
+          "n": "Nabayati[Nabataean//Nabataean]EN'EN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00023",
+          "num": "1.",
+          "pos": "EN",
+          "mng": "Nabataean",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000241",
+              "n": "%akk-x-neoass:{LU₂}na-ba-a.a-ti",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00023"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-ethnic.x000242",
+              "n": "Nabayati",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00023"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000243",
+              "sig": "@saao/saa10%akk-x-neoass:{LU₂}na-ba-a.a-ti=Nabayati[Nabataean//Nabataean]EN'EN$Nabayati",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00023"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00023.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Ruʾuaya[1]EN",
+      "id": "qpn-x-ethnic.x000244",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r00024",
+      "dc_title": "saao/saa10/qpn-x-ethnic/Ruʾuaya[1]",
+      "cf": "Ruʾuaya",
+      "gw": "1",
+      "pos": "EN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000245",
+          "n": "{KUR}ru-u-a-a.a",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00024"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-ethnic.x000246",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00024",
+          "n": "Ruʾuaya",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000247",
+              "ref": "qpn-x-ethnic.x000245",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00024"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-ethnic.x000248",
+          "n": "Ruʾuaya[1//1]EN'EN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00024",
+          "num": "1.",
+          "pos": "EN",
+          "mng": "1",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000249",
+              "n": "%akk-x-neoass:{KUR}ru-u-a-a.a",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00024"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-ethnic.x000250",
+              "n": "Ruʾuaya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00024"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000251",
+              "sig": "@saao/saa10%akk-x-neoass:{KUR}ru-u-a-a.a=Ruʾuaya[1//1]EN'EN$Ruʾuaya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00024"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00024.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Urukaya[Urukean]EN",
+      "id": "qpn-x-ethnic.x000252",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r00025",
+      "dc_title": "saao/saa10/qpn-x-ethnic/Urukaya[Urukean]",
+      "cf": "Urukaya",
+      "gw": "Urukean",
+      "pos": "EN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-ethnic.x000253",
+          "n": "{LU₂}UNUG{KI}-a.a",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00025"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-ethnic.x000254",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00025",
+          "n": "Urukaya",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-ethnic.x000255",
+              "ref": "qpn-x-ethnic.x000253",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00025"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-ethnic.x000256",
+          "n": "Urukaya[Urukean//Urukean]EN'EN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00025",
+          "num": "1.",
+          "pos": "EN",
+          "mng": "Urukean",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-ethnic.x000257",
+              "n": "%akk-x-neoass:{LU₂}UNUG{KI}-a.a",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00025"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-ethnic.x000258",
+              "n": "Urukaya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00025"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-ethnic.x000259",
+              "sig": "@saao/saa10%akk-x-neoass:{LU₂}UNUG{KI}-a.a=Urukaya[Urukean//Urukean]EN'EN$Urukaya",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00025"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00025.p.s000"
+        }
+      ]
+    }
+  ],
+  "instances": {
+    "qpn.r00001": [
+      "saao/saa10:P313569.14.1"
+    ],
+    "qpn.r00000": [
+      "saao/saa10:P334477.59.3"
+    ],
+    "qpn.r00002": [
+      "saao/saa10:P313521.24.2",
+      "saao/saa10:P334301.35.1"
+    ],
+    "qpn.r00005": [
+      "saao/saa10:P334262.9.1"
+    ],
+    "qpn.r00003": [
+      "saao/saa10:P334301.35.1"
+    ],
+    "qpn.r00004": [
+      "saao/saa10:P313521.24.2"
+    ],
+    "qpn.r00006": [
+      "saao/saa10:P313574.19.2"
+    ],
+    "qpn.r00007": [
+      "saao/saa10:P313490.26.1",
+      "saao/saa10:P313561.9.2",
+      "saao/saa10:P334326.56.3"
+    ],
+    "qpn.r0000c": [
+      "saao/saa10:P236964.17.9",
+      "saao/saa10:P236964.5.7"
+    ],
+    "qpn.r0000b": [
+      "saao/saa10:P240153.22.4"
+    ],
+    "qpn.r00008": [
+      "saao/saa10:P313490.26.1"
+    ],
+    "qpn.r00009": [
+      "saao/saa10:P334326.56.3"
+    ],
+    "qpn.r0000a": [
+      "saao/saa10:P313561.9.2"
+    ],
+    "qpn.r0000d": [
+      "saao/saa10:P240153.23.5",
+      "saao/saa10:P240153.27.4"
+    ],
+    "qpn.r0000f": [
+      "saao/saa10:P334675.27.2"
+    ],
+    "qpn.r0000e": [
+      "saao/saa10:P240153.22.1"
+    ],
+    "qpn.r00010": [
+      "saao/saa10:P334675.28.1"
+    ],
+    "qpn.r00011": [
+      "saao/saa10:P313446.38.1"
+    ],
+    "qpn.r00012": [
+      "saao/saa10:P334675.26.3"
+    ],
+    "qpn.r00013": [
+      "saao/saa10:P237234.16.4",
+      "saao/saa10:P237234.30.4",
+      "saao/saa10:P237234.37.1",
+      "saao/saa10:P334477.17.2",
+      "saao/saa10:P334477.34.2",
+      "saao/saa10:P334768.10.7"
+    ],
+    "qpn.r0001b": [
+      "saao/saa10:P334262.22.1"
+    ],
+    "qpn.r00019": [
+      "saao/saa10:P237234.46.3"
+    ],
+    "qpn.r0001a": [
+      "saao/saa10:P334790.46.9"
+    ],
+    "qpn.r00014": [
+      "saao/saa10:P334768.10.7"
+    ],
+    "qpn.r00015": [
+      "saao/saa10:P334477.17.2"
+    ],
+    "qpn.r00016": [
+      "saao/saa10:P334477.34.2"
+    ],
+    "qpn.r00017": [
+      "saao/saa10:P237234.16.4",
+      "saao/saa10:P237234.30.4",
+      "saao/saa10:P237234.37.1"
+    ],
+    "qpn.r00018": [
+      "saao/saa10:P334477.17.2",
+      "saao/saa10:P334477.34.2"
+    ],
+    "qpn.r0001c": [
+      "saao/saa10:P334262.8.1"
+    ],
+    "qpn.r0001e": [
+      "saao/saa10:P313490.53.3"
+    ],
+    "qpn.r0001d": [
+      "saao/saa10:P237275.22.1"
+    ],
+    "qpn.r00020": [
+      "saao/saa10:P334262.12.1"
+    ],
+    "qpn.r0001f": [
+      "saao/saa10:P334797.29.5"
+    ],
+    "qpn.r00021": [
+      "saao/saa10:P237234.17.4"
+    ],
+    "qpn.r00022": [
+      "saao/saa10:P238052.48.10"
+    ],
+    "qpn.r00023": [
+      "saao/saa10:P334261.33.2"
+    ],
+    "qpn.r00024": [
+      "saao/saa10:P313490.36.10"
+    ],
+    "qpn.r00025": [
+      "saao/saa10:P334326.7.3"
+    ],
+    "qpn.r00026": [
+      "saao/saa10:P333975.50.2"
+    ],
+    "qpn.r00001.p.s000": [
+      "saao/saa10:P313569.14.1"
+    ],
+    "qpn.r00000.p.s000": [
+      "saao/saa10:P334477.59.3"
+    ],
+    "qpn.r00002.p.s000": [
+      "saao/saa10:P334301.35.1",
+      "saao/saa10:P313521.24.2"
+    ],
+    "qpn.r00005.p.s000": [
+      "saao/saa10:P334262.9.1"
+    ],
+    "qpn.r00003.p.s000": [
+      "saao/saa10:P334301.35.1"
+    ],
+    "qpn.r00004.p.s000": [
+      "saao/saa10:P313521.24.2"
+    ],
+    "qpn.r00006.p.s000": [
+      "saao/saa10:P313574.19.2"
+    ],
+    "qpn.r00007.p.s000": [
+      "saao/saa10:P313561.9.2",
+      "saao/saa10:P334326.56.3",
+      "saao/saa10:P313490.26.1"
+    ],
+    "qpn.r0000c.p.s000": [
+      "saao/saa10:P236964.5.7",
+      "saao/saa10:P236964.17.9"
+    ],
+    "qpn.r0000b.p.s000": [
+      "saao/saa10:P240153.22.4"
+    ],
+    "qpn.r00008.p.s000": [
+      "saao/saa10:P313490.26.1"
+    ],
+    "qpn.r00009.p.s000": [
+      "saao/saa10:P334326.56.3"
+    ],
+    "qpn.r0000a.p.s000": [
+      "saao/saa10:P313561.9.2"
+    ],
+    "qpn.r0000d.p.s000": [
+      "saao/saa10:P240153.23.5",
+      "saao/saa10:P240153.27.4"
+    ],
+    "qpn.r0000f.p.s000": [
+      "saao/saa10:P334675.27.2"
+    ],
+    "qpn.r0000e.p.s000": [
+      "saao/saa10:P240153.22.1"
+    ],
+    "qpn.r00010.p.s000": [
+      "saao/saa10:P334675.28.1"
+    ],
+    "qpn.r00011.p.s000": [
+      "saao/saa10:P313446.38.1"
+    ],
+    "qpn.r00012.p.s000": [
+      "saao/saa10:P334675.26.3"
+    ],
+    "qpn.r00013.p.s000": [
+      "saao/saa10:P334477.17.2",
+      "saao/saa10:P334477.34.2",
+      "saao/saa10:P237234.16.4",
+      "saao/saa10:P237234.30.4",
+      "saao/saa10:P237234.37.1",
+      "saao/saa10:P334768.10.7"
+    ],
+    "qpn.r0001b.p.s000": [
+      "saao/saa10:P334262.22.1"
+    ],
+    "qpn.r00019.p.s000": [
+      "saao/saa10:P237234.46.3"
+    ],
+    "qpn.r0001a.p.s000": [
+      "saao/saa10:P334790.46.9"
+    ],
+    "qpn.r00014.p.s000": [
+      "saao/saa10:P334768.10.7"
+    ],
+    "qpn.r00015.p.s000": [
+      "saao/saa10:P334477.17.2"
+    ],
+    "qpn.r00016.p.s000": [
+      "saao/saa10:P334477.34.2"
+    ],
+    "qpn.r00017.p.s000": [
+      "saao/saa10:P237234.16.4",
+      "saao/saa10:P237234.30.4",
+      "saao/saa10:P237234.37.1"
+    ],
+    "qpn.r00018.p.s000": [
+      "saao/saa10:P334477.17.2",
+      "saao/saa10:P334477.34.2"
+    ],
+    "qpn.r0001c.p.s000": [
+      "saao/saa10:P334262.8.1"
+    ],
+    "qpn.r0001e.p.s000": [
+      "saao/saa10:P313490.53.3"
+    ],
+    "qpn.r0001d.p.s000": [
+      "saao/saa10:P237275.22.1"
+    ],
+    "qpn.r00020.p.s000": [
+      "saao/saa10:P334262.12.1"
+    ],
+    "qpn.r0001f.p.s000": [
+      "saao/saa10:P334797.29.5"
+    ],
+    "qpn.r00021.p.s000": [
+      "saao/saa10:P237234.17.4"
+    ],
+    "qpn.r00022.p.s000": [
+      "saao/saa10:P238052.48.10"
+    ],
+    "qpn.r00023.p.s000": [
+      "saao/saa10:P334261.33.2"
+    ],
+    "qpn.r00024.p.s000": [
+      "saao/saa10:P313490.36.10"
+    ],
+    "qpn.r00025.p.s000": [
+      "saao/saa10:P334326.7.3"
+    ],
+    "qpn.r00026.p.s000": [
+      "saao/saa10:P333975.50.2"
+    ]
+  },
+  "summaries": {
+    "qpn-x-ethnic.x000000": "<p class=\"summary\" id=\"qpn-x-ethnic.x000000\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-ethnic/qpn-x-ethnic.x000000.html')\"><span class=\"cf\">Ahlamu</span> [<span class=\"gw\">(DESIG. FOR ARAMAEANS)</span>] <span class=\"cf\">EN</span></a> (1x) </span>Neo-Assyrian  \"(desig. for Aramaeans)\"</span></p>",
+    "qpn-x-ethnic.x000008": "<p class=\"summary\" id=\"qpn-x-ethnic.x000008\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-ethnic/qpn-x-ethnic.x000008.html')\"><span class=\"cf\">Akkadu</span> [<span class=\"gw\">BABYLONIAN</span>] <span class=\"cf\">EN</span></a> (1x) </span>Neo-Assyrian  \"Babylonian\"</span></p>",
+    "qpn-x-ethnic.x000016": "<p class=\"summary\" id=\"qpn-x-ethnic.x000016\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-ethnic/qpn-x-ethnic.x000016.html')\"><span class=\"cf\">Akkaduʾa</span> [<span class=\"gw\">INHABITANT OF AKKAD</span>] <span class=\"cf\">EN</span></a> (2x) </span>Neo-Assyrian  \"inhabitant of Akkad\"</span></p>",
+    "qpn-x-ethnic.x000028": "<p class=\"summary\" id=\"qpn-x-ethnic.x000028\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-ethnic/qpn-x-ethnic.x000028.html')\"><span class=\"cf\">Arbailaya</span> [<span class=\"gw\">FROM ARBELA</span>] <span class=\"cf\">EN</span></a> (1x) </span>Neo-Assyrian  \"from Arbela\"</span></p>",
+    "qpn-x-ethnic.x000036": "<p class=\"summary\" id=\"qpn-x-ethnic.x000036\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-ethnic/qpn-x-ethnic.x000036.html')\"><span class=\"cf\">Arraphaya</span> [<span class=\"gw\">1</span>] <span class=\"cf\">EN</span></a> (1x) </span>Neo-Assyrian  \"1\"</span></p>",
+    "qpn-x-ethnic.x000044": "<p class=\"summary\" id=\"qpn-x-ethnic.x000044\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-ethnic/qpn-x-ethnic.x000044.html')\"><span class=\"cf\">Aššuraya</span> [<span class=\"gw\">ASSYRIAN</span>] <span class=\"cf\">EN</span></a> (3x) </span>Neo-Assyrian  \"Assyrian\"</span></p>",
+    "qpn-x-ethnic.x000060": "<p class=\"summary\" id=\"qpn-x-ethnic.x000060\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-ethnic/qpn-x-ethnic.x000060.html')\"><span class=\"cf\">Aššuritu</span> [<span class=\"gw\">ASSYRIAN</span>] <span class=\"cf\">EN</span></a> (1x) </span>Neo-Assyrian  \"Assyrian\"</span></p>",
+    "qpn-x-ethnic.x000068": "<p class=\"summary\" id=\"qpn-x-ethnic.x000068\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-ethnic/qpn-x-ethnic.x000068.html')\"><span class=\"cf\">Babilaya</span> [<span class=\"gw\">BABYLONIAN</span>] <span class=\"cf\">EN</span></a> (2x) </span>Neo-Assyrian  \"Babylonian\"</span></p>",
+    "qpn-x-ethnic.x000076": "<p class=\"summary\" id=\"qpn-x-ethnic.x000076\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-ethnic/qpn-x-ethnic.x000076.html')\"><span class=\"cf\">Barsipaya</span> [<span class=\"gw\">BORSIPPEAN</span>] <span class=\"cf\">EN</span></a> (2x) </span>Neo-Assyrian  \"Borsippean\"</span></p>",
+    "qpn-x-ethnic.x000084": "<p class=\"summary\" id=\"qpn-x-ethnic.x000084\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-ethnic/qpn-x-ethnic.x000084.html')\"><span class=\"cf\">Barsipitu</span> [<span class=\"gw\">BORSIPPAN</span>] <span class=\"cf\">EN</span></a> (1x) </span>Neo-Assyrian  \"Borsippan\"</span></p>",
+    "qpn-x-ethnic.x000092": "<p class=\"summary\" id=\"qpn-x-ethnic.x000092\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-ethnic/qpn-x-ethnic.x000092.html')\"><span class=\"cf\">Bit-Ibaya</span> [<span class=\"gw\">1</span>] <span class=\"cf\">EN</span></a> (1x) </span>Neo-Assyrian  \"1\"</span></p>",
+    "qpn-x-ethnic.x000100": "<p class=\"summary\" id=\"qpn-x-ethnic.x000100\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-ethnic/qpn-x-ethnic.x000100.html')\"><span class=\"cf\">Dur-Šarrukkaya</span> [<span class=\"gw\">1</span>] <span class=\"cf\">EN</span></a> (1x) </span>Neo-Assyrian  \"1\"</span></p>",
+    "qpn-x-ethnic.x000108": "<p class=\"summary\" id=\"qpn-x-ethnic.x000108\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-ethnic/qpn-x-ethnic.x000108.html')\"><span class=\"cf\">Elamaya</span> [<span class=\"gw\">ELAMITE</span>] <span class=\"cf\">EN</span></a> (1x) </span>Neo-Assyrian  \"Elamite\"</span></p>",
+    "qpn-x-ethnic.x000116": "<p class=\"summary\" id=\"qpn-x-ethnic.x000116\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-ethnic/qpn-x-ethnic.x000116.html')\"><span class=\"cf\">Gambulaya</span> [<span class=\"gw\">1</span>] <span class=\"cf\">EN</span></a> (1x) </span>Neo-Assyrian  \"1\"</span></p>",
+    "qpn-x-ethnic.x000124": "<p class=\"summary\" id=\"qpn-x-ethnic.x000124\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-ethnic/qpn-x-ethnic.x000124.html')\"><span class=\"cf\">Gimiraya</span> [<span class=\"gw\">CIMMERIAN</span>] <span class=\"cf\">EN</span></a> (6x) </span>Neo-Assyrian  \"Cimmerian\"</span></p>",
+    "qpn-x-ethnic.x000148": "<p class=\"summary\" id=\"qpn-x-ethnic.x000148\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-ethnic/qpn-x-ethnic.x000148.html')\"><span class=\"cf\">Indaraya</span> [<span class=\"gw\">1</span>] <span class=\"cf\">EN</span></a> (1x) </span>Neo-Assyrian  \"1\"</span></p>",
+    "qpn-x-ethnic.x000156": "<p class=\"summary\" id=\"qpn-x-ethnic.x000156\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-ethnic/qpn-x-ethnic.x000156.html')\"><span class=\"cf\">Kaldaya</span> [<span class=\"gw\">CHALDEAN</span>] <span class=\"cf\">EN</span></a> (1x) </span>Neo-Assyrian  \"Chaldean\"</span></p>",
+    "qpn-x-ethnic.x000164": "<p class=\"summary\" id=\"qpn-x-ethnic.x000164\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-ethnic/qpn-x-ethnic.x000164.html')\"><span class=\"cf\">Kalhaya</span> [<span class=\"gw\">1</span>] <span class=\"cf\">EN</span></a> (1x) </span>Neo-Assyrian  \"1\"</span></p>",
+    "qpn-x-ethnic.x000172": "<p class=\"summary\" id=\"qpn-x-ethnic.x000172\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-ethnic/qpn-x-ethnic.x000172.html')\"><span class=\"cf\">Kilizaya</span> [<span class=\"gw\">FROM KILIZI</span>] <span class=\"cf\">EN</span></a> (1x) </span>Neo-Assyrian  \"from Kilizi\"</span></p>",
+    "qpn-x-ethnic.x000180": "<p class=\"summary\" id=\"qpn-x-ethnic.x000180\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-ethnic/qpn-x-ethnic.x000180.html')\"><span class=\"cf\">Kummuhaya</span> [<span class=\"gw\">FROM COMMAGENE</span>] <span class=\"cf\">EN</span></a> (1x) </span>Neo-Assyrian  \"from Commagene\"</span></p>",
+    "qpn-x-ethnic.x000188": "<p class=\"summary\" id=\"qpn-x-ethnic.x000188\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-ethnic/qpn-x-ethnic.x000188.html')\"><span class=\"cf\">Kuteʾaya</span> [<span class=\"gw\">1</span>] <span class=\"cf\">EN</span></a> (1x) </span>Neo-Assyrian  \"1\"</span></p>",
+    "qpn-x-ethnic.x000196": "<p class=\"summary\" id=\"qpn-x-ethnic.x000196\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-ethnic/qpn-x-ethnic.x000196.html')\"><span class=\"cf\">Lahiraya</span> [<span class=\"gw\">1</span>] <span class=\"cf\">EN</span></a> (1x) </span>Neo-Assyrian  \"1\"</span></p>",
+    "qpn-x-ethnic.x000204": "<p class=\"summary\" id=\"qpn-x-ethnic.x000204\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-ethnic/qpn-x-ethnic.x000204.html')\"><span class=\"cf\">Libbalaya</span> [<span class=\"gw\">FROM ASSUR</span>] <span class=\"cf\">EN</span></a> (1x) </span>Neo-Assyrian  \"from Assur\"</span></p>",
+    "qpn-x-ethnic.x000212": "<p class=\"summary\" id=\"qpn-x-ethnic.x000212\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-ethnic/qpn-x-ethnic.x000212.html')\"><span class=\"cf\">Mannaya</span> [<span class=\"gw\">MANNEAN</span>] <span class=\"cf\">EN</span></a> (1x) </span>Neo-Assyrian  \"Mannean\"</span></p>",
+    "qpn-x-ethnic.x000220": "<p class=\"summary\" id=\"qpn-x-ethnic.x000220\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-ethnic/qpn-x-ethnic.x000220.html')\"><span class=\"cf\">mar-Babili</span> [<span class=\"gw\">BABYLONIAN</span>] <span class=\"cf\">EN</span></a> (1x) </span>Neo-Assyrian  \"Babylonian\"</span></p>",
+    "qpn-x-ethnic.x000228": "<p class=\"summary\" id=\"qpn-x-ethnic.x000228\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-ethnic/qpn-x-ethnic.x000228.html')\"><span class=\"cf\">Miṣiraya</span> [<span class=\"gw\">EGYPTIAN</span>] <span class=\"cf\">EN</span></a> (1x) </span>Neo-Assyrian  \"Egyptian\"</span></p>",
+    "qpn-x-ethnic.x000236": "<p class=\"summary\" id=\"qpn-x-ethnic.x000236\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-ethnic/qpn-x-ethnic.x000236.html')\"><span class=\"cf\">Nabayati</span> [<span class=\"gw\">NABATAEAN</span>] <span class=\"cf\">EN</span></a> (1x) </span>Neo-Assyrian  \"Nabataean\"</span></p>",
+    "qpn-x-ethnic.x000244": "<p class=\"summary\" id=\"qpn-x-ethnic.x000244\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-ethnic/qpn-x-ethnic.x000244.html')\"><span class=\"cf\">Ruʾuaya</span> [<span class=\"gw\">1</span>] <span class=\"cf\">EN</span></a> (1x) </span>Neo-Assyrian  \"1\"</span></p>",
+    "qpn-x-ethnic.x000252": "<p class=\"summary\" id=\"qpn-x-ethnic.x000252\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-ethnic/qpn-x-ethnic.x000252.html')\"><span class=\"cf\">Urukaya</span> [<span class=\"gw\">URUKEAN</span>] <span class=\"cf\">EN</span></a> (1x) </span>Neo-Assyrian  \"Urukean\"</span></p>"
+  }
+}

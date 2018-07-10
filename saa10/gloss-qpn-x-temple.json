@@ -1,0 +1,1632 @@
+{
+  "type": "glossary",
+  "project": "saao/saa10",
+  "source": "http://oracc.org/saao/saa10",
+  "license": "This data is released under the CC0 license",
+  "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "more-info": "http://oracc.org/doc/opendata/",
+  "UTC-timestamp": "2018-06-15T19:38:05",
+  "lang": "qpn-x-temple",
+  "entries": [
+    {
+      "headword": "Bet-Aššur[1]TN",
+      "id": "qpn-x-temple.x000000",
+      "icount": "2",
+      "ipct": "100",
+      "xis": "qpn.r00000",
+      "dc_title": "saao/saa10/qpn-x-temple/Bet-Aššur[1]",
+      "cf": "Bet-Aššur",
+      "gw": "1",
+      "pos": "TN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-temple.x000001",
+          "n": "E₂-aš-šur",
+          "icount": "2",
+          "ipct": "100",
+          "xis": "qpn.r00000"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-temple.x000002",
+          "icount": "2",
+          "ipct": "100",
+          "xis": "qpn.r00000",
+          "n": "Bet-Aššur",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-temple.x000003",
+              "ref": "qpn-x-temple.x000001",
+              "icount": "2",
+              "ipct": "100",
+              "xis": "qpn.r00000"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-temple.x000004",
+          "n": "Bet-Aššur[1//1]TN'TN",
+          "icount": "2",
+          "ipct": "100",
+          "xis": "qpn.r00000",
+          "num": "1.",
+          "pos": "TN",
+          "mng": "1",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-temple.x000005",
+              "n": "%akk-x-neoass:E₂-aš-šur",
+              "icount": "2",
+              "ipct": "100",
+              "xis": "qpn.r00000"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-temple.x000006",
+              "n": "Bet-Aššur",
+              "icount": "2",
+              "ipct": "100",
+              "xis": "qpn.r00000"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-temple.x000007",
+              "sig": "@saao/saa10%akk-x-neoass:E₂-aš-šur=Bet-Aššur[1//1]TN'TN$Bet-Aššur",
+              "icount": "2",
+              "ipct": "100",
+              "xis": "qpn.r00000"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "2",
+          "ipct": "100",
+          "xis": "qpn.r00000.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "bet-Gula[1]TN",
+      "id": "qpn-x-temple.x000008",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r00010",
+      "dc_title": "saao/saa10/qpn-x-temple/bet-Gula[1]",
+      "cf": "bet-Gula",
+      "gw": "1",
+      "pos": "TN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-temple.x000009",
+          "n": "E₂-{d}gu-la",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00010"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-temple.x000010",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00010",
+          "n": "bet-Gula",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-temple.x000011",
+              "ref": "qpn-x-temple.x000009",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00010"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-temple.x000012",
+          "n": "bet-Gula[1//1]TN'TN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00010",
+          "num": "1.",
+          "pos": "TN",
+          "mng": "1",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-temple.x000013",
+              "n": "%akk-x-neoass:E₂-{d}gu-la",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00010"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-temple.x000014",
+              "n": "bet-Gula",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00010"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-temple.x000015",
+              "sig": "@saao/saa10%akk-x-neoass:E₂-{d}gu-la=bet-Gula[1//1]TN'TN$bet-Gula",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00010"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00010.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Bet-Sebetti[temple of Sibitti]TN",
+      "id": "qpn-x-temple.x000016",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r00001",
+      "dc_title": "saao/saa10/qpn-x-temple/Bet-Sebetti[temple of Sibitti]",
+      "cf": "Bet-Sebetti",
+      "gw": "temple of Sibitti",
+      "pos": "TN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-temple.x000017",
+          "n": "E₂-{d}07.BI",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00001"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-temple.x000018",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00001",
+          "n": "Bet-Sebetti",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-temple.x000019",
+              "ref": "qpn-x-temple.x000017",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00001"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-temple.x000020",
+          "n": "Bet-Sebetti[temple of Sibitti//temple of Sibitti]TN'TN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00001",
+          "num": "1.",
+          "pos": "TN",
+          "mng": "temple of Sibitti",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-temple.x000021",
+              "n": "%akk-x-neoass:E₂-{d}07.BI",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00001"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-temple.x000022",
+              "n": "Bet-Sebetti",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00001"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-temple.x000023",
+              "sig": "@saao/saa10%akk-x-neoass:E₂-{d}07.BI=Bet-Sebetti[temple of Sibitti//temple of Sibitti]TN'TN$Bet-Sebetti",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00001"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00001.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Bet-Šamaš[1]TN",
+      "id": "qpn-x-temple.x000024",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r00003",
+      "dc_title": "saao/saa10/qpn-x-temple/Bet-Šamaš[1]",
+      "cf": "Bet-Šamaš",
+      "gw": "1",
+      "pos": "TN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-temple.x000025",
+          "n": "E₂-{d}UTU",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00003"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-temple.x000026",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00003",
+          "n": "Bet-Šamaš",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-temple.x000027",
+              "ref": "qpn-x-temple.x000025",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00003"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-temple.x000028",
+          "n": "Bet-Šamaš[1//1]TN'TN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00003",
+          "num": "1.",
+          "pos": "TN",
+          "mng": "1",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-temple.x000029",
+              "n": "%akk-x-neoass:E₂-{d}UTU",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00003"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-temple.x000030",
+              "n": "Bet-Šamaš",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00003"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-temple.x000031",
+              "sig": "@saao/saa10%akk-x-neoass:E₂-{d}UTU=Bet-Šamaš[1//1]TN'TN$Bet-Šamaš",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00003"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00003.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Bet-Uraš[1]TN",
+      "id": "qpn-x-temple.x000032",
+      "icount": "2",
+      "ipct": "100",
+      "xis": "qpn.r00002",
+      "dc_title": "saao/saa10/qpn-x-temple/Bet-Uraš[1]",
+      "cf": "Bet-Uraš",
+      "gw": "1",
+      "pos": "TN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-temple.x000033",
+          "n": "E₂-{d}IB",
+          "icount": "2",
+          "ipct": "100",
+          "xis": "qpn.r00002"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-temple.x000034",
+          "icount": "2",
+          "ipct": "100",
+          "xis": "qpn.r00002",
+          "n": "Bet-Uraš",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-temple.x000035",
+              "ref": "qpn-x-temple.x000033",
+              "icount": "2",
+              "ipct": "100",
+              "xis": "qpn.r00002"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-temple.x000036",
+          "n": "Bet-Uraš[1//1]TN'TN",
+          "icount": "2",
+          "ipct": "100",
+          "xis": "qpn.r00002",
+          "num": "1.",
+          "pos": "TN",
+          "mng": "1",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-temple.x000037",
+              "n": "%akk-x-neoass:E₂-{d}IB",
+              "icount": "2",
+              "ipct": "100",
+              "xis": "qpn.r00002"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-temple.x000038",
+              "n": "Bet-Uraš",
+              "icount": "2",
+              "ipct": "100",
+              "xis": "qpn.r00002"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-temple.x000039",
+              "sig": "@saao/saa10%akk-x-neoass:E₂-{d}IB=Bet-Uraš[1//1]TN'TN$Bet-Uraš",
+              "icount": "2",
+              "ipct": "100",
+              "xis": "qpn.r00002"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "2",
+          "ipct": "100",
+          "xis": "qpn.r00002.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Bit-Amurri[temple of Amurru]TN",
+      "id": "qpn-x-temple.x000040",
+      "icount": "2",
+      "ipct": "100",
+      "xis": "qpn.r00004",
+      "dc_title": "saao/saa10/qpn-x-temple/Bit-Amurri[temple of Amurru]",
+      "cf": "Bit-Amurri",
+      "gw": "temple of Amurru",
+      "pos": "TN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-temple.x000041",
+          "n": "E₂-{d}MAR.TU",
+          "icount": "2",
+          "ipct": "100",
+          "xis": "qpn.r00004"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-temple.x000042",
+          "icount": "2",
+          "ipct": "100",
+          "xis": "qpn.r00004",
+          "n": "Bit-Amurri",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-temple.x000043",
+              "ref": "qpn-x-temple.x000041",
+              "icount": "2",
+              "ipct": "100",
+              "xis": "qpn.r00004"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-temple.x000044",
+          "n": "Bit-Amurri[temple of Amurru//temple of Amurru]TN'TN",
+          "icount": "2",
+          "ipct": "100",
+          "xis": "qpn.r00004",
+          "num": "1.",
+          "pos": "TN",
+          "mng": "temple of Amurru",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-temple.x000045",
+              "n": "%akk-x-neoass:E₂-{d}MAR.TU",
+              "icount": "2",
+              "ipct": "100",
+              "xis": "qpn.r00004"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-temple.x000046",
+              "n": "Bit-Amurri",
+              "icount": "2",
+              "ipct": "100",
+              "xis": "qpn.r00004"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-temple.x000047",
+              "sig": "@saao/saa10%akk-x-neoass:E₂-{d}MAR.TU=Bit-Amurri[temple of Amurru//temple of Amurru]TN'TN$Bit-Amurri",
+              "icount": "2",
+              "ipct": "100",
+              "xis": "qpn.r00004"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "2",
+          "ipct": "100",
+          "xis": "qpn.r00004.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Bit-Ani[temple of Anu]TN",
+      "id": "qpn-x-temple.x000048",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r00005",
+      "dc_title": "saao/saa10/qpn-x-temple/Bit-Ani[temple of Anu]",
+      "cf": "Bit-Ani",
+      "gw": "temple of Anu",
+      "pos": "TN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-temple.x000049",
+          "n": "E₂-{d}a-nim",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00005"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-temple.x000050",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00005",
+          "n": "Bit-Ani",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-temple.x000051",
+              "ref": "qpn-x-temple.x000049",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00005"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-temple.x000052",
+          "n": "Bit-Ani[temple of Anu//temple of Anu]TN'TN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00005",
+          "num": "1.",
+          "pos": "TN",
+          "mng": "temple of Anu",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-temple.x000053",
+              "n": "%akk-x-neoass:E₂-{d}a-nim",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00005"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-temple.x000054",
+              "n": "Bit-Ani",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00005"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-temple.x000055",
+              "sig": "@saao/saa10%akk-x-neoass:E₂-{d}a-nim=Bit-Ani[temple of Anu//temple of Anu]TN'TN$Bit-Ani",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00005"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00005.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Bit-Bel-Harran[1]TN",
+      "id": "qpn-x-temple.x000056",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r00006",
+      "dc_title": "saao/saa10/qpn-x-temple/Bit-Bel-Harran[1]",
+      "cf": "Bit-Bel-Harran",
+      "gw": "1",
+      "pos": "TN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-temple.x000057",
+          "n": "E₂-{d}EN-KASKAL",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00006"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-temple.x000058",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00006",
+          "n": "Bit-Bel-Harran",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-temple.x000059",
+              "ref": "qpn-x-temple.x000057",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00006"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-temple.x000060",
+          "n": "Bit-Bel-Harran[1//1]TN'TN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00006",
+          "num": "1.",
+          "pos": "TN",
+          "mng": "1",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-temple.x000061",
+              "n": "%akk-x-neobab:E₂-{d}EN-KASKAL",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00006"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-temple.x000062",
+              "n": "Bit-Bel-Harran",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00006"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-temple.x000063",
+              "sig": "@saao/saa10%akk-x-neobab:E₂-{d}EN-KASKAL=Bit-Bel-Harran[1//1]TN'TN$Bit-Bel-Harran",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00006"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00006.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "bit-Gula[1]TN",
+      "id": "qpn-x-temple.x000064",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r00011",
+      "dc_title": "saao/saa10/qpn-x-temple/bit-Gula[1]",
+      "cf": "bit-Gula",
+      "gw": "1",
+      "pos": "TN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-temple.x000065",
+          "n": "E₂-{d}gu-la",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00011"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-temple.x000066",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00011",
+          "n": "bet-Gula",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-temple.x000067",
+              "ref": "qpn-x-temple.x000065",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00011"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-temple.x000068",
+          "n": "bit-Gula[1//1]TN'TN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00011",
+          "num": "1.",
+          "pos": "TN",
+          "mng": "1",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-temple.x000069",
+              "n": "%akk-x-neoass:E₂-{d}gu-la",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00011"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-temple.x000070",
+              "n": "bet-Gula",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00011"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-temple.x000071",
+              "sig": "@saao/saa10%akk-x-neoass:E₂-{d}gu-la=bit-Gula[1//1]TN'TN$bet-Gula",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00011"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00011.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Bit-Kidmuri[1]TN",
+      "id": "qpn-x-temple.x000072",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r00007",
+      "dc_title": "saao/saa10/qpn-x-temple/Bit-Kidmuri[1]",
+      "cf": "Bit-Kidmuri",
+      "gw": "1",
+      "pos": "TN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-temple.x000073",
+          "n": "E₂-kid-mur-ri",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00007"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-temple.x000074",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00007",
+          "n": "Bet-Kidmurri",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-temple.x000075",
+              "ref": "qpn-x-temple.x000073",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00007"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-temple.x000076",
+          "n": "Bit-Kidmuri[1//1]TN'TN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00007",
+          "num": "1.",
+          "pos": "TN",
+          "mng": "1",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-temple.x000077",
+              "n": "%akk-x-neoass:E₂-kid-mur-ri",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00007"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-temple.x000078",
+              "n": "Bet-Kidmurri",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00007"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-temple.x000079",
+              "sig": "@saao/saa10%akk-x-neoass:E₂-kid-mur-ri=Bit-Kidmuri[1//1]TN'TN$Bet-Kidmurri",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00007"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00007.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Bit-Marduk[1]TN",
+      "id": "qpn-x-temple.x000080",
+      "icount": "2",
+      "ipct": "100",
+      "xis": "qpn.r00008",
+      "dc_title": "saao/saa10/qpn-x-temple/Bit-Marduk[1]",
+      "cf": "Bit-Marduk",
+      "gw": "1",
+      "pos": "TN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-temple.x000081",
+          "n": "E₂-{d}AMAR.UTU",
+          "icount": "2",
+          "ipct": "100",
+          "xis": "qpn.r00008"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-temple.x000082",
+          "icount": "2",
+          "ipct": "100",
+          "xis": "qpn.r00008",
+          "n": "Bit-Marduk",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-temple.x000083",
+              "ref": "qpn-x-temple.x000081",
+              "icount": "2",
+              "ipct": "100",
+              "xis": "qpn.r00008"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-temple.x000084",
+          "n": "Bit-Marduk[1//1]TN'TN",
+          "icount": "2",
+          "ipct": "100",
+          "xis": "qpn.r00008",
+          "num": "1.",
+          "pos": "TN",
+          "mng": "1",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-temple.x000085",
+              "n": "%akk-x-neoass:E₂-{d}AMAR.UTU",
+              "icount": "2",
+              "ipct": "100",
+              "xis": "qpn.r00008"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-temple.x000086",
+              "n": "Bit-Marduk",
+              "icount": "2",
+              "ipct": "100",
+              "xis": "qpn.r00008"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-temple.x000087",
+              "sig": "@saao/saa10%akk-x-neoass:E₂-{d}AMAR.UTU=Bit-Marduk[1//1]TN'TN$Bit-Marduk",
+              "icount": "2",
+              "ipct": "100",
+              "xis": "qpn.r00008"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "2",
+          "ipct": "100",
+          "xis": "qpn.r00008.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Bit-Mummu[1]TN",
+      "id": "qpn-x-temple.x000088",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r00009",
+      "dc_title": "saao/saa10/qpn-x-temple/Bit-Mummu[1]",
+      "cf": "Bit-Mummu",
+      "gw": "1",
+      "pos": "TN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-temple.x000089",
+          "n": "E₂-{d}mu-um-mu",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00009"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-temple.x000090",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00009",
+          "n": "Bet-Mummu",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-temple.x000091",
+              "ref": "qpn-x-temple.x000089",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00009"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-temple.x000092",
+          "n": "Bit-Mummu[1//1]TN'TN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00009",
+          "num": "1.",
+          "pos": "TN",
+          "mng": "1",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-temple.x000093",
+              "n": "%akk-x-neoass:E₂-{d}mu-um-mu",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00009"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-temple.x000094",
+              "n": "Bet-Mummu",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00009"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-temple.x000095",
+              "sig": "@saao/saa10%akk-x-neoass:E₂-{d}mu-um-mu=Bit-Mummu[1//1]TN'TN$Bet-Mummu",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00009"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00009.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Bit-Nergal[1]TN",
+      "id": "qpn-x-temple.x000096",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r0000a",
+      "dc_title": "saao/saa10/qpn-x-temple/Bit-Nergal[1]",
+      "cf": "Bit-Nergal",
+      "gw": "1",
+      "pos": "TN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-temple.x000097",
+          "n": "E₂-{d}U.GUR",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0000a"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-temple.x000098",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0000a",
+          "n": "Bet-Nergal",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-temple.x000099",
+              "ref": "qpn-x-temple.x000097",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0000a"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-temple.x000100",
+          "n": "Bit-Nergal[1//1]TN'TN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0000a",
+          "num": "1.",
+          "pos": "TN",
+          "mng": "1",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-temple.x000101",
+              "n": "%akk-x-neoass:E₂-{d}U.GUR",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0000a"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-temple.x000102",
+              "n": "Bet-Nergal",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0000a"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-temple.x000103",
+              "sig": "@saao/saa10%akk-x-neoass:E₂-{d}U.GUR=Bit-Nergal[1//1]TN'TN$Bet-Nergal",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0000a"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0000a.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Bit-Nušku[1]TN",
+      "id": "qpn-x-temple.x000104",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r0000b",
+      "dc_title": "saao/saa10/qpn-x-temple/Bit-Nušku[1]",
+      "cf": "Bit-Nušku",
+      "gw": "1",
+      "pos": "TN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-temple.x000105",
+          "n": "E₂-{d}PA.TUG₂",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0000b"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-temple.x000106",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0000b",
+          "n": "Bit-Nušku",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-temple.x000107",
+              "ref": "qpn-x-temple.x000105",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0000b"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-temple.x000108",
+          "n": "Bit-Nušku[1//1]TN'TN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0000b",
+          "num": "1.",
+          "pos": "TN",
+          "mng": "1",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-temple.x000109",
+              "n": "%akk-x-neobab:E₂-{d}PA.TUG₂",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0000b"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-temple.x000110",
+              "n": "Bit-Nušku",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0000b"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-temple.x000111",
+              "sig": "@saao/saa10%akk-x-neobab:E₂-{d}PA.TUG₂=Bit-Nušku[1//1]TN'TN$Bit-Nušku",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r0000b"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r0000b.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Esaggil[1]TN",
+      "id": "qpn-x-temple.x000112",
+      "icount": "3",
+      "ipct": "100",
+      "xis": "qpn.r0000c",
+      "dc_title": "saao/saa10/qpn-x-temple/Esaggil[1]",
+      "cf": "Esaggil",
+      "gw": "1",
+      "pos": "TN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-temple.x000113",
+          "n": "{E₂}sag-gil₂",
+          "icount": "2",
+          "ipct": "67",
+          "xis": "qpn.r0000d"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-temple.x000114",
+          "n": "E₂.SAG.IL₂",
+          "icount": "1",
+          "ipct": "33",
+          "xis": "qpn.r0000e"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-temple.x000115",
+          "icount": "3",
+          "ipct": "100",
+          "xis": "qpn.r0000c",
+          "n": "Esaggil",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-temple.x000116",
+              "ref": "qpn-x-temple.x000113",
+              "icount": "2",
+              "ipct": "67",
+              "xis": "qpn.r0000d"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-temple.x000117",
+              "ref": "qpn-x-temple.x000114",
+              "icount": "1",
+              "ipct": "33",
+              "xis": "qpn.r0000e"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-temple.x000118",
+          "n": "Esaggil[1//1]TN'TN",
+          "icount": "3",
+          "ipct": "100",
+          "xis": "qpn.r0000c",
+          "num": "1.",
+          "pos": "TN",
+          "mng": "1",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-temple.x000119",
+              "n": "%akk-x-neoass:{E₂}sag-gil₂",
+              "icount": "2",
+              "ipct": "67",
+              "xis": "qpn.r0000d"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-temple.x000120",
+              "n": "%akk-x-neobab:E₂.SAG.IL₂",
+              "icount": "1",
+              "ipct": "33",
+              "xis": "qpn.r0000e"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-temple.x000121",
+              "n": "Esaggil",
+              "icount": "3",
+              "ipct": "100",
+              "xis": "qpn.r0000c"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-temple.x000122",
+              "sig": "@saao/saa10%akk-x-neoass:{E₂}sag-gil₂=Esaggil[1//1]TN'TN$Esaggil",
+              "icount": "2",
+              "ipct": "67",
+              "xis": "qpn.r0000d"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-temple.x000123",
+              "sig": "@saao/saa10%akk-x-neobab:E₂.SAG.IL₂=Esaggil[1//1]TN'TN$Esaggil",
+              "icount": "1",
+              "ipct": "33",
+              "xis": "qpn.r0000e"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "3",
+          "ipct": "100",
+          "xis": "qpn.r0000c.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Ezida[Temple of Nabu]TN",
+      "id": "qpn-x-temple.x000124",
+      "icount": "4",
+      "ipct": "100",
+      "xis": "qpn.r0000f",
+      "dc_title": "saao/saa10/qpn-x-temple/Ezida[Temple of Nabu]",
+      "cf": "Ezida",
+      "gw": "Temple of Nabu",
+      "pos": "TN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-temple.x000125",
+          "n": "E₂.ZI.DA",
+          "icount": "4",
+          "ipct": "100",
+          "xis": "qpn.r0000f"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-temple.x000126",
+          "icount": "4",
+          "ipct": "100",
+          "xis": "qpn.r0000f",
+          "n": "Ezida",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-temple.x000127",
+              "ref": "qpn-x-temple.x000125",
+              "icount": "4",
+              "ipct": "100",
+              "xis": "qpn.r0000f"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-temple.x000128",
+          "n": "Ezida[Temple of Nabu//Temple of Nabu]TN'TN",
+          "icount": "4",
+          "ipct": "100",
+          "xis": "qpn.r0000f",
+          "num": "1.",
+          "pos": "TN",
+          "mng": "Temple of Nabu",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-temple.x000129",
+              "n": "%akk-x-neoass:E₂.ZI.DA",
+              "icount": "4",
+              "ipct": "100",
+              "xis": "qpn.r0000f"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-temple.x000130",
+              "n": "Ezida",
+              "icount": "4",
+              "ipct": "100",
+              "xis": "qpn.r0000f"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-temple.x000131",
+              "sig": "@saao/saa10%akk-x-neoass:E₂.ZI.DA=Ezida[Temple of Nabu//Temple of Nabu]TN'TN$Ezida",
+              "icount": "4",
+              "ipct": "100",
+              "xis": "qpn.r0000f"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "4",
+          "ipct": "100",
+          "xis": "qpn.r0000f.p.s000"
+        }
+      ]
+    }
+  ],
+  "instances": {
+    "qpn.r00000": [
+      "saao/saa10:P334295.33.5",
+      "saao/saa10:P334295.8.3"
+    ],
+    "qpn.r00001": [
+      "saao/saa10:P334001.44.6"
+    ],
+    "qpn.r00002": [
+      "saao/saa10:P313564.21.4",
+      "saao/saa10:P313564.25.2"
+    ],
+    "qpn.r00003": [
+      "saao/saa10:P334001.53.5"
+    ],
+    "qpn.r00004": [
+      "saao/saa10:P334874.23.5",
+      "saao/saa10:P334874.25.3"
+    ],
+    "qpn.r00005": [
+      "saao/saa10:P334874.24.5"
+    ],
+    "qpn.r00006": [
+      "saao/saa10:P237270.13.4"
+    ],
+    "qpn.r00007": [
+      "saao/saa10:P334829.71.6"
+    ],
+    "qpn.r00008": [
+      "saao/saa10:P237937.16.5",
+      "saao/saa10:P237937.3.7"
+    ],
+    "qpn.r0000a": [
+      "saao/saa10:P334797.19.7"
+    ],
+    "qpn.r00009": [
+      "saao/saa10:P334326.21.5"
+    ],
+    "qpn.r0000b": [
+      "saao/saa10:P237270.22.3"
+    ],
+    "qpn.r0000c": [
+      "saao/saa10:P313490.10.2",
+      "saao/saa10:P313521.13.3",
+      "saao/saa10:P334798.18.3"
+    ],
+    "qpn.r00010": [
+      "saao/saa10:P313512.41.7"
+    ],
+    "qpn.r0000f": [
+      "saao/saa10:P313490.56.5",
+      "saao/saa10:P313490.8.2",
+      "saao/saa10:P334797.15.1",
+      "saao/saa10:P334797.17.3"
+    ],
+    "qpn.r0000d": [
+      "saao/saa10:P313490.10.2",
+      "saao/saa10:P313521.13.3"
+    ],
+    "qpn.r0000e": [
+      "saao/saa10:P334798.18.3"
+    ],
+    "qpn.r00011": [
+      "saao/saa10:P313512.18.7"
+    ],
+    "qpn.r00000.p.s000": [
+      "saao/saa10:P334295.8.3",
+      "saao/saa10:P334295.33.5"
+    ],
+    "qpn.r00001.p.s000": [
+      "saao/saa10:P334001.44.6"
+    ],
+    "qpn.r00002.p.s000": [
+      "saao/saa10:P313564.21.4",
+      "saao/saa10:P313564.25.2"
+    ],
+    "qpn.r00003.p.s000": [
+      "saao/saa10:P334001.53.5"
+    ],
+    "qpn.r00004.p.s000": [
+      "saao/saa10:P334874.23.5",
+      "saao/saa10:P334874.25.3"
+    ],
+    "qpn.r00005.p.s000": [
+      "saao/saa10:P334874.24.5"
+    ],
+    "qpn.r00006.p.s000": [
+      "saao/saa10:P237270.13.4"
+    ],
+    "qpn.r00007.p.s000": [
+      "saao/saa10:P334829.71.6"
+    ],
+    "qpn.r00008.p.s000": [
+      "saao/saa10:P237937.3.7",
+      "saao/saa10:P237937.16.5"
+    ],
+    "qpn.r0000a.p.s000": [
+      "saao/saa10:P334797.19.7"
+    ],
+    "qpn.r00009.p.s000": [
+      "saao/saa10:P334326.21.5"
+    ],
+    "qpn.r0000b.p.s000": [
+      "saao/saa10:P237270.22.3"
+    ],
+    "qpn.r0000c.p.s000": [
+      "saao/saa10:P334798.18.3",
+      "saao/saa10:P313490.10.2",
+      "saao/saa10:P313521.13.3"
+    ],
+    "qpn.r00010.p.s000": [
+      "saao/saa10:P313512.41.7"
+    ],
+    "qpn.r0000f.p.s000": [
+      "saao/saa10:P313490.8.2",
+      "saao/saa10:P313490.56.5",
+      "saao/saa10:P334797.15.1",
+      "saao/saa10:P334797.17.3"
+    ],
+    "qpn.r0000d.p.s000": [
+      "saao/saa10:P313490.10.2",
+      "saao/saa10:P313521.13.3"
+    ],
+    "qpn.r0000e.p.s000": [
+      "saao/saa10:P334798.18.3"
+    ],
+    "qpn.r00011.p.s000": [
+      "saao/saa10:P313512.18.7"
+    ]
+  },
+  "summaries": {
+    "qpn-x-temple.x000000": "<p class=\"summary\" id=\"qpn-x-temple.x000000\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-temple/qpn-x-temple.x000000.html')\"><span class=\"cf\">Bet-Aššur</span> [<span class=\"gw\">1</span>] <span class=\"cf\">TN</span></a> (2x) </span>Neo-Assyrian  \"1\"</span></p>",
+    "qpn-x-temple.x000008": "<p class=\"summary\" id=\"qpn-x-temple.x000008\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-temple/qpn-x-temple.x000008.html')\"><span class=\"cf\">bet-Gula</span> [<span class=\"gw\">1</span>] <span class=\"cf\">TN</span></a> (1x) </span>Neo-Assyrian  \"1\"</span></p>",
+    "qpn-x-temple.x000016": "<p class=\"summary\" id=\"qpn-x-temple.x000016\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-temple/qpn-x-temple.x000016.html')\"><span class=\"cf\">Bet-Sebetti</span> [<span class=\"gw\">TEMPLE OF SIBITTI</span>] <span class=\"cf\">TN</span></a> (1x) </span>Neo-Assyrian  \"temple of Sibitti\"</span></p>",
+    "qpn-x-temple.x000024": "<p class=\"summary\" id=\"qpn-x-temple.x000024\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-temple/qpn-x-temple.x000024.html')\"><span class=\"cf\">Bet-Šamaš</span> [<span class=\"gw\">1</span>] <span class=\"cf\">TN</span></a> (1x) </span>Neo-Assyrian  \"1\"</span></p>",
+    "qpn-x-temple.x000032": "<p class=\"summary\" id=\"qpn-x-temple.x000032\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-temple/qpn-x-temple.x000032.html')\"><span class=\"cf\">Bet-Uraš</span> [<span class=\"gw\">1</span>] <span class=\"cf\">TN</span></a> (2x) </span>Neo-Assyrian  \"1\"</span></p>",
+    "qpn-x-temple.x000040": "<p class=\"summary\" id=\"qpn-x-temple.x000040\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-temple/qpn-x-temple.x000040.html')\"><span class=\"cf\">Bit-Amurri</span> [<span class=\"gw\">TEMPLE OF AMURRU</span>] <span class=\"cf\">TN</span></a> (2x) </span>Neo-Assyrian  \"temple of Amurru\"</span></p>",
+    "qpn-x-temple.x000048": "<p class=\"summary\" id=\"qpn-x-temple.x000048\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-temple/qpn-x-temple.x000048.html')\"><span class=\"cf\">Bit-Ani</span> [<span class=\"gw\">TEMPLE OF ANU</span>] <span class=\"cf\">TN</span></a> (1x) </span>Neo-Assyrian  \"temple of Anu\"</span></p>",
+    "qpn-x-temple.x000056": "<p class=\"summary\" id=\"qpn-x-temple.x000056\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-temple/qpn-x-temple.x000056.html')\"><span class=\"cf\">Bit-Bel-Harran</span> [<span class=\"gw\">1</span>] <span class=\"cf\">TN</span></a> (1x) </span>Neo-Assyrian  \"1\"</span></p>",
+    "qpn-x-temple.x000064": "<p class=\"summary\" id=\"qpn-x-temple.x000064\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-temple/qpn-x-temple.x000064.html')\"><span class=\"cf\">bit-Gula</span> [<span class=\"gw\">1</span>] <span class=\"cf\">TN</span></a> (1x) </span>Neo-Assyrian  \"1\"</span></p>",
+    "qpn-x-temple.x000072": "<p class=\"summary\" id=\"qpn-x-temple.x000072\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-temple/qpn-x-temple.x000072.html')\"><span class=\"cf\">Bit-Kidmuri</span> [<span class=\"gw\">1</span>] <span class=\"cf\">TN</span></a> (1x) </span>Neo-Assyrian  \"1\"</span></p>",
+    "qpn-x-temple.x000080": "<p class=\"summary\" id=\"qpn-x-temple.x000080\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-temple/qpn-x-temple.x000080.html')\"><span class=\"cf\">Bit-Marduk</span> [<span class=\"gw\">1</span>] <span class=\"cf\">TN</span></a> (2x) </span>Neo-Assyrian  \"1\"</span></p>",
+    "qpn-x-temple.x000088": "<p class=\"summary\" id=\"qpn-x-temple.x000088\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-temple/qpn-x-temple.x000088.html')\"><span class=\"cf\">Bit-Mummu</span> [<span class=\"gw\">1</span>] <span class=\"cf\">TN</span></a> (1x) </span>Neo-Assyrian  \"1\"</span></p>",
+    "qpn-x-temple.x000096": "<p class=\"summary\" id=\"qpn-x-temple.x000096\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-temple/qpn-x-temple.x000096.html')\"><span class=\"cf\">Bit-Nergal</span> [<span class=\"gw\">1</span>] <span class=\"cf\">TN</span></a> (1x) </span>Neo-Assyrian  \"1\"</span></p>",
+    "qpn-x-temple.x000104": "<p class=\"summary\" id=\"qpn-x-temple.x000104\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-temple/qpn-x-temple.x000104.html')\"><span class=\"cf\">Bit-Nušku</span> [<span class=\"gw\">1</span>] <span class=\"cf\">TN</span></a> (1x) </span>Neo-Assyrian  \"1\"</span></p>",
+    "qpn-x-temple.x000112": "<p class=\"summary\" id=\"qpn-x-temple.x000112\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-temple/qpn-x-temple.x000112.html')\"><span class=\"cf\">Esaggil</span> [<span class=\"gw\">1</span>] <span class=\"cf\">TN</span></a> (3x) </span>Neo-Assyrian  \"1\"</span></p>",
+    "qpn-x-temple.x000124": "<p class=\"summary\" id=\"qpn-x-temple.x000124\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa10/cbd/qpn-x-temple/qpn-x-temple.x000124.html')\"><span class=\"cf\">Ezida</span> [<span class=\"gw\">TEMPLE OF NABU</span>] <span class=\"cf\">TN</span></a> (4x) </span>Neo-Assyrian  \"Temple of Nabu\"</span></p>"
+  }
+}

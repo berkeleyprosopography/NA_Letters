@@ -1,0 +1,4909 @@
+{
+  "type": "glossary",
+  "project": "saao/saa08",
+  "source": "http://oracc.org/saao/saa08",
+  "license": "This data is released under the CC0 license",
+  "license-url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "more-info": "http://oracc.org/doc/opendata/",
+  "UTC-timestamp": "2018-06-15T19:43:21",
+  "lang": "qpn-x-months",
+  "entries": [
+    {
+      "headword": "Abu[Ab]MN",
+      "id": "qpn-x-months.x000000",
+      "icount": "31",
+      "ipct": "100",
+      "xis": "qpn.r00000",
+      "dc_title": "saao/saa08/qpn-x-months/Abu[Ab]",
+      "cf": "Abu",
+      "gw": "Ab",
+      "pos": "MN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000001",
+          "n": "{ITI}NE",
+          "icount": "2",
+          "ipct": "6",
+          "xis": "qpn.r00001"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000002",
+          "n": "{ITI}NE",
+          "icount": "3",
+          "ipct": "10",
+          "xis": "qpn.r00002"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000003",
+          "n": "{ITI}NE",
+          "icount": "26",
+          "ipct": "84",
+          "xis": "qpn.r00003"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-months.x000004",
+          "icount": "29",
+          "ipct": "94",
+          "xis": "qpn.r00004",
+          "n": "Abi",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000005",
+              "ref": "qpn-x-months.x000002",
+              "icount": "3",
+              "ipct": "10",
+              "xis": "qpn.r00002"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000006",
+              "ref": "qpn-x-months.x000003",
+              "icount": "26",
+              "ipct": "84",
+              "xis": "qpn.r00003"
+            }
+          ]
+        },
+        {
+          "id": "qpn-x-months.x000007",
+          "icount": "2",
+          "ipct": "6",
+          "xis": "qpn.r00001",
+          "n": "Abu",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000008",
+              "ref": "qpn-x-months.x000001",
+              "icount": "2",
+              "ipct": "6",
+              "xis": "qpn.r00001"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-months.x000009",
+          "n": "Abu[Ab//Ab]MN'MN",
+          "icount": "31",
+          "ipct": "100",
+          "xis": "qpn.r00000",
+          "num": "1.",
+          "pos": "MN",
+          "mng": "Ab",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000010",
+              "n": "%akk-x-neoass:{ITI}NE",
+              "icount": "2",
+              "ipct": "6",
+              "xis": "qpn.r00001"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000011",
+              "n": "%akk-x-neobab:{ITI}NE",
+              "icount": "3",
+              "ipct": "10",
+              "xis": "qpn.r00002"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000012",
+              "n": "%akk-x-stdbab:{ITI}NE",
+              "icount": "26",
+              "ipct": "84",
+              "xis": "qpn.r00003"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-months.x000013",
+              "n": "Abi",
+              "icount": "29",
+              "ipct": "94",
+              "xis": "qpn.r00004"
+            },
+            {
+              "id": "qpn-x-months.x000014",
+              "n": "Abu",
+              "icount": "2",
+              "ipct": "6",
+              "xis": "qpn.r00001"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000015",
+              "sig": "@saao/saa08%akk-x-neoass:{ITI}NE=Abu[Ab//Ab]MN'MN$Abu",
+              "icount": "2",
+              "ipct": "6",
+              "xis": "qpn.r00001"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000016",
+              "sig": "@saao/saa08%akk-x-neobab:{ITI}NE=Abu[Ab//Ab]MN'MN$Abi",
+              "icount": "3",
+              "ipct": "10",
+              "xis": "qpn.r00002"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000017",
+              "sig": "@saao/saa08%akk-x-stdbab:{ITI}NE=Abu[Ab//Ab]MN'MN$Abi",
+              "icount": "26",
+              "ipct": "84",
+              "xis": "qpn.r00003"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "31",
+          "ipct": "100",
+          "xis": "qpn.r00000.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Addaru[Adar]MN",
+      "id": "qpn-x-months.x000018",
+      "icount": "27",
+      "ipct": "100",
+      "xis": "qpn.r0000a",
+      "dc_title": "saao/saa08/qpn-x-months/Addaru[Adar]",
+      "cf": "Addaru",
+      "gw": "Adar",
+      "pos": "MN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000019",
+          "n": "{ITI}ŠE",
+          "icount": "5",
+          "ipct": "19",
+          "xis": "qpn.r0000b"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000020",
+          "n": "{ITI}ŠE",
+          "icount": "7",
+          "ipct": "26",
+          "xis": "qpn.r0000c"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000021",
+          "n": "{ITI}a-da-ri",
+          "icount": "1",
+          "ipct": "4",
+          "xis": "qpn.r0000d"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000022",
+          "n": "{ITI}ŠE",
+          "icount": "14",
+          "ipct": "52",
+          "xis": "qpn.r0000e"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-months.x000023",
+          "icount": "27",
+          "ipct": "100",
+          "xis": "qpn.r0000a",
+          "n": "Addari",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000024",
+              "ref": "qpn-x-months.x000019",
+              "icount": "5",
+              "ipct": "19",
+              "xis": "qpn.r0000b"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000025",
+              "ref": "qpn-x-months.x000020",
+              "icount": "7",
+              "ipct": "26",
+              "xis": "qpn.r0000c"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000026",
+              "ref": "qpn-x-months.x000021",
+              "icount": "1",
+              "ipct": "4",
+              "xis": "qpn.r0000d"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000027",
+              "ref": "qpn-x-months.x000022",
+              "icount": "14",
+              "ipct": "52",
+              "xis": "qpn.r0000e"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-months.x000028",
+          "n": "Addaru[Adar//Adar]MN'MN",
+          "icount": "27",
+          "ipct": "100",
+          "xis": "qpn.r0000a",
+          "num": "1.",
+          "pos": "MN",
+          "mng": "Adar",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000029",
+              "n": "%akk-x-neoass:{ITI}ŠE",
+              "icount": "5",
+              "ipct": "19",
+              "xis": "qpn.r0000b"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000030",
+              "n": "%akk-x-neobab:{ITI}ŠE",
+              "icount": "7",
+              "ipct": "26",
+              "xis": "qpn.r0000c"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000031",
+              "n": "%akk-x-stdbab:{ITI}a-da-ri",
+              "icount": "1",
+              "ipct": "4",
+              "xis": "qpn.r0000d"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000032",
+              "n": "%akk-x-stdbab:{ITI}ŠE",
+              "icount": "14",
+              "ipct": "52",
+              "xis": "qpn.r0000e"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-months.x000033",
+              "n": "Addari",
+              "icount": "27",
+              "ipct": "100",
+              "xis": "qpn.r0000a"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000034",
+              "sig": "@saao/saa08%akk-x-neoass:{ITI}ŠE=Addaru[Adar//Adar]MN'MN$Addari",
+              "icount": "5",
+              "ipct": "19",
+              "xis": "qpn.r0000b"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000035",
+              "sig": "@saao/saa08%akk-x-neobab:{ITI}ŠE=Addaru[Adar//Adar]MN'MN$Addari",
+              "icount": "7",
+              "ipct": "26",
+              "xis": "qpn.r0000c"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000036",
+              "sig": "@saao/saa08%akk-x-stdbab:{ITI}a-da-ri=Addaru[Adar//Adar]MN'MN$Addari",
+              "icount": "1",
+              "ipct": "4",
+              "xis": "qpn.r0000d"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000037",
+              "sig": "@saao/saa08%akk-x-stdbab:{ITI}ŠE=Addaru[Adar//Adar]MN'MN$Addari",
+              "icount": "14",
+              "ipct": "52",
+              "xis": "qpn.r0000e"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "27",
+          "ipct": "100",
+          "xis": "qpn.r0000a.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Addaru-diri[intercalary Adar]MN",
+      "id": "qpn-x-months.x000038",
+      "icount": "4",
+      "ipct": "100",
+      "xis": "qpn.r00005",
+      "dc_title": "saao/saa08/qpn-x-months/Addaru-diri[intercalary Adar]",
+      "cf": "Addaru-diri",
+      "gw": "intercalary Adar",
+      "pos": "MN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000039",
+          "n": "{ITI}DIRI.ŠE",
+          "icount": "1",
+          "ipct": "25",
+          "xis": "qpn.r00006"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000040",
+          "n": "{ITI}DIRI.ŠE.KIN.KUD",
+          "icount": "1",
+          "ipct": "25",
+          "xis": "qpn.r00007"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000041",
+          "n": "{ITI}DIRI.ŠE",
+          "icount": "1",
+          "ipct": "25",
+          "xis": "qpn.r00008"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000042",
+          "n": "{ITI}DIRI.ŠE.KIN.KUD",
+          "icount": "1",
+          "ipct": "25",
+          "xis": "qpn.r00009"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-months.x000043",
+          "icount": "4",
+          "ipct": "100",
+          "xis": "qpn.r00005",
+          "n": "Addari-diri",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000044",
+              "ref": "qpn-x-months.x000039",
+              "icount": "1",
+              "ipct": "25",
+              "xis": "qpn.r00006"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000045",
+              "ref": "qpn-x-months.x000040",
+              "icount": "1",
+              "ipct": "25",
+              "xis": "qpn.r00007"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000046",
+              "ref": "qpn-x-months.x000041",
+              "icount": "1",
+              "ipct": "25",
+              "xis": "qpn.r00008"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000047",
+              "ref": "qpn-x-months.x000042",
+              "icount": "1",
+              "ipct": "25",
+              "xis": "qpn.r00009"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-months.x000048",
+          "n": "Addaru-diri[intercalary Adar//intercalary Adar]MN'MN",
+          "icount": "4",
+          "ipct": "100",
+          "xis": "qpn.r00005",
+          "num": "1.",
+          "pos": "MN",
+          "mng": "intercalary Adar",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000049",
+              "n": "%akk-x-neobab:{ITI}DIRI.ŠE",
+              "icount": "1",
+              "ipct": "25",
+              "xis": "qpn.r00006"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000050",
+              "n": "%akk-x-neobab:{ITI}DIRI.ŠE.KIN.KUD",
+              "icount": "1",
+              "ipct": "25",
+              "xis": "qpn.r00007"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000051",
+              "n": "%akk-x-stdbab:{ITI}DIRI.ŠE",
+              "icount": "1",
+              "ipct": "25",
+              "xis": "qpn.r00008"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000052",
+              "n": "%akk-x-stdbab:{ITI}DIRI.ŠE.KIN.KUD",
+              "icount": "1",
+              "ipct": "25",
+              "xis": "qpn.r00009"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-months.x000053",
+              "n": "Addari-diri",
+              "icount": "4",
+              "ipct": "100",
+              "xis": "qpn.r00005"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000054",
+              "sig": "@saao/saa08%akk-x-neobab:{ITI}DIRI.ŠE.KIN.KUD=Addaru-diri[intercalary Adar//intercalary Adar]MN'MN$Addari-diri",
+              "icount": "1",
+              "ipct": "25",
+              "xis": "qpn.r00007"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000055",
+              "sig": "@saao/saa08%akk-x-neobab:{ITI}DIRI.ŠE=Addaru-diri[intercalary Adar//intercalary Adar]MN'MN$Addari-diri",
+              "icount": "1",
+              "ipct": "25",
+              "xis": "qpn.r00006"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000056",
+              "sig": "@saao/saa08%akk-x-stdbab:{ITI}DIRI.ŠE.KIN.KUD=Addaru-diri[intercalary Adar//intercalary Adar]MN'MN$Addari-diri",
+              "icount": "1",
+              "ipct": "25",
+              "xis": "qpn.r00009"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000057",
+              "sig": "@saao/saa08%akk-x-stdbab:{ITI}DIRI.ŠE=Addaru-diri[intercalary Adar//intercalary Adar]MN'MN$Addari-diri",
+              "icount": "1",
+              "ipct": "25",
+              "xis": "qpn.r00008"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "4",
+          "ipct": "100",
+          "xis": "qpn.r00005.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "addaru-diri[intercalary Adar]MN",
+      "id": "qpn-x-months.x000058",
+      "icount": "1",
+      "ipct": "100",
+      "xis": "qpn.r00048",
+      "dc_title": "saao/saa08/qpn-x-months/addaru-diri[intercalary Adar]",
+      "cf": "addaru-diri",
+      "gw": "intercalary Adar",
+      "pos": "MN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000059",
+          "n": "{ITI}DIRI.ŠE.KIN.KUD",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00048"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-months.x000060",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00048",
+          "n": "addari-diri",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000061",
+              "ref": "qpn-x-months.x000059",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00048"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-months.x000062",
+          "n": "addaru-diri[intercalary Adar//intercalary Adar]MN'MN",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00048",
+          "num": "1.",
+          "pos": "MN",
+          "mng": "intercalary Adar",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000063",
+              "n": "%akk-x-stdbab:{ITI}DIRI.ŠE.KIN.KUD",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00048"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-months.x000064",
+              "n": "addari-diri",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00048"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000065",
+              "sig": "@saao/saa08%akk-x-stdbab:{ITI}DIRI.ŠE.KIN.KUD=addaru-diri[intercalary Adar//intercalary Adar]MN'MN$addari-diri",
+              "icount": "1",
+              "ipct": "100",
+              "xis": "qpn.r00048"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "1",
+          "ipct": "100",
+          "xis": "qpn.r00048.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Arahsamnu[Marchesvan]MN",
+      "id": "qpn-x-months.x000066",
+      "icount": "11",
+      "ipct": "100",
+      "xis": "qpn.r0000f",
+      "dc_title": "saao/saa08/qpn-x-months/Arahsamnu[Marchesvan]",
+      "cf": "Arahsamnu",
+      "gw": "Marchesvan",
+      "pos": "MN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000067",
+          "n": "{ITI}APIN",
+          "icount": "1",
+          "ipct": "9",
+          "xis": "qpn.r00010"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000068",
+          "n": "{ITI}APIN",
+          "icount": "5",
+          "ipct": "45",
+          "xis": "qpn.r00011"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000069",
+          "n": "{ITI}APIN",
+          "icount": "5",
+          "ipct": "45",
+          "xis": "qpn.r00012"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-months.x000070",
+          "icount": "11",
+          "ipct": "100",
+          "xis": "qpn.r0000f",
+          "n": "Arahsamni",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000071",
+              "ref": "qpn-x-months.x000067",
+              "icount": "1",
+              "ipct": "9",
+              "xis": "qpn.r00010"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000072",
+              "ref": "qpn-x-months.x000068",
+              "icount": "5",
+              "ipct": "45",
+              "xis": "qpn.r00011"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000073",
+              "ref": "qpn-x-months.x000069",
+              "icount": "5",
+              "ipct": "45",
+              "xis": "qpn.r00012"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-months.x000074",
+          "n": "Arahsamnu[Marchesvan//Marchesvan]MN'MN",
+          "icount": "11",
+          "ipct": "100",
+          "xis": "qpn.r0000f",
+          "num": "1.",
+          "pos": "MN",
+          "mng": "Marchesvan",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000075",
+              "n": "%akk-x-neoass:{ITI}APIN",
+              "icount": "1",
+              "ipct": "9",
+              "xis": "qpn.r00010"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000076",
+              "n": "%akk-x-neobab:{ITI}APIN",
+              "icount": "5",
+              "ipct": "45",
+              "xis": "qpn.r00011"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000077",
+              "n": "%akk-x-stdbab:{ITI}APIN",
+              "icount": "5",
+              "ipct": "45",
+              "xis": "qpn.r00012"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-months.x000078",
+              "n": "Arahsamni",
+              "icount": "11",
+              "ipct": "100",
+              "xis": "qpn.r0000f"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000079",
+              "sig": "@saao/saa08%akk-x-neoass:{ITI}APIN=Arahsamnu[Marchesvan//Marchesvan]MN'MN$Arahsamni",
+              "icount": "1",
+              "ipct": "9",
+              "xis": "qpn.r00010"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000080",
+              "sig": "@saao/saa08%akk-x-neobab:{ITI}APIN=Arahsamnu[Marchesvan//Marchesvan]MN'MN$Arahsamni",
+              "icount": "5",
+              "ipct": "45",
+              "xis": "qpn.r00011"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000081",
+              "sig": "@saao/saa08%akk-x-stdbab:{ITI}APIN=Arahsamnu[Marchesvan//Marchesvan]MN'MN$Arahsamni",
+              "icount": "5",
+              "ipct": "45",
+              "xis": "qpn.r00012"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "11",
+          "ipct": "100",
+          "xis": "qpn.r0000f.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Ayaru[Iyyar]MN",
+      "id": "qpn-x-months.x000082",
+      "icount": "30",
+      "ipct": "100",
+      "xis": "qpn.r00013",
+      "dc_title": "saao/saa08/qpn-x-months/Ayaru[Iyyar]",
+      "cf": "Ayaru",
+      "gw": "Iyyar",
+      "pos": "MN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000083",
+          "n": "{ITI}GUD",
+          "icount": "2",
+          "ipct": "7",
+          "xis": "qpn.r00014"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000084",
+          "n": "{ITI}GUD",
+          "icount": "28",
+          "ipct": "93",
+          "xis": "qpn.r00015"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-months.x000085",
+          "icount": "28",
+          "ipct": "93",
+          "xis": "qpn.r00015",
+          "n": "Ayari",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000086",
+              "ref": "qpn-x-months.x000084",
+              "icount": "28",
+              "ipct": "93",
+              "xis": "qpn.r00015"
+            }
+          ]
+        },
+        {
+          "id": "qpn-x-months.x000087",
+          "icount": "2",
+          "ipct": "7",
+          "xis": "qpn.r00014",
+          "n": "Ayaru",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000088",
+              "ref": "qpn-x-months.x000083",
+              "icount": "2",
+              "ipct": "7",
+              "xis": "qpn.r00014"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-months.x000089",
+          "n": "Ayaru[Iyyar//Iyyar]MN'MN",
+          "icount": "30",
+          "ipct": "100",
+          "xis": "qpn.r00013",
+          "num": "1.",
+          "pos": "MN",
+          "mng": "Iyyar",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000090",
+              "n": "%akk-x-neoass:{ITI}GUD",
+              "icount": "2",
+              "ipct": "7",
+              "xis": "qpn.r00014"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000091",
+              "n": "%akk-x-stdbab:{ITI}GUD",
+              "icount": "28",
+              "ipct": "93",
+              "xis": "qpn.r00015"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-months.x000092",
+              "n": "Ayari",
+              "icount": "28",
+              "ipct": "93",
+              "xis": "qpn.r00015"
+            },
+            {
+              "id": "qpn-x-months.x000093",
+              "n": "Ayaru",
+              "icount": "2",
+              "ipct": "7",
+              "xis": "qpn.r00014"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000094",
+              "sig": "@saao/saa08%akk-x-neoass:{ITI}GUD=Ayaru[Iyyar//Iyyar]MN'MN$Ayaru",
+              "icount": "2",
+              "ipct": "7",
+              "xis": "qpn.r00014"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000095",
+              "sig": "@saao/saa08%akk-x-stdbab:{ITI}GUD=Ayaru[Iyyar//Iyyar]MN'MN$Ayari",
+              "icount": "28",
+              "ipct": "93",
+              "xis": "qpn.r00015"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "30",
+          "ipct": "100",
+          "xis": "qpn.r00013.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Ayyaru[Iyyar]MN",
+      "id": "qpn-x-months.x000096",
+      "icount": "12",
+      "ipct": "100",
+      "xis": "qpn.r00016",
+      "dc_title": "saao/saa08/qpn-x-months/Ayyaru[Iyyar]",
+      "cf": "Ayyaru",
+      "gw": "Iyyar",
+      "pos": "MN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000097",
+          "n": "ia-e-ru",
+          "icount": "1",
+          "ipct": "8",
+          "xis": "qpn.r00017"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000098",
+          "n": "{ITI}GUD.SI.SA₂",
+          "icount": "2",
+          "ipct": "17",
+          "xis": "qpn.r00018"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000099",
+          "n": "{ITI}GUD",
+          "icount": "8",
+          "ipct": "67",
+          "xis": "qpn.r00019"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000100",
+          "n": "{ITI}GUD.SI.SA₂",
+          "icount": "1",
+          "ipct": "8",
+          "xis": "qpn.r0001a"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-months.x000101",
+          "icount": "6",
+          "ipct": "50",
+          "xis": "qpn.r0001b",
+          "n": "Ayari",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000102",
+              "ref": "qpn-x-months.x000099",
+              "icount": "6",
+              "ipct": "50",
+              "xis": "qpn.r0001b"
+            }
+          ]
+        },
+        {
+          "id": "qpn-x-months.x000103",
+          "icount": "5",
+          "ipct": "42",
+          "xis": "qpn.r0001c",
+          "n": "Ayaru",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000104",
+              "ref": "qpn-x-months.x000098",
+              "icount": "2",
+              "ipct": "17",
+              "xis": "qpn.r00018"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000105",
+              "ref": "qpn-x-months.x000099",
+              "icount": "2",
+              "ipct": "17",
+              "xis": "qpn.r0001d"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000106",
+              "ref": "qpn-x-months.x000100",
+              "icount": "1",
+              "ipct": "8",
+              "xis": "qpn.r0001a"
+            }
+          ]
+        },
+        {
+          "id": "qpn-x-months.x000107",
+          "icount": "1",
+          "ipct": "8",
+          "xis": "qpn.r00017",
+          "n": "Ayeru",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000108",
+              "ref": "qpn-x-months.x000097",
+              "icount": "1",
+              "ipct": "8",
+              "xis": "qpn.r00017"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-months.x000109",
+          "n": "Ayyaru[Iyyar//Iyyar]MN'MN",
+          "icount": "12",
+          "ipct": "100",
+          "xis": "qpn.r00016",
+          "num": "1.",
+          "pos": "MN",
+          "mng": "Iyyar",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000110",
+              "n": "%akk-x-neoass:ia-e-ru",
+              "icount": "1",
+              "ipct": "8",
+              "xis": "qpn.r00017"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000111",
+              "n": "%akk-x-neoass:{ITI}GUD.SI.SA₂",
+              "icount": "2",
+              "ipct": "17",
+              "xis": "qpn.r00018"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000112",
+              "n": "%akk-x-neobab:{ITI}GUD",
+              "icount": "8",
+              "ipct": "67",
+              "xis": "qpn.r00019"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000113",
+              "n": "%akk-x-stdbab:{ITI}GUD.SI.SA₂",
+              "icount": "1",
+              "ipct": "8",
+              "xis": "qpn.r0001a"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-months.x000114",
+              "n": "Ayari",
+              "icount": "6",
+              "ipct": "50",
+              "xis": "qpn.r0001b"
+            },
+            {
+              "id": "qpn-x-months.x000115",
+              "n": "Ayaru",
+              "icount": "5",
+              "ipct": "42",
+              "xis": "qpn.r0001c"
+            },
+            {
+              "id": "qpn-x-months.x000116",
+              "n": "Ayeru",
+              "icount": "1",
+              "ipct": "8",
+              "xis": "qpn.r00017"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000117",
+              "sig": "@saao/saa08%akk-x-neoass:ia-e-ru=Ayyaru[Iyyar//Iyyar]MN'MN$Ayeru",
+              "icount": "1",
+              "ipct": "8",
+              "xis": "qpn.r00017"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000118",
+              "sig": "@saao/saa08%akk-x-neoass:{ITI}GUD.SI.SA₂=Ayyaru[Iyyar//Iyyar]MN'MN$Ayaru",
+              "icount": "2",
+              "ipct": "17",
+              "xis": "qpn.r00018"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000119",
+              "sig": "@saao/saa08%akk-x-neobab:{ITI}GUD=Ayyaru[Iyyar//Iyyar]MN'MN$Ayari",
+              "icount": "6",
+              "ipct": "50",
+              "xis": "qpn.r0001b"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000120",
+              "sig": "@saao/saa08%akk-x-neobab:{ITI}GUD=Ayyaru[Iyyar//Iyyar]MN'MN$Ayaru",
+              "icount": "2",
+              "ipct": "17",
+              "xis": "qpn.r0001d"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000121",
+              "sig": "@saao/saa08%akk-x-stdbab:{ITI}GUD.SI.SA₂=Ayyaru[Iyyar//Iyyar]MN'MN$Ayaru",
+              "icount": "1",
+              "ipct": "8",
+              "xis": "qpn.r0001a"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "12",
+          "ipct": "100",
+          "xis": "qpn.r00016.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Duʾuzu[Tammuz]MN",
+      "id": "qpn-x-months.x000122",
+      "icount": "19",
+      "ipct": "100",
+      "xis": "qpn.r0001e",
+      "dc_title": "saao/saa08/qpn-x-months/Duʾuzu[Tammuz]",
+      "cf": "Duʾuzu",
+      "gw": "Tammuz",
+      "pos": "MN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000123",
+          "n": "{ITI}ŠU",
+          "icount": "3",
+          "ipct": "16",
+          "xis": "qpn.r0001f"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000124",
+          "n": "{ITI}ŠU",
+          "icount": "1",
+          "ipct": "5",
+          "xis": "qpn.r00020"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000125",
+          "n": "{ITI}ŠU",
+          "icount": "15",
+          "ipct": "79",
+          "xis": "qpn.r00021"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-months.x000126",
+          "icount": "19",
+          "ipct": "100",
+          "xis": "qpn.r0001e",
+          "n": "Taʾuzi",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000127",
+              "ref": "qpn-x-months.x000123",
+              "icount": "3",
+              "ipct": "16",
+              "xis": "qpn.r0001f"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000128",
+              "ref": "qpn-x-months.x000124",
+              "icount": "1",
+              "ipct": "5",
+              "xis": "qpn.r00020"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000129",
+              "ref": "qpn-x-months.x000125",
+              "icount": "15",
+              "ipct": "79",
+              "xis": "qpn.r00021"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-months.x000130",
+          "n": "Duʾuzu[Tammuz//Tammuz]MN'MN",
+          "icount": "19",
+          "ipct": "100",
+          "xis": "qpn.r0001e",
+          "num": "1.",
+          "pos": "MN",
+          "mng": "Tammuz",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000131",
+              "n": "%akk-x-neoass:{ITI}ŠU",
+              "icount": "3",
+              "ipct": "16",
+              "xis": "qpn.r0001f"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000132",
+              "n": "%akk-x-neobab:{ITI}ŠU",
+              "icount": "1",
+              "ipct": "5",
+              "xis": "qpn.r00020"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000133",
+              "n": "%akk-x-stdbab:{ITI}ŠU",
+              "icount": "15",
+              "ipct": "79",
+              "xis": "qpn.r00021"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-months.x000134",
+              "n": "Taʾuzi",
+              "icount": "19",
+              "ipct": "100",
+              "xis": "qpn.r0001e"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000135",
+              "sig": "@saao/saa08%akk-x-neoass:{ITI}ŠU=Duʾuzu[Tammuz//Tammuz]MN'MN$Taʾuzi",
+              "icount": "3",
+              "ipct": "16",
+              "xis": "qpn.r0001f"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000136",
+              "sig": "@saao/saa08%akk-x-neobab:{ITI}ŠU=Duʾuzu[Tammuz//Tammuz]MN'MN$Taʾuzi",
+              "icount": "1",
+              "ipct": "5",
+              "xis": "qpn.r00020"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000137",
+              "sig": "@saao/saa08%akk-x-stdbab:{ITI}ŠU=Duʾuzu[Tammuz//Tammuz]MN'MN$Taʾuzi",
+              "icount": "15",
+              "ipct": "79",
+              "xis": "qpn.r00021"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "19",
+          "ipct": "100",
+          "xis": "qpn.r0001e.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Elulu[Elul]MN",
+      "id": "qpn-x-months.x000138",
+      "icount": "22",
+      "ipct": "100",
+      "xis": "qpn.r00022",
+      "dc_title": "saao/saa08/qpn-x-months/Elulu[Elul]",
+      "cf": "Elulu",
+      "gw": "Elul",
+      "pos": "MN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000139",
+          "n": "{ITI}KIN",
+          "icount": "3",
+          "ipct": "14",
+          "xis": "qpn.r00023"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000140",
+          "n": "{ITI}KIN",
+          "icount": "7",
+          "ipct": "32",
+          "xis": "qpn.r00024"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000141",
+          "n": "{ITI}KIN",
+          "icount": "12",
+          "ipct": "55",
+          "xis": "qpn.r00025"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-months.x000142",
+          "icount": "22",
+          "ipct": "100",
+          "xis": "qpn.r00022",
+          "n": "Eluli",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000143",
+              "ref": "qpn-x-months.x000139",
+              "icount": "3",
+              "ipct": "14",
+              "xis": "qpn.r00023"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000144",
+              "ref": "qpn-x-months.x000140",
+              "icount": "7",
+              "ipct": "32",
+              "xis": "qpn.r00024"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000145",
+              "ref": "qpn-x-months.x000141",
+              "icount": "12",
+              "ipct": "55",
+              "xis": "qpn.r00025"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-months.x000146",
+          "n": "Elulu[Elul//Elul]MN'MN",
+          "icount": "22",
+          "ipct": "100",
+          "xis": "qpn.r00022",
+          "num": "1.",
+          "pos": "MN",
+          "mng": "Elul",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000147",
+              "n": "%akk-x-neoass:{ITI}KIN",
+              "icount": "3",
+              "ipct": "14",
+              "xis": "qpn.r00023"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000148",
+              "n": "%akk-x-neobab:{ITI}KIN",
+              "icount": "7",
+              "ipct": "32",
+              "xis": "qpn.r00024"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000149",
+              "n": "%akk-x-stdbab:{ITI}KIN",
+              "icount": "12",
+              "ipct": "55",
+              "xis": "qpn.r00025"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-months.x000150",
+              "n": "Eluli",
+              "icount": "22",
+              "ipct": "100",
+              "xis": "qpn.r00022"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000151",
+              "sig": "@saao/saa08%akk-x-neoass:{ITI}KIN=Elulu[Elul//Elul]MN'MN$Eluli",
+              "icount": "3",
+              "ipct": "14",
+              "xis": "qpn.r00023"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000152",
+              "sig": "@saao/saa08%akk-x-neobab:{ITI}KIN=Elulu[Elul//Elul]MN'MN$Eluli",
+              "icount": "7",
+              "ipct": "32",
+              "xis": "qpn.r00024"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000153",
+              "sig": "@saao/saa08%akk-x-stdbab:{ITI}KIN=Elulu[Elul//Elul]MN'MN$Eluli",
+              "icount": "12",
+              "ipct": "55",
+              "xis": "qpn.r00025"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "22",
+          "ipct": "100",
+          "xis": "qpn.r00022.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Kislimu[Kislev]MN",
+      "id": "qpn-x-months.x000154",
+      "icount": "26",
+      "ipct": "100",
+      "xis": "qpn.r00026",
+      "dc_title": "saao/saa08/qpn-x-months/Kislimu[Kislev]",
+      "cf": "Kislimu",
+      "gw": "Kislev",
+      "pos": "MN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000155",
+          "n": "{ITI}GAN",
+          "icount": "3",
+          "ipct": "12",
+          "xis": "qpn.r00027"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000156",
+          "n": "{ITI}GAN",
+          "icount": "10",
+          "ipct": "38",
+          "xis": "qpn.r00028"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000157",
+          "n": "{ITI}GAN",
+          "icount": "13",
+          "ipct": "50",
+          "xis": "qpn.r00029"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-months.x000158",
+          "icount": "26",
+          "ipct": "100",
+          "xis": "qpn.r00026",
+          "n": "Kislimi",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000159",
+              "ref": "qpn-x-months.x000155",
+              "icount": "3",
+              "ipct": "12",
+              "xis": "qpn.r00027"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000160",
+              "ref": "qpn-x-months.x000156",
+              "icount": "10",
+              "ipct": "38",
+              "xis": "qpn.r00028"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000161",
+              "ref": "qpn-x-months.x000157",
+              "icount": "13",
+              "ipct": "50",
+              "xis": "qpn.r00029"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-months.x000162",
+          "n": "Kislimu[Kislev//Kislev]MN'MN",
+          "icount": "26",
+          "ipct": "100",
+          "xis": "qpn.r00026",
+          "num": "1.",
+          "pos": "MN",
+          "mng": "Kislev",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000163",
+              "n": "%akk-x-neoass:{ITI}GAN",
+              "icount": "3",
+              "ipct": "12",
+              "xis": "qpn.r00027"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000164",
+              "n": "%akk-x-neobab:{ITI}GAN",
+              "icount": "10",
+              "ipct": "38",
+              "xis": "qpn.r00028"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000165",
+              "n": "%akk-x-stdbab:{ITI}GAN",
+              "icount": "13",
+              "ipct": "50",
+              "xis": "qpn.r00029"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-months.x000166",
+              "n": "Kislimi",
+              "icount": "26",
+              "ipct": "100",
+              "xis": "qpn.r00026"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000167",
+              "sig": "@saao/saa08%akk-x-neoass:{ITI}GAN=Kislimu[Kislev//Kislev]MN'MN$Kislimi",
+              "icount": "3",
+              "ipct": "12",
+              "xis": "qpn.r00027"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000168",
+              "sig": "@saao/saa08%akk-x-neobab:{ITI}GAN=Kislimu[Kislev//Kislev]MN'MN$Kislimi",
+              "icount": "10",
+              "ipct": "38",
+              "xis": "qpn.r00028"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000169",
+              "sig": "@saao/saa08%akk-x-stdbab:{ITI}GAN=Kislimu[Kislev//Kislev]MN'MN$Kislimi",
+              "icount": "13",
+              "ipct": "50",
+              "xis": "qpn.r00029"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "26",
+          "ipct": "100",
+          "xis": "qpn.r00026.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Nisannu[Nisan]MN",
+      "id": "qpn-x-months.x000170",
+      "icount": "37",
+      "ipct": "100",
+      "xis": "qpn.r0002a",
+      "dc_title": "saao/saa08/qpn-x-months/Nisannu[Nisan]",
+      "cf": "Nisannu",
+      "gw": "Nisan",
+      "pos": "MN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000171",
+          "n": "{ITI}BARAG",
+          "icount": "13",
+          "ipct": "35",
+          "xis": "qpn.r0002b"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000172",
+          "n": "{ITI}BARAG",
+          "icount": "7",
+          "ipct": "19",
+          "xis": "qpn.r0002c"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000173",
+          "n": "BAR",
+          "icount": "1",
+          "ipct": "3",
+          "xis": "qpn.r0002d"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000174",
+          "n": "{ITI}BARAG",
+          "icount": "16",
+          "ipct": "43",
+          "xis": "qpn.r0002e"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-months.x000175",
+          "icount": "34",
+          "ipct": "92",
+          "xis": "qpn.r0002f",
+          "n": "Nisanni",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000176",
+              "ref": "qpn-x-months.x000171",
+              "icount": "12",
+              "ipct": "32",
+              "xis": "qpn.r00030"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000177",
+              "ref": "qpn-x-months.x000172",
+              "icount": "6",
+              "ipct": "16",
+              "xis": "qpn.r00031"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000178",
+              "ref": "qpn-x-months.x000174",
+              "icount": "16",
+              "ipct": "43",
+              "xis": "qpn.r0002e"
+            }
+          ]
+        },
+        {
+          "id": "qpn-x-months.x000179",
+          "icount": "3",
+          "ipct": "8",
+          "xis": "qpn.r00032",
+          "n": "Nisannu",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000180",
+              "ref": "qpn-x-months.x000171",
+              "icount": "1",
+              "ipct": "3",
+              "xis": "qpn.r00033"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000181",
+              "ref": "qpn-x-months.x000172",
+              "icount": "1",
+              "ipct": "3",
+              "xis": "qpn.r00034"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000182",
+              "ref": "qpn-x-months.x000173",
+              "icount": "1",
+              "ipct": "3",
+              "xis": "qpn.r0002d"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-months.x000183",
+          "n": "Nisannu[Nisan//Nisan]MN'MN",
+          "icount": "37",
+          "ipct": "100",
+          "xis": "qpn.r0002a",
+          "num": "1.",
+          "pos": "MN",
+          "mng": "Nisan",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000184",
+              "n": "%akk-x-neoass:{ITI}BARAG",
+              "icount": "13",
+              "ipct": "35",
+              "xis": "qpn.r0002b"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000185",
+              "n": "%akk-x-neobab:{ITI}BARAG",
+              "icount": "7",
+              "ipct": "19",
+              "xis": "qpn.r0002c"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000186",
+              "n": "%akk-x-stdbab:BAR",
+              "icount": "1",
+              "ipct": "3",
+              "xis": "qpn.r0002d"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000187",
+              "n": "%akk-x-stdbab:{ITI}BARAG",
+              "icount": "16",
+              "ipct": "43",
+              "xis": "qpn.r0002e"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-months.x000188",
+              "n": "Nisanni",
+              "icount": "34",
+              "ipct": "92",
+              "xis": "qpn.r0002f"
+            },
+            {
+              "id": "qpn-x-months.x000189",
+              "n": "Nisannu",
+              "icount": "3",
+              "ipct": "8",
+              "xis": "qpn.r00032"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000190",
+              "sig": "@saao/saa08%akk-x-neoass:{ITI}BARAG=Nisannu[Nisan//Nisan]MN'MN$Nisanni",
+              "icount": "12",
+              "ipct": "32",
+              "xis": "qpn.r00030"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000191",
+              "sig": "@saao/saa08%akk-x-neoass:{ITI}BARAG=Nisannu[Nisan//Nisan]MN'MN$Nisannu",
+              "icount": "1",
+              "ipct": "3",
+              "xis": "qpn.r00033"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000192",
+              "sig": "@saao/saa08%akk-x-neobab:{ITI}BARAG=Nisannu[Nisan//Nisan]MN'MN$Nisanni",
+              "icount": "6",
+              "ipct": "16",
+              "xis": "qpn.r00031"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000193",
+              "sig": "@saao/saa08%akk-x-neobab:{ITI}BARAG=Nisannu[Nisan//Nisan]MN'MN$Nisannu",
+              "icount": "1",
+              "ipct": "3",
+              "xis": "qpn.r00034"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000194",
+              "sig": "@saao/saa08%akk-x-stdbab:BAR=Nisannu[Nisan//Nisan]MN'MN$Nisannu",
+              "icount": "1",
+              "ipct": "3",
+              "xis": "qpn.r0002d"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000195",
+              "sig": "@saao/saa08%akk-x-stdbab:{ITI}BARAG=Nisannu[Nisan//Nisan]MN'MN$Nisanni",
+              "icount": "16",
+              "ipct": "43",
+              "xis": "qpn.r0002e"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "37",
+          "ipct": "100",
+          "xis": "qpn.r0002a.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Sililitu[10th month in Elam]MN",
+      "id": "qpn-x-months.x000196",
+      "icount": "4",
+      "ipct": "100",
+      "xis": "qpn.r00035",
+      "dc_title": "saao/saa08/qpn-x-months/Sililitu[10th month in Elam]",
+      "cf": "Sililitu",
+      "gw": "10th month in Elam",
+      "pos": "MN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000197",
+          "n": "{ITI}si-li-li-ti",
+          "icount": "1",
+          "ipct": "25",
+          "xis": "qpn.r00036"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000198",
+          "n": "{ITI}si-li-li-e-ti",
+          "icount": "1",
+          "ipct": "25",
+          "xis": "qpn.r00037"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000199",
+          "n": "{ITI}si-li-li-ti",
+          "icount": "2",
+          "ipct": "50",
+          "xis": "qpn.r00038"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-months.x000200",
+          "icount": "1",
+          "ipct": "25",
+          "xis": "qpn.r00037",
+          "n": "Silileti",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000201",
+              "ref": "qpn-x-months.x000198",
+              "icount": "1",
+              "ipct": "25",
+              "xis": "qpn.r00037"
+            }
+          ]
+        },
+        {
+          "id": "qpn-x-months.x000202",
+          "icount": "3",
+          "ipct": "75",
+          "xis": "qpn.r00039",
+          "n": "Sililiti",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000203",
+              "ref": "qpn-x-months.x000197",
+              "icount": "1",
+              "ipct": "25",
+              "xis": "qpn.r00036"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000204",
+              "ref": "qpn-x-months.x000199",
+              "icount": "2",
+              "ipct": "50",
+              "xis": "qpn.r00038"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-months.x000205",
+          "n": "Sililitu[10th month in Elam//10th month in Elam]MN'MN",
+          "icount": "4",
+          "ipct": "100",
+          "xis": "qpn.r00035",
+          "num": "1.",
+          "pos": "MN",
+          "mng": "10th month in Elam",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000206",
+              "n": "%akk-x-neobab:{ITI}si-li-li-ti",
+              "icount": "1",
+              "ipct": "25",
+              "xis": "qpn.r00036"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000207",
+              "n": "%akk-x-stdbab:{ITI}si-li-li-e-ti",
+              "icount": "1",
+              "ipct": "25",
+              "xis": "qpn.r00037"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000208",
+              "n": "%akk-x-stdbab:{ITI}si-li-li-ti",
+              "icount": "2",
+              "ipct": "50",
+              "xis": "qpn.r00038"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-months.x000209",
+              "n": "Silileti",
+              "icount": "1",
+              "ipct": "25",
+              "xis": "qpn.r00037"
+            },
+            {
+              "id": "qpn-x-months.x000210",
+              "n": "Sililiti",
+              "icount": "3",
+              "ipct": "75",
+              "xis": "qpn.r00039"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000211",
+              "sig": "@saao/saa08%akk-x-neobab:{ITI}si-li-li-ti=Sililitu[10th month in Elam//10th month in Elam]MN'MN$Sililiti",
+              "icount": "1",
+              "ipct": "25",
+              "xis": "qpn.r00036"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000212",
+              "sig": "@saao/saa08%akk-x-stdbab:{ITI}si-li-li-e-ti=Sililitu[10th month in Elam//10th month in Elam]MN'MN$Silileti",
+              "icount": "1",
+              "ipct": "25",
+              "xis": "qpn.r00037"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000213",
+              "sig": "@saao/saa08%akk-x-stdbab:{ITI}si-li-li-ti=Sililitu[10th month in Elam//10th month in Elam]MN'MN$Sililiti",
+              "icount": "2",
+              "ipct": "50",
+              "xis": "qpn.r00038"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "4",
+          "ipct": "100",
+          "xis": "qpn.r00035.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Simanu[Sivan]MN",
+      "id": "qpn-x-months.x000214",
+      "icount": "64",
+      "ipct": "100",
+      "xis": "qpn.r0003a",
+      "dc_title": "saao/saa08/qpn-x-months/Simanu[Sivan]",
+      "cf": "Simanu",
+      "gw": "Sivan",
+      "pos": "MN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000215",
+          "n": "{ITI}SIG₄",
+          "icount": "12",
+          "ipct": "19",
+          "xis": "qpn.r0003b"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000216",
+          "n": "{ITI}SIG₄",
+          "icount": "12",
+          "ipct": "19",
+          "xis": "qpn.r0003c"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000217",
+          "n": "{ITI}SIG₄",
+          "icount": "40",
+          "ipct": "63",
+          "xis": "qpn.r0003d"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-months.x000218",
+          "icount": "60",
+          "ipct": "94",
+          "xis": "qpn.r0003e",
+          "n": "Simani",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000219",
+              "ref": "qpn-x-months.x000215",
+              "icount": "8",
+              "ipct": "13",
+              "xis": "qpn.r0003f"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000220",
+              "ref": "qpn-x-months.x000216",
+              "icount": "12",
+              "ipct": "19",
+              "xis": "qpn.r0003c"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000221",
+              "ref": "qpn-x-months.x000217",
+              "icount": "40",
+              "ipct": "63",
+              "xis": "qpn.r0003d"
+            }
+          ]
+        },
+        {
+          "id": "qpn-x-months.x000222",
+          "icount": "4",
+          "ipct": "6",
+          "xis": "qpn.r00040",
+          "n": "Simanu",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000223",
+              "ref": "qpn-x-months.x000215",
+              "icount": "4",
+              "ipct": "6",
+              "xis": "qpn.r00040"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-months.x000224",
+          "n": "Simanu[Sivan//Sivan]MN'MN",
+          "icount": "64",
+          "ipct": "100",
+          "xis": "qpn.r0003a",
+          "num": "1.",
+          "pos": "MN",
+          "mng": "Sivan",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000225",
+              "n": "%akk-x-neoass:{ITI}SIG₄",
+              "icount": "12",
+              "ipct": "19",
+              "xis": "qpn.r0003b"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000226",
+              "n": "%akk-x-neobab:{ITI}SIG₄",
+              "icount": "12",
+              "ipct": "19",
+              "xis": "qpn.r0003c"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000227",
+              "n": "%akk-x-stdbab:{ITI}SIG₄",
+              "icount": "40",
+              "ipct": "63",
+              "xis": "qpn.r0003d"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-months.x000228",
+              "n": "Simani",
+              "icount": "60",
+              "ipct": "94",
+              "xis": "qpn.r0003e"
+            },
+            {
+              "id": "qpn-x-months.x000229",
+              "n": "Simanu",
+              "icount": "4",
+              "ipct": "6",
+              "xis": "qpn.r00040"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000230",
+              "sig": "@saao/saa08%akk-x-neoass:{ITI}SIG₄=Simanu[Sivan//Sivan]MN'MN$Simani",
+              "icount": "8",
+              "ipct": "13",
+              "xis": "qpn.r0003f"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000231",
+              "sig": "@saao/saa08%akk-x-neoass:{ITI}SIG₄=Simanu[Sivan//Sivan]MN'MN$Simanu",
+              "icount": "4",
+              "ipct": "6",
+              "xis": "qpn.r00040"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000232",
+              "sig": "@saao/saa08%akk-x-neobab:{ITI}SIG₄=Simanu[Sivan//Sivan]MN'MN$Simani",
+              "icount": "12",
+              "ipct": "19",
+              "xis": "qpn.r0003c"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000233",
+              "sig": "@saao/saa08%akk-x-stdbab:{ITI}SIG₄=Simanu[Sivan//Sivan]MN'MN$Simani",
+              "icount": "40",
+              "ipct": "63",
+              "xis": "qpn.r0003d"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "64",
+          "ipct": "100",
+          "xis": "qpn.r0003a.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Šabaṭu[Shebat]MN",
+      "id": "qpn-x-months.x000234",
+      "icount": "26",
+      "ipct": "100",
+      "xis": "qpn.r00049",
+      "dc_title": "saao/saa08/qpn-x-months/Šabaṭu[Shebat]",
+      "cf": "Šabaṭu",
+      "gw": "Shebat",
+      "pos": "MN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000235",
+          "n": "{ITI}ZIZ₂",
+          "icount": "4",
+          "ipct": "15",
+          "xis": "qpn.r0004a"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000236",
+          "n": "{ITI}ZIZ₂",
+          "icount": "5",
+          "ipct": "19",
+          "xis": "qpn.r0004b"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000237",
+          "n": "{ITI}ZIZ₂",
+          "icount": "17",
+          "ipct": "65",
+          "xis": "qpn.r0004c"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-months.x000238",
+          "icount": "26",
+          "ipct": "100",
+          "xis": "qpn.r00049",
+          "n": "Šabaṭi",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000239",
+              "ref": "qpn-x-months.x000235",
+              "icount": "4",
+              "ipct": "15",
+              "xis": "qpn.r0004a"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000240",
+              "ref": "qpn-x-months.x000236",
+              "icount": "5",
+              "ipct": "19",
+              "xis": "qpn.r0004b"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000241",
+              "ref": "qpn-x-months.x000237",
+              "icount": "17",
+              "ipct": "65",
+              "xis": "qpn.r0004c"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-months.x000242",
+          "n": "Šabaṭu[Shebat//Shebat]MN'MN",
+          "icount": "26",
+          "ipct": "100",
+          "xis": "qpn.r00049",
+          "num": "1.",
+          "pos": "MN",
+          "mng": "Shebat",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000243",
+              "n": "%akk-x-neoass:{ITI}ZIZ₂",
+              "icount": "4",
+              "ipct": "15",
+              "xis": "qpn.r0004a"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000244",
+              "n": "%akk-x-neobab:{ITI}ZIZ₂",
+              "icount": "5",
+              "ipct": "19",
+              "xis": "qpn.r0004b"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000245",
+              "n": "%akk-x-stdbab:{ITI}ZIZ₂",
+              "icount": "17",
+              "ipct": "65",
+              "xis": "qpn.r0004c"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-months.x000246",
+              "n": "Šabaṭi",
+              "icount": "26",
+              "ipct": "100",
+              "xis": "qpn.r00049"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000247",
+              "sig": "@saao/saa08%akk-x-neoass:{ITI}ZIZ₂=Šabaṭu[Shebat//Shebat]MN'MN$Šabaṭi",
+              "icount": "4",
+              "ipct": "15",
+              "xis": "qpn.r0004a"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000248",
+              "sig": "@saao/saa08%akk-x-neobab:{ITI}ZIZ₂=Šabaṭu[Shebat//Shebat]MN'MN$Šabaṭi",
+              "icount": "5",
+              "ipct": "19",
+              "xis": "qpn.r0004b"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000249",
+              "sig": "@saao/saa08%akk-x-stdbab:{ITI}ZIZ₂=Šabaṭu[Shebat//Shebat]MN'MN$Šabaṭi",
+              "icount": "17",
+              "ipct": "65",
+              "xis": "qpn.r0004c"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "26",
+          "ipct": "100",
+          "xis": "qpn.r00049.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Taʾuzu[Tammuz]MN",
+      "id": "qpn-x-months.x000250",
+      "icount": "3",
+      "ipct": "100",
+      "xis": "qpn.r00045",
+      "dc_title": "saao/saa08/qpn-x-months/Taʾuzu[Tammuz]",
+      "cf": "Taʾuzu",
+      "gw": "Tammuz",
+      "pos": "MN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000251",
+          "n": "{ITI}ŠU",
+          "icount": "1",
+          "ipct": "33",
+          "xis": "qpn.r00046"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000252",
+          "n": "{ITI}ŠU",
+          "icount": "2",
+          "ipct": "67",
+          "xis": "qpn.r00047"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-months.x000253",
+          "icount": "3",
+          "ipct": "100",
+          "xis": "qpn.r00045",
+          "n": "Taʾuzu",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000254",
+              "ref": "qpn-x-months.x000251",
+              "icount": "1",
+              "ipct": "33",
+              "xis": "qpn.r00046"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000255",
+              "ref": "qpn-x-months.x000252",
+              "icount": "2",
+              "ipct": "67",
+              "xis": "qpn.r00047"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-months.x000256",
+          "n": "Taʾuzu[Tammuz//Tammuz]MN'MN",
+          "icount": "3",
+          "ipct": "100",
+          "xis": "qpn.r00045",
+          "num": "1.",
+          "pos": "MN",
+          "mng": "Tammuz",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000257",
+              "n": "%akk-x-neoass:{ITI}ŠU",
+              "icount": "1",
+              "ipct": "33",
+              "xis": "qpn.r00046"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000258",
+              "n": "%akk-x-neobab:{ITI}ŠU",
+              "icount": "2",
+              "ipct": "67",
+              "xis": "qpn.r00047"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-months.x000259",
+              "n": "Taʾuzu",
+              "icount": "3",
+              "ipct": "100",
+              "xis": "qpn.r00045"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000260",
+              "sig": "@saao/saa08%akk-x-neoass:{ITI}ŠU=Taʾuzu[Tammuz//Tammuz]MN'MN$Taʾuzu",
+              "icount": "1",
+              "ipct": "33",
+              "xis": "qpn.r00046"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000261",
+              "sig": "@saao/saa08%akk-x-neobab:{ITI}ŠU=Taʾuzu[Tammuz//Tammuz]MN'MN$Taʾuzu",
+              "icount": "2",
+              "ipct": "67",
+              "xis": "qpn.r00047"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "3",
+          "ipct": "100",
+          "xis": "qpn.r00045.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Tašritu[Tishri]MN",
+      "id": "qpn-x-months.x000262",
+      "icount": "20",
+      "ipct": "100",
+      "xis": "qpn.r00041",
+      "dc_title": "saao/saa08/qpn-x-months/Tašritu[Tishri]",
+      "cf": "Tašritu",
+      "gw": "Tishri",
+      "pos": "MN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000263",
+          "n": "{ITI}DU₆",
+          "icount": "6",
+          "ipct": "30",
+          "xis": "qpn.r00042"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000264",
+          "n": "{ITI}DU₆",
+          "icount": "4",
+          "ipct": "20",
+          "xis": "qpn.r00043"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000265",
+          "n": "{ITI}DU₆",
+          "icount": "10",
+          "ipct": "50",
+          "xis": "qpn.r00044"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-months.x000266",
+          "icount": "20",
+          "ipct": "100",
+          "xis": "qpn.r00041",
+          "n": "Tašriti",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000267",
+              "ref": "qpn-x-months.x000263",
+              "icount": "6",
+              "ipct": "30",
+              "xis": "qpn.r00042"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000268",
+              "ref": "qpn-x-months.x000264",
+              "icount": "4",
+              "ipct": "20",
+              "xis": "qpn.r00043"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000269",
+              "ref": "qpn-x-months.x000265",
+              "icount": "10",
+              "ipct": "50",
+              "xis": "qpn.r00044"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-months.x000270",
+          "n": "Tašritu[Tishri//Tishri]MN'MN",
+          "icount": "20",
+          "ipct": "100",
+          "xis": "qpn.r00041",
+          "num": "1.",
+          "pos": "MN",
+          "mng": "Tishri",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000271",
+              "n": "%akk-x-neoass:{ITI}DU₆",
+              "icount": "6",
+              "ipct": "30",
+              "xis": "qpn.r00042"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000272",
+              "n": "%akk-x-neobab:{ITI}DU₆",
+              "icount": "4",
+              "ipct": "20",
+              "xis": "qpn.r00043"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000273",
+              "n": "%akk-x-stdbab:{ITI}DU₆",
+              "icount": "10",
+              "ipct": "50",
+              "xis": "qpn.r00044"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-months.x000274",
+              "n": "Tašriti",
+              "icount": "20",
+              "ipct": "100",
+              "xis": "qpn.r00041"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000275",
+              "sig": "@saao/saa08%akk-x-neoass:{ITI}DU₆=Tašritu[Tishri//Tishri]MN'MN$Tašriti",
+              "icount": "6",
+              "ipct": "30",
+              "xis": "qpn.r00042"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000276",
+              "sig": "@saao/saa08%akk-x-neobab:{ITI}DU₆=Tašritu[Tishri//Tishri]MN'MN$Tašriti",
+              "icount": "4",
+              "ipct": "20",
+              "xis": "qpn.r00043"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000277",
+              "sig": "@saao/saa08%akk-x-stdbab:{ITI}DU₆=Tašritu[Tishri//Tishri]MN'MN$Tašriti",
+              "icount": "10",
+              "ipct": "50",
+              "xis": "qpn.r00044"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "20",
+          "ipct": "100",
+          "xis": "qpn.r00041.p.s000"
+        }
+      ]
+    },
+    {
+      "headword": "Ṭebetu[Tebet]MN",
+      "id": "qpn-x-months.x000278",
+      "icount": "16",
+      "ipct": "100",
+      "xis": "qpn.r0004d",
+      "dc_title": "saao/saa08/qpn-x-months/Ṭebetu[Tebet]",
+      "cf": "Ṭebetu",
+      "gw": "Tebet",
+      "pos": "MN",
+      "forms": [
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000279",
+          "n": "{ITI}AB",
+          "icount": "2",
+          "ipct": "13",
+          "xis": "qpn.r0004e"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000280",
+          "n": "{ITI}AB",
+          "icount": "1",
+          "ipct": "6",
+          "xis": "qpn.r0004f"
+        },
+        {
+          "type": "form",
+          "id": "qpn-x-months.x000281",
+          "n": "{ITI}AB",
+          "icount": "13",
+          "ipct": "81",
+          "xis": "qpn.r00050"
+        }
+      ],
+      "norms": [
+        {
+          "id": "qpn-x-months.x000282",
+          "icount": "16",
+          "ipct": "100",
+          "xis": "qpn.r0004d",
+          "n": "Ṭebeti",
+          "forms": [
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000283",
+              "ref": "qpn-x-months.x000279",
+              "icount": "2",
+              "ipct": "13",
+              "xis": "qpn.r0004e"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000284",
+              "ref": "qpn-x-months.x000280",
+              "icount": "1",
+              "ipct": "6",
+              "xis": "qpn.r0004f"
+            },
+            {
+              "type": "normform",
+              "id": "qpn-x-months.x000285",
+              "ref": "qpn-x-months.x000281",
+              "icount": "13",
+              "ipct": "81",
+              "xis": "qpn.r00050"
+            }
+          ]
+        }
+      ],
+      "senses": [
+        {
+          "type": "sense",
+          "id": "qpn-x-months.x000286",
+          "n": "Ṭebetu[Tebet//Tebet]MN'MN",
+          "icount": "16",
+          "ipct": "100",
+          "xis": "qpn.r0004d",
+          "num": "1.",
+          "pos": "MN",
+          "mng": "Tebet",
+          "forms": [
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000287",
+              "n": "%akk-x-neoass:{ITI}AB",
+              "icount": "2",
+              "ipct": "13",
+              "xis": "qpn.r0004e"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000288",
+              "n": "%akk-x-neobab:{ITI}AB",
+              "icount": "1",
+              "ipct": "6",
+              "xis": "qpn.r0004f"
+            },
+            {
+              "type": "form",
+              "id": "qpn-x-months.x000289",
+              "n": "%akk-x-stdbab:{ITI}AB",
+              "icount": "13",
+              "ipct": "81",
+              "xis": "qpn.r00050"
+            }
+          ],
+          "norms": [
+            {
+              "id": "qpn-x-months.x000290",
+              "n": "Ṭebeti",
+              "icount": "16",
+              "ipct": "100",
+              "xis": "qpn.r0004d"
+            }
+          ],
+          "sigs": [
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000291",
+              "sig": "@saao/saa08%akk-x-neoass:{ITI}AB=Ṭebetu[Tebet//Tebet]MN'MN$Ṭebeti",
+              "icount": "2",
+              "ipct": "13",
+              "xis": "qpn.r0004e"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000292",
+              "sig": "@saao/saa08%akk-x-neobab:{ITI}AB=Ṭebetu[Tebet//Tebet]MN'MN$Ṭebeti",
+              "icount": "1",
+              "ipct": "6",
+              "xis": "qpn.r0004f"
+            },
+            {
+              "type": "sig",
+              "id": "qpn-x-months.x000293",
+              "sig": "@saao/saa08%akk-x-stdbab:{ITI}AB=Ṭebetu[Tebet//Tebet]MN'MN$Ṭebeti",
+              "icount": "13",
+              "ipct": "81",
+              "xis": "qpn.r00050"
+            }
+          ]
+        }
+      ],
+      "periods": [
+        {
+          "p": "Neo-Assyrian",
+          "icount": "16",
+          "ipct": "100",
+          "xis": "qpn.r0004d.p.s000"
+        }
+      ]
+    }
+  ],
+  "instances": {
+    "qpn.r00000": [
+      "saao/saa08:P237074.4.4",
+      "saao/saa08:P237074.8.4",
+      "saao/saa08:P237295.2.4",
+      "saao/saa08:P237323.5.5",
+      "saao/saa08:P237637.2.4",
+      "saao/saa08:P237891.13.1",
+      "saao/saa08:P237892.16.4",
+      "saao/saa08:P237915.9.4",
+      "saao/saa08:P238771.9.7",
+      "saao/saa08:P240141.10.4",
+      "saao/saa08:P240141.13.3",
+      "saao/saa08:P240141.9.2",
+      "saao/saa08:P314325.2.1",
+      "saao/saa08:P336403.2.4",
+      "saao/saa08:P336409.2.4",
+      "saao/saa08:P336494.2.4",
+      "saao/saa08:P336508.3.4",
+      "saao/saa08:P336510.2.4",
+      "saao/saa08:P336510.5.4",
+      "saao/saa08:P336529.22.3",
+      "saao/saa08:P336556.11.4",
+      "saao/saa08:P336556.2.3",
+      "saao/saa08:P336557.2.3",
+      "saao/saa08:P336557.4.3",
+      "saao/saa08:P336558.2.3",
+      "saao/saa08:P336559.11.3",
+      "saao/saa08:P336559.2.3",
+      "saao/saa08:P336559.9.4",
+      "saao/saa08:P336655.6.3",
+      "saao/saa08:P336665.2.4",
+      "saao/saa08:P336665.5.3"
+    ],
+    "qpn.r00009": [
+      "saao/saa08:P237857.2.4"
+    ],
+    "qpn.r00001": [
+      "saao/saa08:P336556.11.4",
+      "saao/saa08:P336559.9.4"
+    ],
+    "qpn.r00002": [
+      "saao/saa08:P237892.16.4",
+      "saao/saa08:P240141.13.3",
+      "saao/saa08:P240141.9.2"
+    ],
+    "qpn.r00003": [
+      "saao/saa08:P237074.4.4",
+      "saao/saa08:P237074.8.4",
+      "saao/saa08:P237295.2.4",
+      "saao/saa08:P237323.5.5",
+      "saao/saa08:P237637.2.4",
+      "saao/saa08:P237891.13.1",
+      "saao/saa08:P237915.9.4",
+      "saao/saa08:P238771.9.7",
+      "saao/saa08:P240141.10.4",
+      "saao/saa08:P314325.2.1",
+      "saao/saa08:P336403.2.4",
+      "saao/saa08:P336409.2.4",
+      "saao/saa08:P336494.2.4",
+      "saao/saa08:P336508.3.4",
+      "saao/saa08:P336510.2.4",
+      "saao/saa08:P336510.5.4",
+      "saao/saa08:P336529.22.3",
+      "saao/saa08:P336556.2.3",
+      "saao/saa08:P336557.2.3",
+      "saao/saa08:P336557.4.3",
+      "saao/saa08:P336558.2.3",
+      "saao/saa08:P336559.11.3",
+      "saao/saa08:P336559.2.3",
+      "saao/saa08:P336655.6.3",
+      "saao/saa08:P336665.2.4",
+      "saao/saa08:P336665.5.3"
+    ],
+    "qpn.r00004": [
+      "saao/saa08:P237074.4.4",
+      "saao/saa08:P237074.8.4",
+      "saao/saa08:P237295.2.4",
+      "saao/saa08:P237323.5.5",
+      "saao/saa08:P237637.2.4",
+      "saao/saa08:P237891.13.1",
+      "saao/saa08:P237892.16.4",
+      "saao/saa08:P237915.9.4",
+      "saao/saa08:P238771.9.7",
+      "saao/saa08:P240141.10.4",
+      "saao/saa08:P240141.13.3",
+      "saao/saa08:P240141.9.2",
+      "saao/saa08:P314325.2.1",
+      "saao/saa08:P336403.2.4",
+      "saao/saa08:P336409.2.4",
+      "saao/saa08:P336494.2.4",
+      "saao/saa08:P336508.3.4",
+      "saao/saa08:P336510.2.4",
+      "saao/saa08:P336510.5.4",
+      "saao/saa08:P336529.22.3",
+      "saao/saa08:P336556.2.3",
+      "saao/saa08:P336557.2.3",
+      "saao/saa08:P336557.4.3",
+      "saao/saa08:P336558.2.3",
+      "saao/saa08:P336559.11.3",
+      "saao/saa08:P336559.2.3",
+      "saao/saa08:P336655.6.3",
+      "saao/saa08:P336665.2.4",
+      "saao/saa08:P336665.5.3"
+    ],
+    "qpn.r00005": [
+      "saao/saa08:P237857.18.2",
+      "saao/saa08:P237857.2.4",
+      "saao/saa08:P237956.20.5",
+      "saao/saa08:P237956.23.3"
+    ],
+    "qpn.r00006": [
+      "saao/saa08:P237956.23.3"
+    ],
+    "qpn.r0001e": [
+      "saao/saa08:P236921.2.4",
+      "saao/saa08:P237320.9.5",
+      "saao/saa08:P237321.5.4",
+      "saao/saa08:P237860.2.3",
+      "saao/saa08:P237869.6.3",
+      "saao/saa08:P237885.14.4",
+      "saao/saa08:P239097.4.4",
+      "saao/saa08:P239111.9.4",
+      "saao/saa08:P336478.7.4",
+      "saao/saa08:P336480.2.4",
+      "saao/saa08:P336493.2.4",
+      "saao/saa08:P336503.20.4",
+      "saao/saa08:P336520.2.4",
+      "saao/saa08:P336526.2.3",
+      "saao/saa08:P336526.4.4",
+      "saao/saa08:P336541.11.3",
+      "saao/saa08:P336541.12.3",
+      "saao/saa08:P336575.2.4",
+      "saao/saa08:P336663.13.3"
+    ],
+    "qpn.r0000d": [
+      "saao/saa08:P336486.5.3"
+    ],
+    "qpn.r0000f": [
+      "saao/saa08:P236971.2.3",
+      "saao/saa08:P236976.5.2",
+      "saao/saa08:P237285.2.3",
+      "saao/saa08:P237302.2.4",
+      "saao/saa08:P237304.14.3",
+      "saao/saa08:P237316.20.6",
+      "saao/saa08:P237316.25.2",
+      "saao/saa08:P237796.14.2",
+      "saao/saa08:P237961.2.3",
+      "saao/saa08:P238776.2.3",
+      "saao/saa08:P336576.3.1"
+    ],
+    "qpn.r0000a": [
+      "saao/saa08:P236880.2.4",
+      "saao/saa08:P237289.10.3",
+      "saao/saa08:P237289.13.6",
+      "saao/saa08:P237301.2.3",
+      "saao/saa08:P237660.13.4",
+      "saao/saa08:P237852.10.3",
+      "saao/saa08:P237852.11.3",
+      "saao/saa08:P237852.14.3",
+      "saao/saa08:P237852.2.2",
+      "saao/saa08:P237852.4.3",
+      "saao/saa08:P237918.2.3",
+      "saao/saa08:P238042.7.2",
+      "saao/saa08:P238062.2.3",
+      "saao/saa08:P238615.8.5",
+      "saao/saa08:P238716.2.4",
+      "saao/saa08:P238716.6.7",
+      "saao/saa08:P238776.34.9",
+      "saao/saa08:P336377.6.1",
+      "saao/saa08:P336390.3.3",
+      "saao/saa08:P336398.20.3",
+      "saao/saa08:P336418.7.4",
+      "saao/saa08:P336482.7.4",
+      "saao/saa08:P336486.5.3",
+      "saao/saa08:P336549.23.4",
+      "saao/saa08:P336562.6.3",
+      "saao/saa08:P336564.17.3",
+      "saao/saa08:P336564.19.4"
+    ],
+    "qpn.r00007": [
+      "saao/saa08:P237857.18.2"
+    ],
+    "qpn.r00008": [
+      "saao/saa08:P237956.20.5"
+    ],
+    "qpn.r0000b": [
+      "saao/saa08:P336377.6.1",
+      "saao/saa08:P336398.20.3",
+      "saao/saa08:P336549.23.4",
+      "saao/saa08:P336564.17.3",
+      "saao/saa08:P336564.19.4"
+    ],
+    "qpn.r0000c": [
+      "saao/saa08:P237660.13.4",
+      "saao/saa08:P237852.2.2",
+      "saao/saa08:P238042.7.2",
+      "saao/saa08:P238615.8.5",
+      "saao/saa08:P238716.6.7",
+      "saao/saa08:P238776.34.9",
+      "saao/saa08:P336390.3.3"
+    ],
+    "qpn.r0000e": [
+      "saao/saa08:P236880.2.4",
+      "saao/saa08:P237289.10.3",
+      "saao/saa08:P237289.13.6",
+      "saao/saa08:P237301.2.3",
+      "saao/saa08:P237852.10.3",
+      "saao/saa08:P237852.11.3",
+      "saao/saa08:P237852.14.3",
+      "saao/saa08:P237852.4.3",
+      "saao/saa08:P237918.2.3",
+      "saao/saa08:P238062.2.3",
+      "saao/saa08:P238716.2.4",
+      "saao/saa08:P336418.7.4",
+      "saao/saa08:P336482.7.4",
+      "saao/saa08:P336562.6.3"
+    ],
+    "qpn.r00010": [
+      "saao/saa08:P336576.3.1"
+    ],
+    "qpn.r00013": [
+      "saao/saa08:P236915.7.2",
+      "saao/saa08:P236919.7.4",
+      "saao/saa08:P236969.2.3",
+      "saao/saa08:P237338.2.4",
+      "saao/saa08:P237510.9.3",
+      "saao/saa08:P237539.2.4",
+      "saao/saa08:P237761.15.3",
+      "saao/saa08:P237881.2.4",
+      "saao/saa08:P237900.11.3",
+      "saao/saa08:P237900.5.2",
+      "saao/saa08:P237900.7.2",
+      "saao/saa08:P237929.2.4",
+      "saao/saa08:P238045.2.4",
+      "saao/saa08:P238065.2.4",
+      "saao/saa08:P238089.2.3",
+      "saao/saa08:P238089.5.3",
+      "saao/saa08:P238113.3.4",
+      "saao/saa08:P240142.8.4",
+      "saao/saa08:P240145.13.3",
+      "saao/saa08:P336393.14.3",
+      "saao/saa08:P336402.12.3",
+      "saao/saa08:P336492.16.4",
+      "saao/saa08:P336518.6.5",
+      "saao/saa08:P336519.6.4",
+      "saao/saa08:P336662.2.1",
+      "saao/saa08:P336664.2.4",
+      "saao/saa08:P336671.18.2",
+      "saao/saa08:P336671.22.2",
+      "saao/saa08:P336671.23.2",
+      "saao/saa08:P336671.24.2"
+    ],
+    "qpn.r00014": [
+      "saao/saa08:P336402.12.3",
+      "saao/saa08:P336671.18.2"
+    ],
+    "qpn.r00011": [
+      "saao/saa08:P236976.5.2",
+      "saao/saa08:P237304.14.3",
+      "saao/saa08:P237316.20.6",
+      "saao/saa08:P237316.25.2",
+      "saao/saa08:P237796.14.2"
+    ],
+    "qpn.r00012": [
+      "saao/saa08:P236971.2.3",
+      "saao/saa08:P237285.2.3",
+      "saao/saa08:P237302.2.4",
+      "saao/saa08:P237961.2.3",
+      "saao/saa08:P238776.2.3"
+    ],
+    "qpn.r00017": [
+      "saao/saa08:P336671.25.3"
+    ],
+    "qpn.r00015": [
+      "saao/saa08:P236915.7.2",
+      "saao/saa08:P236919.7.4",
+      "saao/saa08:P236969.2.3",
+      "saao/saa08:P237338.2.4",
+      "saao/saa08:P237510.9.3",
+      "saao/saa08:P237539.2.4",
+      "saao/saa08:P237761.15.3",
+      "saao/saa08:P237881.2.4",
+      "saao/saa08:P237900.11.3",
+      "saao/saa08:P237900.5.2",
+      "saao/saa08:P237900.7.2",
+      "saao/saa08:P237929.2.4",
+      "saao/saa08:P238045.2.4",
+      "saao/saa08:P238065.2.4",
+      "saao/saa08:P238089.2.3",
+      "saao/saa08:P238089.5.3",
+      "saao/saa08:P238113.3.4",
+      "saao/saa08:P240142.8.4",
+      "saao/saa08:P240145.13.3",
+      "saao/saa08:P336393.14.3",
+      "saao/saa08:P336492.16.4",
+      "saao/saa08:P336518.6.5",
+      "saao/saa08:P336519.6.4",
+      "saao/saa08:P336662.2.1",
+      "saao/saa08:P336664.2.4",
+      "saao/saa08:P336671.22.2",
+      "saao/saa08:P336671.23.2",
+      "saao/saa08:P336671.24.2"
+    ],
+    "qpn.r00018": [
+      "saao/saa08:P336671.25.2",
+      "saao/saa08:P336671.28.2"
+    ],
+    "qpn.r00016": [
+      "saao/saa08:P237892.16.1",
+      "saao/saa08:P237909.16.2",
+      "saao/saa08:P238060.7.1",
+      "saao/saa08:P238064.2.2",
+      "saao/saa08:P240142.11.4",
+      "saao/saa08:P240142.6.4",
+      "saao/saa08:P336390.6.3",
+      "saao/saa08:P336393.19.3",
+      "saao/saa08:P336671.2.2",
+      "saao/saa08:P336671.25.2",
+      "saao/saa08:P336671.25.3",
+      "saao/saa08:P336671.28.2"
+    ],
+    "qpn.r0001b": [
+      "saao/saa08:P237909.16.2",
+      "saao/saa08:P238064.2.2",
+      "saao/saa08:P240142.11.4",
+      "saao/saa08:P240142.6.4",
+      "saao/saa08:P336390.6.3",
+      "saao/saa08:P336393.19.3"
+    ],
+    "qpn.r00022": [
+      "saao/saa08:P236981.2.4",
+      "saao/saa08:P236986.11.4",
+      "saao/saa08:P236986.13.3",
+      "saao/saa08:P237291.2.4",
+      "saao/saa08:P237294.1.4",
+      "saao/saa08:P237304.14.1",
+      "saao/saa08:P237340.11.7",
+      "saao/saa08:P237340.12.6",
+      "saao/saa08:P237340.15.8",
+      "saao/saa08:P237563.4.4",
+      "saao/saa08:P237849.2.3",
+      "saao/saa08:P237863.23.3",
+      "saao/saa08:P237875.18.5",
+      "saao/saa08:P237875.6.3",
+      "saao/saa08:P237877.8.4",
+      "saao/saa08:P237878.6.4",
+      "saao/saa08:P237892.16.5",
+      "saao/saa08:P240199.9.5",
+      "saao/saa08:P336377.6.2",
+      "saao/saa08:P336412.2.4",
+      "saao/saa08:P336571.12.1",
+      "saao/saa08:P336571.2.3"
+    ],
+    "qpn.r00019": [
+      "saao/saa08:P237892.16.1",
+      "saao/saa08:P237909.16.2",
+      "saao/saa08:P238060.7.1",
+      "saao/saa08:P238064.2.2",
+      "saao/saa08:P240142.11.4",
+      "saao/saa08:P240142.6.4",
+      "saao/saa08:P336390.6.3",
+      "saao/saa08:P336393.19.3"
+    ],
+    "qpn.r0001a": [
+      "saao/saa08:P336671.2.2"
+    ],
+    "qpn.r0001d": [
+      "saao/saa08:P237892.16.1",
+      "saao/saa08:P238060.7.1"
+    ],
+    "qpn.r0001c": [
+      "saao/saa08:P237892.16.1",
+      "saao/saa08:P238060.7.1",
+      "saao/saa08:P336671.2.2",
+      "saao/saa08:P336671.25.2",
+      "saao/saa08:P336671.28.2"
+    ],
+    "qpn.r00034": [
+      "saao/saa08:P236977.27.1"
+    ],
+    "qpn.r0001f": [
+      "saao/saa08:P336526.2.3",
+      "saao/saa08:P336575.2.4",
+      "saao/saa08:P336663.13.3"
+    ],
+    "qpn.r00020": [
+      "saao/saa08:P237320.9.5"
+    ],
+    "qpn.r00021": [
+      "saao/saa08:P236921.2.4",
+      "saao/saa08:P237321.5.4",
+      "saao/saa08:P237860.2.3",
+      "saao/saa08:P237869.6.3",
+      "saao/saa08:P237885.14.4",
+      "saao/saa08:P239097.4.4",
+      "saao/saa08:P239111.9.4",
+      "saao/saa08:P336478.7.4",
+      "saao/saa08:P336480.2.4",
+      "saao/saa08:P336493.2.4",
+      "saao/saa08:P336503.20.4",
+      "saao/saa08:P336520.2.4",
+      "saao/saa08:P336526.4.4",
+      "saao/saa08:P336541.11.3",
+      "saao/saa08:P336541.12.3"
+    ],
+    "qpn.r0002a": [
+      "saao/saa08:P236918.5.2",
+      "saao/saa08:P236920.13.4",
+      "saao/saa08:P236977.27.1",
+      "saao/saa08:P237226.2.4",
+      "saao/saa08:P237337.18.2",
+      "saao/saa08:P237660.14.4",
+      "saao/saa08:P237873.4.3",
+      "saao/saa08:P237879.2.4",
+      "saao/saa08:P238039.8.4",
+      "saao/saa08:P238047.2.4",
+      "saao/saa08:P238124.2.4",
+      "saao/saa08:P334901.2.4",
+      "saao/saa08:P334902.2.4",
+      "saao/saa08:P336241.2.4",
+      "saao/saa08:P336376.5.2",
+      "saao/saa08:P336377.7.3",
+      "saao/saa08:P336389.2.3",
+      "saao/saa08:P336390.5.3",
+      "saao/saa08:P336398.2.4",
+      "saao/saa08:P336398.23.3",
+      "saao/saa08:P336417.32.3",
+      "saao/saa08:P336479.2.4",
+      "saao/saa08:P336482.10.3",
+      "saao/saa08:P336490.6.2",
+      "saao/saa08:P336505.2.4",
+      "saao/saa08:P336506.7.4",
+      "saao/saa08:P336525.11.3",
+      "saao/saa08:P336564.15.3",
+      "saao/saa08:P336564.19.5",
+      "saao/saa08:P336564.23.2",
+      "saao/saa08:P336565.2.3",
+      "saao/saa08:P336592.12.3",
+      "saao/saa08:P336592.19.3",
+      "saao/saa08:P336592.23.3",
+      "saao/saa08:P336593.17.3",
+      "saao/saa08:P336656.2.3",
+      "saao/saa08:P336674.1.1"
+    ],
+    "qpn.r00026": [
+      "saao/saa08:P236915.15.3",
+      "saao/saa08:P236916.2.3",
+      "saao/saa08:P236976.18.3",
+      "saao/saa08:P236976.5.4",
+      "saao/saa08:P237288.2.6",
+      "saao/saa08:P237304.14.4",
+      "saao/saa08:P237305.2.6",
+      "saao/saa08:P237305.4.4",
+      "saao/saa08:P237316.25.3",
+      "saao/saa08:P237393.6.3",
+      "saao/saa08:P237867.14.2",
+      "saao/saa08:P237867.9.2",
+      "saao/saa08:P237934.7.6",
+      "saao/saa08:P238024.19.3",
+      "saao/saa08:P238031.6.3",
+      "saao/saa08:P238716.10.5",
+      "saao/saa08:P238776.34.5",
+      "saao/saa08:P240205.14.1",
+      "saao/saa08:P336305.15.3",
+      "saao/saa08:P336404.4.3",
+      "saao/saa08:P336405.2.4",
+      "saao/saa08:P336430.2.3",
+      "saao/saa08:P336511.22.4",
+      "saao/saa08:P336513.2.4",
+      "saao/saa08:P336523.20.2",
+      "saao/saa08:P336576.8.3"
+    ],
+    "qpn.r00024": [
+      "saao/saa08:P237304.14.1",
+      "saao/saa08:P237340.11.7",
+      "saao/saa08:P237340.12.6",
+      "saao/saa08:P237340.15.8",
+      "saao/saa08:P237863.23.3",
+      "saao/saa08:P237875.18.5",
+      "saao/saa08:P237892.16.5"
+    ],
+    "qpn.r00023": [
+      "saao/saa08:P336377.6.2",
+      "saao/saa08:P336571.12.1",
+      "saao/saa08:P336571.2.3"
+    ],
+    "qpn.r00025": [
+      "saao/saa08:P236981.2.4",
+      "saao/saa08:P236986.11.4",
+      "saao/saa08:P236986.13.3",
+      "saao/saa08:P237291.2.4",
+      "saao/saa08:P237294.1.4",
+      "saao/saa08:P237563.4.4",
+      "saao/saa08:P237849.2.3",
+      "saao/saa08:P237875.6.3",
+      "saao/saa08:P237877.8.4",
+      "saao/saa08:P237878.6.4",
+      "saao/saa08:P240199.9.5",
+      "saao/saa08:P336412.2.4"
+    ],
+    "qpn.r00029": [
+      "saao/saa08:P236915.15.3",
+      "saao/saa08:P236916.2.3",
+      "saao/saa08:P236976.18.3",
+      "saao/saa08:P237288.2.6",
+      "saao/saa08:P237305.4.4",
+      "saao/saa08:P237393.6.3",
+      "saao/saa08:P238024.19.3",
+      "saao/saa08:P238031.6.3",
+      "saao/saa08:P336305.15.3",
+      "saao/saa08:P336405.2.4",
+      "saao/saa08:P336430.2.3",
+      "saao/saa08:P336511.22.4",
+      "saao/saa08:P336513.2.4"
+    ],
+    "qpn.r00027": [
+      "saao/saa08:P336404.4.3",
+      "saao/saa08:P336523.20.2",
+      "saao/saa08:P336576.8.3"
+    ],
+    "qpn.r00028": [
+      "saao/saa08:P236976.5.4",
+      "saao/saa08:P237304.14.4",
+      "saao/saa08:P237305.2.6",
+      "saao/saa08:P237316.25.3",
+      "saao/saa08:P237867.14.2",
+      "saao/saa08:P237867.9.2",
+      "saao/saa08:P237934.7.6",
+      "saao/saa08:P238716.10.5",
+      "saao/saa08:P238776.34.5",
+      "saao/saa08:P240205.14.1"
+    ],
+    "qpn.r00039": [
+      "saao/saa08:P237297.2.4",
+      "saao/saa08:P237297.5.1",
+      "saao/saa08:P336164.17.3"
+    ],
+    "qpn.r00035": [
+      "saao/saa08:P236995.7.4",
+      "saao/saa08:P237297.2.4",
+      "saao/saa08:P237297.5.1",
+      "saao/saa08:P336164.17.3"
+    ],
+    "qpn.r0002f": [
+      "saao/saa08:P236918.5.2",
+      "saao/saa08:P236920.13.4",
+      "saao/saa08:P237226.2.4",
+      "saao/saa08:P237337.18.2",
+      "saao/saa08:P237660.14.4",
+      "saao/saa08:P237873.4.3",
+      "saao/saa08:P237879.2.4",
+      "saao/saa08:P238039.8.4",
+      "saao/saa08:P238047.2.4",
+      "saao/saa08:P238124.2.4",
+      "saao/saa08:P334901.2.4",
+      "saao/saa08:P334902.2.4",
+      "saao/saa08:P336241.2.4",
+      "saao/saa08:P336376.5.2",
+      "saao/saa08:P336377.7.3",
+      "saao/saa08:P336389.2.3",
+      "saao/saa08:P336390.5.3",
+      "saao/saa08:P336398.2.4",
+      "saao/saa08:P336398.23.3",
+      "saao/saa08:P336417.32.3",
+      "saao/saa08:P336479.2.4",
+      "saao/saa08:P336482.10.3",
+      "saao/saa08:P336490.6.2",
+      "saao/saa08:P336505.2.4",
+      "saao/saa08:P336506.7.4",
+      "saao/saa08:P336525.11.3",
+      "saao/saa08:P336564.15.3",
+      "saao/saa08:P336564.19.5",
+      "saao/saa08:P336565.2.3",
+      "saao/saa08:P336592.12.3",
+      "saao/saa08:P336592.19.3",
+      "saao/saa08:P336592.23.3",
+      "saao/saa08:P336593.17.3",
+      "saao/saa08:P336656.2.3"
+    ],
+    "qpn.r0003d": [
+      "saao/saa08:P236922.2.4",
+      "saao/saa08:P236933.2.4",
+      "saao/saa08:P236933.5.4",
+      "saao/saa08:P236933.6.4",
+      "saao/saa08:P236933.9.3",
+      "saao/saa08:P236942.2.4",
+      "saao/saa08:P236944.2.4",
+      "saao/saa08:P237299.2.4",
+      "saao/saa08:P237896.2.4",
+      "saao/saa08:P237949.10.4",
+      "saao/saa08:P237949.11.3",
+      "saao/saa08:P237949.12.3",
+      "saao/saa08:P237949.14.3",
+      "saao/saa08:P237949.19.3",
+      "saao/saa08:P237953.3.4",
+      "saao/saa08:P238046.2.4",
+      "saao/saa08:P240140.11.3",
+      "saao/saa08:P240140.16.3",
+      "saao/saa08:P240140.7.3",
+      "saao/saa08:P336399.5.4",
+      "saao/saa08:P336400.2.4",
+      "saao/saa08:P336401.2.4",
+      "saao/saa08:P336402.2.4",
+      "saao/saa08:P336411.6.4",
+      "saao/saa08:P336416.5.4",
+      "saao/saa08:P336424.2.4",
+      "saao/saa08:P336491.4.4",
+      "saao/saa08:P336499.2.4",
+      "saao/saa08:P336509.5.4",
+      "saao/saa08:P336518.7.3",
+      "saao/saa08:P336519.7.3",
+      "saao/saa08:P336570.12.6",
+      "saao/saa08:P336570.2.3",
+      "saao/saa08:P336570.26.4",
+      "saao/saa08:P336570.27.4",
+      "saao/saa08:P336570.28.3",
+      "saao/saa08:P336570.29.3",
+      "saao/saa08:P336570.31.3",
+      "saao/saa08:P336570.34.3",
+      "saao/saa08:P336584.2.3"
+    ],
+    "qpn.r0002b": [
+      "saao/saa08:P334901.2.4",
+      "saao/saa08:P334902.2.4",
+      "saao/saa08:P336241.2.4",
+      "saao/saa08:P336376.5.2",
+      "saao/saa08:P336377.7.3",
+      "saao/saa08:P336389.2.3",
+      "saao/saa08:P336398.23.3",
+      "saao/saa08:P336417.32.3",
+      "saao/saa08:P336482.10.3",
+      "saao/saa08:P336490.6.2",
+      "saao/saa08:P336564.19.5",
+      "saao/saa08:P336564.23.2",
+      "saao/saa08:P336593.17.3"
+    ],
+    "qpn.r0002e": [
+      "saao/saa08:P236920.13.4",
+      "saao/saa08:P237226.2.4",
+      "saao/saa08:P237879.2.4",
+      "saao/saa08:P238039.8.4",
+      "saao/saa08:P238047.2.4",
+      "saao/saa08:P238124.2.4",
+      "saao/saa08:P336398.2.4",
+      "saao/saa08:P336479.2.4",
+      "saao/saa08:P336505.2.4",
+      "saao/saa08:P336506.7.4",
+      "saao/saa08:P336564.15.3",
+      "saao/saa08:P336565.2.3",
+      "saao/saa08:P336592.12.3",
+      "saao/saa08:P336592.19.3",
+      "saao/saa08:P336592.23.3",
+      "saao/saa08:P336656.2.3"
+    ],
+    "qpn.r00030": [
+      "saao/saa08:P334901.2.4",
+      "saao/saa08:P334902.2.4",
+      "saao/saa08:P336241.2.4",
+      "saao/saa08:P336376.5.2",
+      "saao/saa08:P336377.7.3",
+      "saao/saa08:P336389.2.3",
+      "saao/saa08:P336398.23.3",
+      "saao/saa08:P336417.32.3",
+      "saao/saa08:P336482.10.3",
+      "saao/saa08:P336490.6.2",
+      "saao/saa08:P336564.19.5",
+      "saao/saa08:P336593.17.3"
+    ],
+    "qpn.r0002d": [
+      "saao/saa08:P336674.1.1"
+    ],
+    "qpn.r0002c": [
+      "saao/saa08:P236918.5.2",
+      "saao/saa08:P236977.27.1",
+      "saao/saa08:P237337.18.2",
+      "saao/saa08:P237660.14.4",
+      "saao/saa08:P237873.4.3",
+      "saao/saa08:P336390.5.3",
+      "saao/saa08:P336525.11.3"
+    ],
+    "qpn.r00033": [
+      "saao/saa08:P336564.23.2"
+    ],
+    "qpn.r00031": [
+      "saao/saa08:P236918.5.2",
+      "saao/saa08:P237337.18.2",
+      "saao/saa08:P237660.14.4",
+      "saao/saa08:P237873.4.3",
+      "saao/saa08:P336390.5.3",
+      "saao/saa08:P336525.11.3"
+    ],
+    "qpn.r00037": [
+      "saao/saa08:P236995.7.4"
+    ],
+    "qpn.r00032": [
+      "saao/saa08:P236977.27.1",
+      "saao/saa08:P336564.23.2",
+      "saao/saa08:P336674.1.1"
+    ],
+    "qpn.r0003c": [
+      "saao/saa08:P236933.25.2",
+      "saao/saa08:P236933.29.4",
+      "saao/saa08:P236990.9.1",
+      "saao/saa08:P237299.4.1",
+      "saao/saa08:P237640.2.4",
+      "saao/saa08:P237892.16.2",
+      "saao/saa08:P237949.30.1",
+      "saao/saa08:P238143.6.4",
+      "saao/saa08:P238776.32.16",
+      "saao/saa08:P240140.28.3",
+      "saao/saa08:P336390.7.3",
+      "saao/saa08:P336401.19.3"
+    ],
+    "qpn.r0003a": [
+      "saao/saa08:P236922.2.4",
+      "saao/saa08:P236933.2.4",
+      "saao/saa08:P236933.25.2",
+      "saao/saa08:P236933.29.4",
+      "saao/saa08:P236933.5.4",
+      "saao/saa08:P236933.6.4",
+      "saao/saa08:P236933.9.3",
+      "saao/saa08:P236942.2.4",
+      "saao/saa08:P236944.2.4",
+      "saao/saa08:P236990.9.1",
+      "saao/saa08:P237299.2.4",
+      "saao/saa08:P237299.4.1",
+      "saao/saa08:P237640.2.4",
+      "saao/saa08:P237892.16.2",
+      "saao/saa08:P237896.2.4",
+      "saao/saa08:P237949.10.4",
+      "saao/saa08:P237949.11.3",
+      "saao/saa08:P237949.12.3",
+      "saao/saa08:P237949.14.3",
+      "saao/saa08:P237949.19.3",
+      "saao/saa08:P237949.30.1",
+      "saao/saa08:P237953.3.4",
+      "saao/saa08:P238046.2.4",
+      "saao/saa08:P238143.6.4",
+      "saao/saa08:P238776.32.16",
+      "saao/saa08:P240140.11.3",
+      "saao/saa08:P240140.16.3",
+      "saao/saa08:P240140.28.3",
+      "saao/saa08:P240140.7.3",
+      "saao/saa08:P336390.7.3",
+      "saao/saa08:P336399.5.4",
+      "saao/saa08:P336400.2.4",
+      "saao/saa08:P336401.19.3",
+      "saao/saa08:P336401.2.4",
+      "saao/saa08:P336402.12.4",
+      "saao/saa08:P336402.2.4",
+      "saao/saa08:P336411.6.4",
+      "saao/saa08:P336416.5.4",
+      "saao/saa08:P336424.2.4",
+      "saao/saa08:P336424.5.3",
+      "saao/saa08:P336470.8.1",
+      "saao/saa08:P336474.12.3",
+      "saao/saa08:P336491.4.4",
+      "saao/saa08:P336499.2.4",
+      "saao/saa08:P336509.5.4",
+      "saao/saa08:P336518.7.3",
+      "saao/saa08:P336519.7.3",
+      "saao/saa08:P336533.16.3",
+      "saao/saa08:P336545.16.4",
+      "saao/saa08:P336545.20.2",
+      "saao/saa08:P336570.12.6",
+      "saao/saa08:P336570.14.2",
+      "saao/saa08:P336570.18.6",
+      "saao/saa08:P336570.2.3",
+      "saao/saa08:P336570.26.4",
+      "saao/saa08:P336570.27.4",
+      "saao/saa08:P336570.28.3",
+      "saao/saa08:P336570.29.3",
+      "saao/saa08:P336570.31.3",
+      "saao/saa08:P336570.34.3",
+      "saao/saa08:P336584.2.3",
+      "saao/saa08:P336588.17.2",
+      "saao/saa08:P336594.9.1",
+      "saao/saa08:P336671.29.7"
+    ],
+    "qpn.r00038": [
+      "saao/saa08:P237297.2.4",
+      "saao/saa08:P336164.17.3"
+    ],
+    "qpn.r00036": [
+      "saao/saa08:P237297.5.1"
+    ],
+    "qpn.r00048": [
+      "saao/saa08:P336551.6.3"
+    ],
+    "qpn.r00042": [
+      "saao/saa08:P336376.5.3",
+      "saao/saa08:P336377.7.4",
+      "saao/saa08:P336387.5.3",
+      "saao/saa08:P336450.24.1",
+      "saao/saa08:P336460.12.3",
+      "saao/saa08:P336671.30.1"
+    ],
+    "qpn.r0003f": [
+      "saao/saa08:P336424.5.3",
+      "saao/saa08:P336474.12.3",
+      "saao/saa08:P336533.16.3",
+      "saao/saa08:P336545.16.4",
+      "saao/saa08:P336545.20.2",
+      "saao/saa08:P336570.14.2",
+      "saao/saa08:P336570.18.6",
+      "saao/saa08:P336671.29.7"
+    ],
+    "qpn.r0003e": [
+      "saao/saa08:P236922.2.4",
+      "saao/saa08:P236933.2.4",
+      "saao/saa08:P236933.25.2",
+      "saao/saa08:P236933.29.4",
+      "saao/saa08:P236933.5.4",
+      "saao/saa08:P236933.6.4",
+      "saao/saa08:P236933.9.3",
+      "saao/saa08:P236942.2.4",
+      "saao/saa08:P236944.2.4",
+      "saao/saa08:P236990.9.1",
+      "saao/saa08:P237299.2.4",
+      "saao/saa08:P237299.4.1",
+      "saao/saa08:P237640.2.4",
+      "saao/saa08:P237892.16.2",
+      "saao/saa08:P237896.2.4",
+      "saao/saa08:P237949.10.4",
+      "saao/saa08:P237949.11.3",
+      "saao/saa08:P237949.12.3",
+      "saao/saa08:P237949.14.3",
+      "saao/saa08:P237949.19.3",
+      "saao/saa08:P237949.30.1",
+      "saao/saa08:P237953.3.4",
+      "saao/saa08:P238046.2.4",
+      "saao/saa08:P238143.6.4",
+      "saao/saa08:P238776.32.16",
+      "saao/saa08:P240140.11.3",
+      "saao/saa08:P240140.16.3",
+      "saao/saa08:P240140.28.3",
+      "saao/saa08:P240140.7.3",
+      "saao/saa08:P336390.7.3",
+      "saao/saa08:P336399.5.4",
+      "saao/saa08:P336400.2.4",
+      "saao/saa08:P336401.19.3",
+      "saao/saa08:P336401.2.4",
+      "saao/saa08:P336402.2.4",
+      "saao/saa08:P336411.6.4",
+      "saao/saa08:P336416.5.4",
+      "saao/saa08:P336424.2.4",
+      "saao/saa08:P336424.5.3",
+      "saao/saa08:P336474.12.3",
+      "saao/saa08:P336491.4.4",
+      "saao/saa08:P336499.2.4",
+      "saao/saa08:P336509.5.4",
+      "saao/saa08:P336518.7.3",
+      "saao/saa08:P336519.7.3",
+      "saao/saa08:P336533.16.3",
+      "saao/saa08:P336545.16.4",
+      "saao/saa08:P336545.20.2",
+      "saao/saa08:P336570.12.6",
+      "saao/saa08:P336570.14.2",
+      "saao/saa08:P336570.18.6",
+      "saao/saa08:P336570.2.3",
+      "saao/saa08:P336570.26.4",
+      "saao/saa08:P336570.27.4",
+      "saao/saa08:P336570.28.3",
+      "saao/saa08:P336570.29.3",
+      "saao/saa08:P336570.31.3",
+      "saao/saa08:P336570.34.3",
+      "saao/saa08:P336584.2.3",
+      "saao/saa08:P336671.29.7"
+    ],
+    "qpn.r00044": [
+      "saao/saa08:P237293.2.3",
+      "saao/saa08:P237293.4.3",
+      "saao/saa08:P336500.3.4",
+      "saao/saa08:P336560.2.3",
+      "saao/saa08:P336566.2.4",
+      "saao/saa08:P336572.11.3",
+      "saao/saa08:P336572.12.3",
+      "saao/saa08:P336572.13.3",
+      "saao/saa08:P336572.14.4",
+      "saao/saa08:P336572.15.4"
+    ],
+    "qpn.r0003b": [
+      "saao/saa08:P336402.12.4",
+      "saao/saa08:P336424.5.3",
+      "saao/saa08:P336470.8.1",
+      "saao/saa08:P336474.12.3",
+      "saao/saa08:P336533.16.3",
+      "saao/saa08:P336545.16.4",
+      "saao/saa08:P336545.20.2",
+      "saao/saa08:P336570.14.2",
+      "saao/saa08:P336570.18.6",
+      "saao/saa08:P336588.17.2",
+      "saao/saa08:P336594.9.1",
+      "saao/saa08:P336671.29.7"
+    ],
+    "qpn.r00043": [
+      "saao/saa08:P236976.5.1",
+      "saao/saa08:P237304.14.2",
+      "saao/saa08:P237316.25.1",
+      "saao/saa08:P237875.16.3"
+    ],
+    "qpn.r00041": [
+      "saao/saa08:P236976.5.1",
+      "saao/saa08:P237293.2.3",
+      "saao/saa08:P237293.4.3",
+      "saao/saa08:P237304.14.2",
+      "saao/saa08:P237316.25.1",
+      "saao/saa08:P237875.16.3",
+      "saao/saa08:P336376.5.3",
+      "saao/saa08:P336377.7.4",
+      "saao/saa08:P336387.5.3",
+      "saao/saa08:P336450.24.1",
+      "saao/saa08:P336460.12.3",
+      "saao/saa08:P336500.3.4",
+      "saao/saa08:P336560.2.3",
+      "saao/saa08:P336566.2.4",
+      "saao/saa08:P336572.11.3",
+      "saao/saa08:P336572.12.3",
+      "saao/saa08:P336572.13.3",
+      "saao/saa08:P336572.14.4",
+      "saao/saa08:P336572.15.4",
+      "saao/saa08:P336671.30.1"
+    ],
+    "qpn.r00040": [
+      "saao/saa08:P336402.12.4",
+      "saao/saa08:P336470.8.1",
+      "saao/saa08:P336588.17.2",
+      "saao/saa08:P336594.9.1"
+    ],
+    "qpn.r00045": [
+      "saao/saa08:P236977.27.3",
+      "saao/saa08:P237892.16.3",
+      "saao/saa08:P336384.15.1"
+    ],
+    "qpn.r00049": [
+      "saao/saa08:P236995.11.3",
+      "saao/saa08:P237297.5.2",
+      "saao/saa08:P237297.6.2",
+      "saao/saa08:P237298.2.3",
+      "saao/saa08:P237310.6.3",
+      "saao/saa08:P237311.8.1",
+      "saao/saa08:P237345.2.4",
+      "saao/saa08:P237345.4.4",
+      "saao/saa08:P237639.6.3",
+      "saao/saa08:P237872.2.4",
+      "saao/saa08:P237899.2.3",
+      "saao/saa08:P237899.5.3",
+      "saao/saa08:P238030.2.3",
+      "saao/saa08:P238042.2.3",
+      "saao/saa08:P238723.1.4",
+      "saao/saa08:P336164.20.2",
+      "saao/saa08:P336391.2.3",
+      "saao/saa08:P336398.17.3",
+      "saao/saa08:P336410.4.4",
+      "saao/saa08:P336481.3.4",
+      "saao/saa08:P336549.2.3",
+      "saao/saa08:P336561.3.3",
+      "saao/saa08:P336561.5.3",
+      "saao/saa08:P336569.13.3",
+      "saao/saa08:P336569.15.3",
+      "saao/saa08:P336671.30.2"
+    ],
+    "qpn.r00047": [
+      "saao/saa08:P236977.27.3",
+      "saao/saa08:P237892.16.3"
+    ],
+    "qpn.r00046": [
+      "saao/saa08:P336384.15.1"
+    ],
+    "qpn.r0004c": [
+      "saao/saa08:P237298.2.3",
+      "saao/saa08:P237310.6.3",
+      "saao/saa08:P237345.2.4",
+      "saao/saa08:P237345.4.4",
+      "saao/saa08:P237639.6.3",
+      "saao/saa08:P237872.2.4",
+      "saao/saa08:P237899.2.3",
+      "saao/saa08:P237899.5.3",
+      "saao/saa08:P238030.2.3",
+      "saao/saa08:P238723.1.4",
+      "saao/saa08:P336410.4.4",
+      "saao/saa08:P336481.3.4",
+      "saao/saa08:P336549.2.3",
+      "saao/saa08:P336561.3.3",
+      "saao/saa08:P336561.5.3",
+      "saao/saa08:P336569.13.3",
+      "saao/saa08:P336569.15.3"
+    ],
+    "qpn.r0004a": [
+      "saao/saa08:P336164.20.2",
+      "saao/saa08:P336391.2.3",
+      "saao/saa08:P336398.17.3",
+      "saao/saa08:P336671.30.2"
+    ],
+    "qpn.r0004b": [
+      "saao/saa08:P236995.11.3",
+      "saao/saa08:P237297.5.2",
+      "saao/saa08:P237297.6.2",
+      "saao/saa08:P237311.8.1",
+      "saao/saa08:P238042.2.3"
+    ],
+    "qpn.r0004e": [
+      "saao/saa08:P336398.14.3",
+      "saao/saa08:P336406.6.1"
+    ],
+    "qpn.r0004f": [
+      "saao/saa08:P237541.7.1"
+    ],
+    "qpn.r00050": [
+      "saao/saa08:P236994.2.3",
+      "saao/saa08:P237286.2.4",
+      "saao/saa08:P237541.2.4",
+      "saao/saa08:P237543.2.3",
+      "saao/saa08:P237855.2.4",
+      "saao/saa08:P238070.2.4",
+      "saao/saa08:P336406.2.4",
+      "saao/saa08:P336407.2.3",
+      "saao/saa08:P336408.2.4",
+      "saao/saa08:P336507.4.4",
+      "saao/saa08:P336567.12.3",
+      "saao/saa08:P336567.9.3",
+      "saao/saa08:P336652.2.4"
+    ],
+    "qpn.r0004d": [
+      "saao/saa08:P236994.2.3",
+      "saao/saa08:P237286.2.4",
+      "saao/saa08:P237541.2.4",
+      "saao/saa08:P237541.7.1",
+      "saao/saa08:P237543.2.3",
+      "saao/saa08:P237855.2.4",
+      "saao/saa08:P238070.2.4",
+      "saao/saa08:P336398.14.3",
+      "saao/saa08:P336406.2.4",
+      "saao/saa08:P336406.6.1",
+      "saao/saa08:P336407.2.3",
+      "saao/saa08:P336408.2.4",
+      "saao/saa08:P336507.4.4",
+      "saao/saa08:P336567.12.3",
+      "saao/saa08:P336567.9.3",
+      "saao/saa08:P336652.2.4"
+    ],
+    "qpn.r00000.p.s000": [
+      "saao/saa08:P336558.2.3",
+      "saao/saa08:P336655.6.3",
+      "saao/saa08:P336559.2.3",
+      "saao/saa08:P336559.9.4",
+      "saao/saa08:P336559.11.3",
+      "saao/saa08:P336494.2.4",
+      "saao/saa08:P336556.2.3",
+      "saao/saa08:P336556.11.4",
+      "saao/saa08:P336510.2.4",
+      "saao/saa08:P336510.5.4",
+      "saao/saa08:P336529.22.3",
+      "saao/saa08:P336508.3.4",
+      "saao/saa08:P336557.2.3",
+      "saao/saa08:P336557.4.3",
+      "saao/saa08:P336403.2.4",
+      "saao/saa08:P336665.2.4",
+      "saao/saa08:P336665.5.3",
+      "saao/saa08:P314325.2.1",
+      "saao/saa08:P237074.4.4",
+      "saao/saa08:P237074.8.4",
+      "saao/saa08:P240141.9.2",
+      "saao/saa08:P240141.10.4",
+      "saao/saa08:P240141.13.3",
+      "saao/saa08:P237323.5.5",
+      "saao/saa08:P237915.9.4",
+      "saao/saa08:P237891.13.1",
+      "saao/saa08:P237892.16.4",
+      "saao/saa08:P336409.2.4",
+      "saao/saa08:P237295.2.4",
+      "saao/saa08:P237637.2.4",
+      "saao/saa08:P238771.9.7"
+    ],
+    "qpn.r00009.p.s000": [
+      "saao/saa08:P237857.2.4"
+    ],
+    "qpn.r00001.p.s000": [
+      "saao/saa08:P336559.9.4",
+      "saao/saa08:P336556.11.4"
+    ],
+    "qpn.r00002.p.s000": [
+      "saao/saa08:P240141.9.2",
+      "saao/saa08:P240141.13.3",
+      "saao/saa08:P237892.16.4"
+    ],
+    "qpn.r00003.p.s000": [
+      "saao/saa08:P336558.2.3",
+      "saao/saa08:P336655.6.3",
+      "saao/saa08:P336559.2.3",
+      "saao/saa08:P336559.11.3",
+      "saao/saa08:P336494.2.4",
+      "saao/saa08:P336556.2.3",
+      "saao/saa08:P336510.2.4",
+      "saao/saa08:P336510.5.4",
+      "saao/saa08:P336529.22.3",
+      "saao/saa08:P336508.3.4",
+      "saao/saa08:P336557.2.3",
+      "saao/saa08:P336557.4.3",
+      "saao/saa08:P336403.2.4",
+      "saao/saa08:P336665.2.4",
+      "saao/saa08:P336665.5.3",
+      "saao/saa08:P314325.2.1",
+      "saao/saa08:P237074.4.4",
+      "saao/saa08:P237074.8.4",
+      "saao/saa08:P240141.10.4",
+      "saao/saa08:P237323.5.5",
+      "saao/saa08:P237915.9.4",
+      "saao/saa08:P237891.13.1",
+      "saao/saa08:P336409.2.4",
+      "saao/saa08:P237295.2.4",
+      "saao/saa08:P237637.2.4",
+      "saao/saa08:P238771.9.7"
+    ],
+    "qpn.r00004.p.s000": [
+      "saao/saa08:P336558.2.3",
+      "saao/saa08:P336655.6.3",
+      "saao/saa08:P336559.2.3",
+      "saao/saa08:P336559.11.3",
+      "saao/saa08:P336494.2.4",
+      "saao/saa08:P336556.2.3",
+      "saao/saa08:P336510.2.4",
+      "saao/saa08:P336510.5.4",
+      "saao/saa08:P336529.22.3",
+      "saao/saa08:P336508.3.4",
+      "saao/saa08:P336557.2.3",
+      "saao/saa08:P336557.4.3",
+      "saao/saa08:P336403.2.4",
+      "saao/saa08:P336665.2.4",
+      "saao/saa08:P336665.5.3",
+      "saao/saa08:P314325.2.1",
+      "saao/saa08:P237074.4.4",
+      "saao/saa08:P237074.8.4",
+      "saao/saa08:P240141.9.2",
+      "saao/saa08:P240141.10.4",
+      "saao/saa08:P240141.13.3",
+      "saao/saa08:P237323.5.5",
+      "saao/saa08:P237915.9.4",
+      "saao/saa08:P237891.13.1",
+      "saao/saa08:P237892.16.4",
+      "saao/saa08:P336409.2.4",
+      "saao/saa08:P237295.2.4",
+      "saao/saa08:P237637.2.4",
+      "saao/saa08:P238771.9.7"
+    ],
+    "qpn.r00005.p.s000": [
+      "saao/saa08:P237857.2.4",
+      "saao/saa08:P237857.18.2",
+      "saao/saa08:P237956.20.5",
+      "saao/saa08:P237956.23.3"
+    ],
+    "qpn.r00006.p.s000": [
+      "saao/saa08:P237956.23.3"
+    ],
+    "qpn.r0001e.p.s000": [
+      "saao/saa08:P336575.2.4",
+      "saao/saa08:P336493.2.4",
+      "saao/saa08:P336478.7.4",
+      "saao/saa08:P336526.2.3",
+      "saao/saa08:P336526.4.4",
+      "saao/saa08:P336541.11.3",
+      "saao/saa08:P336541.12.3",
+      "saao/saa08:P336503.20.4",
+      "saao/saa08:P336663.13.3",
+      "saao/saa08:P336480.2.4",
+      "saao/saa08:P239111.9.4",
+      "saao/saa08:P336520.2.4",
+      "saao/saa08:P237860.2.3",
+      "saao/saa08:P237320.9.5",
+      "saao/saa08:P237869.6.3",
+      "saao/saa08:P237321.5.4",
+      "saao/saa08:P237885.14.4",
+      "saao/saa08:P236921.2.4",
+      "saao/saa08:P239097.4.4"
+    ],
+    "qpn.r0000d.p.s000": [
+      "saao/saa08:P336486.5.3"
+    ],
+    "qpn.r0000f.p.s000": [
+      "saao/saa08:P336576.3.1",
+      "saao/saa08:P237285.2.3",
+      "saao/saa08:P237961.2.3",
+      "saao/saa08:P237302.2.4",
+      "saao/saa08:P236976.5.2",
+      "saao/saa08:P237796.14.2",
+      "saao/saa08:P237316.20.6",
+      "saao/saa08:P237316.25.2",
+      "saao/saa08:P238776.2.3",
+      "saao/saa08:P236971.2.3",
+      "saao/saa08:P237304.14.3"
+    ],
+    "qpn.r0000a.p.s000": [
+      "saao/saa08:P336564.17.3",
+      "saao/saa08:P336564.19.4",
+      "saao/saa08:P336398.20.3",
+      "saao/saa08:P336486.5.3",
+      "saao/saa08:P336482.7.4",
+      "saao/saa08:P336549.23.4",
+      "saao/saa08:P336418.7.4",
+      "saao/saa08:P336377.6.1",
+      "saao/saa08:P336562.6.3",
+      "saao/saa08:P237852.2.2",
+      "saao/saa08:P237852.4.3",
+      "saao/saa08:P237852.10.3",
+      "saao/saa08:P237852.11.3",
+      "saao/saa08:P237852.14.3",
+      "saao/saa08:P237660.13.4",
+      "saao/saa08:P238716.2.4",
+      "saao/saa08:P238716.6.7",
+      "saao/saa08:P237301.2.3",
+      "saao/saa08:P236880.2.4",
+      "saao/saa08:P237918.2.3",
+      "saao/saa08:P237289.10.3",
+      "saao/saa08:P237289.13.6",
+      "saao/saa08:P238062.2.3",
+      "saao/saa08:P238615.8.5",
+      "saao/saa08:P238776.34.9",
+      "saao/saa08:P336390.3.3",
+      "saao/saa08:P238042.7.2"
+    ],
+    "qpn.r00007.p.s000": [
+      "saao/saa08:P237857.18.2"
+    ],
+    "qpn.r00008.p.s000": [
+      "saao/saa08:P237956.20.5"
+    ],
+    "qpn.r0000b.p.s000": [
+      "saao/saa08:P336564.17.3",
+      "saao/saa08:P336564.19.4",
+      "saao/saa08:P336398.20.3",
+      "saao/saa08:P336549.23.4",
+      "saao/saa08:P336377.6.1"
+    ],
+    "qpn.r0000c.p.s000": [
+      "saao/saa08:P237852.2.2",
+      "saao/saa08:P237660.13.4",
+      "saao/saa08:P238716.6.7",
+      "saao/saa08:P238615.8.5",
+      "saao/saa08:P238776.34.9",
+      "saao/saa08:P336390.3.3",
+      "saao/saa08:P238042.7.2"
+    ],
+    "qpn.r0000e.p.s000": [
+      "saao/saa08:P336482.7.4",
+      "saao/saa08:P336418.7.4",
+      "saao/saa08:P336562.6.3",
+      "saao/saa08:P237852.4.3",
+      "saao/saa08:P237852.10.3",
+      "saao/saa08:P237852.11.3",
+      "saao/saa08:P237852.14.3",
+      "saao/saa08:P238716.2.4",
+      "saao/saa08:P237301.2.3",
+      "saao/saa08:P236880.2.4",
+      "saao/saa08:P237918.2.3",
+      "saao/saa08:P237289.10.3",
+      "saao/saa08:P237289.13.6",
+      "saao/saa08:P238062.2.3"
+    ],
+    "qpn.r00010.p.s000": [
+      "saao/saa08:P336576.3.1"
+    ],
+    "qpn.r00013.p.s000": [
+      "saao/saa08:P336402.12.3",
+      "saao/saa08:P336518.6.5",
+      "saao/saa08:P336662.2.1",
+      "saao/saa08:P336664.2.4",
+      "saao/saa08:P336671.18.2",
+      "saao/saa08:P336671.22.2",
+      "saao/saa08:P336671.23.2",
+      "saao/saa08:P336671.24.2",
+      "saao/saa08:P240142.8.4",
+      "saao/saa08:P336492.16.4",
+      "saao/saa08:P237929.2.4",
+      "saao/saa08:P237510.9.3",
+      "saao/saa08:P237338.2.4",
+      "saao/saa08:P240145.13.3",
+      "saao/saa08:P237881.2.4",
+      "saao/saa08:P238065.2.4",
+      "saao/saa08:P238045.2.4",
+      "saao/saa08:P236919.7.4",
+      "saao/saa08:P236915.7.2",
+      "saao/saa08:P237761.15.3",
+      "saao/saa08:P237900.5.2",
+      "saao/saa08:P237900.7.2",
+      "saao/saa08:P237900.11.3",
+      "saao/saa08:P336519.6.4",
+      "saao/saa08:P237539.2.4",
+      "saao/saa08:P236969.2.3",
+      "saao/saa08:P336393.14.3",
+      "saao/saa08:P238113.3.4",
+      "saao/saa08:P238089.2.3",
+      "saao/saa08:P238089.5.3"
+    ],
+    "qpn.r00014.p.s000": [
+      "saao/saa08:P336402.12.3",
+      "saao/saa08:P336671.18.2"
+    ],
+    "qpn.r00011.p.s000": [
+      "saao/saa08:P236976.5.2",
+      "saao/saa08:P237796.14.2",
+      "saao/saa08:P237316.20.6",
+      "saao/saa08:P237316.25.2",
+      "saao/saa08:P237304.14.3"
+    ],
+    "qpn.r00012.p.s000": [
+      "saao/saa08:P237285.2.3",
+      "saao/saa08:P237961.2.3",
+      "saao/saa08:P237302.2.4",
+      "saao/saa08:P238776.2.3",
+      "saao/saa08:P236971.2.3"
+    ],
+    "qpn.r00017.p.s000": [
+      "saao/saa08:P336671.25.3"
+    ],
+    "qpn.r00015.p.s000": [
+      "saao/saa08:P336518.6.5",
+      "saao/saa08:P336662.2.1",
+      "saao/saa08:P336664.2.4",
+      "saao/saa08:P336671.22.2",
+      "saao/saa08:P336671.23.2",
+      "saao/saa08:P336671.24.2",
+      "saao/saa08:P240142.8.4",
+      "saao/saa08:P336492.16.4",
+      "saao/saa08:P237929.2.4",
+      "saao/saa08:P237510.9.3",
+      "saao/saa08:P237338.2.4",
+      "saao/saa08:P240145.13.3",
+      "saao/saa08:P237881.2.4",
+      "saao/saa08:P238065.2.4",
+      "saao/saa08:P238045.2.4",
+      "saao/saa08:P236919.7.4",
+      "saao/saa08:P236915.7.2",
+      "saao/saa08:P237761.15.3",
+      "saao/saa08:P237900.5.2",
+      "saao/saa08:P237900.7.2",
+      "saao/saa08:P237900.11.3",
+      "saao/saa08:P336519.6.4",
+      "saao/saa08:P237539.2.4",
+      "saao/saa08:P236969.2.3",
+      "saao/saa08:P336393.14.3",
+      "saao/saa08:P238113.3.4",
+      "saao/saa08:P238089.2.3",
+      "saao/saa08:P238089.5.3"
+    ],
+    "qpn.r00018.p.s000": [
+      "saao/saa08:P336671.25.2",
+      "saao/saa08:P336671.28.2"
+    ],
+    "qpn.r00016.p.s000": [
+      "saao/saa08:P336671.2.2",
+      "saao/saa08:P336671.25.2",
+      "saao/saa08:P336671.25.3",
+      "saao/saa08:P336671.28.2",
+      "saao/saa08:P240142.6.4",
+      "saao/saa08:P240142.11.4",
+      "saao/saa08:P237909.16.2",
+      "saao/saa08:P237892.16.1",
+      "saao/saa08:P238064.2.2",
+      "saao/saa08:P238060.7.1",
+      "saao/saa08:P336393.19.3",
+      "saao/saa08:P336390.6.3"
+    ],
+    "qpn.r0001b.p.s000": [
+      "saao/saa08:P240142.6.4",
+      "saao/saa08:P240142.11.4",
+      "saao/saa08:P237909.16.2",
+      "saao/saa08:P238064.2.2",
+      "saao/saa08:P336393.19.3",
+      "saao/saa08:P336390.6.3"
+    ],
+    "qpn.r00022.p.s000": [
+      "saao/saa08:P336571.2.3",
+      "saao/saa08:P336571.12.1",
+      "saao/saa08:P336377.6.2",
+      "saao/saa08:P336412.2.4",
+      "saao/saa08:P237863.23.3",
+      "saao/saa08:P237875.6.3",
+      "saao/saa08:P237875.18.5",
+      "saao/saa08:P237340.11.7",
+      "saao/saa08:P237340.12.6",
+      "saao/saa08:P237340.15.8",
+      "saao/saa08:P236981.2.4",
+      "saao/saa08:P237878.6.4",
+      "saao/saa08:P236986.11.4",
+      "saao/saa08:P236986.13.3",
+      "saao/saa08:P237291.2.4",
+      "saao/saa08:P237877.8.4",
+      "saao/saa08:P237892.16.5",
+      "saao/saa08:P237563.4.4",
+      "saao/saa08:P237849.2.3",
+      "saao/saa08:P237294.1.4",
+      "saao/saa08:P237304.14.1",
+      "saao/saa08:P240199.9.5"
+    ],
+    "qpn.r00019.p.s000": [
+      "saao/saa08:P240142.6.4",
+      "saao/saa08:P240142.11.4",
+      "saao/saa08:P237909.16.2",
+      "saao/saa08:P237892.16.1",
+      "saao/saa08:P238064.2.2",
+      "saao/saa08:P238060.7.1",
+      "saao/saa08:P336393.19.3",
+      "saao/saa08:P336390.6.3"
+    ],
+    "qpn.r0001a.p.s000": [
+      "saao/saa08:P336671.2.2"
+    ],
+    "qpn.r0001d.p.s000": [
+      "saao/saa08:P237892.16.1",
+      "saao/saa08:P238060.7.1"
+    ],
+    "qpn.r0001c.p.s000": [
+      "saao/saa08:P336671.2.2",
+      "saao/saa08:P336671.25.2",
+      "saao/saa08:P336671.28.2",
+      "saao/saa08:P237892.16.1",
+      "saao/saa08:P238060.7.1"
+    ],
+    "qpn.r00034.p.s000": [
+      "saao/saa08:P236977.27.1"
+    ],
+    "qpn.r0001f.p.s000": [
+      "saao/saa08:P336575.2.4",
+      "saao/saa08:P336526.2.3",
+      "saao/saa08:P336663.13.3"
+    ],
+    "qpn.r00020.p.s000": [
+      "saao/saa08:P237320.9.5"
+    ],
+    "qpn.r00021.p.s000": [
+      "saao/saa08:P336493.2.4",
+      "saao/saa08:P336478.7.4",
+      "saao/saa08:P336526.4.4",
+      "saao/saa08:P336541.11.3",
+      "saao/saa08:P336541.12.3",
+      "saao/saa08:P336503.20.4",
+      "saao/saa08:P336480.2.4",
+      "saao/saa08:P239111.9.4",
+      "saao/saa08:P336520.2.4",
+      "saao/saa08:P237860.2.3",
+      "saao/saa08:P237869.6.3",
+      "saao/saa08:P237321.5.4",
+      "saao/saa08:P237885.14.4",
+      "saao/saa08:P236921.2.4",
+      "saao/saa08:P239097.4.4"
+    ],
+    "qpn.r0002a.p.s000": [
+      "saao/saa08:P336564.15.3",
+      "saao/saa08:P336564.19.5",
+      "saao/saa08:P336564.23.2",
+      "saao/saa08:P336479.2.4",
+      "saao/saa08:P336656.2.3",
+      "saao/saa08:P336505.2.4",
+      "saao/saa08:P336389.2.3",
+      "saao/saa08:P336398.2.4",
+      "saao/saa08:P336398.23.3",
+      "saao/saa08:P336417.32.3",
+      "saao/saa08:P336482.10.3",
+      "saao/saa08:P336592.12.3",
+      "saao/saa08:P336592.19.3",
+      "saao/saa08:P336592.23.3",
+      "saao/saa08:P334901.2.4",
+      "saao/saa08:P334902.2.4",
+      "saao/saa08:P336241.2.4",
+      "saao/saa08:P336506.7.4",
+      "saao/saa08:P336377.7.3",
+      "saao/saa08:P336376.5.2",
+      "saao/saa08:P336490.6.2",
+      "saao/saa08:P336593.17.3",
+      "saao/saa08:P336674.1.1",
+      "saao/saa08:P236977.27.1",
+      "saao/saa08:P237660.14.4",
+      "saao/saa08:P237879.2.4",
+      "saao/saa08:P336565.2.3",
+      "saao/saa08:P336525.11.3",
+      "saao/saa08:P238039.8.4",
+      "saao/saa08:P237226.2.4",
+      "saao/saa08:P237337.18.2",
+      "saao/saa08:P236918.5.2",
+      "saao/saa08:P237873.4.3",
+      "saao/saa08:P236920.13.4",
+      "saao/saa08:P336390.5.3",
+      "saao/saa08:P238047.2.4",
+      "saao/saa08:P238124.2.4"
+    ],
+    "qpn.r00026.p.s000": [
+      "saao/saa08:P336404.4.3",
+      "saao/saa08:P336576.8.3",
+      "saao/saa08:P336511.22.4",
+      "saao/saa08:P336405.2.4",
+      "saao/saa08:P336305.15.3",
+      "saao/saa08:P336513.2.4",
+      "saao/saa08:P336523.20.2",
+      "saao/saa08:P237934.7.6",
+      "saao/saa08:P237305.2.6",
+      "saao/saa08:P237305.4.4",
+      "saao/saa08:P238024.19.3",
+      "saao/saa08:P238716.10.5",
+      "saao/saa08:P236916.2.3",
+      "saao/saa08:P237288.2.6",
+      "saao/saa08:P236976.5.4",
+      "saao/saa08:P236976.18.3",
+      "saao/saa08:P236915.15.3",
+      "saao/saa08:P237867.9.2",
+      "saao/saa08:P237867.14.2",
+      "saao/saa08:P237316.25.3",
+      "saao/saa08:P240205.14.1",
+      "saao/saa08:P238776.34.5",
+      "saao/saa08:P237304.14.4",
+      "saao/saa08:P238031.6.3",
+      "saao/saa08:P336430.2.3",
+      "saao/saa08:P237393.6.3"
+    ],
+    "qpn.r00024.p.s000": [
+      "saao/saa08:P237863.23.3",
+      "saao/saa08:P237875.18.5",
+      "saao/saa08:P237340.11.7",
+      "saao/saa08:P237340.12.6",
+      "saao/saa08:P237340.15.8",
+      "saao/saa08:P237892.16.5",
+      "saao/saa08:P237304.14.1"
+    ],
+    "qpn.r00023.p.s000": [
+      "saao/saa08:P336571.2.3",
+      "saao/saa08:P336571.12.1",
+      "saao/saa08:P336377.6.2"
+    ],
+    "qpn.r00025.p.s000": [
+      "saao/saa08:P336412.2.4",
+      "saao/saa08:P237875.6.3",
+      "saao/saa08:P236981.2.4",
+      "saao/saa08:P237878.6.4",
+      "saao/saa08:P236986.11.4",
+      "saao/saa08:P236986.13.3",
+      "saao/saa08:P237291.2.4",
+      "saao/saa08:P237877.8.4",
+      "saao/saa08:P237563.4.4",
+      "saao/saa08:P237849.2.3",
+      "saao/saa08:P237294.1.4",
+      "saao/saa08:P240199.9.5"
+    ],
+    "qpn.r00029.p.s000": [
+      "saao/saa08:P336511.22.4",
+      "saao/saa08:P336405.2.4",
+      "saao/saa08:P336305.15.3",
+      "saao/saa08:P336513.2.4",
+      "saao/saa08:P237305.4.4",
+      "saao/saa08:P238024.19.3",
+      "saao/saa08:P236916.2.3",
+      "saao/saa08:P237288.2.6",
+      "saao/saa08:P236976.18.3",
+      "saao/saa08:P236915.15.3",
+      "saao/saa08:P238031.6.3",
+      "saao/saa08:P336430.2.3",
+      "saao/saa08:P237393.6.3"
+    ],
+    "qpn.r00027.p.s000": [
+      "saao/saa08:P336404.4.3",
+      "saao/saa08:P336576.8.3",
+      "saao/saa08:P336523.20.2"
+    ],
+    "qpn.r00028.p.s000": [
+      "saao/saa08:P237934.7.6",
+      "saao/saa08:P237305.2.6",
+      "saao/saa08:P238716.10.5",
+      "saao/saa08:P236976.5.4",
+      "saao/saa08:P237867.9.2",
+      "saao/saa08:P237867.14.2",
+      "saao/saa08:P237316.25.3",
+      "saao/saa08:P240205.14.1",
+      "saao/saa08:P238776.34.5",
+      "saao/saa08:P237304.14.4"
+    ],
+    "qpn.r00039.p.s000": [
+      "saao/saa08:P336164.17.3",
+      "saao/saa08:P237297.2.4",
+      "saao/saa08:P237297.5.1"
+    ],
+    "qpn.r00035.p.s000": [
+      "saao/saa08:P336164.17.3",
+      "saao/saa08:P237297.2.4",
+      "saao/saa08:P237297.5.1",
+      "saao/saa08:P236995.7.4"
+    ],
+    "qpn.r0002f.p.s000": [
+      "saao/saa08:P336564.15.3",
+      "saao/saa08:P336564.19.5",
+      "saao/saa08:P336479.2.4",
+      "saao/saa08:P336656.2.3",
+      "saao/saa08:P336505.2.4",
+      "saao/saa08:P336389.2.3",
+      "saao/saa08:P336398.2.4",
+      "saao/saa08:P336398.23.3",
+      "saao/saa08:P336417.32.3",
+      "saao/saa08:P336482.10.3",
+      "saao/saa08:P336592.12.3",
+      "saao/saa08:P336592.19.3",
+      "saao/saa08:P336592.23.3",
+      "saao/saa08:P334901.2.4",
+      "saao/saa08:P334902.2.4",
+      "saao/saa08:P336241.2.4",
+      "saao/saa08:P336506.7.4",
+      "saao/saa08:P336377.7.3",
+      "saao/saa08:P336376.5.2",
+      "saao/saa08:P336490.6.2",
+      "saao/saa08:P336593.17.3",
+      "saao/saa08:P237660.14.4",
+      "saao/saa08:P237879.2.4",
+      "saao/saa08:P336565.2.3",
+      "saao/saa08:P336525.11.3",
+      "saao/saa08:P238039.8.4",
+      "saao/saa08:P237226.2.4",
+      "saao/saa08:P237337.18.2",
+      "saao/saa08:P236918.5.2",
+      "saao/saa08:P237873.4.3",
+      "saao/saa08:P236920.13.4",
+      "saao/saa08:P336390.5.3",
+      "saao/saa08:P238047.2.4",
+      "saao/saa08:P238124.2.4"
+    ],
+    "qpn.r0003d.p.s000": [
+      "saao/saa08:P336570.2.3",
+      "saao/saa08:P336570.12.6",
+      "saao/saa08:P336570.26.4",
+      "saao/saa08:P336570.27.4",
+      "saao/saa08:P336570.28.3",
+      "saao/saa08:P336570.29.3",
+      "saao/saa08:P336570.31.3",
+      "saao/saa08:P336570.34.3",
+      "saao/saa08:P336584.2.3",
+      "saao/saa08:P336402.2.4",
+      "saao/saa08:P336400.2.4",
+      "saao/saa08:P336416.5.4",
+      "saao/saa08:P336499.2.4",
+      "saao/saa08:P336518.7.3",
+      "saao/saa08:P336491.4.4",
+      "saao/saa08:P336509.5.4",
+      "saao/saa08:P336411.6.4",
+      "saao/saa08:P336424.2.4",
+      "saao/saa08:P238046.2.4",
+      "saao/saa08:P336401.2.4",
+      "saao/saa08:P240140.7.3",
+      "saao/saa08:P240140.11.3",
+      "saao/saa08:P240140.16.3",
+      "saao/saa08:P237949.10.4",
+      "saao/saa08:P237949.11.3",
+      "saao/saa08:P237949.12.3",
+      "saao/saa08:P237949.14.3",
+      "saao/saa08:P237949.19.3",
+      "saao/saa08:P237953.3.4",
+      "saao/saa08:P236922.2.4",
+      "saao/saa08:P237896.2.4",
+      "saao/saa08:P336399.5.4",
+      "saao/saa08:P336519.7.3",
+      "saao/saa08:P236944.2.4",
+      "saao/saa08:P237299.2.4",
+      "saao/saa08:P236942.2.4",
+      "saao/saa08:P236933.2.4",
+      "saao/saa08:P236933.5.4",
+      "saao/saa08:P236933.6.4",
+      "saao/saa08:P236933.9.3"
+    ],
+    "qpn.r0002b.p.s000": [
+      "saao/saa08:P336564.19.5",
+      "saao/saa08:P336564.23.2",
+      "saao/saa08:P336389.2.3",
+      "saao/saa08:P336398.23.3",
+      "saao/saa08:P336417.32.3",
+      "saao/saa08:P336482.10.3",
+      "saao/saa08:P334901.2.4",
+      "saao/saa08:P334902.2.4",
+      "saao/saa08:P336241.2.4",
+      "saao/saa08:P336377.7.3",
+      "saao/saa08:P336376.5.2",
+      "saao/saa08:P336490.6.2",
+      "saao/saa08:P336593.17.3"
+    ],
+    "qpn.r0002e.p.s000": [
+      "saao/saa08:P336564.15.3",
+      "saao/saa08:P336479.2.4",
+      "saao/saa08:P336656.2.3",
+      "saao/saa08:P336505.2.4",
+      "saao/saa08:P336398.2.4",
+      "saao/saa08:P336592.12.3",
+      "saao/saa08:P336592.19.3",
+      "saao/saa08:P336592.23.3",
+      "saao/saa08:P336506.7.4",
+      "saao/saa08:P237879.2.4",
+      "saao/saa08:P336565.2.3",
+      "saao/saa08:P238039.8.4",
+      "saao/saa08:P237226.2.4",
+      "saao/saa08:P236920.13.4",
+      "saao/saa08:P238047.2.4",
+      "saao/saa08:P238124.2.4"
+    ],
+    "qpn.r00030.p.s000": [
+      "saao/saa08:P336564.19.5",
+      "saao/saa08:P336389.2.3",
+      "saao/saa08:P336398.23.3",
+      "saao/saa08:P336417.32.3",
+      "saao/saa08:P336482.10.3",
+      "saao/saa08:P334901.2.4",
+      "saao/saa08:P334902.2.4",
+      "saao/saa08:P336241.2.4",
+      "saao/saa08:P336377.7.3",
+      "saao/saa08:P336376.5.2",
+      "saao/saa08:P336490.6.2",
+      "saao/saa08:P336593.17.3"
+    ],
+    "qpn.r0002d.p.s000": [
+      "saao/saa08:P336674.1.1"
+    ],
+    "qpn.r0002c.p.s000": [
+      "saao/saa08:P236977.27.1",
+      "saao/saa08:P237660.14.4",
+      "saao/saa08:P336525.11.3",
+      "saao/saa08:P237337.18.2",
+      "saao/saa08:P236918.5.2",
+      "saao/saa08:P237873.4.3",
+      "saao/saa08:P336390.5.3"
+    ],
+    "qpn.r00033.p.s000": [
+      "saao/saa08:P336564.23.2"
+    ],
+    "qpn.r00031.p.s000": [
+      "saao/saa08:P237660.14.4",
+      "saao/saa08:P336525.11.3",
+      "saao/saa08:P237337.18.2",
+      "saao/saa08:P236918.5.2",
+      "saao/saa08:P237873.4.3",
+      "saao/saa08:P336390.5.3"
+    ],
+    "qpn.r00037.p.s000": [
+      "saao/saa08:P236995.7.4"
+    ],
+    "qpn.r00032.p.s000": [
+      "saao/saa08:P336564.23.2",
+      "saao/saa08:P336674.1.1",
+      "saao/saa08:P236977.27.1"
+    ],
+    "qpn.r0003c.p.s000": [
+      "saao/saa08:P236990.9.1",
+      "saao/saa08:P336401.19.3",
+      "saao/saa08:P240140.28.3",
+      "saao/saa08:P238143.6.4",
+      "saao/saa08:P237949.30.1",
+      "saao/saa08:P237640.2.4",
+      "saao/saa08:P237892.16.2",
+      "saao/saa08:P237299.4.1",
+      "saao/saa08:P238776.32.16",
+      "saao/saa08:P336390.7.3",
+      "saao/saa08:P236933.25.2",
+      "saao/saa08:P236933.29.4"
+    ],
+    "qpn.r0003a.p.s000": [
+      "saao/saa08:P336570.2.3",
+      "saao/saa08:P336570.12.6",
+      "saao/saa08:P336570.14.2",
+      "saao/saa08:P336570.18.6",
+      "saao/saa08:P336570.26.4",
+      "saao/saa08:P336570.27.4",
+      "saao/saa08:P336570.28.3",
+      "saao/saa08:P336570.29.3",
+      "saao/saa08:P336570.31.3",
+      "saao/saa08:P336570.34.3",
+      "saao/saa08:P336474.12.3",
+      "saao/saa08:P336584.2.3",
+      "saao/saa08:P336545.16.4",
+      "saao/saa08:P336545.20.2",
+      "saao/saa08:P336533.16.3",
+      "saao/saa08:P336402.2.4",
+      "saao/saa08:P336402.12.4",
+      "saao/saa08:P336400.2.4",
+      "saao/saa08:P336416.5.4",
+      "saao/saa08:P336499.2.4",
+      "saao/saa08:P336518.7.3",
+      "saao/saa08:P336491.4.4",
+      "saao/saa08:P336470.8.1",
+      "saao/saa08:P336509.5.4",
+      "saao/saa08:P336411.6.4",
+      "saao/saa08:P336588.17.2",
+      "saao/saa08:P336424.2.4",
+      "saao/saa08:P336424.5.3",
+      "saao/saa08:P336594.9.1",
+      "saao/saa08:P336671.29.7",
+      "saao/saa08:P238046.2.4",
+      "saao/saa08:P236990.9.1",
+      "saao/saa08:P336401.2.4",
+      "saao/saa08:P336401.19.3",
+      "saao/saa08:P240140.7.3",
+      "saao/saa08:P240140.11.3",
+      "saao/saa08:P240140.16.3",
+      "saao/saa08:P240140.28.3",
+      "saao/saa08:P238143.6.4",
+      "saao/saa08:P237949.10.4",
+      "saao/saa08:P237949.11.3",
+      "saao/saa08:P237949.12.3",
+      "saao/saa08:P237949.14.3",
+      "saao/saa08:P237949.19.3",
+      "saao/saa08:P237949.30.1",
+      "saao/saa08:P237953.3.4",
+      "saao/saa08:P236922.2.4",
+      "saao/saa08:P237640.2.4",
+      "saao/saa08:P237896.2.4",
+      "saao/saa08:P336399.5.4",
+      "saao/saa08:P237892.16.2",
+      "saao/saa08:P336519.7.3",
+      "saao/saa08:P236944.2.4",
+      "saao/saa08:P237299.2.4",
+      "saao/saa08:P237299.4.1",
+      "saao/saa08:P238776.32.16",
+      "saao/saa08:P236942.2.4",
+      "saao/saa08:P336390.7.3",
+      "saao/saa08:P236933.2.4",
+      "saao/saa08:P236933.5.4",
+      "saao/saa08:P236933.6.4",
+      "saao/saa08:P236933.9.3",
+      "saao/saa08:P236933.25.2",
+      "saao/saa08:P236933.29.4"
+    ],
+    "qpn.r00038.p.s000": [
+      "saao/saa08:P336164.17.3",
+      "saao/saa08:P237297.2.4"
+    ],
+    "qpn.r00036.p.s000": [
+      "saao/saa08:P237297.5.1"
+    ],
+    "qpn.r00048.p.s000": [
+      "saao/saa08:P336551.6.3"
+    ],
+    "qpn.r00042.p.s000": [
+      "saao/saa08:P336460.12.3",
+      "saao/saa08:P336377.7.4",
+      "saao/saa08:P336450.24.1",
+      "saao/saa08:P336387.5.3",
+      "saao/saa08:P336376.5.3",
+      "saao/saa08:P336671.30.1"
+    ],
+    "qpn.r0003f.p.s000": [
+      "saao/saa08:P336570.14.2",
+      "saao/saa08:P336570.18.6",
+      "saao/saa08:P336474.12.3",
+      "saao/saa08:P336545.16.4",
+      "saao/saa08:P336545.20.2",
+      "saao/saa08:P336533.16.3",
+      "saao/saa08:P336424.5.3",
+      "saao/saa08:P336671.29.7"
+    ],
+    "qpn.r0003e.p.s000": [
+      "saao/saa08:P336570.2.3",
+      "saao/saa08:P336570.12.6",
+      "saao/saa08:P336570.14.2",
+      "saao/saa08:P336570.18.6",
+      "saao/saa08:P336570.26.4",
+      "saao/saa08:P336570.27.4",
+      "saao/saa08:P336570.28.3",
+      "saao/saa08:P336570.29.3",
+      "saao/saa08:P336570.31.3",
+      "saao/saa08:P336570.34.3",
+      "saao/saa08:P336474.12.3",
+      "saao/saa08:P336584.2.3",
+      "saao/saa08:P336545.16.4",
+      "saao/saa08:P336545.20.2",
+      "saao/saa08:P336533.16.3",
+      "saao/saa08:P336402.2.4",
+      "saao/saa08:P336400.2.4",
+      "saao/saa08:P336416.5.4",
+      "saao/saa08:P336499.2.4",
+      "saao/saa08:P336518.7.3",
+      "saao/saa08:P336491.4.4",
+      "saao/saa08:P336509.5.4",
+      "saao/saa08:P336411.6.4",
+      "saao/saa08:P336424.2.4",
+      "saao/saa08:P336424.5.3",
+      "saao/saa08:P336671.29.7",
+      "saao/saa08:P238046.2.4",
+      "saao/saa08:P236990.9.1",
+      "saao/saa08:P336401.2.4",
+      "saao/saa08:P336401.19.3",
+      "saao/saa08:P240140.7.3",
+      "saao/saa08:P240140.11.3",
+      "saao/saa08:P240140.16.3",
+      "saao/saa08:P240140.28.3",
+      "saao/saa08:P238143.6.4",
+      "saao/saa08:P237949.10.4",
+      "saao/saa08:P237949.11.3",
+      "saao/saa08:P237949.12.3",
+      "saao/saa08:P237949.14.3",
+      "saao/saa08:P237949.19.3",
+      "saao/saa08:P237949.30.1",
+      "saao/saa08:P237953.3.4",
+      "saao/saa08:P236922.2.4",
+      "saao/saa08:P237640.2.4",
+      "saao/saa08:P237896.2.4",
+      "saao/saa08:P336399.5.4",
+      "saao/saa08:P237892.16.2",
+      "saao/saa08:P336519.7.3",
+      "saao/saa08:P236944.2.4",
+      "saao/saa08:P237299.2.4",
+      "saao/saa08:P237299.4.1",
+      "saao/saa08:P238776.32.16",
+      "saao/saa08:P236942.2.4",
+      "saao/saa08:P336390.7.3",
+      "saao/saa08:P236933.2.4",
+      "saao/saa08:P236933.5.4",
+      "saao/saa08:P236933.6.4",
+      "saao/saa08:P236933.9.3",
+      "saao/saa08:P236933.25.2",
+      "saao/saa08:P236933.29.4"
+    ],
+    "qpn.r00044.p.s000": [
+      "saao/saa08:P336560.2.3",
+      "saao/saa08:P336572.11.3",
+      "saao/saa08:P336572.12.3",
+      "saao/saa08:P336572.13.3",
+      "saao/saa08:P336572.14.4",
+      "saao/saa08:P336572.15.4",
+      "saao/saa08:P336500.3.4",
+      "saao/saa08:P237293.2.3",
+      "saao/saa08:P237293.4.3",
+      "saao/saa08:P336566.2.4"
+    ],
+    "qpn.r0003b.p.s000": [
+      "saao/saa08:P336570.14.2",
+      "saao/saa08:P336570.18.6",
+      "saao/saa08:P336474.12.3",
+      "saao/saa08:P336545.16.4",
+      "saao/saa08:P336545.20.2",
+      "saao/saa08:P336533.16.3",
+      "saao/saa08:P336402.12.4",
+      "saao/saa08:P336470.8.1",
+      "saao/saa08:P336588.17.2",
+      "saao/saa08:P336424.5.3",
+      "saao/saa08:P336594.9.1",
+      "saao/saa08:P336671.29.7"
+    ],
+    "qpn.r00043.p.s000": [
+      "saao/saa08:P237875.16.3",
+      "saao/saa08:P236976.5.1",
+      "saao/saa08:P237316.25.1",
+      "saao/saa08:P237304.14.2"
+    ],
+    "qpn.r00041.p.s000": [
+      "saao/saa08:P336560.2.3",
+      "saao/saa08:P336460.12.3",
+      "saao/saa08:P336572.11.3",
+      "saao/saa08:P336572.12.3",
+      "saao/saa08:P336572.13.3",
+      "saao/saa08:P336572.14.4",
+      "saao/saa08:P336572.15.4",
+      "saao/saa08:P336377.7.4",
+      "saao/saa08:P336500.3.4",
+      "saao/saa08:P336450.24.1",
+      "saao/saa08:P336387.5.3",
+      "saao/saa08:P336376.5.3",
+      "saao/saa08:P336671.30.1",
+      "saao/saa08:P237875.16.3",
+      "saao/saa08:P236976.5.1",
+      "saao/saa08:P237293.2.3",
+      "saao/saa08:P237293.4.3",
+      "saao/saa08:P237316.25.1",
+      "saao/saa08:P336566.2.4",
+      "saao/saa08:P237304.14.2"
+    ],
+    "qpn.r00040.p.s000": [
+      "saao/saa08:P336402.12.4",
+      "saao/saa08:P336470.8.1",
+      "saao/saa08:P336588.17.2",
+      "saao/saa08:P336594.9.1"
+    ],
+    "qpn.r00045.p.s000": [
+      "saao/saa08:P336384.15.1",
+      "saao/saa08:P236977.27.3",
+      "saao/saa08:P237892.16.3"
+    ],
+    "qpn.r00049.p.s000": [
+      "saao/saa08:P336410.4.4",
+      "saao/saa08:P336569.13.3",
+      "saao/saa08:P336569.15.3",
+      "saao/saa08:P336391.2.3",
+      "saao/saa08:P336398.17.3",
+      "saao/saa08:P336549.2.3",
+      "saao/saa08:P336164.20.2",
+      "saao/saa08:P336561.3.3",
+      "saao/saa08:P336561.5.3",
+      "saao/saa08:P336671.30.2",
+      "saao/saa08:P237297.5.2",
+      "saao/saa08:P237297.6.2",
+      "saao/saa08:P237639.6.3",
+      "saao/saa08:P336481.3.4",
+      "saao/saa08:P237872.2.4",
+      "saao/saa08:P236995.11.3",
+      "saao/saa08:P238030.2.3",
+      "saao/saa08:P237298.2.3",
+      "saao/saa08:P237310.6.3",
+      "saao/saa08:P237899.2.3",
+      "saao/saa08:P237899.5.3",
+      "saao/saa08:P237311.8.1",
+      "saao/saa08:P238723.1.4",
+      "saao/saa08:P237345.2.4",
+      "saao/saa08:P237345.4.4",
+      "saao/saa08:P238042.2.3"
+    ],
+    "qpn.r00047.p.s000": [
+      "saao/saa08:P236977.27.3",
+      "saao/saa08:P237892.16.3"
+    ],
+    "qpn.r00046.p.s000": [
+      "saao/saa08:P336384.15.1"
+    ],
+    "qpn.r0004c.p.s000": [
+      "saao/saa08:P336410.4.4",
+      "saao/saa08:P336569.13.3",
+      "saao/saa08:P336569.15.3",
+      "saao/saa08:P336549.2.3",
+      "saao/saa08:P336561.3.3",
+      "saao/saa08:P336561.5.3",
+      "saao/saa08:P237639.6.3",
+      "saao/saa08:P336481.3.4",
+      "saao/saa08:P237872.2.4",
+      "saao/saa08:P238030.2.3",
+      "saao/saa08:P237298.2.3",
+      "saao/saa08:P237310.6.3",
+      "saao/saa08:P237899.2.3",
+      "saao/saa08:P237899.5.3",
+      "saao/saa08:P238723.1.4",
+      "saao/saa08:P237345.2.4",
+      "saao/saa08:P237345.4.4"
+    ],
+    "qpn.r0004a.p.s000": [
+      "saao/saa08:P336391.2.3",
+      "saao/saa08:P336398.17.3",
+      "saao/saa08:P336164.20.2",
+      "saao/saa08:P336671.30.2"
+    ],
+    "qpn.r0004b.p.s000": [
+      "saao/saa08:P237297.5.2",
+      "saao/saa08:P237297.6.2",
+      "saao/saa08:P236995.11.3",
+      "saao/saa08:P237311.8.1",
+      "saao/saa08:P238042.2.3"
+    ],
+    "qpn.r0004e.p.s000": [
+      "saao/saa08:P336398.14.3",
+      "saao/saa08:P336406.6.1"
+    ],
+    "qpn.r0004f.p.s000": [
+      "saao/saa08:P237541.7.1"
+    ],
+    "qpn.r00050.p.s000": [
+      "saao/saa08:P336507.4.4",
+      "saao/saa08:P336652.2.4",
+      "saao/saa08:P336567.9.3",
+      "saao/saa08:P336567.12.3",
+      "saao/saa08:P336406.2.4",
+      "saao/saa08:P336407.2.3",
+      "saao/saa08:P336408.2.4",
+      "saao/saa08:P237855.2.4",
+      "saao/saa08:P237286.2.4",
+      "saao/saa08:P236994.2.3",
+      "saao/saa08:P238070.2.4",
+      "saao/saa08:P237543.2.3",
+      "saao/saa08:P237541.2.4"
+    ],
+    "qpn.r0004d.p.s000": [
+      "saao/saa08:P336507.4.4",
+      "saao/saa08:P336652.2.4",
+      "saao/saa08:P336567.9.3",
+      "saao/saa08:P336567.12.3",
+      "saao/saa08:P336398.14.3",
+      "saao/saa08:P336406.2.4",
+      "saao/saa08:P336406.6.1",
+      "saao/saa08:P336407.2.3",
+      "saao/saa08:P336408.2.4",
+      "saao/saa08:P237855.2.4",
+      "saao/saa08:P237286.2.4",
+      "saao/saa08:P236994.2.3",
+      "saao/saa08:P238070.2.4",
+      "saao/saa08:P237543.2.3",
+      "saao/saa08:P237541.2.4",
+      "saao/saa08:P237541.7.1"
+    ]
+  },
+  "summaries": {
+    "qpn-x-months.x000000": "<p class=\"summary\" id=\"qpn-x-months.x000000\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa08/cbd/qpn-x-months/qpn-x-months.x000000.html')\"><span class=\"cf\">Abu</span> [<span class=\"gw\">AB</span>] <span class=\"cf\">MN</span></a> (31x) </span>Neo-Assyrian  \"Ab\"</span></p>",
+    "qpn-x-months.x000018": "<p class=\"summary\" id=\"qpn-x-months.x000018\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa08/cbd/qpn-x-months/qpn-x-months.x000018.html')\"><span class=\"cf\">Addaru</span> [<span class=\"gw\">ADAR</span>] <span class=\"cf\">MN</span></a> (27x) </span>Neo-Assyrian  \"Adar\"</span></p>",
+    "qpn-x-months.x000038": "<p class=\"summary\" id=\"qpn-x-months.x000038\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa08/cbd/qpn-x-months/qpn-x-months.x000038.html')\"><span class=\"cf\">Addaru-diri</span> [<span class=\"gw\">INTERCALARY ADAR</span>] <span class=\"cf\">MN</span></a> (4x) </span>Neo-Assyrian  \"intercalary Adar\"</span></p>",
+    "qpn-x-months.x000058": "<p class=\"summary\" id=\"qpn-x-months.x000058\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa08/cbd/qpn-x-months/qpn-x-months.x000058.html')\"><span class=\"cf\">addaru-diri</span> [<span class=\"gw\">INTERCALARY ADAR</span>] <span class=\"cf\">MN</span></a> (1x) </span>Neo-Assyrian  \"intercalary Adar\"</span></p>",
+    "qpn-x-months.x000066": "<p class=\"summary\" id=\"qpn-x-months.x000066\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa08/cbd/qpn-x-months/qpn-x-months.x000066.html')\"><span class=\"cf\">Arahsamnu</span> [<span class=\"gw\">MARCHESVAN</span>] <span class=\"cf\">MN</span></a> (11x) </span>Neo-Assyrian  \"Marchesvan\"</span></p>",
+    "qpn-x-months.x000082": "<p class=\"summary\" id=\"qpn-x-months.x000082\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa08/cbd/qpn-x-months/qpn-x-months.x000082.html')\"><span class=\"cf\">Ayaru</span> [<span class=\"gw\">IYYAR</span>] <span class=\"cf\">MN</span></a> (30x) </span>Neo-Assyrian  \"Iyyar\"</span></p>",
+    "qpn-x-months.x000096": "<p class=\"summary\" id=\"qpn-x-months.x000096\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa08/cbd/qpn-x-months/qpn-x-months.x000096.html')\"><span class=\"cf\">Ayyaru</span> [<span class=\"gw\">IYYAR</span>] <span class=\"cf\">MN</span></a> (12x) </span>Neo-Assyrian  \"Iyyar\"</span></p>",
+    "qpn-x-months.x000122": "<p class=\"summary\" id=\"qpn-x-months.x000122\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa08/cbd/qpn-x-months/qpn-x-months.x000122.html')\"><span class=\"cf\">Duʾuzu</span> [<span class=\"gw\">TAMMUZ</span>] <span class=\"cf\">MN</span></a> (19x) </span>Neo-Assyrian  \"Tammuz\"</span></p>",
+    "qpn-x-months.x000138": "<p class=\"summary\" id=\"qpn-x-months.x000138\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa08/cbd/qpn-x-months/qpn-x-months.x000138.html')\"><span class=\"cf\">Elulu</span> [<span class=\"gw\">ELUL</span>] <span class=\"cf\">MN</span></a> (22x) </span>Neo-Assyrian  \"Elul\"</span></p>",
+    "qpn-x-months.x000154": "<p class=\"summary\" id=\"qpn-x-months.x000154\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa08/cbd/qpn-x-months/qpn-x-months.x000154.html')\"><span class=\"cf\">Kislimu</span> [<span class=\"gw\">KISLEV</span>] <span class=\"cf\">MN</span></a> (26x) </span>Neo-Assyrian  \"Kislev\"</span></p>",
+    "qpn-x-months.x000170": "<p class=\"summary\" id=\"qpn-x-months.x000170\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa08/cbd/qpn-x-months/qpn-x-months.x000170.html')\"><span class=\"cf\">Nisannu</span> [<span class=\"gw\">NISAN</span>] <span class=\"cf\">MN</span></a> (37x) </span>Neo-Assyrian  \"Nisan\"</span></p>",
+    "qpn-x-months.x000196": "<p class=\"summary\" id=\"qpn-x-months.x000196\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa08/cbd/qpn-x-months/qpn-x-months.x000196.html')\"><span class=\"cf\">Sililitu</span> [<span class=\"gw\">10TH MONTH IN ELAM</span>] <span class=\"cf\">MN</span></a> (4x) </span>Neo-Assyrian  \"10th month in Elam\"</span></p>",
+    "qpn-x-months.x000214": "<p class=\"summary\" id=\"qpn-x-months.x000214\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa08/cbd/qpn-x-months/qpn-x-months.x000214.html')\"><span class=\"cf\">Simanu</span> [<span class=\"gw\">SIVAN</span>] <span class=\"cf\">MN</span></a> (64x) </span>Neo-Assyrian  \"Sivan\"</span></p>",
+    "qpn-x-months.x000234": "<p class=\"summary\" id=\"qpn-x-months.x000234\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa08/cbd/qpn-x-months/qpn-x-months.x000234.html')\"><span class=\"cf\">Šabaṭu</span> [<span class=\"gw\">SHEBAT</span>] <span class=\"cf\">MN</span></a> (26x) </span>Neo-Assyrian  \"Shebat\"</span></p>",
+    "qpn-x-months.x000250": "<p class=\"summary\" id=\"qpn-x-months.x000250\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa08/cbd/qpn-x-months/qpn-x-months.x000250.html')\"><span class=\"cf\">Taʾuzu</span> [<span class=\"gw\">TAMMUZ</span>] <span class=\"cf\">MN</span></a> (3x) </span>Neo-Assyrian  \"Tammuz\"</span></p>",
+    "qpn-x-months.x000262": "<p class=\"summary\" id=\"qpn-x-months.x000262\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa08/cbd/qpn-x-months/qpn-x-months.x000262.html')\"><span class=\"cf\">Tašritu</span> [<span class=\"gw\">TISHRI</span>] <span class=\"cf\">MN</span></a> (20x) </span>Neo-Assyrian  \"Tishri\"</span></p>",
+    "qpn-x-months.x000278": "<p class=\"summary\" id=\"qpn-x-months.x000278\"><span class=\"summary\"><span class=\"summary-headword\"><a href=\"javascript:p3Article('/saao/saa08/cbd/qpn-x-months/qpn-x-months.x000278.html')\"><span class=\"cf\">Ṭebetu</span> [<span class=\"gw\">TEBET</span>] <span class=\"cf\">MN</span></a> (16x) </span>Neo-Assyrian  \"Tebet\"</span></p>"
+  }
+}
